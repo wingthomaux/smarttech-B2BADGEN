@@ -1,0 +1,348 @@
+[
+  {
+    "id": 630000,
+    "title": "Akamai API Security: APIs von Legacy bis GenAI schützen",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Kontinuierliche API-Erkennung, Tests und Laufzeitschutz",
+    "delivery": "Plattformunabhängige Security-Software und Managed Services",
+    "lifecycle": "Entdecken, testen, erkennen und reagieren",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/api-security",
+    "note": "Beschreibt eine durchgängige API-Sicherheitsplattform für Legacy-, Cloud- und GenAI-Schnittstellen: Inventarisierung von Shadow- und Zombie-APIs, mehr als 200 dynamische Tests, Laufzeitanalyse und orchestrierte Reaktion über WAF, SIEM, SOAR und ITSM.",
+    "score": 98,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630001,
+    "title": "Akamai Guardicore Segmentation: Laterale Bewegungen eindämmen",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Produktion und Produkte",
+      "Gebäude und Standorte"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Zero-Trust-Mikrosegmentierung und Eindämmung von Sicherheitsverletzungen",
+    "delivery": "Softwarebasierte Segmentierung für Rechenzentrum, Cloud, IoT und OT",
+    "lifecycle": "Abbilden, Richtlinien erstellen, visualisieren und durchsetzen",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/akamai-guardicore-segmentation",
+    "note": "Ordnet Mikrosegmentierung als softwarebasierte Zero-Trust-Kontrolle ein, die Ost-West-Verkehr sichtbar macht, laterale Bewegungen begrenzt und Richtlinien ohne grundlegenden Netzwerkumbau über Legacy-, Cloud-, Kubernetes-, IoT- und OT-Umgebungen durchsetzt.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630002,
+    "title": "Akamai Inference Cloud: KI-Inferenz näher an den Nutzern",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung",
+      "Handel und Konsum",
+      "Gesundheit und Life Sciences"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Verteilte Plattform für produktive KI-Inferenz",
+    "delivery": "GPU-Compute, Kubernetes, Edge-Routing, Datenservices und KI-Sicherheit",
+    "lifecycle": "Bereitstellung, Absicherung, Skalierung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Plattformübersicht",
+    "url": "https://www.akamai.com/products/akamai-inference-cloud-platform",
+    "note": "Verbindet NVIDIA-Blackwell-GPUs, Kubernetes, Edge-Routing, Daten- und Speicherbausteine sowie modellbewusste Sicherheitskontrollen zu einer verteilten Plattform für latenzkritische KI-Inferenz und agentische Anwendungen.",
+    "score": 99,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630003,
+    "title": "Firewall for AI: GenAI- und LLM-Anwendungen absichern",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Echtzeit-Schutz für Prompts, Antworten und agentische Abläufe",
+    "delivery": "Modellunabhängige Schutzschicht am Edge oder per API",
+    "lifecycle": "Prüfen, blockieren, überwachen und nachsteuern",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/firewall-for-ai",
+    "note": "Schützt KI-Anwendungen vor Prompt Injection, Jailbreaks, schädlichen Ausgaben, Datenabfluss, Modellmissbrauch und unkontrollierten Rechenkosten. Die Kontrollen prüfen Ein- und Ausgaben in Echtzeit und lassen sich modellunabhängig am Edge oder per REST-API einsetzen.",
+    "score": 98,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630004,
+    "title": "Der Zustand von KI-Inferenz 2026",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung",
+      "Handel und Konsum"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Entscheidungsgrundlage für produktive KI-Inferenz",
+    "delivery": "Studie zu Workloads, Latenz, Wirtschaftlichkeit und Betriebsmodellen",
+    "lifecycle": "Strategie, Architektur und Skalierung",
+    "origin": "Kuratiert",
+    "format": "Studie",
+    "url": "https://www.akamai.com/site/en/documents/research-paper/2026/the-state-of-ai-inference.pdf",
+    "note": "Vollständige Studie von Akamai und Adience zu produktiver KI-Inferenz. Befragt wurden im März 2026 insgesamt 200 technische Entscheider und Beteiligte aus Nordamerika und Europa. Behandelt werden Latenz, zentralisierte Infrastruktur, Rollbacks und Umleitungen sowie Wirtschaftlichkeit und Betriebsaufwand. Die Stichprobe ist keine repräsentative Aussage über alle Unternehmen weltweit. Der Erhebungsmonat ist kein exaktes Veröffentlichungsdatum. Der Originalbericht ist englischsprachig.",
+    "score": 98,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630005,
+    "title": "Akamai Cloud für KI-Inferenz und verteilte Anwendungen",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Verteilte Cloud-Plattform für KI- und Produktions-Workloads",
+    "delivery": "GPU- und CPU-Compute, Kubernetes, Functions, Storage und Zugriffskontrollen",
+    "lifecycle": "Architektur, Bereitstellung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Fachbeitrag",
+    "url": "https://www.akamai.com/blog/cloud/akamai-cloud-updated-may-2026",
+    "note": "Beschreibt die Weiterentwicklung der Akamai Cloud für produktive KI-Inferenz und verteilte Anwendungen: NVIDIA RTX PRO 6000 Blackwell GPUs, dedizierte CPUs, Functions, Kubernetes, Object Storage, Zugriffskontrollen und Observability werden als gemeinsame Plattform betrachtet.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "datePublished": "2026-05-06",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630006,
+    "title": "API-Sicherheitsvorfälle kosten deutsche Firmen rund 470.000 Euro",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Risikobewertung und Investitionsbegründung für API-Sicherheit",
+    "delivery": "Fachbeitrag auf Basis der Akamai API Security Impact Study 2026",
+    "lifecycle": "Risikoanalyse, Priorisierung und Sicherheitsstrategie",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/akamai-api-security-studie-2026-a-fb981232e722203172722c32cb9c6169/",
+    "note": "Security-Insider ordnet die Deutschland-Ergebnisse der Akamai API Security Impact Study 2026 ein: 83 Prozent der befragten Unternehmen berichten von API-Sicherheitsvorfällen; genannt werden insbesondere Autorisierungslücken, Fehlkonfigurationen und Risiken durch generative KI, LLMs und Agenten.",
+    "score": 98,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.akamai.com/",
+    "datePublished": "2026-07-14",
+    "addedAt": "2026-09-17"
+  },
+  {
+    "id": 630007,
+    "title": "Akamai Prolexic: DDoS-Schutz für Cloud und hybride Infrastruktur",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "DDoS-Abwehr und Verfügbarkeit kritischer Infrastruktur",
+    "delivery": "Cloud-Scrubbing, On-Premises- oder Hybridbetrieb",
+    "lifecycle": "Vorbereitung, Angriffsabwehr und Incident Response",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/prolexic-solutions",
+    "note": "Beschreibt Always-on- und On-demand-Schutz über Ports und Protokolle sowie SOCC-Unterstützung. Bei der Auswahl sind Routing, BGP/GRE, IP-Präfixe, private Anbindung und SLA-Bedingungen zu prüfen. On-Premises-Funktionen werden mit Corero bereitgestellt; Partnertechnik wird nicht als alleinige Akamai-Leistung dargestellt.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": 630008,
+    "title": "Akamai Edge DNS und Shield NS53: DNS verfügbar halten",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Autoritatives DNS und Schutz gegen DNS-Ressourcenerschöpfung",
+    "delivery": "Globales Anycast-DNS und Reverse Proxy für hybride DNS-Systeme",
+    "lifecycle": "Zonen konfigurieren, absichern und überwachen",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/edge-dns",
+    "note": "Edge DNS unterstützt primäres und sekundäres DNS, DNSSEC sowie API- und Terraform-Verwaltung. Shield NS53 schützt lokale und hybride DNS-Ressourcen gegen Ressourcenerschöpfung, etwa NXDOMAIN-Floods. Auswahlfragen betreffen Zonentransfers, bestehende Nameserver, Ausfallszenarien und vertragliche Verfügbarkeit.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": 630009,
+    "title": "Akamai Ion: Web-Performance und CDN-Bereitstellung optimieren",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Handel und Konsum",
+      "Medien und Öffentlichkeit"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Beschleunigung dynamischer Websites und Anwendungen",
+    "delivery": "CDN, Frontend-Optimierung und optionale Nutzermessung mit mPulse",
+    "lifecycle": "Bereitstellen, messen und laufend optimieren",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/web-performance-optimization",
+    "note": "Ion kombiniert dynamische Beschleunigung, Caching, Prefetching und Anpassungen an Geräte und Netze. Ziel sind kurze Ladezeiten und die Entlastung der Ursprungssysteme. mPulse ist eine optionale Ergänzung für Real User Monitoring; Leistungsgewinne und Cache-Regeln müssen an eigenen Anwendungen geprüft werden.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": 630010,
+    "title": "Akamai Bot Manager: automatisierte Zugriffe gezielt steuern",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Handel und Konsum",
+      "Medien und Öffentlichkeit"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Bot-Abwehr und Schutz gegen automatisierten Missbrauch",
+    "delivery": "Edge-Sicherheitsdienst mit Bot-Bewertung und abgestuften Reaktionen",
+    "lifecycle": "Traffic analysieren, Richtlinien testen und durchsetzen",
+    "origin": "Kuratiert",
+    "format": "Produktübersicht",
+    "url": "https://www.akamai.com/products/bot-manager",
+    "note": "Die Produktseite beschreibt Schutz für Web, mobile Anwendungen und APIs sowie erlauben, überwachen, herausfordern, drosseln und blockieren als mögliche Reaktionen. Bei Login und Checkout zählen Fehlalarme und Nutzererlebnis. Account Protector und Content Protector sind ergänzende Produktbausteine für Konten beziehungsweise Inhalte; ihre Funktionen sind separat zu bewerten.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": 630011,
+    "title": "Akamai Workforce Protector: KI- und SaaS-Nutzung im Browser absichern",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Browserbasierte KI-Governance und Schutz sensibler Daten",
+    "delivery": "Browsererweiterung mit zentralen Richtlinien und Integrationen",
+    "lifecycle": "Schatten-KI erfassen, Datenflüsse kontrollieren und Richtlinien durchsetzen",
+    "origin": "Kuratiert",
+    "format": "Lösungsüberblick",
+    "url": "https://www.akamai.com/resources/solution-brief/akamai-workforce-protector-solution-brief",
+    "note": "Der Lösungsüberblick beschreibt Workforce Protector, ehemals LayerX: Transparenz über KI-Nutzung, Kontrolle von Prompts und Dateneingaben, Schutz vor Datenabfluss und Bewertung von Browsererweiterungen. Die Bereitstellung erfolgt als Erweiterung vorhandener Browser. Für BYOD und externe Mitarbeiter werden schreibgeschützte Sitzungen und Wasserzeichen beschrieben. Datenschutz, Rollout und vorhandene IAM-/SIEM-Prozesse sind Auswahlfragen.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12"
+  },
+  {
+    "id": 630012,
+    "title": "SOTI 2026: Risiken autonomer KI-Agenten und MCP steuern",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Verhaltensbasierte Governance für KI-Agenten",
+    "delivery": "Sicherheitsbericht mit Empfehlungen für CISOs",
+    "lifecycle": "Risiken bewerten, Leitplanken festlegen und Laufzeit überwachen",
+    "origin": "Kuratiert",
+    "format": "Studienübersicht",
+    "url": "https://www.akamai.com/lp/state-of-the-internet/agentic-threat-landscape-report",
+    "note": "Der am 22.09.2026 angekündigte SOTI-Bericht „Speed, Scale, and Nonhuman Identity: The Agentic Threat Landscape“ behandelt MCP-Sichtbarkeit, autonome Agenten, sensible Daten in Chatbots und Browsererweiterungen. Akamai empfiehlt Laufzeitkontrollen und menschliche Aufsicht entsprechend der Prüfbarkeit und Umkehrbarkeit von Aktionen. Die verlinkte Landingpage bietet öffentlich eine Zusammenfassung; die Prüfung bezieht sich auf diese Zusammenfassung und die datierte Ankündigung, nicht auf den Berichtsvolltext.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12",
+    "datePublished": "2026-09-22"
+  },
+  {
+    "id": 630013,
+    "title": "Akamai und Anthropic: siebenjährige Vereinbarung für CPU-Workloads",
+    "provider": "Akamai",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Skalierung verteilter CPU-Infrastruktur für KI-Unternehmen",
+    "delivery": "Mehrjährige Infrastrukturvereinbarung auf Akamai Cloud",
+    "lifecycle": "Kapazitätsplanung und langfristiger Plattformbetrieb",
+    "origin": "Kuratiert",
+    "format": "Unternehmensmeldung",
+    "url": "https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand",
+    "note": "Akamai meldet am 24.09.2026 eine vertragliche Verpflichtung von Anthropic über 11,6 Milliarden US-Dollar für sieben Jahre zur Unterstützung wachsender CPU-Workloads. Eine zusätzliche Ausweitung um bis zu neun Milliarden US-Dollar ist potenziell, kein bereits gesichertes Vertragsvolumen. Die Vereinbarung ist eine Unternehmensmeldung und kein allgemeines Produktangebot, GPU-Liefernachweis oder Beleg bereits vollständig aufgebauter Kapazität.",
+    "score": 97,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "Akamai Originalquelle"
+    ],
+    "providerUrl": "https://www.akamai.com/de/products",
+    "addedAt": "2026-10-12",
+    "datePublished": "2026-09-24"
+  }
+]

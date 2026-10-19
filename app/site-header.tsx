@@ -1,0 +1,7 @@
+import Link from "next/link";
+import {LanguageToggle} from "./language-toggle";
+
+export function SiteHeader({locale="de",alternateHref}:{locale?:"de"|"en";alternateHref?:string}){
+  const english=locale==="en";
+  return <header className="sticky top-0 z-30 border-b border-border/80 bg-background/95 backdrop-blur-xl"><div className="mx-auto flex h-16 max-w-[1200px] items-center justify-between gap-3 px-5 lg:px-10"><Link href={english?"/en":"/"} className="flex min-w-0 items-center gap-3" aria-label={english?"SmartTech home":"SmartTech Startseite"}><span className="grid size-8 shrink-0 place-items-center bg-primary text-xs font-black text-primary-foreground">ST</span><span className="font-semibold">SmartTech</span><span className="hidden border-l pl-3 text-sm text-muted-foreground sm:block">{english?"Technology knowledge for investment":"Technologiewissen für Investitionen"}</span></Link><nav className="flex shrink-0 items-center gap-3" aria-label={english?"Language and catalogue":"Sprache und Katalog"}><LanguageToggle locale={locale} href={alternateHref||(english?"/":"/en")}/><Link href={english?"/en/#catalogue":"/#katalog"} className="hidden text-sm font-medium text-primary hover:underline sm:inline">{english?"Search catalogue":"Katalog durchsuchen"}</Link></nav></div></header>;
+}

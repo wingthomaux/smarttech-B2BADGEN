@@ -1,0 +1,98 @@
+[
+  {
+    "id": 630013,
+    "additionalProviders": [
+      "Anthropic"
+    ]
+  },
+  {
+    "id": 2583,
+    "additionalProviders": [
+      "Anthropic"
+    ],
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Claude-gestützte Workflows für Exposure Management",
+    "delivery": "Tenable One mit Tenable Hexa AI und Anthropic-Modellen",
+    "lifecycle": "Risiken priorisieren und Behebungsmaßnahmen orchestrieren",
+    "format": "Unternehmensmeldung",
+    "note": "Öffentliche Meldung vom 01.06.2026 gelesen: Tenable kündigt Claude-gestützte Workflows für Priorisierung, Orchestrierung und Risikoanalyse an. Tenable ist Anbieter von Tenable One/Hexa AI; Anthropic liefert die Modelltechnologie. Die gemeinsame Verlinkung bestätigt keine Übernahme von Tenable und keine vollständige Umsetzung aller angekündigten Roadmap-Funktionen.",
+    "providerUrl": "https://de.tenable.com/products/tenable-one/capabilities/hexa-ai",
+    "stage": "Redaktionell geprüft"
+  },
+  {
+    "id": 2582,
+    "additionalProviders": [
+      "Anthropic"
+    ],
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Regulierung und Transparenz",
+    "solution": "Governance der Claude-Nutzung über Tenable One",
+    "delivery": "Integration von Claude Compliance API und Tenable One",
+    "lifecycle": "Nutzung prüfen, Interaktionen auditieren und Risiken bewerten",
+    "format": "Unternehmensmeldung",
+    "note": "Die Portalveröffentlichung vom 01.06.2026 beschreibt die Übertragung von Claude-Aktivitätsdaten in Tenable One. Die Tenable-Originalmeldung trägt das Datum 21.05.2026. Anthropic stellt die Claude Compliance API bereit; Tenable bietet die Security-Integration. Die Integration unterstützt Governance und Auditierung, garantiert aber keine automatische Rechtskonformität. Beide öffentlich zugänglichen Texte wurden geprüft.",
+    "providerUrl": "https://www.tenable.com/press-releases/tenable-announces-strategic-integration-with-the-claude-compliance-api",
+    "stage": "Redaktionell geprüft"
+  },
+  {
+    "id": 2003,
+    "additionalProviders": [
+      "Anthropic"
+    ],
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Enterprise-KI auf Basis von Claude integrieren",
+    "delivery": "AI-Engineering und Integrationsleistungen von ML6",
+    "lifecycle": "Konzeption, Integration und produktiver Betrieb",
+    "format": "Unternehmensmeldung",
+    "note": "Die öffentliche Meldung vom 02.07.2026 nennt ML6 als Select Partner im Services Track des Claude Partner Network. ML6 übernimmt Konzeption und Integration von Claude-basierten Lösungen, etwa für Wissensmanagement und agentische Workflows. Anthropic bleibt Modell- und Plattformanbieter; das Implementierungsangebot stammt von ML6. Die Meldung nennt einen Schwerpunkt in Benelux und DACH.",
+    "providerUrl": "https://www.anthropic.com/news/services-track-partner-hub",
+    "stage": "Redaktionell geprüft"
+  },
+  {
+    "id": 2413,
+    "additionalProviders": [
+      "Anthropic"
+    ],
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Defensive Softwareprüfung im Project Glasswing",
+    "delivery": "Kontrolliertes Sicherheitsprogramm mit Claude Mythos Preview",
+    "lifecycle": "Schwachstellen prüfen, bewerten und beheben",
+    "format": "Unternehmensmeldung",
+    "note": "Die öffentliche Meldung vom 11.06.2026 beschreibt BeyondTrusts Teilnahme an Anthropics Project Glasswing zur Prüfung und Absicherung eigener Software. BeyondTrust bleibt Anbieter der Privileged-Access-Sicherheitslösungen; Anthropic stellt die KI-Technologie im kontrollierten Programm bereit. Die Meldung belegt weder eine allgemein verfügbare Claude-Produktintegration bei BeyondTrust noch eine unbegrenzte Freigabe des Preview-Modells.",
+    "providerUrl": "https://www.anthropic.com/project/glasswing",
+    "stage": "Redaktionell geprüft"
+  },
+  {
+    "id": 2134,
+    "additionalProviders": [
+      "Anthropic"
+    ],
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Kosten und Produktivität",
+    "solution": "Dropbox-Inhalte in Claude-Workflows einbinden",
+    "delivery": "Dropbox-Konnektor sowie Plugins für Claude Cowork und Claude Code",
+    "lifecycle": "Datenzugriff einrichten, Workflows nutzen und Ergebnisse speichern",
+    "format": "Unternehmensmeldung",
+    "note": "Die öffentliche Meldung vom 26.06.2026 beschreibt drei Dropbox-Integrationen: den Konnektor für Claude und Plugins für Claude Cowork sowie Claude Code. Dropbox liefert den Inhaltszugriff und die Integrationen, Anthropic die Claude-Anwendungen. Berechtigungen, aktivierte Funktionen und Planverfügbarkeit sind vor dem Einsatz zu prüfen; die Meldung ist kein Nachweis pauschalen Zugriffs auf sämtliche Unternehmensdateien.",
+    "providerUrl": "https://claude.com/solutions/enterprise",
+    "stage": "Redaktionell geprüft"
+  }
+]

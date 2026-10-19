@@ -1,0 +1,170 @@
+[
+  {
+    "id": 680000,
+    "title": "LEW TelNet: IT-Infrastruktur und IT-Sicherheit für Unternehmen",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Kosten und Produktivität",
+    "solution": "IT-Infrastruktur und IT-Sicherheitsservices",
+    "delivery": "Rechenzentrum, Vernetzung, Security und Carrier-Services",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "note": "Bündelt das IT-Portfolio für Unternehmen. LEW nennt die LEW TelNet GmbH als Vertragspartner für Bereitstellung, Betrieb und Support der angebotenen Leistungen.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  },
+  {
+    "id": 680001,
+    "title": "Colocation im LEW Green Data Center Augsburg",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Colocation und Server-Housing",
+    "delivery": "Shared Rack, eigenes Rack und abgegrenzte Rechenzentrumsfläche",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen/rechenzentrum/colocation",
+    "note": "Beschreibt die Unterbringung eigener IT-Systeme im 2025 in Betrieb genommenen Green Data Center Augsburg. Das Angebot reicht von einzelnen Höheneinheiten bis zu Racks und Cages; Infrastrukturüberwachung und Störungsannahme sind rund um die Uhr vorgesehen.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  },
+  {
+    "id": 680002,
+    "title": "LEW Business Server: Managed Hardware im Rechenzentrum",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Kosten und Produktivität",
+    "solution": "Dedizierte Server und Hardwarebetrieb",
+    "delivery": "Servermiete, Installation, Monitoring und Hardware-Service",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen/rechenzentrum/managed-hardware",
+    "note": "Ordnet die Bereitstellung und Betreuung dedizierter Server ein. LEW übernimmt vereinbarte Aufgaben auf Hardwareebene; Architektur, Betriebssysteme, Anwendungen und Daten bleiben in der Verantwortung des Kunden. Der konkrete Umfang richtet sich nach dem Servicelevel.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  },
+  {
+    "id": 680003,
+    "title": "LEW Business VEEAM Cloud Backup: externe Datensicherung",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Offsite-Backup für VEEAM-Umgebungen",
+    "delivery": "Regionaler Cloud-Backup-Speicher und Betriebsunterstützung",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen/rechenzentrum/backup-services",
+    "note": "Ergänzt bestehende VEEAM-Prozesse um einen externen Sicherungsstandort in Augsburg. Die Quelle beschreibt verschlüsselte Übertragung, Monitoring und optionale Glasfaseranbindung. Die beim Kunden erforderliche VEEAM Backup & Replication Suite ist nicht Bestandteil des Vertrags.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  },
+  {
+    "id": 680004,
+    "title": "LEW Standortvernetzung: Managed WAN und Datenfestverbindungen",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Standortvernetzung für verteilte Unternehmen",
+    "delivery": "Managed WAN auf MPLS-VPN-Basis und dedizierte Datenverbindungen",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen/vernetzung-netzinfrastruktur/standortvernetzung",
+    "note": "Verbindet Zentrale, Niederlassungen und weitere Arbeitsorte. Die Quelle unterscheidet betreute Managed-WAN-Lösungen von dedizierten Datenfestverbindungen mit garantierter Bandbreite. Die Auswahl richtet sich nach Standorten, Anwendungen und Betriebsanforderungen.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  },
+  {
+    "id": 680005,
+    "title": "LEW Cloud Connect: dedizierte Anbindung an Cloud-Plattformen",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Dedizierte Multi-Cloud-Anbindung",
+    "delivery": "Cloud-Kopplung über Frankfurt oder München",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen/vernetzung-netzinfrastruktur/cloud-connect",
+    "note": "Beschreibt dedizierte Verbindungen zu Cloud-Kopplungspunkten in Frankfurt oder München. Von dort sind laut Anbieter mehr als 50 Cloud-Service-Provider erreichbar, darunter AWS, Microsoft Azure, Google Cloud und IBM Cloud. Bandbreite und Servicelevel werden passend zur Anforderung festgelegt.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  },
+  {
+    "id": 680006,
+    "title": "LEW IT-Sicherheit: Managed Firewall und DDoS Protection",
+    "provider": "LEW TelNet",
+    "space": "Digitale Infrastruktur",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Perimeter-Sicherheit und Schutz vor Überlastungsangriffen",
+    "delivery": "Managed Firewall, VPN, Monitoring und DDoS-Abwehr",
+    "lifecycle": "Planung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen/it-sicherheit",
+    "note": "Ordnet Firewall-Betrieb, VPN-Zugänge und DDoS-Abwehr als kombinierbare Sicherheitsleistungen ein. Die Quelle nennt einen LEW-Glasfaseranschluss als Voraussetzung für DDoS Protection. Technische Sicherheitsmaßnahmen ersetzen keine individuelle Prüfung regulatorischer Pflichten.",
+    "score": 95,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [
+      "LEW TelNet Originalquelle"
+    ],
+    "providerUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
+    "addedAt": "2026-09-23"
+  }
+]

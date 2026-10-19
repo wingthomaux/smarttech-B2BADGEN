@@ -1,0 +1,80 @@
+import {readFile,writeFile} from "node:fs/promises";
+
+const target=new URL("../app/translations.en.generated.json",import.meta.url);
+const data=JSON.parse(await readFile(target,"utf8"));
+const additions={
+  "ServiceNow AI Platform":"ServiceNow AI Platform",
+  "Unternehmensweite Plattform für KI-gestützte Workflows":"Enterprise-wide platform for AI-powered workflows",
+  "AI Platform, Datenmodell, Workflow-Automatisierung und Integrationen":"AI platform, data model, workflow automation and integrations",
+  "Strategie, Einführung, Skalierung und Betrieb":"Strategy, implementation, scaling and operations",
+  "Ordnet die ServiceNow AI Platform als gemeinsame Grundlage für KI, Daten und Workflows ein, die IT, Kundenservice, HR, Security und weitere Unternehmensbereiche verbinden kann.":"Positions the ServiceNow AI Platform as a common foundation for AI, data and workflows that can connect IT, customer service, HR, security and other business functions.",
+  "AI Agents":"AI Agents",
+  "Autonome KI-Agenten für wiederkehrende Arbeitsabläufe":"Autonomous AI agents for recurring workflows",
+  "KI-Agenten, Orchestrierung, Governance und Workflow-Integration":"AI agents, orchestration, governance and workflow integration",
+  "Auswahl, Konfiguration, Kontrolle und Optimierung":"Selection, configuration, control and optimisation",
+  "Zeigt, wie spezialisierte KI-Agenten Aufgaben in Service-, Betriebs- und Geschäftsprozessen selbstständig bearbeiten und dabei in die Governance der ServiceNow-Plattform eingebettet bleiben.":"Shows how specialised AI agents can perform tasks autonomously in service, operational and business processes while remaining embedded in the governance of the ServiceNow platform.",
+  "AI Control Tower":"AI Control Tower",
+  "Zentrale Governance für KI-Modelle, Agenten und Anwendungen":"Central governance for AI models, agents and applications",
+  "KI-Inventar, Risiko- und Leistungssteuerung, Richtlinien und Kontrollen":"AI inventory, risk and performance management, policies and controls",
+  "Erfassung, Bewertung, Freigabe und Überwachung":"Inventory, assessment, approval and monitoring",
+  "Strukturiert die unternehmensweite Steuerung von KI entlang von Strategie, Inventar, Risiken, Kontrollen und Leistung – auch für KI außerhalb der ServiceNow-Plattform.":"Structures enterprise-wide AI governance across strategy, inventory, risks, controls and performance, including AI outside the ServiceNow platform.",
+  "IT Service Management":"IT Service Management",
+  "Integriertes IT Service Management mit KI und Self-Service":"Integrated IT service management with AI and self-service",
+  "Incident, Problem, Change, Request, CMDB und Service-Portal":"Incident, problem, change, request, CMDB and service portal",
+  "Einführung, Servicebetrieb und kontinuierliche Verbesserung":"Implementation, service operations and continual improvement",
+  "Bündelt Incident-, Problem-, Change- und Request-Management mit Self-Service, CMDB-Kontext und KI-Unterstützung für einen proaktiveren und skalierbaren IT-Servicebetrieb.":"Combines incident, problem, change and request management with self-service, CMDB context and AI assistance for more proactive and scalable IT service operations.",
+  "IT Operations Management":"IT Operations Management",
+  "Serviceorientierter IT-Betrieb mit Discovery, Mapping und AIOps":"Service-aware IT operations with discovery, mapping and AIOps",
+  "ITOM, Service Graph, Event Intelligence und automatische Fehlerbehebung":"ITOM, Service Graph, event intelligence and automated remediation",
+  "Discovery, Überwachung, Analyse und Remediation":"Discovery, monitoring, analysis and remediation",
+  "Verbindet Infrastruktur- und Anwendungssignale mit Service Mapping, Event Intelligence und automatisierter Remediation, um Störungen früher zu erkennen und ihre Geschäftsauswirkungen zu bewerten.":"Connects infrastructure and application signals with service mapping, event intelligence and automated remediation to detect incidents earlier and assess their business impact.",
+  "Customer Service Management":"Customer Service Management",
+  "KI-gestütztes Kundenservice-Management mit Self-Service":"AI-powered customer service management with self-service",
+  "Omnichannel-Service, Case Management, Self-Service und Prozessautomatisierung":"Omnichannel service, case management, self-service and process automation",
+  "Einführung, Servicebetrieb und Optimierung":"Implementation, service operations and optimisation",
+  "Verbindet Kundenanfragen mit den zuständigen Fachprozessen, unterstützt Self-Service und Agenten und zielt auf schnellere Lösungen statt isolierter Ticketbearbeitung.":"Connects customer requests with the responsible business processes, supports self-service and agents, and aims for faster resolution rather than isolated ticket handling.",
+  "HR Service Delivery":"HR Service Delivery",
+  "Digitale HR-Services, Self-Service und fallbasierte Bearbeitung":"Digital HR services, self-service and case management",
+  "Employee Center, HR Case Management, Knowledge und Workflows":"Employee Center, HR case management, knowledge and workflows",
+  "Einführung, Nutzung und laufende Verbesserung":"Implementation, adoption and continual improvement",
+  "Bündelt HR-Anfragen, Wissen, Aufgaben und bereichsübergreifende Abläufe in einem digitalen Zugang für Mitarbeitende – von Onboarding bis zu komplexen Personalservices.":"Combines HR requests, knowledge, tasks and cross-functional processes in one digital entry point for employees, from onboarding to complex people services.",
+  "Security Operations":"Security Operations",
+  "Workflow-basierte Reaktion auf Bedrohungen und Schwachstellen":"Workflow-based response to threats and vulnerabilities",
+  "Security Incident Response, Exposure Management und Automatisierung":"Security incident response, exposure management and automation",
+  "Erkennung, Priorisierung, Reaktion und Nachverfolgung":"Detection, prioritisation, response and tracking",
+  "Verknüpft Security-Daten mit IT- und Geschäftsprozessen, damit Teams Vorfälle und Schwachstellen nach Risiko priorisieren und Reaktionsschritte automatisiert koordinieren können.":"Connects security data with IT and business processes so teams can prioritise incidents and vulnerabilities by risk and coordinate response steps through automation.",
+  "Governance, Risk and Compliance":"Governance, Risk and Compliance",
+  "Integriertes Risiko-, Compliance- und Resilienzmanagement":"Integrated risk, compliance and resilience management",
+  "GRC-Plattform, Kontrollen, Risikobewertungen und Workflows":"GRC platform, controls, risk assessments and workflows",
+  "Bewertung, Kontrolle, Nachweis und Verbesserung":"Assessment, control, evidence and improvement",
+  "Führt Risiken, Kontrollen, regulatorische Anforderungen und Nachweise in gemeinsamen Workflows zusammen und schafft eine konsistentere Sicht auf operative Resilienz.":"Brings risks, controls, regulatory requirements and evidence together in shared workflows and creates a more consistent view of operational resilience.",
+  "Strategic Portfolio Management":"Strategic Portfolio Management",
+  "Strategie-, Portfolio- und Ressourcensteuerung auf einer Plattform":"Strategy, portfolio and resource management on one platform",
+  "SPM, Roadmaps, Investitionsplanung, Agile Delivery und Ressourcenmanagement":"SPM, roadmaps, investment planning, agile delivery and resource management",
+  "Priorisierung, Planung, Umsetzung und Wertmessung":"Prioritisation, planning, delivery and value measurement",
+  "Verbindet Strategie und Investitionsentscheidungen mit Portfolios, Roadmaps, Ressourcen und Umsetzung, damit Vorhaben nach Geschäftswert und Kapazität priorisiert werden können.":"Connects strategy and investment decisions with portfolios, roadmaps, resources and delivery so initiatives can be prioritised by business value and capacity.",
+  "App Engine":"App Engine",
+  "Low-Code- und KI-gestützte Entwicklung von Workflow-Anwendungen":"Low-code and AI-assisted development of workflow applications",
+  "App Engine, Entwicklungswerkzeuge, KI-Unterstützung und Governance":"App Engine, development tools, AI assistance and governance",
+  "Entwurf, Entwicklung, Freigabe und Betrieb":"Design, development, approval and operations",
+  "Ermöglicht Teams, eigene Workflow-Anwendungen mit Low-Code- und KI-Unterstützung zu entwickeln und sie mit eingebauter Governance, Sicherheit und Änderungssteuerung zu betreiben.":"Enables teams to build custom workflow applications with low-code and AI assistance and operate them with built-in governance, security and change control."
+};
+
+for(const key of [
+  "ServiceNow AI Platform: KI, Daten und Workflows auf einer Plattform",
+  "ServiceNow AI Agents: Autonome Aufgaben in Unternehmensworkflows",
+  "ServiceNow AI Control Tower: Unternehmensweite KI steuern",
+  "IT Service Management: IT-Services auf einer Plattform steuern",
+  "IT Operations Management: AIOps für resiliente digitale Services",
+  "Customer Service Management: Kundenanliegen durchgängig lösen",
+  "HR Service Delivery: Mitarbeiterservices digital bereitstellen",
+  "Security Operations: Sicherheitsvorfälle priorisieren und beheben",
+  "Governance, Risk and Compliance: Risiken integriert steuern",
+  "Strategic Portfolio Management: Investitionen mit Ergebnissen verbinden",
+  "App Engine: Unternehmensanwendungen und Workflows entwickeln",
+])delete data.translations[key];
+Object.assign(data.translations,additions);
+data.sourceCount=Object.keys(data.translations).length;
+data.translations=Object.fromEntries(Object.entries(data.translations).sort(([a],[b])=>a.localeCompare(b,"de")));
+await writeFile(target,`${JSON.stringify(data)}\n`);
+console.log(`Added ${Object.keys(additions).length} ServiceNow translations.`);

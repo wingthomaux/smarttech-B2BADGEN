@@ -1,0 +1,7 @@
+import type {Metadata} from "next";
+import SmartTechPortal from "../smarttech-portal";
+import {safeJsonLd} from "../detail-components";
+
+export const metadata:Metadata={title:"SmartTech – Open technology knowledge catalogue",description:"Discover white papers, studies, webcasts and specialist articles across provider and portal boundaries.",alternates:{canonical:"/en",languages:{"de-DE":"/","en":"/en"}},openGraph:{type:"website",locale:"en_GB",siteName:"SmartTech",title:"SmartTech – Open technology knowledge catalogue",description:"Discover purchasable B2B technology knowledge across provider and portal boundaries.",url:"/en"}};
+
+export default async function EnglishPage({searchParams}:{searchParams:Promise<Record<string,string|string[]|undefined>>}){const taxonomyQuery=await searchParams;const jsonLd={"@context":"https://schema.org","@type":"CollectionPage","@id":"https://smarttech.b2badgen.com/en","url":"https://smarttech.b2badgen.com/en","name":"SmartTech – Open technology knowledge catalogue",description:"Open catalogue for purchasable B2B technology knowledge, providers, solutions, white papers, studies and specialist articles.",inLanguage:"en",translationOfWork:{"@type":"CollectionPage","url":"https://smarttech.b2badgen.com/","inLanguage":"de"},isPartOf:{"@type":"WebSite",name:"SmartTech",url:"https://smarttech.b2badgen.com/"}};return <><script type="application/ld+json" dangerouslySetInnerHTML={{__html:safeJsonLd(jsonLd)}}/><SmartTechPortal locale="en" taxonomyQuery={taxonomyQuery}/></>}

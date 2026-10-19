@@ -1,0 +1,414 @@
+{
+  "heylogin": {
+    "officialUrl": "https://www.heylogin.com/de",
+    "officialLabel": {
+      "de": "heylogin: Unternehmen und Angebot",
+      "en": "heylogin: company and offering"
+    },
+    "metaDescription": {
+      "de": "Passwortmanager ohne Master-Passwort, Team-Zugriffe und Identitätsintegration.",
+      "en": "Password manager without a master password, team access and identity integration."
+    },
+    "summary": {
+      "de": "heylogin GmbH aus Braunschweig entwickelt einen Passwortmanager für die Verwaltung und Nutzung von Zugangsdaten. Die Freigabe erfolgt über unterstützte Geräte statt über ein Master-Passwort; die Zielanwendungen können weiterhin eigene Passwörter verwenden. Zum Unternehmensangebot gehören Team-Logins, Rechteverwaltung und Nutzer-Synchronisation mit Microsoft Entra ID und Google Workspace. Pwnitoring ergänzt den Abgleich kompromittierter Identitätsdaten. Die Architekturübersicht erläutert verschlüsselte Tresore und getrennte Betriebs- und Backup-Standorte. Zielgruppen sind IT-Administration, Sicherheitsverantwortliche und Unternehmen mit vielen gemeinsamen Webzugängen. Bei der Auswahl zählen Geräteunterstützung, Wiederherstellung, Offboarding, Rollen, Tarifumfang und Datenverarbeitung. Integrationen ergänzen vorhandene Identitätssysteme; sie ersetzen keine Prüfung der Berechtigungen in den Zielanwendungen.",
+      "en": "Braunschweig-based heylogin GmbH develops a password manager for storing and using credentials. Supported devices approve access instead of a master password; target applications may still use their own passwords. The business offering includes shared team logins, permissions and user synchronisation with Microsoft Entra ID and Google Workspace. Pwnitoring adds comparison against compromised identity data. Its architecture overview explains encrypted vaults and separate operating and backup locations. Buyers include IT administrators, security teams and businesses with many shared web accounts. Selection depends on device support, recovery, offboarding, roles, plan scope and data processing. Integrations complement existing identity systems and do not replace assessment of permissions in target applications."
+    },
+    "focus": {
+      "de": [
+        "Passwortmanagement ohne Master-Passwort",
+        "Gerätegestützte Login-Freigabe",
+        "Team-Logins und Zugriffsrechte",
+        "Nutzer- und Verzeichnissynchronisation",
+        "Pwnitoring und Account-Schutz",
+        "Verschlüsselte Tresore und Wiederherstellung"
+      ],
+      "en": [
+        "Password management without a master password",
+        "Device-assisted login approval",
+        "Shared team logins and permissions",
+        "User and directory synchronisation",
+        "Pwnitoring and account protection",
+        "Encrypted vaults and recovery"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "IT-Administration",
+        "Informationssicherheit und CISO",
+        "Identity and Access Management",
+        "IT-Service und Helpdesk",
+        "Einkauf und Datenschutz"
+      ],
+      "en": [
+        "IT administration",
+        "Information security and CISO",
+        "Identity and access management",
+        "IT service and helpdesk",
+        "Procurement and privacy"
+      ]
+    },
+    "aliases": [
+      "heylogin GmbH",
+      "heylogin.com"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.heylogin.com/de/team-und-zugriffsmanagement",
+        "label": {
+          "de": "heylogin: Logins und Berechtigungen im Team verwalten",
+          "en": "heylogin: managing team logins and permissions"
+        }
+      },
+      {
+        "url": "https://www.heylogin.com/de/sicherheitsarchitektur",
+        "label": {
+          "de": "heylogin: Sicherheitsarchitektur ohne Master-Passwort",
+          "en": "heylogin: security architecture without a master password"
+        }
+      },
+      {
+        "url": "https://www.heylogin.com/de/integrationen-partner",
+        "label": {
+          "de": "heylogin: Nutzer-Synchronisation und Integrationen",
+          "en": "heylogin: user synchronisation and integrations"
+        }
+      },
+      {
+        "url": "https://www.heylogin.com/de/pwnitoring",
+        "label": {
+          "de": "heylogin Pwnitoring: kompromittierte Identitätsdaten prüfen",
+          "en": "heylogin Pwnitoring: checking compromised identity data"
+        }
+      },
+      {
+        "url": "https://www.heylogin.com/de/impressum",
+        "label": {
+          "de": "Offizielle Anbieteridentität",
+          "en": "Official provider identity"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Geprüft wurden öffentliche Produktseiten. Verlinkte Whitepaper, Zertifikatsdateien und Webinaraufzeichnungen sind nicht separat validiert.",
+      "en": "Public product pages were reviewed. Linked whitepapers, certificate files and webinar recordings are not separately validated."
+    }
+  },
+  "Phoenix Contact": {
+    "officialUrl": "https://www.phoenixcontact.com/de-de/",
+    "officialLabel": {
+      "de": "Phoenix Contact: Unternehmen und Angebot",
+      "en": "Phoenix Contact: company and offering"
+    },
+    "metaDescription": {
+      "de": "Verbindungstechnik, Elektronik und Automation für Industrie, Energie und Infrastruktur.",
+      "en": "Connection technology, electronics and automation for industry, energy and infrastructure."
+    },
+    "summary": {
+      "de": "Phoenix Contact entwickelt elektrische Verbindungstechnik, Elektronik und Automatisierungslösungen. Das Profil beschreibt die Unternehmensmarke mit Zentrale in Blomberg; die deutsche Vertriebsorganisation ist Phoenix Contact Deutschland GmbH. Das Portfolio reicht von Klemmen und Steckverbindern über Stromversorgung und Schutztechnik bis zu Steuerungen, I/O, industrieller Kommunikation und Engineering-Software. PLCnext verbindet klassische Steuerungsaufgaben mit offener Softwareentwicklung und virtuellen Steuerungen. Einsatzfelder umfassen Maschinen- und Anlagenbau, Prozessindustrie, Energie, Gebäude, Rechenzentren und Elektromobilität. Zielrollen sind Elektroplanung, Automatisierung, Schaltschrankbau, Betrieb und technischer Einkauf. Bei der Auswahl sind Schnittstellen, elektrische Kenndaten, Umgebungsbedingungen, Lebenszyklus und produktspezifische Zulassungen zu prüfen. Eine Sicherheitszertifizierung einzelner Produkte ist keine pauschale Zertifizierung aller Lösungen.",
+      "en": "Phoenix Contact develops electrical connection technology, electronics and automation solutions. This profile covers the company brand headquartered in Blomberg; its German sales organisation is Phoenix Contact Deutschland GmbH. The portfolio spans terminals and connectors, power and protection technology, controllers, I/O, industrial communication and engineering software. PLCnext combines traditional control tasks with open software development and virtual controllers. Applications include machinery, process industries, energy, buildings, data centres and e-mobility. Buyers include electrical designers, automation teams, control cabinet builders, operations and technical procurement. Selection requires assessment of interfaces, electrical ratings, environmental conditions, lifecycle and product-specific approvals. Security certification of individual products is not blanket certification of every solution."
+    },
+    "focus": {
+      "de": [
+        "Elektrische Verbindungs- und Geräteanschlusstechnik",
+        "PLCnext, Steuerungen und I/O",
+        "Industrielle Kommunikation und Edge Computing",
+        "Stromversorgung und Überspannungsschutz",
+        "Schaltschrankbau und Engineering-Software",
+        "Energiemonitoring und Ladetechnik",
+        "Gebäude- und Infrastrukturautomation"
+      ],
+      "en": [
+        "Electrical connection and device connectivity",
+        "PLCnext, controllers and I/O",
+        "Industrial communication and edge computing",
+        "Power supply and surge protection",
+        "Control cabinet engineering and software",
+        "Energy monitoring and charging technology",
+        "Building and infrastructure automation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Elektroplanung und Konstruktion",
+        "Automatisierungs- und OT-Leitung",
+        "Schaltschrank- und Maschinenbau",
+        "Energie- und Gebäudetechnik",
+        "Instandhaltung und Betrieb",
+        "Technischer Einkauf und Geräteentwicklung"
+      ],
+      "en": [
+        "Electrical design and engineering",
+        "Automation and OT leadership",
+        "Control cabinet and machine building",
+        "Energy and building systems",
+        "Maintenance and operations",
+        "Technical procurement and device development"
+      ]
+    },
+    "aliases": [
+      "Phoenix Contact GmbH & Co. KG",
+      "phoenixcontact.de",
+      "Phoenix Contact Deutschland GmbH"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.phoenixcontact.com/de-de/produkte",
+        "label": {
+          "de": "Phoenix Contact: Verbindungstechnik, Elektronik und Automation",
+          "en": "Phoenix Contact: connection technology, electronics and automation"
+        }
+      },
+      {
+        "url": "https://www.phoenixcontact.com/de-de/produkte/plcnext-technology",
+        "label": {
+          "de": "Phoenix Contact PLCnext Technology: offene Steuerungsplattform",
+          "en": "Phoenix Contact PLCnext Technology: open control platform"
+        }
+      },
+      {
+        "url": "https://www.phoenixcontact.com/de-de/produkte/industrielle-kommunikation",
+        "label": {
+          "de": "Phoenix Contact: industrielle Kommunikation und Vernetzung",
+          "en": "Phoenix Contact: industrial communication and networking"
+        }
+      },
+      {
+        "url": "https://www.phoenixcontact.com/de-de/",
+        "label": {
+          "de": "Offizielle Anbieteridentität",
+          "en": "Official provider identity"
+        }
+      }
+    ]
+  },
+  "VZM": {
+    "officialUrl": "https://www.vzm.de/",
+    "officialLabel": {
+      "de": "VZM: Unternehmen und Angebot",
+      "en": "VZM: company and offering"
+    },
+    "metaDescription": {
+      "de": "Sicherheitsberatung, Sicherheitsplanung und Rechenzentrumsplanung.",
+      "en": "Security consulting, security design and data centre planning."
+    },
+    "summary": {
+      "de": "VZM ist die Kurzbezeichnung der VON ZUR MÜHLEN’SCHE (VZM) GmbH in Bonn. Das Unternehmen verbindet unabhängige Sicherheitsberatung mit Fachplanung und Realisierungsbegleitung für Gebäude, technische Anlagen und IT-Infrastrukturen. Das Leistungsbild umfasst Risikoanalysen, physische Sicherheit, Informationssicherheit für IT und OT sowie Rechenzentrums- und Leitstellenplanung. Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen können Schutzbedarf, technische Konzepte, Ausschreibungen und Qualitätssicherung zusammenführen. VZM ist in diesem Zusammenhang Berater und Planer; die eigene Bereitstellung von Cloud-Hosting oder Sicherheitsprodukten wird damit nicht behauptet. Für die Auswahl zählen Projektumfang, Planungsverantwortung, Schnittstellen zur TGA und IT, Verfügbarkeit, Abnahmekriterien und Auditnachweise. Zertifizierungsvorbereitung und die spätere Zertifizierungsentscheidung bleiben getrennte Aufgaben.",
+      "en": "VZM is the short name of Bonn-based VON ZUR MÜHLEN’SCHE (VZM) GmbH. The company combines independent security consulting with specialist design and implementation support for buildings, technical installations and IT infrastructure. Services include risk assessments, physical security, IT and OT information security, and data centre and control room planning. Businesses, public institutions and critical infrastructure operators can combine protection needs, technical concepts, procurement and quality assurance. VZM acts as consultant and designer here; this does not imply that it operates cloud hosting or supplies security products itself. Selection depends on project scope, design responsibilities, building-services and IT interfaces, availability, acceptance criteria and audit evidence. Certification preparation and the eventual certification decision remain separate tasks."
+    },
+    "focus": {
+      "de": [
+        "Risikoanalyse und Sicherheitskonzeption",
+        "Zutritts-, Video- und Brandmeldeplanung",
+        "Rechenzentrumsplanung und Modernisierung",
+        "IT-, OT- und Informationssicherheit",
+        "Leitstellen und Sicherheitszentralen",
+        "Realisierungsbegleitung und Integrationstests"
+      ],
+      "en": [
+        "Risk assessment and security concepts",
+        "Access, video and fire detection design",
+        "Data centre planning and modernisation",
+        "IT, OT and information security",
+        "Control rooms and security centres",
+        "Implementation support and integration testing"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Corporate Security und Sicherheitsleitung",
+        "Rechenzentrumsplanung und IT-Betrieb",
+        "Facility Management und Bauherren",
+        "CISO und Informationssicherheit",
+        "KRITIS-Betreiber und öffentliche Auftraggeber",
+        "Einkauf und Projektsteuerung"
+      ],
+      "en": [
+        "Corporate security leadership",
+        "Data centre planning and IT operations",
+        "Facilities management and project owners",
+        "CISO and information security",
+        "Critical infrastructure operators and public clients",
+        "Procurement and project management"
+      ]
+    },
+    "aliases": [
+      "VON ZUR MÜHLEN’SCHE (VZM) GmbH",
+      "vzm.de"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.vzm.de/leistungen/sicherheitsplanung/",
+        "label": {
+          "de": "VZM: technische Sicherheitsplanung für Gebäude und Anlagen",
+          "en": "VZM: technical security planning for buildings and installations"
+        }
+      },
+      {
+        "url": "https://www.vzm.de/leistungen/rechenzentrum/",
+        "label": {
+          "de": "VZM: Rechenzentren und IT-Infrastruktur planen",
+          "en": "VZM: planning data centres and IT infrastructure"
+        }
+      },
+      {
+        "url": "https://www.vzm.de/leistungen/it-informationssicherheit/",
+        "label": {
+          "de": "VZM: Informationssicherheit für IT, OT und Gebäudetechnik",
+          "en": "VZM: information security for IT, OT and building systems"
+        }
+      },
+      {
+        "url": "https://www.vzm.de/impressum/",
+        "label": {
+          "de": "Offizielle Anbieteridentität",
+          "en": "Official provider identity"
+        }
+      }
+    ]
+  },
+  "ITMS": {
+    "officialUrl": "https://www.itms.com/de/agentur/",
+    "officialLabel": {
+      "de": "ITMS: Unternehmen und Angebot",
+      "en": "ITMS: company and offering"
+    },
+    "metaDescription": {
+      "de": "Marketingkommunikation, PR, Werbung, Sponsoring und Events.",
+      "en": "Marketing communication, PR, advertising, sponsorship and events."
+    },
+    "summary": {
+      "de": "ITMS Marketing GmbH aus Bad Nauheim entwickelt und realisiert Marketingkommunikation. Das Angebot verbindet Strategie und Kreation mit Werbung, Public Relations, Event-Konzeption und Sponsoring-Aktivierung. Kanalübergreifende Inhalte und Social Media ergänzen die Ansprache von Zielgruppen. Das Profil ordnet die eigenen Kommunikationsleistungen dem Wirkungsraum Medien und Öffentlichkeit zu. Kundenprodukte und Kundentechnologien bleiben Leistungen der jeweiligen Hersteller. Ein aktueller Fachbeitrag behandelt die Dynamik öffentlicher Debatten und frühe Krisenkommunikation; seine Empfehlungen sind eine Anbieterperspektive. Auftraggeber sollten Zielgruppen, Kanäle, Rechte an Inhalten, Budget, Freigaben und Messgrößen vor dem Projekt festlegen. Historische Referenzen belegen frühere Arbeiten und keine automatisch fortbestehenden Mandate.",
+      "en": "Bad Nauheim-based ITMS Marketing GmbH develops and delivers marketing communication. Its offering combines strategy and creative work with advertising, public relations, event concepts and sponsorship activation. Cross-channel content and social media support audience engagement. This profile places its own communication services within media and the public sphere. Clients’ products and technologies remain the respective manufacturers’ offerings. A recent specialist article discusses public debate dynamics and early crisis communication; its recommendations reflect a provider perspective. Clients should define audiences, channels, content rights, budgets, approvals and measurement before commissioning work. Historical references document previous projects and do not automatically establish continuing engagements."
+    },
+    "focus": {
+      "de": [
+        "Kommunikationsstrategie und Positionierung",
+        "Werbekonzepte und Kreation",
+        "Public Relations und Medienarbeit",
+        "Social Media und Content",
+        "Event-Konzeption und Umsetzung",
+        "Sponsoring-Aktivierung"
+      ],
+      "en": [
+        "Communication strategy and positioning",
+        "Advertising concepts and creative work",
+        "Public relations and media relations",
+        "Social media and content",
+        "Event concepts and delivery",
+        "Sponsorship activation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Marketing- und Markenleitung",
+        "Unternehmenskommunikation und PR",
+        "Social-Media- und Content-Verantwortliche",
+        "Event- und Sponsoring-Management",
+        "Geschäftsführung und Kommunikationsverantwortliche"
+      ],
+      "en": [
+        "Marketing and brand leadership",
+        "Corporate communication and PR",
+        "Social media and content managers",
+        "Event and sponsorship management",
+        "Executive and communication leadership"
+      ]
+    },
+    "aliases": [
+      "ITMS Marketing GmbH",
+      "itms.com"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.itms.com/de/agentur/",
+        "label": {
+          "de": "ITMS: Werbung, PR, Events und Sponsoring",
+          "en": "ITMS: advertising, PR, events and sponsorship"
+        }
+      },
+      {
+        "url": "https://www.itms.com/why-most-organizations-lose-control-of-public-debates-within-48-hours/",
+        "label": {
+          "de": "ITMS: öffentliche Debatten und Krisenkommunikation",
+          "en": "ITMS: public debate and crisis communication"
+        }
+      },
+      {
+        "url": "https://www.itms.com/imprint/",
+        "label": {
+          "de": "Offizielle Anbieteridentität",
+          "en": "Official provider identity"
+        }
+      }
+    ]
+  },
+  "DIKITALE": {
+    "officialUrl": "https://dikitale.de/",
+    "officialLabel": {
+      "de": "DIKITALE: Unternehmen und Angebot",
+      "en": "DIKITALE: company and offering"
+    },
+    "metaDescription": {
+      "de": "Mittelstandsforum mit Ausstellung, Fachprogramm und Networking zu Digitalisierung und KI.",
+      "en": "SME forum with exhibition, specialist programme and networking on digitalisation and AI."
+    },
+    "summary": {
+      "de": "DIKITALE ist ein Veranstaltungsangebot der DIKITALE GmbH in Bonn. Das Mittelstandsforum verbindet eine Fachausstellung mit Vorträgen, Workshops, Roundtables und persönlichem Austausch zu Digitalisierung und KI. Die Website kündigt die Ausgabe für den 16. und 17. Juni 2027 in Düsseldorf an; das detaillierte Fachprogramm soll im Frühjahr 2027 veröffentlicht werden. Angesprochen werden Geschäftsführung, Einkauf und Fachverantwortliche etwa aus IT, Logistik, Vertrieb, Marketing und Personal. Aussteller können eine Standteilnahme anfragen, Besucher einen Messebesuch planen. DIKITALE wird hier als Veranstaltungs- und Wissensangebot eingeordnet; die ausgestellten Software- und KI-Lösungen sind Angebote der jeweiligen Aussteller. Vor einer Buchung sind Programmstand, Teilnahmebedingungen und Leistungen direkt beim Veranstalter zu bestätigen.",
+      "en": "DIKITALE is an event offering from Bonn-based DIKITALE GmbH. The SME forum combines a specialist exhibition with talks, workshops, roundtables and personal exchange on digitalisation and AI. Its website announces the event for 16 and 17 June 2027 in Düsseldorf; the detailed specialist programme is scheduled for spring 2027. Intended participants include executives, procurement and functional managers in IT, logistics, sales, marketing and HR. Exhibitors can request a stand, while visitors can plan attendance. DIKITALE is classified here as an event and knowledge offering; exhibited software and AI solutions belong to their respective exhibitors. Programme status, participation conditions and included services require confirmation with the organiser before booking."
+    },
+    "focus": {
+      "de": [
+        "Fachausstellung zu Digitalisierung und KI",
+        "Vorträge, Workshops und Roundtables",
+        "B2B-Networking für den Mittelstand",
+        "Aussteller- und Besucherformate"
+      ],
+      "en": [
+        "Specialist exhibition on digitalisation and AI",
+        "Talks, workshops and roundtables",
+        "B2B networking for SMEs",
+        "Exhibitor and visitor formats"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Geschäftsführung im Mittelstand",
+        "IT- und Digitalisierungsverantwortliche",
+        "Einkauf und Fachbereichsleitung",
+        "Marketing, Vertrieb, Logistik und HR",
+        "Aussteller- und Eventverantwortliche"
+      ],
+      "en": [
+        "SME executive leadership",
+        "IT and digitalisation managers",
+        "Procurement and functional leadership",
+        "Marketing, sales, logistics and HR",
+        "Exhibitor and event managers"
+      ]
+    },
+    "aliases": [
+      "DIKITALE GmbH",
+      "dikitale.de"
+    ],
+    "officialSources": [
+      {
+        "url": "https://dikitale.de/",
+        "label": {
+          "de": "DIKITALE 2027: Mittelstandsforum für Digitalisierung und KI",
+          "en": "DIKITALE 2027: SME forum for digitalisation and AI"
+        }
+      },
+      {
+        "url": "https://dikitale.de/impressum/",
+        "label": {
+          "de": "Offizielle Anbieteridentität",
+          "en": "Official provider identity"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Zukünftige Veranstaltung; Detailprogramm noch angekündigt. Einzelne Ticketbedingungen nennen ältere Fristen und sind vor einer Buchung beim Veranstalter zu bestätigen.",
+      "en": "Future event; detailed programme remains forthcoming. Some ticket conditions cite older deadlines and require confirmation with the organiser before booking."
+    }
+  }
+}

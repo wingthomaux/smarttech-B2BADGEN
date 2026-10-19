@@ -1,0 +1,479 @@
+[
+  {
+    "id": 3559,
+    "additionalProviders": [
+      "Salesforce"
+    ],
+    "providerRelations": [
+      {
+        "name": "Salesforce",
+        "type": {
+          "de": "Ergänzende Datensicherung",
+          "en": "Complementary backup"
+        },
+        "context": {
+          "de": "Die öffentliche Beschreibung behandelt Salesforce-Datensicherung durch Veeam. Salesforce ist die Zielplattform; Veeam bleibt Anbieter der Backup-Lösung. Der Vollinhalt wurde nicht abgerufen.",
+          "en": "The public description covers Veeam backup for Salesforce. Salesforce is the target platform; Veeam remains the backup provider. The full content was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/18611-sf-salesforce-backup-checklist",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 740051,
+    "additionalProviders": [
+      "Salesforce"
+    ],
+    "providerRelations": [
+      {
+        "name": "Salesforce",
+        "type": {
+          "de": "Ergänzende Datensicherung",
+          "en": "Complementary backup"
+        },
+        "context": {
+          "de": "Die öffentliche Beschreibung behandelt Salesforce-Datensicherung durch Veeam. Salesforce ist die Zielplattform; Veeam bleibt Anbieter der Backup-Lösung. Der Vollinhalt wurde nicht abgerufen.",
+          "en": "The public description covers Veeam backup for Salesforce. Salesforce is the target platform; Veeam remains the backup provider. The full content was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/20397-key-scenarios-for-safeguarding-salesforce-data",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 740052,
+    "additionalProviders": [
+      "Salesforce"
+    ],
+    "providerRelations": [
+      {
+        "name": "Salesforce",
+        "type": {
+          "de": "Ergänzende Datensicherung",
+          "en": "Complementary backup"
+        },
+        "context": {
+          "de": "Die öffentliche Beschreibung behandelt Salesforce-Datensicherung durch Veeam. Salesforce ist die Zielplattform; Veeam bleibt Anbieter der Backup-Lösung. Der Vollinhalt wurde nicht abgerufen.",
+          "en": "The public description covers Veeam backup for Salesforce. Salesforce is the target platform; Veeam remains the backup provider. The full content was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/20398-salesforce-resilience-best-practices-guide",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 740053,
+    "additionalProviders": [
+      "Salesforce"
+    ],
+    "providerRelations": [
+      {
+        "name": "Salesforce",
+        "type": {
+          "de": "Ergänzende Datensicherung",
+          "en": "Complementary backup"
+        },
+        "context": {
+          "de": "Die öffentliche Beschreibung behandelt Salesforce-Datensicherung durch Veeam. Salesforce ist die Zielplattform; Veeam bleibt Anbieter der Backup-Lösung. Der Vollinhalt wurde nicht abgerufen.",
+          "en": "The public description covers Veeam backup for Salesforce. Salesforce is the target platform; Veeam remains the backup provider. The full content was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/20399-critical-capaibilities-for-salesforce-backup-and-how-veeam-delivers",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 740062,
+    "additionalProviders": [
+      "Salesforce"
+    ],
+    "providerRelations": [
+      {
+        "name": "Salesforce",
+        "type": {
+          "de": "Ergänzende Datensicherung",
+          "en": "Complementary backup"
+        },
+        "context": {
+          "de": "Die öffentliche Beschreibung behandelt Salesforce-Datensicherung durch Veeam. Salesforce ist die Zielplattform; Veeam bleibt Anbieter der Backup-Lösung. Der Vollinhalt wurde nicht abgerufen.",
+          "en": "The public description covers Veeam backup for Salesforce. Salesforce is the target platform; Veeam remains the backup provider. The full content was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/20413-from-risk-to-resilience-securing-salesforce-data-in-a-world-of-unstoppable-threats-and-integration-risks",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2667,
+    "additionalProviders": [
+      "Salesforce"
+    ],
+    "providerRelations": [
+      {
+        "name": "Salesforce",
+        "type": {
+          "de": "Produkt- und Integrationskooperation",
+          "en": "Product and integration collaboration"
+        },
+        "context": {
+          "de": "Cornerstone meldet eine erweiterte Zusammenarbeit für Workforce Intelligence in Agentforce und Slack. Umfang und Verfügbarkeit betreffen die angekündigten Integrationen.",
+          "en": "Cornerstone announces expanded workforce intelligence collaboration involving Agentforce and Slack. Scope and availability concern the announced integrations."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/salesforce-und-cornerstone-erweitern-partnerschaft-fuer-mehr-workforce-intelligence-in-agentenbasierten-unternehmen/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 4063,
+    "additionalProviders": [
+      "Databricks"
+    ],
+    "providerRelations": [
+      {
+        "name": "Databricks",
+        "type": {
+          "de": "Gemeldeter Partnerstatus",
+          "en": "Reported partner recognition"
+        },
+        "context": {
+          "de": "Solita meldet im März 2026 den Databricks Gold Partner Status und beschreibt Umsetzung auf der Data Intelligence Platform.",
+          "en": "Solita reports Databricks Gold Partner recognition in March 2026 and implementation using the Data Intelligence Platform."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/cloudbasierte-datenverarbeitung-solita-erreicht-status-als-databricks-gold-partner/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 4579,
+    "additionalProviders": [
+      "Databricks"
+    ],
+    "providerRelations": [
+      {
+        "name": "Databricks",
+        "type": {
+          "de": "Projekterfahrung und Fachinformation",
+          "en": "Project experience and expert information"
+        },
+        "context": {
+          "de": "b.telligent behandelt Databricks im praktischen Projekteinsatz. Die Podcastbeschreibung belegt keinen bestimmten zertifizierten Partnerstatus.",
+          "en": "b.telligent discusses Databricks in practical projects. The podcast description does not establish a specific certified partner designation."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/databricks-im-praxiseinsatz/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2261,
+    "additionalProviders": [
+      "Databricks",
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Databricks",
+        "type": {
+          "de": "Kundenanwendung",
+          "en": "Customer implementation"
+        },
+        "context": {
+          "de": "all inclusive Fitness beschreibt seine Datenstrategie mit Azure Databricks, datasolut und ADN. Das Fitnessunternehmen bleibt der Anwender.",
+          "en": "all inclusive Fitness describes its data strategy involving Azure Databricks, datasolut and ADN. The fitness company remains the customer."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/mit-azure-databricks-und-ki-im-high-intensity-modus-wie-all-inclusive-fitness-seine-datenstrategie-in-bestform-bringt/",
+        "scope": "Öffentliche Beschreibung"
+      },
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Azure-basierte Kundenanwendung",
+          "en": "Azure-based customer implementation"
+        },
+        "context": {
+          "de": "Der Anwenderbericht nennt Azure und Azure Databricks als Plattformbasis. Beratung und Umsetzung sind den genannten Dienstleistern zugeordnet.",
+          "en": "The customer story identifies Azure and Azure Databricks as platform foundations. Consulting and implementation remain attributed to the stated service providers."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/mit-azure-databricks-und-ki-im-high-intensity-modus-wie-all-inclusive-fitness-seine-datenstrategie-in-bestform-bringt/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 4393,
+    "additionalProviders": [
+      "IBM"
+    ],
+    "providerRelations": [
+      {
+        "name": "IBM",
+        "type": {
+          "de": "Infrastruktur- und Vertriebspartner",
+          "en": "Infrastructure and supply partner"
+        },
+        "context": {
+          "de": "PROFI meldet einen Rahmenvertrag für IBM-Infrastruktur des ITZBund. Der Rahmenvertragsumfang ist keine Zusage tatsächlicher Abrufe.",
+          "en": "PROFI announces a framework for IBM infrastructure at ITZBund. The framework ceiling does not establish actual purchases."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/profi-schliesst-rahmenvertrag-mit-dem-beschaffungsamt-des-bmi-ueber-ibm-infrastruktur-fuer-itzbund/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3667,
+    "additionalProviders": [
+      "IBM"
+    ],
+    "providerRelations": [
+      {
+        "name": "IBM",
+        "type": {
+          "de": "Technologiebasis eines Managed Service",
+          "en": "Managed service technology"
+        },
+        "context": {
+          "de": "OEDIV und PROFI beschreiben Hosting und Administration für IBM i mit eigener Aufgabenteilung. IBM ist die Technologiebasis, nicht automatisch der Servicebetreiber.",
+          "en": "OEDIV and PROFI describe IBM i hosting and administration with separate responsibilities. IBM supplies the technology and is not automatically the service operator."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/oediv-und-profi-schliessen-partnerschaft-fuer-ibm-i-managed-service/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3485,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Launch-Partnerprogramm",
+          "en": "Launch partner program"
+        },
+        "context": {
+          "de": "Reply meldet seine Rolle als Agent-365-Launch-Partner für Governance und Skalierung von KI-Agenten. Die Rolle gilt für das genannte Programm.",
+          "en": "Reply reports its Agent 365 launch partner role for AI agent governance and scaling. The role applies to the named program."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-von-microsoft-als-launch-partner-fuer-agent-365-ausgewaehlt-unterstuetzung-fuer-governance-und-skalierung-von-ki-agenten/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3111,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Implementierung und Kundenanwendung",
+          "en": "Implementation and customer use"
+        },
+        "context": {
+          "de": "Syskoplan Reply beschreibt Vorwerks Einsatz der SAP Business Technology Platform. Reply liefert Umsetzung; SAP liefert die Plattform.",
+          "en": "Syskoplan Reply describes Vorwerk’s use of SAP Business Technology Platform. Reply supplies implementation; SAP supplies the platform."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/syskoplan-reply-und-vorwerk-optimieren-den-direktvertrieb-mit-digitalen-assistenten/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3253,
+    "additionalProviders": [
+      "Adobe"
+    ],
+    "providerRelations": [
+      {
+        "name": "Adobe",
+        "type": {
+          "de": "Gemeldete Partnerauszeichnung",
+          "en": "Reported partner award"
+        },
+        "context": {
+          "de": "Comwrap Reply meldet eine Adobe-Auszeichnung für Experience-Cloud-Projekte. Der Bezug gilt für die benannte Einheit und Auszeichnung.",
+          "en": "Comwrap Reply reports an Adobe award for Experience Cloud projects. The relationship applies to the named business and award."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/comwrap-reply-erhaelt-adobe-cxo-emerging-partner-award-fuer-westeuropa/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3602,
+    "additionalProviders": [
+      "Deutsche Telekom"
+    ],
+    "providerRelations": [
+      {
+        "name": "Deutsche Telekom",
+        "type": {
+          "de": "Kundenbeziehung",
+          "en": "Customer relationship"
+        },
+        "context": {
+          "de": "Yext beschreibt Deutsche Telekom als Kunden für Listings und Reviews zur digitalen Standortpräsenz. Das ist eine Kundennutzung, kein Telekom-Wiederverkaufsangebot.",
+          "en": "Yext describes Deutsche Telekom as a Listings and Reviews customer for digital location presence. This is customer use, not a Telekom resale offering."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.marketingleiter.today/deutsche-telekom-optimiert-digitale-standortpraesenz-mit-yext/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 640021,
+    "additionalProviders": [
+      "Deutsche Telekom"
+    ],
+    "providerRelations": [
+      {
+        "name": "Deutsche Telekom",
+        "type": {
+          "de": "Gemeinsame Produktankündigung",
+          "en": "Joint product announcement"
+        },
+        "context": {
+          "de": "Telekom und Samsung kündigen Magenta Security Mobile.ID an. Der Beitrag beschreibt die geplante Einführung; aktuelle Verfügbarkeit ist separat zu prüfen.",
+          "en": "Telekom and Samsung announce Magenta Security Mobile.ID. The article describes a planned launch; current availability requires separate assessment."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/neue-mobile-sicherheitsplattform-der-telekom-und-samsung",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 640016,
+    "additionalProviders": [
+      "Deutsche Telekom",
+      "Palo Alto Networks",
+      "Google Cloud"
+    ],
+    "providerRelations": [
+      {
+        "name": "Deutsche Telekom",
+        "type": {
+          "de": "Konzern- und Lösungsbezug",
+          "en": "Group and solution relationship"
+        },
+        "context": {
+          "de": "Der Beitrag nennt Deutsche Telekom und T Security für Sovereign Cortex with T Security. Die ursprüngliche Zuordnung zu Telekom Deutschland bleibt erhalten.",
+          "en": "The article names Deutsche Telekom and T Security for Sovereign Cortex with T Security. Original Telekom Deutschland attribution remains intact."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/telekom-und-palo-alto-networks-starten-cyber-defence-managed-service",
+        "scope": "Öffentliche Beschreibung"
+      },
+      {
+        "name": "Palo Alto Networks",
+        "type": {
+          "de": "Gemeinsame Security-Lösung",
+          "en": "Joint security solution"
+        },
+        "context": {
+          "de": "Palo Alto Networks liefert Cortex-Technologie für den mit Telekom beschriebenen Managed Service. Compliance-Aussagen sind produkt- und vertragsbezogen zu prüfen.",
+          "en": "Palo Alto Networks supplies Cortex technology for the managed service described with Telekom. Compliance claims require product and contract assessment."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/telekom-und-palo-alto-networks-starten-cyber-defence-managed-service",
+        "scope": "Öffentliche Beschreibung"
+      },
+      {
+        "name": "Google Cloud",
+        "type": {
+          "de": "Cloud-Basis eines Security-Service",
+          "en": "Security service cloud foundation"
+        },
+        "context": {
+          "de": "Der Beitrag nennt Sovereign Google Cloud als Betriebsbasis der gemeinsamen Security-Lösung. Daraus wird keine allgemeine Freigabe weiterer Cloud-Dienste abgeleitet.",
+          "en": "The article identifies Sovereign Google Cloud as the operational foundation of the joint security solution. This does not establish approval of other cloud services."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/telekom-und-palo-alto-networks-starten-cyber-defence-managed-service",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 640019,
+    "additionalProviders": [
+      "Deutsche Telekom"
+    ],
+    "providerRelations": [
+      {
+        "name": "Deutsche Telekom",
+        "type": {
+          "de": "Konzern- und Geschäftskundenangebot",
+          "en": "Group and business offering"
+        },
+        "context": {
+          "de": "Der Thüga-Rahmenvertrag betrifft Telekom-KI-Angebote wie Enterprise GPT und T Cloud Public. Der Vertrag belegt nicht die aktive Nutzung durch jedes angeschlossene Stadtwerk.",
+          "en": "The Thüga framework concerns Telekom AI offerings such as Enterprise GPT and T Cloud Public. It does not establish active use by every affiliated utility."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/stadtwerke-netzwerk-thuega-nutzt-ki-loesungen-der-telekom",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1226,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Plattformdemonstration",
+          "en": "Platform demonstration"
+        },
+        "context": {
+          "de": "Die öffentliche Webcastbeschreibung behandelt Microsoft Copilot Studio und Best Practices durch Telekom MMS. Die Aufzeichnung wurde nicht abgerufen.",
+          "en": "The public webcast description covers Microsoft Copilot Studio and Telekom MMS best practices. The recording was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://business-services.heise.de/software/machine-learning-ki/beitrag/in-wenigen-schritten-zur-eigenen-ki-best-practices-mit-copilot-studio-5047",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3585,
+    "sourceReviewWarning": {
+      "de": "Quellenprüfung 12.10.2026: Der Titel nennt Salesforce-Datensicherung, die aktuelle Beschreibung behandelt jedoch Veeam Data Cloud für Microsoft 365 und nennt Metric Theory als Anbieter. Wegen dieses Konflikts wurde kein neuer Salesforce-Bezug angelegt.",
+      "en": "Source review on 12 October 2026: The title names Salesforce backup, but the current description covers Veeam Data Cloud for Microsoft 365 and names Metric Theory as provider. No new Salesforce relationship was created due to this conflict."
+    }
+  },
+  {
+    "id": 1037,
+    "sourceReviewWarning": {
+      "de": "Quellenprüfung 12.10.2026: Die öffentlich erreichbare Veranstaltungsseite kennzeichnet den Webcast als abgesagt („Webcast findet nicht statt“). Eine verfügbare Durchführung oder Aufzeichnung wird nicht behauptet.",
+      "en": "Source review on 12 October 2026: The publicly accessible event page marks the webcast as cancelled. No completed event or available recording is asserted."
+    }
+  }
+]

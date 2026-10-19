@@ -1,0 +1,392 @@
+[
+  {
+    "id": 800000,
+    "title": "SpaceX und xAI: belegte Übernahme und Portfolioverbindung",
+    "provider": "SpaceX",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Raumfahrt, Konnektivität und KI im Unternehmensverbund",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Unternehmensmitteilung",
+    "url": "https://x.ai/news/xai-joins-spacex",
+    "note": "Die Mitteilung vom 2. Februar 2026 bestätigt die Übernahme von xAI durch SpaceX. Im Verzeichnis bleibt SpaceXAI als KI-Anbieterprofil erhalten; die Verbindung belegt keine gemeinsame Vertrags- oder Produktleistung. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.spacex.com/",
+    "addedAt": "2026-10-08",
+    "datePublished": "2026-02-02",
+    "additionalProviders": [
+      "SpaceXAI"
+    ],
+    "related": [
+      "Space",
+      "Unternehmen und Verwaltung"
+    ]
+  },
+  {
+    "id": 800001,
+    "title": "SpaceX Rideshare: Satellitennutzlasten gemeinsam starten",
+    "provider": "SpaceX",
+    "space": "Space",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Satelliten-Rideshare und Nutzlastintegration",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://www.spacex.com/rideshare",
+    "note": "Das Rideshare-Programm beschreibt gemeinsame Satellitenstarts, Nutzlastschnittstellen und den Ablauf von Reservierung bis Startvorbereitung. Missionsfenster, Zielorbit und Integrationsanforderungen sind je Nutzlast zu prüfen. Die Quelle bleibt beobachtet: Der Direktabruf lieferte keinen lesbaren Volltext; Angaben stammen aus öffentlich indexierten Anbieterinformationen. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [],
+    "providerUrl": "https://www.spacex.com/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 800002,
+    "title": "Falcon 9: Startsystem und Missionsschnittstellen",
+    "provider": "SpaceX",
+    "space": "Space",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Trägersystem und kommerzieller Startdienst",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://www.spacex.com/vehicles/falcon-9",
+    "note": "Die offizielle Fahrzeugübersicht beschreibt Falcon 9 und verweist auf Nutzlast- und Rideshare-Informationen. Das Systemangebot ist von dem vorhandenen Starship-Eintrag getrennt; konkrete Startleistungen bedürfen eines missionsbezogenen Angebots. Die Quelle bleibt beobachtet: Der Direktabruf lieferte keinen lesbaren Volltext; Angaben stammen aus öffentlich indexierten Anbieterinformationen. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [],
+    "providerUrl": "https://www.spacex.com/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 800003,
+    "title": "Starlink Business: Konnektivität für Unternehmensstandorte",
+    "provider": "SpaceX",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Satelliteninternet für feste Unternehmensstandorte",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://starlink.com/business/fixed-site",
+    "note": "Starlink beschreibt Satellitenkonnektivität für Unternehmensstandorte mit Priority-Angeboten. Für Beschaffung und Netzplanung zählen Standortfreigabe, Hardware, Tarif, Datenkontingent, Netzwerkintegration und die jeweilige Verfügbarkeitszusage. Die Quelle bleibt beobachtet: Der Direktabruf lieferte keinen lesbaren Volltext; Angaben stammen aus öffentlich indexierten Anbieterinformationen. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [],
+    "providerUrl": "https://www.spacex.com/",
+    "addedAt": "2026-10-08",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ]
+  },
+  {
+    "id": 800004,
+    "title": "Starlink Maritime: Konnektivität und Verwaltung von Schiffsflotten",
+    "provider": "SpaceX",
+    "space": "Mobilität und Logistik",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Satellitenkonnektivität auf See",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://starlink.com/business/maritime",
+    "note": "Das maritime Angebot beschreibt Konnektivität auf Wasserwegen und See sowie Verwaltung von Terminals. Abdeckung, Global-Priority-Kontingente, Installation und Integration ins Bordnetz sind getrennte Auswahlfragen. Die Quelle bleibt beobachtet: Der Direktabruf lieferte keinen lesbaren Volltext; Angaben stammen aus öffentlich indexierten Anbieterinformationen. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [],
+    "providerUrl": "https://www.spacex.com/",
+    "addedAt": "2026-10-08",
+    "related": [
+      "Digitale Infrastruktur"
+    ]
+  },
+  {
+    "id": 800005,
+    "title": "Starlink Aviation: Internetverbindung für Flugzeuge",
+    "provider": "SpaceX",
+    "space": "Mobilität und Logistik",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Satellitenkonnektivität in der Luftfahrt",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://starlink.com/business/aviation",
+    "note": "Starlink adressiert Konnektivität in Flugzeugen. Für einen Flotteneinsatz zählen der passende Flugzeugtyp, zugelassene Installation, regionale oder globale Tarifabdeckung und Integrationsverantwortung. Allgemeine Netzwerkangaben sind keine Zusage für jedes Luftfahrzeug. Die Quelle bleibt beobachtet: Der Direktabruf lieferte keinen lesbaren Volltext; Angaben stammen aus öffentlich indexierten Anbieterinformationen. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [],
+    "providerUrl": "https://www.spacex.com/",
+    "addedAt": "2026-10-08",
+    "related": [
+      "Digitale Infrastruktur"
+    ]
+  },
+  {
+    "id": 800006,
+    "title": "Grok: Recherche, Analyse und multimodale Assistenz",
+    "provider": "SpaceXAI",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-Assistenz für Recherche und Wissensarbeit",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/grok",
+    "note": "Die Produktseite beschreibt Chat, Web- und X-Recherche, Dateianalyse sowie Bild-, Video- und Sprachfunktionen. Funktionsumfang und Limits unterscheiden sich nach Zugang und Plan; Quellenprüfung und fachliche Freigabe bleiben beim Anwender. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "mediaArea": "Content und Redaktion",
+    "mediaPrimary": false,
+    "topics": [
+      "KI"
+    ],
+    "channels": [
+      "Web und Fachportale"
+    ],
+    "related": [
+      "Medien und Öffentlichkeit"
+    ]
+  },
+  {
+    "id": 800007,
+    "title": "Grok Business und Enterprise: KI für Teams und Organisationen",
+    "provider": "SpaceXAI",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Unternehmens-KI mit Teamverwaltung und Integrationen",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/grok/business",
+    "note": "Die Business-Seite beschreibt Teamnutzung, Konnektoren und organisatorische Kontrollen. Enterprise ergänzt unter anderem SSO und SCIM. Sicherheits- und Datenschutzangaben sind Anbieterangaben; Vertragsbedingungen, Aufbewahrung und Integrationsrechte sind bei der Auswahl zu prüfen. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 800008,
+    "title": "Grok API: Modelle und Werkzeuge in eigene Anwendungen integrieren",
+    "provider": "SpaceXAI",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-Modelle und multimodale API",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/api",
+    "note": "Die API-Übersicht beschreibt Text- und Codegenerierung sowie Zugang zu Bild-, Video-, Sprach- und Suchwerkzeugen. Nutzung wird verbrauchsabhängig abgerechnet. Modellauswahl, Schnittstellen, Limits und Werkzeugkosten sind Bestandteil der Integrationsplanung. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ]
+  },
+  {
+    "id": 800009,
+    "title": "Grok X Search: Beiträge, Nutzer und Diskussionen auf X recherchieren",
+    "provider": "SpaceXAI",
+    "space": "Medien und Öffentlichkeit",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-gestützte Recherche in X-Inhalten",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://docs.x.ai/developers/tools/x-search",
+    "note": "Die Dokumentation beschreibt Schlüsselwort-, semantische und Nutzersuche sowie Thread-Abruf. Handles und Zeiträume lassen sich eingrenzen. Dies ist ein Recherchewerkzeug für X-Inhalte; es belegt kein vollständiges kanalübergreifendes Social-Listening-System. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "mediaArea": "Analyse und Wirkung",
+    "mediaPrimary": true,
+    "topics": [
+      "KI"
+    ],
+    "channels": [
+      "Social Media"
+    ],
+    "related": [
+      "Unternehmen und Verwaltung"
+    ]
+  },
+  {
+    "id": 800010,
+    "title": "Grok Imagine API: Bilder, Videos und kreative Varianten",
+    "provider": "SpaceXAI",
+    "space": "Medien und Öffentlichkeit",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Generative Bild- und Videoproduktion",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/api/imagine",
+    "note": "Die Produktseite beschreibt Bild- und Videogenerierung sowie Bearbeitung vorhandener Medien. Beispiele umfassen Produktvisualisierung und Werbevarianten. Modellgrenzen, Rechte an Referenzen, Moderation und Ergebnisprüfung gehören zur Produktionsplanung. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "mediaArea": "Content und Redaktion",
+    "mediaPrimary": true,
+    "topics": [
+      "KI"
+    ],
+    "channels": [
+      "Social Media",
+      "Web und Fachportale",
+      "Video und Streaming"
+    ],
+    "related": [
+      "Unternehmen und Verwaltung"
+    ],
+    "relatedMediaAreas": [
+      "Audio, Video und Broadcast"
+    ]
+  },
+  {
+    "id": 800011,
+    "title": "Grok Voice API: Sprachagenten, Sprachausgabe und Transkription",
+    "provider": "SpaceXAI",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Sprach-KI für Kundenservice und Anwendungen",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/api/voice",
+    "note": "Die Übersicht unterscheidet Speech-to-Speech, Text-to-Speech und Speech-to-Text. Sprachdialoge, Transkription und Stimmenfunktionen haben unterschiedliche Integrations- und Nutzungsbedingungen; Telefonieanbindung und erforderliche Freigaben sind gesondert zu planen. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "mediaArea": "Audio, Video und Broadcast",
+    "mediaPrimary": false,
+    "topics": [
+      "KI"
+    ],
+    "channels": [
+      "Web und Fachportale"
+    ],
+    "related": [
+      "Medien und Öffentlichkeit"
+    ]
+  },
+  {
+    "id": 800012,
+    "title": "Grok Build: Coding-Agent für Softwareprojekte",
+    "provider": "SpaceXAI",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-gestützte Softwareentwicklung",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://docs.x.ai/build/overview",
+    "note": "Die Dokumentation beschreibt einen Coding-Agenten für interaktive Terminalarbeit, Skripte und Einbindung über ACP. Bei Einsatz im Unternehmen zählen Repository-Zugriff, Ausführungsrechte, Sandbox, Integrationen und Codeprüfung. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "related": [
+      "Unternehmen und Verwaltung"
+    ]
+  },
+  {
+    "id": 800013,
+    "title": "Grok Bot: KI-Mitarbeitende für Arbeitsabläufe",
+    "provider": "SpaceXAI",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-Agenten mit Anwendungszugriff und Routinen",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/bot",
+    "note": "Die Produktseite beschreibt Bots mit eigenem Cloud-Computer, Anwendungszugriff und wiederkehrenden Routinen. Zugänge und Pläne werden unter anderem über Grok und Cursor angeboten; Rechte, geteilte Anmeldungen und Aktionsfreigaben sind zu prüfen. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 800014,
+    "title": "Colossus: Infrastruktur für KI-Training",
+    "provider": "SpaceXAI",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-Trainingsinfrastruktur",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://x.ai/colossus",
+    "note": "Der Anbieter beschreibt Colossus als Infrastruktur für KI-Training. Die Übersichtsseite enthält unterschiedliche GPU-Zahlen; deshalb wird keine einheitliche aktuelle Kapazität übernommen. Eine allgemeine mietbare GPU-Cloud-Leistung wird daraus nicht abgeleitet. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 800015,
+    "title": "Team Bots: geteilte KI-Agenten mit Kontext, Werkzeugen und Memory",
+    "provider": "SpaceXAI",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Geteilte KI-Agenten für Unternehmensabläufe",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Produktmitteilung",
+    "url": "https://x.ai/news/team-bots",
+    "note": "Die Veröffentlichung vom 28. September 2026 beschreibt Team Bots mit gemeinsamen Fähigkeiten, Werkzeugen und Kontext. Integrationen und individuelle Gesprächskontexte werden unterschieden; die Anbieterbeispiele sind kein unabhängiger Wirksamkeitsnachweis. Die öffentliche Originalquelle wurde am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige Funktionsprüfung. Das Erfassungsdatum ist kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "datePublished": "2026-09-28"
+  },
+  {
+    "id": 800016,
+    "title": "Grokipedia: verlinktes Wissensangebot im xAI-Umfeld",
+    "provider": "SpaceXAI",
+    "space": "Medien und Öffentlichkeit",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Digitales Wissens- und Rechercheangebot",
+    "delivery": "Dokumentiertes Produkt- und Leistungsangebot",
+    "lifecycle": "Auswahl, Integration und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://grokipedia.com/",
+    "note": "SpaceXAI führt Grokipedia im Produktmenü neben Grok, Build, Imagine, Voice und Bot. Der Eintrag verlinkt das Angebot als Recherchebezug und stellt keine Faktenvalidierung seiner Artikel oder Bestätigung eines Unternehmensprodukts dar. Der Verweis ist im offiziellen Produktmenü von x.ai belegt. Grokipedia selbst war nicht lesbar; Artikel, Faktenqualität, Verfahren und Unternehmensfunktionen wurden nicht geprüft.",
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [],
+    "providerUrl": "https://x.ai/",
+    "addedAt": "2026-10-08",
+    "mediaArea": "Content und Redaktion",
+    "mediaPrimary": true,
+    "topics": [
+      "KI"
+    ],
+    "channels": [
+      "Web und Fachportale"
+    ],
+    "related": [
+      "Unternehmen und Verwaltung"
+    ]
+  }
+]

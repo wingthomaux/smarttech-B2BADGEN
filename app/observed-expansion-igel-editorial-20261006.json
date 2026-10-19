@@ -1,0 +1,156 @@
+[
+  {
+    "id": 770000,
+    "title": "Emergency Mode soll Endpunktzugriff nach Cyberangriffen sichern",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Endpoint-Wiederanlauf und Business Continuity",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.computerweekly.com/de/news/366649475/Emergency-Mode-soll-Endpunktzugriff-nach-Cyberangriffen-sichern",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Redaktioneller Nachrichtenbeitrag. Dual-Boot-Konfiguration, Management-Erreichbarkeit und verfügbare Anwendungen sind Voraussetzungen; Emergency Mode ersetzt weder Backups noch Windows-Bereinigung. Die Datumszeile bezeichnet die letzte Aktualisierung. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "ComputerWeekly"
+    ],
+    "datePublished": "2026-08-18",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": 770001,
+    "title": "IGEL baut Plattform für sicheren Endpoint weiter aus",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Adaptive Endpoint-Sicherheit und IT/OT",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.computerweekly.com/de/news/366645162/IGEL-baut-Plattform-fuer-sicheren-Endpoint-weiter-aus",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Redaktioneller Konferenzbericht. Ordnet Plattform, kontextbezogene Richtlinien, Hypervisor und OT ein; AI Armor wird im Artikel als in Entwicklung bezeichnet. Die Datumszeile bezeichnet die letzte Aktualisierung. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "ComputerWeekly"
+    ],
+    "datePublished": "2026-06-26",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": 770002,
+    "title": "Igel und Zscaler zielen auf Klinik-Endpunkte",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Gesundheit und Life Sciences",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Zero Trust und Endpoint-Resilienz für Kliniken",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/igel-und-zscaler-zielen-auf-klinik-endpunkte-a-8c3aeacc95a6f42a316d8f1b81dc0b84/",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Redaktioneller Nachrichtenbeitrag über gemeinsame Healthcare-Blaupausen: verteilte Kliniken, Remote-Zugriff und isolierte Wiederherstellung. Zscaler ist Architekturpartner; Herstellerangaben sind keine unabhängigen Wirksamkeitsnachweise. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert. Syndizierter Beitrag: Die kanonische Quelladresse verweist auf IP-Insider; die erreichbare Security-Insider-Fassung wird nur einmal erfasst.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "datePublished": "2026-06-23",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": 770003,
+    "title": "Sicherheit beginnt am Endgerät",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Präventive Endpoint-Sicherheit und Identitätsintegration",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Gastbeitrag",
+    "url": "https://www.security-insider.de/sicherheit-beginnt-am-endgeraet-a-1f93e81e926d7d30c471613567d5d1bb/",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Hersteller-Gastbeitrag von Matthias Haas, CTO von IGEL; keine unabhängige Redaktionsanalyse. Behandelt schreibgeschützte Betriebssysteme, modulare Bereitstellung und Identitätsintegration. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert. Syndizierter Beitrag: Die kanonische Quelladresse verweist auf IP-Insider; die erreichbare Security-Insider-Fassung wird nur einmal erfasst.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "datePublished": "2025-03-10",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": 770004,
+    "title": "Die Transformation des Endpoints",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Endpoint-Plattform, IT/OT und Partnerintegration",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/netzwerke-it-infrastruktur/die-transformation-des-endpoints-404969.html",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Redaktioneller Konferenzbericht mit Perspektiven von ACP, Bechtle, NetPlans und SVA. Beschreibt VDI, Cloud-Workspaces, Business Continuity und OT; Leistungs- und Einsparangaben bleiben den zitierten Herstellern bzw. Partnern zugeordnet. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "datePublished": "2026-06-29",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": 770005,
+    "title": "Igel kauft Mitbewerber Stratodesk",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Endpoint-Migration und Anbieterstrategie",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/markt/igel-kauft-mitbewerber-stratodesk-334006.html",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Redaktionelle Übernahmemeldung mit Relevanz für Migration und Support. Der damalige Artikel kündigt weitere Migrationsinformationen an; daraus werden keine aktuellen Supportzusagen abgeleitet. Anbieterfamilien bleiben getrennt. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "datePublished": "2025-06-04",
+    "addedAt": "2026-10-06"
+  },
+  {
+    "id": 770006,
+    "title": "Island Enterprise Browser im Igel-App-Portal verfügbar",
+    "provider": "IGEL",
+    "providerUrl": "https://www.igel.de/",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Enterprise Browser und SaaS-Zugriff",
+    "delivery": "Öffentlich zugänglicher Fachbeitrag",
+    "lifecycle": "Bewertung und Auswahl",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/netzwerke-it-infrastruktur/island-enterprise-browser-im-igel-app-portal-verfuegbar-331373.html",
+    "note": "Originalartikel, Datum, Autorenschaft und IGEL-Bezug am 06.10.2026 geprüft. Redaktionelle Partnerschaftsmeldung aus 2024 zu IGEL Ready und Island. Historischer Veröffentlichungskontext bleibt sichtbar; beworbene Sicherheitswirkungen werden nicht als unabhängig verifiziert übernommen. Als beobachtete Fachpublikation aufgenommen; verlinkte Downloads nicht zusätzlich validiert.",
+    "score": 78,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "datePublished": "2024-09-19",
+    "addedAt": "2026-10-06"
+  }
+]

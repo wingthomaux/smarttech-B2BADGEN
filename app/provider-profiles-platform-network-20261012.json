@@ -1,0 +1,757 @@
+{
+  "Microsoft": {
+    "officialUrl": "https://www.microsoft.com/en-us/about",
+    "officialLabel": {
+      "de": "Microsoft: Unternehmens- und Produktquellen",
+      "en": "Microsoft: company and product sources"
+    },
+    "metaDescription": {
+      "de": "Microsoft entwickelt Cloud-Plattformen, Unternehmenssoftware und Sicherheitslösungen.",
+      "en": "Microsoft develops cloud platforms, enterprise software and security solutions."
+    },
+    "summary": {
+      "de": "Microsoft entwickelt Cloud-Plattformen, Unternehmenssoftware und Sicherheitslösungen. Azure adressiert Compute, Daten, Anwendungen und KI; Microsoft 365 verbindet Produktivität und Zusammenarbeit. Dynamics 365 unterstützt CRM- und ERP-Prozesse, Power Platform die Entwicklung und Automatisierung von Anwendungen. Entra steuert Identitäten und Zugriffe, Purview Daten-Governance und Compliance; Copilot ergänzt KI-Funktionen in unterschiedlichen Produkten. Für Unternehmen zählen vorhandene Lizenzen, Mandantenstruktur, Datenstandorte, Berechtigungen, Integration und Betriebsverantwortung. Partner ergänzen das Portfolio mit Backup, Governance, Hardware, Konnektoren und Umsetzung. Veeam- oder Druva-Angebote für Microsoft 365 sind deshalb Angebote dieser Anbieter; eine Azure-basierte Anwendung bleibt das Produkt ihres Herstellers. Die verlinkten Artikel unterscheiden Plattformnutzung, technische Integration und konkrete Kooperationen. Eine Nennung von Microsoft begründet weder eine Zertifizierung noch den Status eines Umsetzungspartners.",
+      "en": "Microsoft develops cloud platforms, enterprise software and security solutions. Azure addresses compute, data, applications and AI; Microsoft 365 combines productivity and collaboration. Dynamics 365 supports CRM and ERP processes, while Power Platform enables application development and automation. Entra governs identities and access, Purview data governance and compliance; Copilot adds AI capabilities across distinct products. Businesses should assess existing licenses, tenant structures, data locations, permissions, integration and operational ownership. Partners complement the portfolio with backup, governance, hardware, connectors and implementation. Veeam or Druva offerings for Microsoft 365 therefore remain those vendors’ products; an Azure-based application remains its manufacturer’s product. Linked articles distinguish platform use, technical integration and specific collaboration. Mentioning Microsoft establishes neither certification nor implementation-partner status."
+    },
+    "focus": {
+      "de": [
+        "Azure und hybride Infrastruktur",
+        "Microsoft 365 und Zusammenarbeit",
+        "Dynamics 365: CRM und ERP",
+        "Power Platform und Automatisierung",
+        "Entra: Identität und Zugriff",
+        "Purview: Daten-Governance",
+        "Copilot und KI-Anwendungen",
+        "Partnerlösungen für Backup und Integration"
+      ],
+      "en": [
+        "Azure and hybrid infrastructure",
+        "Microsoft 365 and collaboration",
+        "Dynamics 365: CRM and ERP",
+        "Power Platform and automation",
+        "Entra: identity and access",
+        "Purview: data governance",
+        "Copilot and AI applications",
+        "Partner solutions for backup and integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO, CTO und IT-Leitung",
+        "Cloud- und Enterprise-Architektur",
+        "Workplace- und Microsoft-365-Teams",
+        "Identity- und Security-Verantwortliche",
+        "ERP-, CRM- und Prozessverantwortliche",
+        "Entwicklung und KI-Teams",
+        "Datenschutz und Compliance",
+        "IT-Einkauf und Lizenzmanagement"
+      ],
+      "en": [
+        "CIO, CTO and IT leadership",
+        "Cloud and enterprise architecture",
+        "Workplace and Microsoft 365 teams",
+        "Identity and security owners",
+        "ERP, CRM and process owners",
+        "Engineering and AI teams",
+        "Privacy and compliance",
+        "IT procurement and licensing"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://azure.microsoft.com/en-us/products/",
+        "label": {
+          "de": "Azure: Produktübersicht",
+          "en": "Azure: product overview"
+        }
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-365-enterprise",
+        "label": {
+          "de": "Microsoft 365 für Unternehmen",
+          "en": "Microsoft 365 for enterprises"
+        }
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/dynamics-365",
+        "label": {
+          "de": "Dynamics 365",
+          "en": "Dynamics 365"
+        }
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/security",
+        "label": {
+          "de": "Microsoft Security, Entra und Purview",
+          "en": "Microsoft Security, Entra and Purview"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Verknüpfte Beiträge zeigen belegte Produkt-, Integrations- oder Geschäftsbezüge. Die Leistungen des ursprünglichen Anbieters und die Verfügbarkeit einzelner Angebote bleiben getrennt zu prüfen. Die Prüfung des Unternehmensbezugs ändert nicht automatisch den vollständigen Prüfstatus eines Wissensobjekts.",
+      "en": "Linked articles show documented product, integration or business relationships. The original provider’s services and individual offer availability require separate assessment. Reviewing the company relationship does not automatically change the full review status of a knowledge item."
+    },
+    "aliases": [
+      "Microsoft Corporation"
+    ],
+    "relatedProviders": [
+      {
+        "name": "Veeam",
+        "context": {
+          "de": "Die öffentliche Veeam-Beschreibung behandelt Veeam Data Cloud und Microsoft-Integrationen. Veeam bleibt Anbieter der Backup-Lösung.",
+          "en": "The public Veeam description covers Veeam Data Cloud and Microsoft integrations. Veeam remains the backup vendor."
+        }
+      },
+      {
+        "name": "Druva",
+        "context": {
+          "de": "Das Druva-Playbook adressiert Cyberresilienz und Wiederherstellung für Microsoft 365. Dies belegt den Produktbezug, keinen pauschalen Partnerstatus.",
+          "en": "The Druva playbook addresses Microsoft 365 cyber resilience and recovery. This establishes a product relationship rather than blanket partner status."
+        }
+      },
+      {
+        "name": "Dell Technologies",
+        "context": {
+          "de": "Der Dell-Lösungsüberblick behandelt Azure Local mit Dell PowerStore; Hardware- und Cloud-Komponenten bleiben getrennte Leistungen.",
+          "en": "The Dell solution brief covers Azure Local with Dell PowerStore; hardware and cloud components remain distinct offerings."
+        }
+      },
+      {
+        "name": "Reply",
+        "context": {
+          "de": "Reply meldet das Microsoft-Frontier-Partner-Badge im AI Cloud Partner Program. Der Beleg betrifft die genannte Auszeichnung und den Zeitpunkt der Meldung.",
+          "en": "Reply reports a Microsoft Frontier Partner badge in the AI Cloud Partner Program. Evidence applies to the stated recognition and announcement date."
+        }
+      },
+      {
+        "name": "Hyland",
+        "context": {
+          "de": "Hyland kündigt die Content Innovation Cloud auf Azure an. Die Meldung wird als angekündigte Bereitstellung eingeordnet, nicht als allgemeiner Verfügbarkeitsnachweis.",
+          "en": "Hyland announces Content Innovation Cloud delivery on Azure. The announcement is not treated as proof of universal availability."
+        }
+      },
+      {
+        "name": "Keeper Security",
+        "context": {
+          "de": "Keeper beschreibt einen zertifizierten Power-Platform-Konnektor für Secrets Manager. Die Zertifizierung gilt für diesen Konnektor.",
+          "en": "Keeper describes a certified Power Platform connector for Secrets Manager. Certification applies to this connector."
+        }
+      },
+      {
+        "name": "Talkdesk Germany",
+        "context": {
+          "de": "Talkdesk beschreibt eine Teams-Integration und CXA im Azure Marketplace. Talkdesk bleibt Anbieter der Contact-Center-Lösung.",
+          "en": "Talkdesk describes a Teams integration and CXA on Azure Marketplace. Talkdesk remains the contact-center vendor."
+        }
+      },
+      {
+        "name": "KnowBe4 Germany",
+        "context": {
+          "de": "Die KnowBe4-Produktseite behandelt E-Mail-Sicherheit für Microsoft 365. Der Bezug belegt eine ergänzende Lösung, keine Microsoft-eigene Leistung.",
+          "en": "The KnowBe4 product page covers email security for Microsoft 365. This is a complementary vendor solution rather than a Microsoft service."
+        }
+      },
+      {
+        "name": "CoreView",
+        "context": {
+          "de": "Die öffentliche CoreView-Studienbeschreibung behandelt Identitäts-, Konfigurations- und KI-Risiken in Microsoft 365. Der Bericht stammt von CoreView.",
+          "en": "The public CoreView report description addresses identity, configuration and AI risks in Microsoft 365. CoreView is the report provider."
+        }
+      }
+    ]
+  },
+  "NVIDIA": {
+    "officialUrl": "https://www.nvidia.com/en-us/data-center/",
+    "officialLabel": {
+      "de": "NVIDIA: Rechenzentrums- und KI-Plattform",
+      "en": "NVIDIA: data-center and AI platform"
+    },
+    "metaDescription": {
+      "de": "NVIDIA entwickelt beschleunigte Rechenplattformen aus GPUs, CPUs, Netzwerktechnik und Software für KI, HPC, Datenanalyse und Visualisierung.",
+      "en": "NVIDIA develops accelerated computing platforms combining GPUs, CPUs, networking and software for AI, HPC, analytics and visualization."
+    },
+    "summary": {
+      "de": "NVIDIA entwickelt beschleunigte Rechenplattformen aus GPUs, CPUs, Netzwerktechnik und Software für KI, HPC, Datenanalyse und Visualisierung. DGX- und HGX-Plattformen sowie GPU- und Interconnect-Technologien adressieren Rechenzentren; Omniverse unterstützt Simulation und digitale Zwillinge, Edge-Angebote die Verarbeitung nahe am Einsatzort. Partner verbinden diese Bausteine mit Servern, Datenplattformen, Cloud-Betrieb und branchenspezifischen Anwendungen. Die Verknüpfungen zu HPE, Akamai, VAST Data, Reply oder NavVis beschreiben deshalb unterschiedliche Rollen im Gesamtsystem. Käufer sollten Workload, Speicher, Netzwerk, Energieversorgung, Kühlung, Softwarelizenzen und Support gemeinsam bewerten. Bei Inferenz zählen Antwortlatenz, Durchsatz und verfügbare Kapazität am benötigten Standort. Ankündigungen künftiger Plattformen, Referenzarchitekturen und produktiv verfügbare Konfigurationen bleiben voneinander getrennt.",
+      "en": "NVIDIA develops accelerated computing platforms combining GPUs, CPUs, networking and software for AI, HPC, analytics and visualization. DGX and HGX platforms, GPUs and interconnect technologies address data centers; Omniverse supports simulation and digital twins, while edge offerings process data near its point of use. Partners combine these components with servers, data platforms, cloud operations and industry applications. Links to HPE, Akamai, VAST Data, Reply or NavVis therefore describe distinct roles in the overall system. Buyers should assess workloads, memory, networking, power, cooling, software licenses and support together. Inference depends on response latency, throughput and available capacity at the required location. Future platform announcements, reference architectures and production-ready configurations remain distinct."
+    },
+    "focus": {
+      "de": [
+        "GPU- und CPU-beschleunigtes Computing",
+        "KI-Training und Inferenz",
+        "DGX und HGX",
+        "Interconnect und Netzwerktechnik",
+        "KI-Software und Modellbereitstellung",
+        "Omniverse und digitale Zwillinge",
+        "HPC und wissenschaftliches Rechnen",
+        "Edge-KI und Partnerinfrastruktur"
+      ],
+      "en": [
+        "GPU- and CPU-accelerated computing",
+        "AI training and inference",
+        "DGX and HGX",
+        "Interconnect and networking",
+        "AI software and model deployment",
+        "Omniverse and digital twins",
+        "HPC and scientific computing",
+        "Edge AI and partner infrastructure"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "KI- und HPC-Infrastruktur",
+        "Cloud- und Plattformarchitektur",
+        "Rechenzentrumsbetrieb",
+        "KI- und MLOps-Teams",
+        "Simulation und Engineering",
+        "Forschung und Hochschul-IT",
+        "IT-Einkauf und Systemintegration",
+        "CIO und CTO"
+      ],
+      "en": [
+        "AI and HPC infrastructure",
+        "Cloud and platform architecture",
+        "Data-center operations",
+        "AI and MLOps teams",
+        "Simulation and engineering",
+        "Research and university IT",
+        "IT procurement and systems integration",
+        "CIO and CTO"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.nvidia.com/en-us/data-center/",
+        "label": {
+          "de": "NVIDIA: Plattform und Partnerbereitstellung",
+          "en": "NVIDIA: platform and partner delivery"
+        }
+      },
+      {
+        "url": "https://www.nvidia.com/en-us/solutions/",
+        "label": {
+          "de": "NVIDIA: Einsatzfelder",
+          "en": "NVIDIA: use cases"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Verknüpfte Beiträge zeigen belegte Produkt-, Integrations- oder Geschäftsbezüge. Die Leistungen des ursprünglichen Anbieters und die Verfügbarkeit einzelner Angebote bleiben getrennt zu prüfen. Die Prüfung des Unternehmensbezugs ändert nicht automatisch den vollständigen Prüfstatus eines Wissensobjekts.",
+      "en": "Linked articles show documented product, integration or business relationships. The original provider’s services and individual offer availability require separate assessment. Reviewing the company relationship does not automatically change the full review status of a knowledge item."
+    },
+    "aliases": [
+      "NVIDIA Corporation"
+    ],
+    "relatedProviders": [
+      {
+        "name": "SVA",
+        "context": {
+          "de": "SVA beschreibt VMware Private AI Services mit NVIDIA für Hochschulen. NVIDIA liefert einen Technologiebaustein, SVA die Umsetzung.",
+          "en": "SVA describes VMware Private AI Services with NVIDIA for universities. NVIDIA supplies technology while SVA delivers implementation."
+        }
+      },
+      {
+        "name": "Reply",
+        "context": {
+          "de": "Reply beschreibt NVIDIA Omniverse und Isaac Sim für industrielle KI und digitale Zwillinge. Eine Konferenzteilnahme allein ist nicht die Begründung der Verknüpfung.",
+          "en": "Reply describes NVIDIA Omniverse and Isaac Sim for industrial AI and digital twins. Conference participation alone is not the basis for association."
+        }
+      },
+      {
+        "name": "Hewlett Packard Enterprise",
+        "context": {
+          "de": "Die HPE-Whitepaperbeschreibung nennt NVIDIA AI Computing by HPE. HPE-Lösung und NVIDIA-Technologie werden als gemeinsames Angebot eingeordnet.",
+          "en": "The HPE white-paper description names NVIDIA AI Computing by HPE. The HPE solution and NVIDIA technology are classified as a joint offering."
+        }
+      },
+      {
+        "name": "NavVis",
+        "context": {
+          "de": "NavVis beschreibt Zusammenarbeit mit NVIDIA und KION für digitale Zwillinge und industrielle KI.",
+          "en": "NavVis describes collaboration with NVIDIA and KION on digital twins and industrial AI."
+        }
+      },
+      {
+        "name": "VAST Data",
+        "context": {
+          "de": "VAST Data beschreibt einen NVIDIA-basierten KI-Datenstack und eine erweiterte Kooperation. Ankündigung und tatsächliche Produktverfügbarkeit sind getrennt zu prüfen.",
+          "en": "VAST Data describes an NVIDIA-based AI data stack and expanded collaboration. Announcement and actual product availability require separate assessment."
+        }
+      },
+      {
+        "name": "Vultr",
+        "context": {
+          "de": "Vultr beschreibt NVIDIA Dynamo und Nemotron; Vera-Rubin-Unterstützung wird für Q4 2026 angekündigt. Der Termin ist kein Nachweis bereits verfügbarer Rubin-Kapazität.",
+          "en": "Vultr describes NVIDIA Dynamo and Nemotron, with Vera Rubin support planned for Q4 2026. The date does not establish already available Rubin capacity."
+        }
+      },
+      {
+        "name": "Mirantis",
+        "context": {
+          "de": "Mirantis kündigt Unterstützung des NVIDIA NCX Infra Controllers in k0rdent AI an. Der Beleg betrifft die beschriebenen Komponenten und Funktionen.",
+          "en": "Mirantis announces NVIDIA NCX Infra Controller support in k0rdent AI. Evidence concerns the stated components and features."
+        }
+      },
+      {
+        "name": "Akamai",
+        "context": {
+          "de": "Akamai beschreibt NVIDIA RTX PRO 6000 Blackwell und AI-Enterprise-Komponenten für Inference Cloud; Akamai betreibt die Cloud-Plattform.",
+          "en": "Akamai describes NVIDIA RTX PRO 6000 Blackwell and AI Enterprise components for Inference Cloud; Akamai operates the cloud platform."
+        }
+      },
+      {
+        "name": "TD SYNNEX",
+        "context": {
+          "de": "TD SYNNEX beschreibt eine Secure AI Factory mit NVIDIA- und Cisco-Technologie für Channel-Partner.",
+          "en": "TD SYNNEX describes a Secure AI Factory combining NVIDIA and Cisco technology for channel partners."
+        }
+      }
+    ]
+  },
+  "Google Cloud": {
+    "officialUrl": "https://cloud.google.com/products",
+    "officialLabel": {
+      "de": "Google Cloud: Produkte und Dienste",
+      "en": "Google Cloud: products and services"
+    },
+    "metaDescription": {
+      "de": "Google Cloud stellt Infrastruktur, Datenplattformen, KI-Dienste und Werkzeuge für Anwendungen bereit.",
+      "en": "Google Cloud provides infrastructure, data platforms, AI services and application tooling."
+    },
+    "summary": {
+      "de": "Google Cloud stellt Infrastruktur, Datenplattformen, KI-Dienste und Werkzeuge für Anwendungen bereit. BigQuery unterstützt Datenanalyse und die Verbindung von Daten- und KI-Workflows. Die aktuell unter der früheren Vertex-AI-Adresse erreichbare Gemini-Plattform beschreibt Entwicklung, Bereitstellung, Evaluation und Governance von KI-Modellen und Agenten. Compute-, Speicher- und Kubernetes-Dienste bilden weitere Architekturebenen. Partner wie Fortinet ergänzen Sicherheitsfunktionen, Fivetran Datenintegration und Reply Umsetzung und Befähigung. Ihre Leistungen werden als eigene Angebote mit einem belegten Google-Cloud-Bezug verlinkt. Bei der Auswahl sind Datenstandorte, Identitäten, Kosten, Netzwerkanbindung, Betriebsmodell und Integrationsaufwand je Dienst zu prüfen. Eine Partnerauszeichnung gilt für die genannte Kategorie und das genannte Jahr; sie bestätigt keine beliebige technische Leistung. Historische Produktnamen in Artikeln bleiben nachvollziehbar.",
+      "en": "Google Cloud provides infrastructure, data platforms, AI services and application tooling. BigQuery supports analytics and connected data and AI workflows. The Gemini platform currently reached through the former Vertex AI address describes development, deployment, evaluation and governance of AI models and agents. Compute, storage and Kubernetes services form additional architectural layers. Partners such as Fortinet add security, Fivetran data integration and Reply implementation and enablement. Their services remain separate offerings linked through documented Google Cloud relationships. Selection requires service-specific assessment of data locations, identities, costs, connectivity, operating models and integration effort. A partner award applies to its stated category and year rather than certifying every technical service. Historical product names in articles remain traceable."
+    },
+    "focus": {
+      "de": [
+        "Cloud-Infrastruktur und Anwendungen",
+        "BigQuery und Datenanalyse",
+        "KI-Modelle und Gemini-Plattform",
+        "Kubernetes und Cloud-Betrieb",
+        "Datenintegration über Partner",
+        "Cloud-Sicherheit und Zugriffssteuerung",
+        "MLOps und Modellevaluation",
+        "Migration und Umsetzungspartner"
+      ],
+      "en": [
+        "Cloud infrastructure and applications",
+        "BigQuery and analytics",
+        "AI models and Gemini platform",
+        "Kubernetes and cloud operations",
+        "Partner data integration",
+        "Cloud security and access control",
+        "MLOps and model evaluation",
+        "Migration and implementation partners"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und Cloud-Architektur",
+        "Data Engineering und Analytics",
+        "KI- und MLOps-Teams",
+        "Plattform- und Entwicklungsteams",
+        "CISO und Cloud-Security",
+        "FinOps und IT-Einkauf",
+        "Daten-Governance und Datenschutz",
+        "Migration und Systemintegration"
+      ],
+      "en": [
+        "CIO and cloud architecture",
+        "Data engineering and analytics",
+        "AI and MLOps teams",
+        "Platform and engineering teams",
+        "CISO and cloud security",
+        "FinOps and IT procurement",
+        "Data governance and privacy",
+        "Migration and systems integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/products",
+        "label": {
+          "de": "Google Cloud: Produktportfolio",
+          "en": "Google Cloud: product portfolio"
+        }
+      },
+      {
+        "url": "https://cloud.google.com/bigquery",
+        "label": {
+          "de": "BigQuery",
+          "en": "BigQuery"
+        }
+      },
+      {
+        "url": "https://cloud.google.com/products/gemini-enterprise-agent-platform",
+        "label": {
+          "de": "Gemini-Plattform: aktuelle KI-Quelle",
+          "en": "Gemini platform: current AI source"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Verknüpfte Beiträge zeigen belegte Produkt-, Integrations- oder Geschäftsbezüge. Die Leistungen des ursprünglichen Anbieters und die Verfügbarkeit einzelner Angebote bleiben getrennt zu prüfen. Die Prüfung des Unternehmensbezugs ändert nicht automatisch den vollständigen Prüfstatus eines Wissensobjekts.",
+      "en": "Linked articles show documented product, integration or business relationships. The original provider’s services and individual offer availability require separate assessment. Reviewing the company relationship does not automatically change the full review status of a knowledge item."
+    },
+    "relatedProviders": [
+      {
+        "name": "Fortinet",
+        "context": {
+          "de": "Die Fortinet-Lösungsübersicht behandelt FortiSASE für Google Cloud; Fortinet bleibt Anbieter des Sicherheitsdienstes.",
+          "en": "The Fortinet solution brief covers FortiSASE for Google Cloud; Fortinet remains the security service vendor."
+        }
+      },
+      {
+        "name": "Reply",
+        "context": {
+          "de": "Der Reply-Beitrag beschreibt NVIDIA Isaac Sim auf Google Cloud G4-Instanzen für cloudbasierte Robotersimulation.",
+          "en": "The Reply article describes NVIDIA Isaac Sim on Google Cloud G4 instances for cloud-based robotics simulation."
+        }
+      },
+      {
+        "name": "Fivetran",
+        "context": {
+          "de": "Fivetran beschreibt die Synchronisierung von Kundendaten nach BigQuery; Fivetran liefert die Datenintegration, Google Cloud die Zielplattform.",
+          "en": "Fivetran describes synchronizing customer data into BigQuery; Fivetran supplies integration and Google Cloud the target platform."
+        }
+      }
+    ]
+  },
+  "SAP": {
+    "officialUrl": "https://www.sap.com/products.html",
+    "officialLabel": {
+      "de": "SAP: Unternehmenssoftware und Plattformen",
+      "en": "SAP: enterprise software and platforms"
+    },
+    "metaDescription": {
+      "de": "SAP verbindet Unternehmensprozesse über ERP, Fachanwendungen, Daten und Integration.",
+      "en": "SAP connects enterprise processes through ERP, business applications, data and integration."
+    },
+    "summary": {
+      "de": "SAP verbindet Unternehmensprozesse über ERP, Fachanwendungen, Daten und Integration. Cloud ERP adressiert Finanzen, Beschaffung und Lieferkette; die Business Technology Platform unterstützt Entwicklung, Automatisierung und Integration. Ergänzende Angebote umfassen Business AI, Business Data Cloud, Personalmanagement, Customer Experience und Geschäftsnetzwerke. SAP GROW, RISE with SAP und Business One stehen für unterschiedliche Einsatz- und Transformationskontexte. Im Ökosystem übernehmen Anbieter wie Natuvion, cbs, Sycor oder FIS Umsetzung und Erweiterung; Onapsis adressiert die Absicherung von SAP-Landschaften. Eine technische Integration oder Zertifizierung gilt jeweils für das bezeichnete Produkt. Sie ist keine pauschale Freigabe des gesamten Partnerportfolios. Käufer sollten Ausgangssysteme, Zielarchitektur, Datenmigration, Erweiterungen, Betriebsverantwortung und Lizenzfolgen gemeinsam prüfen. Die bestehenden SAP-Concur-Inhalte und andere Geschäftsbereiche behalten ihre eigene Identität und Quellenzuordnung.",
+      "en": "SAP connects enterprise processes through ERP, business applications, data and integration. Cloud ERP addresses finance, procurement and supply chains; the Business Technology Platform supports development, automation and integration. Complementary offerings include Business AI, Business Data Cloud, HR, customer experience and business networks. SAP GROW, RISE with SAP and Business One serve different adoption and transformation contexts. Ecosystem companies such as Natuvion, cbs, Sycor or FIS deliver implementation and extensions; Onapsis addresses SAP landscape security. Technical integration or certification applies to the designated product rather than approving an entire partner portfolio. Buyers should assess source systems, target architecture, data migration, extensions, operational ownership and licensing implications together. Existing SAP Concur content and other business units retain their own identities and source attribution."
+    },
+    "focus": {
+      "de": [
+        "Cloud ERP und Unternehmensprozesse",
+        "SAP GROW und RISE with SAP",
+        "SAP Business One",
+        "Business Technology Platform",
+        "Business AI und Business Data Cloud",
+        "Integration und Prozessautomatisierung",
+        "Transformation und Partnererweiterungen",
+        "Absicherung von SAP-Landschaften"
+      ],
+      "en": [
+        "Cloud ERP and enterprise processes",
+        "SAP GROW and RISE with SAP",
+        "SAP Business One",
+        "Business Technology Platform",
+        "Business AI and Business Data Cloud",
+        "Integration and process automation",
+        "Transformation and partner extensions",
+        "SAP landscape security"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und ERP-Verantwortliche",
+        "Finanzen und Controlling",
+        "Einkauf und Supply Chain",
+        "Daten- und Integrationsarchitektur",
+        "SAP-Basis und Betrieb",
+        "Informationssicherheit",
+        "Fachbereichsleitung und Transformation",
+        "IT-Einkauf und Lizenzmanagement"
+      ],
+      "en": [
+        "CIO and ERP owners",
+        "Finance and controlling",
+        "Procurement and supply chain",
+        "Data and integration architecture",
+        "SAP Basis and operations",
+        "Information security",
+        "Business leadership and transformation",
+        "IT procurement and licensing"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.sap.com/products.html",
+        "label": {
+          "de": "SAP: Produktfamilien",
+          "en": "SAP: product families"
+        }
+      },
+      {
+        "url": "https://www.sap.com/products/erp.html",
+        "label": {
+          "de": "SAP Cloud ERP",
+          "en": "SAP Cloud ERP"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Verknüpfte Beiträge zeigen belegte Produkt-, Integrations- oder Geschäftsbezüge. Die Leistungen des ursprünglichen Anbieters und die Verfügbarkeit einzelner Angebote bleiben getrennt zu prüfen. Die Prüfung des Unternehmensbezugs ändert nicht automatisch den vollständigen Prüfstatus eines Wissensobjekts.",
+      "en": "Linked articles show documented product, integration or business relationships. The original provider’s services and individual offer availability require separate assessment. Reviewing the company relationship does not automatically change the full review status of a knowledge item."
+    },
+    "relatedProviders": [
+      {
+        "name": "Onapsis",
+        "context": {
+          "de": "Onapsis kündigt Agentic Gateway für SAP-Sicherheit an. Die LLM-Beispiele in der Meldung werden nicht als bereits produktive Partnerschaften zusätzlich zugeordnet.",
+          "en": "Onapsis announces Agentic Gateway for SAP security. Listed LLM examples are not additionally attributed as existing production partnerships."
+        }
+      },
+      {
+        "name": "Natuvion",
+        "context": {
+          "de": "Die Natuvion-Whitepaperbeschreibung behandelt Migrationsansätze für SAP S/4HANA; Natuvion bleibt Anbieter des Transformationsangebots.",
+          "en": "The Natuvion white-paper description addresses SAP S/4HANA migration approaches; Natuvion remains the transformation provider."
+        }
+      },
+      {
+        "name": "aktivweb System- und Datentechnik",
+        "context": {
+          "de": "aktivweb beschreibt die DOCBOX-Integration in SAP Business One gemeinsam mit WS-Informatik. Der Beleg betrifft diese Produktintegration.",
+          "en": "aktivweb describes DOCBOX integration with SAP Business One together with WS-Informatik. Evidence applies to this product integration."
+        }
+      },
+      {
+        "name": "cbs Corporate Business Solutions",
+        "context": {
+          "de": "cbs meldet die Zertifizierung des EA Enterprise Analyzer als Built with SAP Business Technology Platform; keine pauschale Zertifizierung aller cbs-Leistungen.",
+          "en": "cbs reports its EA Enterprise Analyzer certification as Built with SAP Business Technology Platform; this does not certify all cbs services."
+        }
+      },
+      {
+        "name": "Sycor",
+        "context": {
+          "de": "Die Sycor-Whitepaperbeschreibung behandelt SAP BTP für mittelständische Unternehmen. Daraus wird kein eigener SAP-Herstellerstatus abgeleitet.",
+          "en": "The Sycor white-paper description covers SAP BTP for midsize businesses. This does not make Sycor the SAP product manufacturer."
+        }
+      },
+      {
+        "name": "FIS Informationssysteme und Consulting",
+        "context": {
+          "de": "FIS beschreibt die SAP-S/4HANA-Transformation bei STARK Deutschland. FIS ist Umsetzungspartner, SAP der Plattformanbieter.",
+          "en": "FIS describes SAP S/4HANA transformation at STARK Deutschland. FIS is the implementation provider and SAP supplies the platform."
+        }
+      },
+      {
+        "name": "Camunda Services",
+        "context": {
+          "de": "Die öffentliche Camunda-Webcastbeschreibung behandelt Prozessarchitektur zur Verbesserung von SAP-Prozessen. Die Aufzeichnung selbst wurde nicht abgerufen.",
+          "en": "The public Camunda webcast description covers process architecture for improving SAP processes. The recording itself was not retrieved."
+        }
+      }
+    ]
+  },
+  "Amazon Web Services EMEA SARL, Niederlassung Deutschland": {
+    "officialUrl": "https://aws.amazon.com/products/",
+    "officialLabel": {
+      "de": "AWS: Cloud-Produkte und Partnerökosystem",
+      "en": "AWS: cloud products and partner ecosystem"
+    },
+    "metaDescription": {
+      "de": "Amazon Web Services bietet Cloud-Infrastruktur und Plattformdienste für Anwendungen, Daten und KI.",
+      "en": "Amazon Web Services provides cloud infrastructure and platform services for applications, data and AI."
+    },
+    "summary": {
+      "de": "Amazon Web Services bietet Cloud-Infrastruktur und Plattformdienste für Anwendungen, Daten und KI. Zum Portfolio gehören EC2 für Compute, S3 für Speicher, Datenbankdienste und Amazon Bedrock für generative KI und Agenten. Unternehmen beziehen Leistungen direkt oder ergänzen sie um Partnerprodukte, Implementierung und Betrieb. Reply adressiert Cloud-Transformation, Veeam Datensicherung in AWS-Umgebungen, Vodafone eine Cloud-Kooperation; Siemens-Inhalte behandeln die Nutzung von AWS-Infrastruktur für HPC. Diese Beziehungen bezeichnen unterschiedliche Angebote und Zuständigkeiten. Die vorhandene deutsche Niederlassungsbezeichnung bleibt als Katalogidentität erhalten und bedeutet keine ausschließliche lokale technische Verantwortung für globale AWS-Produkte. Für die Auswahl zählen Regionen, Datenhaltung, Konten- und Identitätsstruktur, Kosten, Resilienz und geteilte Sicherheitsverantwortung. Partnerstatus, Marketplace-Verfügbarkeit und technische Kompatibilität müssen jeweils anhand konkreter Quellen und Angebote geprüft werden.",
+      "en": "Amazon Web Services provides cloud infrastructure and platform services for applications, data and AI. Its portfolio includes EC2 compute, S3 storage, databases and Amazon Bedrock for generative AI and agents. Businesses procure services directly or add partner products, implementation and operations. Reply addresses cloud transformation, Veeam backup in AWS environments, Vodafone a cloud collaboration, and Siemens content the use of AWS infrastructure for HPC. These relationships describe different offerings and responsibilities. The existing German branch designation remains the catalogue identity and does not imply exclusive local technical ownership of global AWS products. Selection depends on regions, data handling, account and identity structures, costs, resilience and shared security responsibility. Partner status, marketplace availability and technical compatibility require evidence for each specific source and offer."
+    },
+    "focus": {
+      "de": [
+        "EC2 und Cloud-Compute",
+        "S3 und Speicherdienste",
+        "Datenbanken und Datenplattformen",
+        "Amazon Bedrock und KI-Anwendungen",
+        "Hybrid-Cloud und Resilienz",
+        "Migration und Umsetzungspartner",
+        "Backup- und Integrationslösungen",
+        "Sicherheit und Kostenkontrolle"
+      ],
+      "en": [
+        "EC2 and cloud compute",
+        "S3 and storage services",
+        "Databases and data platforms",
+        "Amazon Bedrock and AI applications",
+        "Hybrid cloud and resilience",
+        "Migration and implementation partners",
+        "Backup and integration solutions",
+        "Security and cost control"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und Cloud-Architektur",
+        "Plattform- und Entwicklungsteams",
+        "Daten- und KI-Verantwortliche",
+        "CISO und Cloud-Security",
+        "Backup und Business Continuity",
+        "Migration und IT-Betrieb",
+        "FinOps und IT-Einkauf",
+        "Datenschutz und Governance"
+      ],
+      "en": [
+        "CIO and cloud architecture",
+        "Platform and engineering teams",
+        "Data and AI owners",
+        "CISO and cloud security",
+        "Backup and business continuity",
+        "Migration and IT operations",
+        "FinOps and IT procurement",
+        "Privacy and governance"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://aws.amazon.com/products/",
+        "label": {
+          "de": "AWS: Produktportfolio",
+          "en": "AWS: product portfolio"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Verknüpfte Beiträge zeigen belegte Produkt-, Integrations- oder Geschäftsbezüge. Die Leistungen des ursprünglichen Anbieters und die Verfügbarkeit einzelner Angebote bleiben getrennt zu prüfen. Die Prüfung des Unternehmensbezugs ändert nicht automatisch den vollständigen Prüfstatus eines Wissensobjekts.",
+      "en": "Linked articles show documented product, integration or business relationships. The original provider’s services and individual offer availability require separate assessment. Reviewing the company relationship does not automatically change the full review status of a knowledge item."
+    },
+    "aliases": [
+      "AWS",
+      "Amazon Web Services"
+    ],
+    "relatedProviders": [
+      {
+        "name": "Veeam",
+        "context": {
+          "de": "Die Veeam-Webinarbeschreibung behandelt Datensicherung über lokale und AWS-Umgebungen. Der Standort jeder einzelnen Veeam-Komponente wird daraus nicht abgeleitet.",
+          "en": "The Veeam webinar description covers backup across on-premises and AWS environments. It does not establish the hosting location of every Veeam component."
+        }
+      },
+      {
+        "name": "Reply",
+        "context": {
+          "de": "Reply beschreibt The AI Fast Lane for the Industrial Edge powered by NVIDIA on AWS; AWS ist die Cloud-Infrastruktur der gezeigten Lösung.",
+          "en": "Reply describes The AI Fast Lane for the Industrial Edge powered by NVIDIA on AWS; AWS supplies the showcased solution’s cloud infrastructure."
+        }
+      },
+      {
+        "name": "Siemens Digital Industries Software",
+        "context": {
+          "de": "Die aktuell erreichbare Siemens-Zielseite beschreibt Simcenter X auf AWS-Infrastruktur. Der ursprüngliche Whitepaper-Volltext wurde nicht geprüft.",
+          "en": "The currently accessible Siemens destination page describes Simcenter X on AWS infrastructure. The original white-paper full text was not reviewed."
+        }
+      },
+      {
+        "name": "Vodafone",
+        "context": {
+          "de": "Vodafone meldet eine Zusammenarbeit mit AWS für Cloud-Dienste in Deutschland. Regionen, Verfügbarkeit und Vertragszusagen sind für das konkrete Angebot zu prüfen.",
+          "en": "Vodafone announces collaboration with AWS for cloud services in Germany. Regions, availability and contractual commitments require assessment for the specific offer."
+        }
+      }
+    ]
+  },
+  "Cisco": {
+    "officialUrl": "https://www.cisco.com/site/us/en/products/index.html",
+    "officialLabel": {
+      "de": "Cisco: Netzwerk-, Sicherheits- und Softwareportfolio",
+      "en": "Cisco: networking, security and software portfolio"
+    },
+    "metaDescription": {
+      "de": "Cisco verbindet Unternehmensnetzwerke, Sicherheit, Rechenzentrumsinfrastruktur und Zusammenarbeit.",
+      "en": "Cisco combines enterprise networking, security, data-center infrastructure and collaboration."
+    },
+    "summary": {
+      "de": "Cisco verbindet Unternehmensnetzwerke, Sicherheit, Rechenzentrumsinfrastruktur und Zusammenarbeit. Das Portfolio umfasst Switching, Wireless, WAN, Duo für Identität, Sicherheitslösungen und Observability; Splunk-Produkte werden in der Cisco-Produktübersicht ebenfalls geführt. Die Verknüpfung mit Splunk beschreibt einen Unternehmens- und Portfoliobezug und wird von Partnerintegrationen getrennt. Controlware bietet eigene Managed Services mit Cisco-Technologie; Tenable wird in einem konkreten Integrationsprogramm genannt. Die gemeinsame Meldung von Controlware, Cisco und Schwarz Digits behandelt ein Souveränitätsangebot, keine pauschale europäische Herkunft jedes Produktbausteins. Käufer sollten Netzarchitektur, Identitäten, Betriebsmodell, Lizenzierung, Telemetrie und Verantwortlichkeiten zwischen Netzwerk-, Sicherheits- und Anwendungsteams prüfen. Partner-Audits und Programmnennungen gelten nur für den belegten Umfang. Die bestehenden Anbieterprofile und Wissensobjekte behalten ihre Originalquellen.",
+      "en": "Cisco combines enterprise networking, security, data-center infrastructure and collaboration. The portfolio includes switching, wireless, WAN, Duo identity security, other security offerings and observability; the Cisco product overview also lists Splunk products. The Splunk link describes a corporate and portfolio relationship, distinct from partner integrations. Controlware provides its own managed services using Cisco technology; Tenable is named in a specific integration program. The joint Controlware, Cisco and Schwarz Digits announcement concerns a sovereignty offering, not universal European origin for every component. Buyers should assess network architecture, identities, operating models, licensing, telemetry and responsibility across network, security and application teams. Partner audits and program references apply only to their documented scope. Existing provider profiles and knowledge items retain original sources."
+    },
+    "focus": {
+      "de": [
+        "Switching, Wireless und WAN",
+        "Netzwerk- und Zero-Trust-Sicherheit",
+        "Duo und Identitätskontrollen",
+        "Rechenzentrum und Computing",
+        "Zusammenarbeit und Webex",
+        "Splunk und Observability",
+        "Managed Services über Partner",
+        "Management und Integration"
+      ],
+      "en": [
+        "Switching, wireless and WAN",
+        "Network and Zero Trust security",
+        "Duo and identity controls",
+        "Data centers and computing",
+        "Collaboration and Webex",
+        "Splunk and observability",
+        "Partner managed services",
+        "Management and integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und Netzwerkarchitektur",
+        "Netzwerk- und Rechenzentrumsbetrieb",
+        "CISO und Security Operations",
+        "Identity- und Access-Management",
+        "Observability und Anwendungsbetrieb",
+        "Collaboration-Verantwortliche",
+        "Systemintegration und Managed Services",
+        "IT-Einkauf und Lizenzmanagement"
+      ],
+      "en": [
+        "CIO and network architecture",
+        "Network and data-center operations",
+        "CISO and security operations",
+        "Identity and access management",
+        "Observability and application operations",
+        "Collaboration owners",
+        "Systems integration and managed services",
+        "IT procurement and licensing"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.cisco.com/site/us/en/products/index.html",
+        "label": {
+          "de": "Cisco: Produkte einschließlich Splunk",
+          "en": "Cisco: products including Splunk"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Verknüpfte Beiträge zeigen belegte Produkt-, Integrations- oder Geschäftsbezüge. Die Leistungen des ursprünglichen Anbieters und die Verfügbarkeit einzelner Angebote bleiben getrennt zu prüfen. Die Prüfung des Unternehmensbezugs ändert nicht automatisch den vollständigen Prüfstatus eines Wissensobjekts.",
+      "en": "Linked articles show documented product, integration or business relationships. The original provider’s services and individual offer availability require separate assessment. Reviewing the company relationship does not automatically change the full review status of a knowledge item."
+    },
+    "relatedProviders": [
+      {
+        "name": "Splunk",
+        "context": {
+          "de": "Das von Splunk verbreitete E-Book behandelt Cisco Data Fabric für ITOps. Splunk bleibt als eigener Anbieter und Herausgeber im Katalog sichtbar.",
+          "en": "The Splunk-distributed ebook covers Cisco Data Fabric for ITOps. Splunk retains its own provider and publisher identity in the catalogue."
+        }
+      },
+      {
+        "name": "Controlware",
+        "context": {
+          "de": "Controlware meldet ein Audit für Cisco Powered BCaaS auf Basis von Cisco Unified Communications Manager. Der Auditbezug gilt für diesen Service.",
+          "en": "Controlware reports an audit for Cisco Powered BCaaS using Cisco Unified Communications Manager. The audit applies to this service."
+        }
+      },
+      {
+        "name": "Tenable",
+        "context": {
+          "de": "Tenable meldet seinen Beitritt zu Cisco SolutionsPlus als Exposure-Management-Partner. Die Rolle betrifft das genannte Programm.",
+          "en": "Tenable announces joining Cisco SolutionsPlus as an exposure management partner. The role concerns the stated program."
+        }
+      },
+      {
+        "name": "TD SYNNEX",
+        "context": {
+          "de": "Das TD-SYNNEX-Testzentrum kombiniert Cisco- und NVIDIA-Technologie; TD SYNNEX bietet die Test- und Enablement-Umgebung.",
+          "en": "The TD SYNNEX test center combines Cisco and NVIDIA technology; TD SYNNEX provides the testing and enablement environment."
+        }
+      }
+    ]
+  }
+}

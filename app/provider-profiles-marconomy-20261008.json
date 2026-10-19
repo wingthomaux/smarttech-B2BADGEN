@@ -1,0 +1,1032 @@
+{
+  "SC-Networks": {
+    "officialUrl": "https://www.evalanche.com/de/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "SC-Networks: Marketing Automation und Lead Management.",
+      "en": "SC-Networks: Marketing automation and lead management."
+    },
+    "summary": {
+      "de": "SC-Networks entwickelt Evalanche als Plattform für Marketing und Sales Automation. E-Mail-Marketing, Landingpages, Lead Management und automatisierte Customer Journeys bilden zusammen den Marketingkern. Campaign Designer, E-Mail Designer und LeadPage Designer unterstützen die operative Erstellung; Scoring, Profiling und Reporting helfen bei der Übergabe an den Vertrieb. Evalanche wird in bestehende CRM- und Systemlandschaften eingebunden, statt diese grundsätzlich zu ersetzen. Für die Auswahl zählen die verfügbaren Konnektoren, das Daten- und Berechtigungsmodell, mehrere Marken oder Organisationseinheiten sowie der Aufwand für Kampagnenmodellierung. PowerPlan, PowerSets und Professional Services betreffen Einstieg und Umsetzung und sollten vom Softwareumfang und der jeweiligen Lizenz getrennt betrachtet werden.",
+      "en": "SC-Networks develops Evalanche as a marketing and sales automation platform. Email marketing, landing pages, lead management and automated customer journeys form its marketing core. Campaign Designer, Email Designer and LeadPage Designer support production; scoring, profiling and reporting support handover to sales. Evalanche integrates with existing CRM and business systems rather than replacing them by default. Buyers should assess available connectors, data and permission models, multiple brands or business units, and campaign modelling effort. PowerPlan, PowerSets and professional services address adoption and implementation and should be distinguished from software scope and licensing."
+    },
+    "focus": {
+      "de": [
+        "E-Mail-Marketing",
+        "Marketing Automation",
+        "Lead Management und Scoring",
+        "Customer Journeys",
+        "Campaign Designer",
+        "Landingpages",
+        "CRM-Konnektoren",
+        "Marketing Reporting"
+      ],
+      "en": [
+        "Email marketing",
+        "Marketing automation",
+        "Lead management and scoring",
+        "Customer journeys",
+        "Campaign Designer",
+        "Landing pages",
+        "CRM connectors",
+        "Marketing reporting"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Marketingleitung",
+        "Marketing Operations",
+        "CRM-Verantwortliche",
+        "Vertriebsleitung",
+        "Datenschutz und IT-Integration"
+      ],
+      "en": [
+        "Marketing leadership",
+        "Marketing operations",
+        "CRM owners",
+        "Sales leadership",
+        "Data protection and IT integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.evalanche.com/de/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Apteco": {
+    "officialUrl": "https://www.apteco.de/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Apteco: Marketingdatenanalyse und Zielgruppensegmentierung.",
+      "en": "Apteco: Marketing data analysis and audience segmentation."
+    },
+    "summary": {
+      "de": "Apteco verbindet Marketingdatenanalyse mit Zielgruppenbildung und Kampagnensteuerung. Orbit stellt eine Plattform für Marketing Insights bereit, FastStats unterstützt Datenexploration und Analysen, die Customer Data Platform vereinheitlicht Daten, und Apteco email dient automatisierten E-Mail-Journeys. Das Portfolio adressiert Segmentierung, Personalisierung und die Auswertung der Customer Journey. CRM-Daten, Transaktionen und Kommunikationssignale können dabei eine gemeinsame Grundlage für Marketingentscheidungen bilden. Entscheidend sind die vorhandenen Datenquellen, die Qualität und Aktualität der Kundendaten, Einwilligungen sowie die Anbindung der tatsächlich genutzten Kanäle. Analyse, Datenhosting und Versandfunktionen sind unterschiedliche Leistungsbestandteile; Implementierungsoptionen und Lizenzumfang müssen zum bestehenden Marketing-Stack passen.",
+      "en": "Apteco connects marketing data analysis with audience selection and campaign orchestration. Orbit provides a marketing insights platform, FastStats supports data exploration and analysis, its customer data platform unifies data, and Apteco email supports automated email journeys. The portfolio addresses segmentation, personalisation and customer journey analysis. CRM records, transactions and communication signals can provide a common basis for marketing decisions. Selection depends on available data sources, data quality and freshness, consent and connections to the channels actually used. Analytics, data hosting and delivery are distinct capabilities; implementation and licensing must fit the existing marketing stack."
+    },
+    "focus": {
+      "de": [
+        "Orbit",
+        "FastStats",
+        "Customer Data Platform",
+        "Kundensegmentierung",
+        "Kampagnenmanagement",
+        "E-Mail-Journeys",
+        "Customer-Journey-Analyse",
+        "CRM-Integration"
+      ],
+      "en": [
+        "Orbit",
+        "FastStats",
+        "Customer data platform",
+        "Customer segmentation",
+        "Campaign management",
+        "Email journeys",
+        "Customer journey analysis",
+        "CRM integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Marketing Analytics",
+        "CRM und Customer Data",
+        "Marketing Operations",
+        "Datenmanagement",
+        "IT-Integration"
+      ],
+      "en": [
+        "Marketing analytics",
+        "CRM and customer data",
+        "Marketing operations",
+        "Data management",
+        "IT integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.apteco.de/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Retresco": {
+    "officialUrl": "https://www.retresco.de/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Retresco: KI-gestützte Redaktion und Textautomatisierung.",
+      "en": "Retresco: AI editorial assistance and text automation."
+    },
+    "summary": {
+      "de": "Retresco entwickelt KI-Lösungen für Medienhäuser, Fachverlage und Digital Commerce. Das Portfolio umfasst redaktionelle Assistenz, automatisierte Berichterstattung, semantische Themenseiten und kontextbezogene Verlinkungen. textengine.io unterstützt datenbasierte Textgenerierung, etwa für Produktinformationen und skalierbare SEO-Inhalte. Weitere Anwendungen betreffen Frage-Antwort-Systeme und mehrsprachige Inhalte. Damit unterscheidet sich der Anbieter von einem allgemeinen Schreibassistenten: Datenquellen, vorhandene Inhalte und konkrete Veröffentlichungsprozesse bestimmen die Umsetzung. Für die Auswahl zählen Datenqualität, redaktionelle Freigaben, CMS-Anbindung, Sprach- und Markenregeln sowie die Nachvollziehbarkeit der Ausgaben. Automatisierte Publikation und redaktionelle Unterstützung erfordern unterschiedliche Kontrollschritte; die jeweilige Lösung und Projektleistung sind einzeln zu bewerten.",
+      "en": "Retresco develops AI solutions for media companies, specialist publishers and digital commerce. Its portfolio includes editorial assistance, automated reporting, semantic topic pages and contextual linking. textengine.io supports data-driven generation of product copy and scalable SEO content. Other applications cover question-answer systems and multilingual content. Data sources, existing content and publishing processes determine implementation, beyond general writing assistance. Buyers should assess data quality, editorial approval, CMS integration, language and brand rules and output traceability. Automated publication and editorial assistance require different controls; the particular product and project services should be evaluated separately."
+    },
+    "focus": {
+      "de": [
+        "KI-Redaktionsassistenz",
+        "Automatisierte Berichterstattung",
+        "textengine.io",
+        "Datenbasierte Produkttexte",
+        "Themenseiten",
+        "Kontextbezogene Verlinkungen",
+        "Frage-Antwort-Systeme",
+        "Mehrsprachige Inhalte"
+      ],
+      "en": [
+        "AI editorial assistance",
+        "Automated reporting",
+        "textengine.io",
+        "Data-driven product copy",
+        "Topic pages",
+        "Contextual linking",
+        "Question-answer systems",
+        "Multilingual content"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Redaktionsleitung",
+        "Publishing und Digitalstrategie",
+        "Content Operations",
+        "E-Commerce",
+        "CMS- und Datenverantwortliche"
+      ],
+      "en": [
+        "Editorial leadership",
+        "Publishing and digital strategy",
+        "Content operations",
+        "Ecommerce",
+        "CMS and data owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.retresco.de/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Agorapulse": {
+    "officialUrl": "https://www.agorapulse.com/features/roi/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Agorapulse: Social-Media-Management und Wirkungsmessung.",
+      "en": "Agorapulse: Social media management and impact measurement."
+    },
+    "summary": {
+      "de": "Agorapulse bietet Social-Media-Software und Funktionen zur Auswertung der Geschäftswirkung sozialer Kanäle. Das ROI-Modul verbindet Agorapulse-Daten mit Google Analytics, um Beiträge, Gespräche und Profile auf Websitebesuche, Leads oder Umsatz zu beziehen. Der Kaufkontext geht damit über Reichweiten- und Interaktionszahlen hinaus: Teams benötigen konsistentes Tracking, definierte Conversions und eine passende Verbindung zwischen sozialen Aktivitäten und Websitezielen. Berichte unterstützen die Abstimmung mit Budgetverantwortlichen. Für die Auswahl sind die unterstützten Netzwerke, Berechtigungen, das Kanal- und Nutzerpaket sowie die Grenzen der Attribution zu prüfen. Die hier verlinkte Studie beschreibt Measurement-Praktiken; sie ist kein Nachweis, dass bei jedem Kunden automatisch ein vollständiger Marketing-ROI gemessen wird.",
+      "en": "Agorapulse provides social media software and features for analysing the business impact of social channels. Its ROI module combines Agorapulse data with Google Analytics to connect posts, conversations and profiles with visits, leads or revenue. Teams need consistent tracking, defined conversions and a suitable connection between social activities and website objectives, beyond reach and engagement metrics. Reports support budget discussions. Selection should cover supported networks, permissions, channel and user packages and attribution limits. The linked study describes measurement practices; it does not establish that every customer automatically measures complete marketing ROI."
+    },
+    "focus": {
+      "de": [
+        "Social-Media-Management",
+        "Social-Media-ROI",
+        "Google-Analytics-Anbindung",
+        "UTM-Tracking",
+        "Kampagnenauswertung",
+        "Berichte für Budgetentscheidungen"
+      ],
+      "en": [
+        "Social media management",
+        "Social media ROI",
+        "Google Analytics integration",
+        "UTM tracking",
+        "Campaign analysis",
+        "Reports for budget decisions"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Social-Media-Leitung",
+        "Marketing Analytics",
+        "Performance Marketing",
+        "Kommunikationsleitung"
+      ],
+      "en": [
+        "Social media leadership",
+        "Marketing analytics",
+        "Performance marketing",
+        "Communication leadership"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.agorapulse.com/features/roi/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Wedia": {
+    "officialUrl": "https://www.wedia-group.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Wedia: Digital Asset Management und Content-Freigaben.",
+      "en": "Wedia: Digital asset management and content approvals."
+    },
+    "summary": {
+      "de": "Wedia bietet mit Lyvio eine Plattform für Digital Asset Management. Das Portfolio verbindet ein zentrales Medienarchiv mit Suche, Metadaten, Segmentierung nach Marken und Märkten sowie Freigabe- und Kreativworkflows. Portale, Medienauslieferung und Integrationen unterstützen die Nutzung freigegebener Assets in nachgelagerten Kanälen. Weitere Funktionen betreffen Vorlagen, Web-to-Print, Nutzungsmonitoring und KI-gestützte Variationen. Für internationale Marketingteams sind Rechte, Markenregeln, Lokalisierung und die Aufteilung zwischen globaler Freigabe und lokaler Umsetzung zentrale Auswahlfragen. Ein DAM ersetzt nicht automatisch CMS, PIM oder die gesamte Kampagnensteuerung. Die ältere Whitepaper-Bezeichnung Wedia bleibt als Anbieterbezug erhalten; für das aktuelle Produktprofil wird die heute verwendete Marke Lyvio berücksichtigt.",
+      "en": "Wedia offers Lyvio as a digital asset management platform. Its portfolio combines a central media repository with search, metadata, segmentation by brand and market, and approval and creative workflows. Portals, media delivery and integrations help activate approved assets across channels. Other capabilities include templates, web-to-print, usage monitoring and AI-supported variations. International marketing teams should assess rights, brand rules, localisation and the division between global approval and local execution. A DAM does not automatically replace a CMS, PIM or all campaign management. Historical whitepapers retain Wedia attribution while the current profile reflects the Lyvio product brand."
+    },
+    "focus": {
+      "de": [
+        "Lyvio DAM",
+        "Medienarchiv und Metadaten",
+        "Suche und Asset-Segmentierung",
+        "Kreativ- und Freigabeworkflows",
+        "Brand-Portale",
+        "Medienauslieferung",
+        "Web-to-Print",
+        "Nutzungsmonitoring"
+      ],
+      "en": [
+        "Lyvio DAM",
+        "Media repository and metadata",
+        "Search and asset segmentation",
+        "Creative and approval workflows",
+        "Brand portals",
+        "Media delivery",
+        "Web-to-print",
+        "Usage monitoring"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Brand Management",
+        "DAM-Verantwortliche",
+        "Marketing Operations",
+        "Kreativteams",
+        "IT und Integrationen"
+      ],
+      "en": [
+        "Brand management",
+        "DAM owners",
+        "Marketing operations",
+        "Creative teams",
+        "IT and integrations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.wedia-group.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Bynder": {
+    "officialUrl": "https://www.bynder.com/en/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Bynder: Digital Asset Management und Content-Workflows.",
+      "en": "Bynder: Digital asset management and content workflows."
+    },
+    "summary": {
+      "de": "Bynder entwickelt eine DAM-Plattform für die Verwaltung, Bearbeitung und Ausspielung digitaler Inhalte. Das zentrale Asset-System wird durch Content- und Asset-Workflows, Studio-Funktionen, Analytics und Content Experiences ergänzt. Teams können Zugriffe und Nutzungsrechte steuern, Medien finden und freigegebene Inhalte in ihren Marketing-Stack verteilen. KI-Suche und Agenten unterstützen einzelne Arbeitsabläufe. Für die Auswahl zählen Metadatenmodell, Migration vorhandener Bibliotheken, Rechte und Freigaben, Schnittstellen zu CMS und Kreativwerkzeugen sowie die Anforderungen unterschiedlicher Marken. DAM, redaktionelle Content-Workflows und Kanalauslieferung sind miteinander verbunden, aber im Leistungsumfang getrennt zu prüfen. Die marconomy-Ressourcen unterstützen die Auswahl und Wirtschaftlichkeitsbewertung und ersetzen keine Prüfung des konkreten Angebots.",
+      "en": "Bynder develops a DAM platform for managing, preparing and delivering digital content. Its central asset system is complemented by content and asset workflows, Studio, analytics and content experiences. Teams control access and usage rights, find media and distribute approved content through their marketing stack. AI search and agents support particular workflows. Buyers should assess metadata, migration of existing libraries, rights and approvals, connections to CMS and creative tools and multi-brand needs. DAM, editorial workflows and channel delivery are connected but their scope requires separate review. The marconomy resources support selection and economic assessment rather than validating a particular proposal."
+    },
+    "focus": {
+      "de": [
+        "Digital Asset Management",
+        "Asset Workflow",
+        "Content Workflow",
+        "Studio",
+        "Content Experiences",
+        "Analytics",
+        "KI-Suche",
+        "Marketing-Stack-Integrationen"
+      ],
+      "en": [
+        "Digital asset management",
+        "Asset Workflow",
+        "Content Workflow",
+        "Studio",
+        "Content experiences",
+        "Analytics",
+        "AI search",
+        "Marketing-stack integrations"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "DAM- und Content-Verantwortliche",
+        "Brand Management",
+        "Marketing Operations",
+        "Kreativteams",
+        "IT-Architektur"
+      ],
+      "en": [
+        "DAM and content owners",
+        "Brand management",
+        "Marketing operations",
+        "Creative teams",
+        "IT architecture"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.bynder.com/en/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Sitecore": {
+    "officialUrl": "https://www.sitecore.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Sitecore: Digital Experience und Content-Plattformen.",
+      "en": "Sitecore: Digital experience and content platforms."
+    },
+    "summary": {
+      "de": "Sitecore verbindet Content Management, Digital Asset Management, Content Operations und Personalisierung in seinem Portfolio für digitale Kundenerlebnisse. SitecoreAI adressiert Planung, Erstellung, Orchestrierung und Aktivierung von Marketinginhalten; daneben werden Experience Manager und Experience Platform als Produktlinien geführt. Commerce, Audience Insights und Conversion-Optimierung ergänzen die Inhaltsarbeit. Für die Auswahl zählen vorhandene Websites und Datenquellen, die benötigten Produktmodule, redaktionelle Rollen und Freigaben sowie die Integration in CRM und Commerce. Herstellerfunktionen und Leistungen eines Implementierungspartners sind getrennt zu bewerten. Die gemeinsame marconomy-Veröffentlichung mit netzkern / Macaw beschreibt Content-Hub-Prozesse; sie begründet keine Zusammenführung des Softwareherstellers mit seinem Umsetzungspartner.",
+      "en": "Sitecore combines content management, digital asset management, content operations and personalisation in its digital experience portfolio. SitecoreAI addresses planning, creation, orchestration and activation of marketing content; Experience Manager and Experience Platform remain listed product lines. Commerce, audience insights and conversion optimisation extend content work. Selection depends on existing websites and data, required modules, editorial roles and approvals and CRM and commerce integration. Manufacturer functionality and implementation partner services require separate assessment. The joint marconomy publication with netzkern / Macaw describes content-hub processes and does not justify merging the vendor and its implementation partner."
+    },
+    "focus": {
+      "de": [
+        "Content Management",
+        "Digital Asset Management",
+        "Content Operations",
+        "SitecoreAI",
+        "Experience Manager",
+        "Experience Platform",
+        "Personalisierung",
+        "Commerce und Audience Insights"
+      ],
+      "en": [
+        "Content management",
+        "Digital asset management",
+        "Content operations",
+        "SitecoreAI",
+        "Experience Manager",
+        "Experience Platform",
+        "Personalisation",
+        "Commerce and audience insights"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Digital Experience",
+        "Content Operations",
+        "Web- und CMS-Teams",
+        "Marketing-IT",
+        "Commerce-Verantwortliche"
+      ],
+      "en": [
+        "Digital experience",
+        "Content operations",
+        "Web and CMS teams",
+        "Marketing IT",
+        "Commerce owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.sitecore.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Magnolia": {
+    "officialUrl": "https://www.magnolia-cms.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Magnolia: CMS und Digital Experience Platform.",
+      "en": "Magnolia: CMS and digital experience platform."
+    },
+    "summary": {
+      "de": "Magnolia bietet eine Digital Experience Platform mit Content Management als Kern. Asset Management, Personalisierung, Insights und Analyse erweitern die Veröffentlichung von Inhalten. Cloud-Angebote, KI-Agenten und Konnektoren unterstützen den Aufbau einer integrierten Plattform; zusätzliche Fähigkeiten können über Add-ons und Partner entstehen. Das Angebot ist für Websites, Portale und internationale Marketingprozesse relevant, bei denen Content mit Commerce- und Produktdaten zusammenwirken muss. Für die Auswahl zählen Contentmodell, redaktionelle Bedienung, Schnittstellen und die Abgrenzung zwischen Kernfunktionen und Erweiterungen. Eine composable Architektur braucht klare Zuständigkeiten für Integration und Betrieb. Der marconomy-Fall beschreibt die Auswahl einer DXP für KTR Systems und ist von einer unabhängigen Produktabnahme zu unterscheiden.",
+      "en": "Magnolia offers a digital experience platform with content management at its core. Asset management, personalisation, insights and analytics extend publishing. Cloud offerings, AI agents and connectors support an integrated platform; add-ons and partners may supply additional capabilities. The portfolio is relevant to websites, portals and international marketing where content must work with commerce and product data. Buyers should assess content models, editorial usability, interfaces and the distinction between core functions and extensions. Composable architecture needs clear integration and operational ownership. The marconomy case describes DXP selection for KTR Systems, rather than an independent product acceptance test."
+    },
+    "focus": {
+      "de": [
+        "Content Management",
+        "Asset Management",
+        "Personalisierung",
+        "Analytics",
+        "Cloud Platform",
+        "KI-Agenten",
+        "Portalerlebnisse",
+        "Commerce-Konnektoren"
+      ],
+      "en": [
+        "Content management",
+        "Asset management",
+        "Personalisation",
+        "Analytics",
+        "Cloud platform",
+        "AI agents",
+        "Portal experiences",
+        "Commerce connectors"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CMS- und Web-Verantwortliche",
+        "Digital Marketing",
+        "Enterprise-Architektur",
+        "Commerce-Teams",
+        "Content Operations"
+      ],
+      "en": [
+        "CMS and web owners",
+        "Digital marketing",
+        "Enterprise architecture",
+        "Commerce teams",
+        "Content operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.magnolia-cms.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Noxum": {
+    "officialUrl": "https://www.noxum.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Noxum: Produktdatenmanagement und kanalübergreifendes Publishing.",
+      "en": "Noxum: Product data management and cross-channel publishing."
+    },
+    "summary": {
+      "de": "Noxum bietet Lösungen für Produkt- und Contentdaten sowie technische Publikation. NovaDB kann als Headless PIM, Headless CMS oder angepasste Informationsplattform eingesetzt werden. Noxum Publishing Studio unterstützt XML-basierte Redaktion, technische Dokumentation und Variantenmanagement. Content-Delivery- und Infoportale stellen Inhalte für unterschiedliche Zielgruppen bereit. CRM-, DAM- und weitere Datenquellen können in die Informationsprozesse eingebunden werden. Der Kaufkontext verbindet deshalb Produktdatenqualität, redaktionelle Arbeit und kanalübergreifende Bereitstellung. Zu prüfen sind Datenmodell, Varianten und Sprachen, vorhandene Quellsysteme, Schnittstellen zu Shops und Fachhandel sowie die Verantwortung für Aktualisierung und Freigaben. Der Festool-Fall beschreibt Datenbereitstellung und ist kein pauschaler Leistungsnachweis für jede Implementierung.",
+      "en": "Noxum offers product and content data solutions and technical publishing. NovaDB can serve as headless PIM, headless CMS or a tailored information platform. Noxum Publishing Studio supports XML editorial work, technical documentation and variant management. Content delivery and information portals provide content to different audiences. CRM, DAM and other sources can feed information processes. Buyers therefore need to connect data quality, editorial work and cross-channel delivery. Selection should cover data models, variants and languages, source systems, shop and dealer interfaces and responsibility for updates and approvals. The Festool case describes data delivery and is not a blanket performance guarantee for implementations."
+    },
+    "focus": {
+      "de": [
+        "NovaDB",
+        "Headless PIM",
+        "Headless CMS",
+        "Publishing Studio",
+        "XML-Redaktion",
+        "Technische Dokumentation",
+        "Variantenmanagement",
+        "Content Delivery"
+      ],
+      "en": [
+        "NovaDB",
+        "Headless PIM",
+        "Headless CMS",
+        "Publishing Studio",
+        "XML editorial workflows",
+        "Technical documentation",
+        "Variant management",
+        "Content delivery"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Produktdatenmanagement",
+        "Technische Redaktion",
+        "E-Commerce",
+        "IT-Integration",
+        "Marketing Operations"
+      ],
+      "en": [
+        "Product data management",
+        "Technical documentation",
+        "Ecommerce",
+        "IT integration",
+        "Marketing operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.noxum.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "snapADDY": {
+    "officialUrl": "https://snapaddy.com/de/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "snapADDY: Digitale Leaderfassung und CRM-Datenqualität.",
+      "en": "snapADDY: Digital lead capture and CRM data quality."
+    },
+    "summary": {
+      "de": "snapADDY bietet Software für Kontaktdaten und digitale Leaderfassung. Das Portfolio adressiert die Übernahme und Aufbereitung von Informationen für Vertriebsprozesse und CRM-Systeme. Digitale Messeberichte und erfasste Kontaktinformationen können die Nachbearbeitung von Gesprächen strukturieren und manuelle Übertragungen reduzieren. Für die Auswahl zählen das eingesetzte CRM, benötigte Felder, die Abbildung des Messegesprächs und die Qualität der übernommenen Daten. Eine Leaderfassungssoftware ersetzt weder die Qualifizierung durch den Vertrieb noch eine rechtliche Prüfung der Kontaktverwendung. Die marconomy-Whitepaper behandeln Einführungshürden und digitale Leaderfassung; sie sind Orientierung für den Prozess und keine Bestätigung, dass jedes CRM oder jedes gewünschte Datenfeld ohne Anpassung unterstützt wird.",
+      "en": "snapADDY provides software for contact data and digital lead capture. Its portfolio supports collecting and preparing information for sales processes and CRM systems. Digital event reports and captured contacts can structure follow-up and reduce manual transcription. Buyers should assess their CRM, required fields, representation of the conversation and data quality. Lead capture software replaces neither sales qualification nor legal assessment of contact use. The marconomy whitepapers discuss adoption challenges and digital lead capture; they guide process selection rather than confirming that every CRM or custom field works without adaptation."
+    },
+    "focus": {
+      "de": [
+        "Digitale Leaderfassung",
+        "Kontaktdatenübernahme",
+        "CRM-Datenqualität",
+        "Digitale Messeberichte",
+        "Vertriebsnachbereitung"
+      ],
+      "en": [
+        "Digital lead capture",
+        "Contact data capture",
+        "CRM data quality",
+        "Digital event reports",
+        "Sales follow-up"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Vertriebsleitung",
+        "CRM-Administration",
+        "Event Marketing",
+        "Sales Operations",
+        "Datenschutz"
+      ],
+      "en": [
+        "Sales leadership",
+        "CRM administration",
+        "Event marketing",
+        "Sales operations",
+        "Data protection"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://snapaddy.com/de/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Seismic": {
+    "officialUrl": "https://www.seismic.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Seismic: Sales Enablement und personalisierter Vertriebscontent.",
+      "en": "Seismic: Sales enablement and personalised sales content."
+    },
+    "summary": {
+      "de": "Seismic bietet eine Sales-Enablement-Plattform, die Vertriebscontent, Vorbereitung und kundenbezogene Kommunikation zusammenführt. Teams können Marketingunterlagen für den Vertrieb bereitstellen und Inhalte auf unterschiedliche Käufer und Situationen ausrichten. KI-gestützte Unterstützung gehört zur aktuellen Plattformdarstellung. Der Nutzen hängt vom Zusammenspiel zwischen Content-Verantwortlichen, Sales Operations und den tatsächlich verwendeten Vertriebssystemen ab. Für die Auswahl zählen Inhaltsstruktur, Freigaben und Versionen, die Auffindbarkeit geeigneter Materialien, CRM-Anbindung und die Messung der Nutzung. Sales Enablement ersetzt keine vollständige Marketing Automation oder ein CRM. Die Whitepaper erklären Einsatzbedingungen und einen möglichen KI-unterstützten Vertriebsalltag; konkrete Produktfunktionen und Module sind vor Beschaffung einzeln zu prüfen.",
+      "en": "Seismic offers a sales enablement platform connecting sales content, preparation and buyer-facing communication. Teams provide marketing materials for sales and adapt content to buyers and situations. AI assistance is part of its current platform presentation. Value depends on collaboration among content owners, sales operations and existing sales systems. Buyers should assess content structure, approvals and versions, findability, CRM integration and usage measurement. Sales enablement does not replace complete marketing automation or a CRM. The whitepapers explain use conditions and a possible AI-supported sales workflow; specific product capabilities and modules require individual procurement review."
+    },
+    "focus": {
+      "de": [
+        "Sales Enablement",
+        "Vertriebscontent",
+        "Content-Personalisierung",
+        "Marketing-Vertriebs-Abstimmung",
+        "KI-Unterstützung",
+        "Content-Nutzung und Analyse"
+      ],
+      "en": [
+        "Sales enablement",
+        "Sales content",
+        "Content personalisation",
+        "Marketing and sales alignment",
+        "AI assistance",
+        "Content usage and analysis"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Sales Enablement",
+        "Vertriebsleitung",
+        "Marketing Operations",
+        "Content Management",
+        "Sales Operations"
+      ],
+      "en": [
+        "Sales enablement",
+        "Sales leadership",
+        "Marketing operations",
+        "Content management",
+        "Sales operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.seismic.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "movingimage": {
+    "officialUrl": "https://www.movingimage.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "movingimage: Enterprise Video und Livestreaming.",
+      "en": "movingimage: Enterprise video and livestreaming."
+    },
+    "summary": {
+      "de": "movingimage entwickelt eine Enterprise Video Platform für Erstellung, Streaming, Verwaltung und Analyse von Videos. Das Portfolio umfasst LiveStream Pro, VideoManager Pro, Corporate Tube, VideoCreator Pro und virtuelle Veranstaltungen; ein Video AI Assistant ergänzt die Bearbeitung. Daneben bietet movingimage Produktionsleistungen für Video und Livestreams an. Unternehmen können so interne Kommunikation, hybride Events und Marketingvideos innerhalb eines zusammenhängenden Videoansatzes organisieren. Für die Auswahl zählen Live- und On-Demand-Nutzung, Zugriffsrechte, Einbettung in Unternehmenssysteme, Barrierefreiheit und die Zuständigkeit für Produktion. Software und Produktionsservice sind getrennte Leistungsbestandteile. Die marconomy-Inhalte erklären Livestreaming und Social-Media-Video, ohne für jedes Format den vollständigen Produktionsumfang zu garantieren.",
+      "en": "movingimage develops an enterprise video platform for creating, streaming, managing and analysing video. Its portfolio includes LiveStream Pro, VideoManager Pro, Corporate Tube, VideoCreator Pro and virtual events, with a Video AI Assistant supporting editing. It also offers video and livestream production services. Companies can organise internal communication, hybrid events and marketing video through a connected video approach. Selection depends on live and on-demand requirements, access rights, embedding in corporate systems, accessibility and production ownership. Software and production services are separate components. The marconomy resources explain livestreaming and social media video rather than guaranteeing full production scope for every format."
+    },
+    "focus": {
+      "de": [
+        "Enterprise Video Platform",
+        "LiveStream Pro",
+        "VideoManager Pro",
+        "Corporate Tube",
+        "VideoCreator Pro",
+        "Virtual Events",
+        "Video AI Assistant",
+        "Videoproduktion"
+      ],
+      "en": [
+        "Enterprise video platform",
+        "LiveStream Pro",
+        "VideoManager Pro",
+        "Corporate Tube",
+        "VideoCreator Pro",
+        "Virtual events",
+        "Video AI Assistant",
+        "Video production"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Unternehmenskommunikation",
+        "Video- und Eventteams",
+        "Marketing",
+        "HR und Weiterbildung",
+        "IT und Sicherheit"
+      ],
+      "en": [
+        "Corporate communication",
+        "Video and event teams",
+        "Marketing",
+        "HR and learning",
+        "IT and security"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.movingimage.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Foleon": {
+    "officialUrl": "https://www.foleon.com/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Foleon: Interaktive digitale Publikationen.",
+      "en": "Foleon: Interactive digital publications."
+    },
+    "summary": {
+      "de": "Foleon bietet eine Plattform für interaktive digitale Inhalte. Content Creation, Content Governance sowie Data and Intelligence verbinden Erstellung, Markensteuerung und Auswertung der Nutzung. Erweiterungen betreffen Video, Answer Agents und Datenvisualisierung. Marketing- und Vertriebsteams können damit digitale Publikationen für unterschiedliche Zielgruppen bereitstellen und Leserinteraktionen in ihre vorhandenen Prozesse integrieren. Für die Auswahl zählen Vorlagen und Markenregeln, Zugriffs- und Freigaberechte, die Darstellung auf unterschiedlichen Geräten und die Anbindung an CRM und Analytics. Das Angebot ist kein klassisches PDF-Archiv: Inhalte werden als digitale Erfahrungen gestaltet. Funktionsumfang, Erweiterungen und verfügbare Integrationen sind auf das konkrete Publikationsvorhaben abzustimmen.",
+      "en": "Foleon provides a platform for interactive digital content. Content creation, governance and data and intelligence connect production, brand control and usage analysis. Extensions cover video, answer agents and data visualisation. Marketing and sales teams can deliver digital publications for different audiences and integrate reader engagement with existing processes. Buyers should assess templates and brand rules, access and approval rights, device presentation and CRM and analytics integration. The offering focuses on digital content experiences rather than a conventional PDF archive. Features, extensions and available integrations should match the intended publication workflow."
+    },
+    "focus": {
+      "de": [
+        "Interaktive Publikationen",
+        "Content Creation",
+        "Content Governance",
+        "Data and Intelligence",
+        "Video",
+        "Answer Agents",
+        "Datenvisualisierung"
+      ],
+      "en": [
+        "Interactive publications",
+        "Content creation",
+        "Content governance",
+        "Data and intelligence",
+        "Video",
+        "Answer agents",
+        "Data visualisation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Content Marketing",
+        "Digitale Redaktion",
+        "Brand Management",
+        "Demand Generation",
+        "Vertriebscontent"
+      ],
+      "en": [
+        "Content marketing",
+        "Digital editorial teams",
+        "Brand management",
+        "Demand generation",
+        "Sales content"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.foleon.com/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Entirely": {
+    "officialUrl": "https://entirely.com/solutions",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Entirely: Marketing Resource Management und MarTech-Orchestrierung.",
+      "en": "Entirely: Marketing resource management and martech orchestration."
+    },
+    "summary": {
+      "de": "Entirely beschreibt ein offenes Marketingtechnologie-Ökosystem, das Content, Daten, Workflows und Kanäle verbindet. Die offiziellen Unternehmensseiten nennen Censhare, Elaine, Facelift, Marmind und epoq als Gruppenunternehmen beziehungsweise Marken. Diese Angebote decken unterschiedliche Aufgaben ab: Content und Kundenerlebnisse, Marketingkommunikation, Social Engagement und Prozesssteuerung. MARMIND adressiert unter anderem Marketing Resource Management mit Planung, Budgets und Zusammenarbeit. Eine gemeinsame Gruppendarstellung bedeutet nicht, dass alle Funktionen in einer einzigen Lizenz enthalten sind. Für die Auswahl zählen vorhandene Systeme, gewünschte Verbindungen, Zuständigkeiten, Daten- und Freigabeprozesse sowie konkrete Produktverträge. Das marconomy-Whitepaper nennt Entirely als Anbieter und behandelt MRM, DAM und PIM; die Produktmarken bleiben davon unterscheidbar.",
+      "en": "Entirely describes an open marketing technology ecosystem connecting content, data, workflows and channels. Its official company pages name Censhare, Elaine, Facelift, Marmind and epoq as group companies or brands. They cover distinct tasks including content and experiences, marketing communication, social engagement and process control. MARMIND addresses marketing resource management, including planning, budgets and collaboration. Group presentation does not mean all functions share one licence. Selection depends on existing systems, required connections, responsibilities, data and approval processes and specific product contracts. The marconomy whitepaper attributes MRM, DAM and PIM process topics to Entirely while individual product brands remain distinct."
+    },
+    "focus": {
+      "de": [
+        "MarTech-Ökosystem",
+        "Censhare",
+        "Elaine",
+        "Facelift",
+        "Marmind",
+        "epoq",
+        "Marketing Resource Management",
+        "Systemintegration"
+      ],
+      "en": [
+        "Martech ecosystem",
+        "Censhare",
+        "Elaine",
+        "Facelift",
+        "Marmind",
+        "epoq",
+        "Marketing resource management",
+        "System integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Marketing Operations",
+        "MarTech-Architektur",
+        "Content Operations",
+        "Budget- und Kampagnenplanung",
+        "IT-Integration"
+      ],
+      "en": [
+        "Marketing operations",
+        "Martech architecture",
+        "Content operations",
+        "Budget and campaign planning",
+        "IT integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://entirely.com/solutions",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "Ibexa": {
+    "officialUrl": "https://ibexa.ai/en",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "Ibexa: Digital Customer Experience und Marketing-Orchestrierung.",
+      "en": "Ibexa: Digital customer experience and marketing orchestration."
+    },
+    "summary": {
+      "de": "Ibexa verbindet digitale Kundenerlebnisse und Marketingtechnologie mit einem aktuellen Schwerpunkt auf Agentic Marketing. Die Agentic Marketing Platform wird auf der offiziellen Website als Beta bezeichnet. Sie soll bestehende Marketingwerkzeuge verbinden und Agenten für Inhalte, Kampagnen und Kundenansprache bereitstellen. Die Produktfamilie umfasst unter anderem Actito, Raptor, Quable und Qualifio mit unterschiedlichen Aufgaben in Engagement, Kundendaten, Produktinformationen und Datenerhebung. Für die Auswahl sind das konkrete Produkt, dessen Reifegrad, Integrationen, Datenzugriffe und die Grenzen autonomer Aktionen zu prüfen. Eine gemeinsame Produktfamilie ersetzt keine Prüfung einzelner Verträge oder Module. Die marconomy-Inhalte zu digitaler Reife und Commerce sind Wissensressourcen; sie belegen nicht automatisch die Verfügbarkeit der heutigen Beta-Funktionen.",
+      "en": "Ibexa connects digital customer experiences and marketing technology with a current focus on agentic marketing. Its official website labels the Agentic Marketing Platform as beta. It aims to connect existing marketing tools and provide agents for content, campaigns and customer communication. The product family includes Actito, Raptor, Quable and Qualifio, covering engagement, customer data, product information and data collection. Buyers should assess the particular product, maturity, integrations, data access and boundaries of autonomous actions. A shared family does not replace review of individual contracts or modules. The marconomy materials on digital maturity and commerce are knowledge resources and do not establish availability of current beta capabilities."
+    },
+    "focus": {
+      "de": [
+        "Digital Customer Experience",
+        "Agentic Marketing Platform (Beta)",
+        "Marketing-Orchestrierung",
+        "Actito",
+        "Raptor",
+        "Quable",
+        "Qualifio"
+      ],
+      "en": [
+        "Digital customer experience",
+        "Agentic Marketing Platform (beta)",
+        "Marketing orchestration",
+        "Actito",
+        "Raptor",
+        "Quable",
+        "Qualifio"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Digital Marketing",
+        "MarTech-Architektur",
+        "Customer Experience",
+        "Commerce",
+        "KI-Governance"
+      ],
+      "en": [
+        "Digital marketing",
+        "Martech architecture",
+        "Customer experience",
+        "Commerce",
+        "AI governance"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://ibexa.ai/en",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "CELUM": {
+    "officialUrl": "https://www.celum.com/en",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "CELUM: Digital Asset Management für Marken- und Produktcontent.",
+      "en": "CELUM: Digital asset management for brand and product content."
+    },
+    "summary": {
+      "de": "CELUM bietet Software für die Organisation und Bereitstellung von Marken- und Produktcontent. Der Schwerpunkt liegt auf Digital Asset Management und Content-Prozessen, mit denen Teams Medienbestände strukturieren und Inhalte für weitere Kanäle vorbereiten. Marketing, Kreativteams und Produktkommunikation benötigen dafür einen gemeinsamen Bestand mit klaren Verantwortlichkeiten. Für die Auswahl zählen Metadaten und Suchbarkeit, Freigabeprozesse, Nutzerrollen sowie die Anbindung an vorhandene Content- und Produktsysteme. Content Management ist von einer vollständigen CRM- oder Marketing-Automation-Plattform abzugrenzen. Das ältere marconomy-Whitepaper erklärt den Zusammenhang zwischen Content Marketing und strukturierter Inhaltsarbeit. Aktuelle Module und Lizenzierung sollten anhand des Herstellerangebots geprüft werden, bevor Aussagen aus älteren Ressourcen auf den heutigen Funktionsumfang übertragen werden.",
+      "en": "CELUM provides software for organising and delivering brand and product content. It focuses on digital asset management and content processes that structure media libraries and prepare content for other channels. Marketing, creative teams and product communication need a shared repository with clear ownership. Buyers should assess metadata and findability, approvals, user roles and connections to existing content and product systems. Content management differs from a complete CRM or marketing automation platform. The older marconomy whitepaper explains structured content work and content marketing. Current modules and licensing should be checked against the vendor offering before extending historical resource statements to present capabilities."
+    },
+    "focus": {
+      "de": [
+        "Digital Asset Management",
+        "Markencontent",
+        "Produktcontent",
+        "Content-Prozesse",
+        "Medienorganisation",
+        "Kanalbereitstellung"
+      ],
+      "en": [
+        "Digital asset management",
+        "Brand content",
+        "Product content",
+        "Content processes",
+        "Media organisation",
+        "Channel delivery"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "DAM-Verantwortliche",
+        "Brand Management",
+        "Produktkommunikation",
+        "Kreativteams",
+        "Marketing Operations"
+      ],
+      "en": [
+        "DAM owners",
+        "Brand management",
+        "Product communication",
+        "Creative teams",
+        "Marketing operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.celum.com/en",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  },
+  "matelso": {
+    "officialUrl": "https://matelso.com/platform/features/",
+    "officialLabel": {
+      "de": "Offizielle Produkt- und Unternehmensübersicht",
+      "en": "Official product and company overview"
+    },
+    "metaDescription": {
+      "de": "matelso: Call Tracking und Communication-based Lead Management.",
+      "en": "matelso: Call tracking and communication-based lead management."
+    },
+    "summary": {
+      "de": "matelso verbindet Lead Tracking, Kommunikation und Lead Management in seiner platform. Telefonie, Kontakt-Plugins und Formulare liefern Informationen über Kundenkontakte; Call Tracking, CRM-Integration und die Anbindung an GA4 oder Google Ads unterstützen die Zuordnung von Kampagnen zu Gesprächen. Dialogue Center, Dashboards und weitere Integrationen helfen bei der Bearbeitung und Auswertung. Daneben ist der ServiceCenter als zusätzliche Bearbeitungsleistung zu unterscheiden. Für die Auswahl zählen Telefonieanforderungen, Routing, Kontaktfelder, bestehende CRM-Prozesse und das Attributionsmodell. Online- und Offline-Daten werden zusammengeführt, dennoch hängt die Aussagekraft des Marketing-ROI von korrektem Tracking und gepflegten Ergebnissen im Vertrieb ab. Das Whitepaper erklärt diesen Ansatz und ersetzt keine Prüfung der konkreten Integration.",
+      "en": "matelso combines lead tracking, communication and lead management in its platform. Telephony, contact plugins and forms provide contact information; call tracking, CRM integration and GA4 or Google Ads connections support campaign-to-conversation attribution. Dialogue Center, dashboards and further integrations support processing and analysis. ServiceCenter is a distinct additional handling service. Buyers should assess telephony requirements, routing, contact fields, existing CRM processes and attribution models. Bringing online and offline data together still requires correct tracking and maintained sales outcomes for meaningful marketing ROI. The whitepaper explains the approach rather than validating a specific integration."
+    },
+    "focus": {
+      "de": [
+        "Call Tracking",
+        "Lead Management",
+        "Dialogue Center",
+        "Kontakt-Plugins und Formulare",
+        "CRM-Integration",
+        "GA4 und Google Ads",
+        "Dashboards",
+        "ServiceCenter"
+      ],
+      "en": [
+        "Call tracking",
+        "Lead management",
+        "Dialogue Center",
+        "Contact plugins and forms",
+        "CRM integration",
+        "GA4 and Google Ads",
+        "Dashboards",
+        "ServiceCenter"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Marketing Analytics",
+        "Performance Marketing",
+        "Vertriebsleitung",
+        "Sales Operations",
+        "Telefonie und CRM"
+      ],
+      "en": [
+        "Marketing analytics",
+        "Performance marketing",
+        "Sales leadership",
+        "Sales operations",
+        "Telephony and CRM"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://matelso.com/platform/features/",
+        "label": {
+          "de": "Portfolio und Leistungsumfang",
+          "en": "Portfolio and capabilities"
+        }
+      }
+    ]
+  }
+}

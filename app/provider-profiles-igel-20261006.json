@@ -1,0 +1,135 @@
+{
+  "IGEL": {
+    "officialUrl": "https://www.igel.de/",
+    "officialLabel": {
+      "de": "IGEL: sichere Endpoint-Plattform",
+      "en": "IGEL: secure endpoint platform"
+    },
+    "metaDescription": {
+      "de": "IGEL: OS 12, UMS und UMSaaS, App Portal, Managed Hypervisor, Managed Containers und Business Continuity für sichere digitale Arbeitsplätze.",
+      "en": "IGEL: OS 12, UMS and UMSaaS, App Portal, Managed Hypervisor, Managed Containers and business continuity for secure digital workspaces."
+    },
+    "summary": {
+      "de": "IGEL entwickelt eine Softwareplattform für sichere Endpoints und digitale Arbeitsplätze. Das schreibgeschützte, Linux-basierte IGEL OS 12 bildet die Grundlage; die Universal Management Suite (UMS) verwaltet Geräte, Richtlinien, Konfigurationen und Updates zentral. UMSaaS ergänzt einen von IGEL betriebenen Cloud-Service, während das App Portal Anwendungen getrennt vom Betriebssystem bereitstellt. Die Plattform ermöglicht den Zugriff auf SaaS, virtuelle Desktops, Cloud-PCs und Enterprise Browser. Citrix, Microsoft, Omnissa und Island liefern dabei die jeweiligen Partnerplattformen. Managed Hypervisor adressiert lokale virtuelle Maschinen und ältere IT-/OT-Anwendungen; Managed Containers erweitert das Angebot um zentral gesteuerte Container-Workloads am Edge. Business Continuity & Disaster Recovery, Dual Boot und UD Pocket unterstützen alternative Zugangswege bei Windows-Ausfällen. Advanced Services, Technical Relationship Management und Schulungen begleiten Einführung und Betrieb. Typische Einsatzfelder sind Kliniken, Verwaltung, Finanzwesen, Handel und Produktion. Für die Auswahl sind Hardware- und Peripheriekompatibilität, App-Verfügbarkeit, Lizenzumfang, Identitätsintegration, Eigenbetrieb gegenüber UMSaaS sowie regelmäßig getestete Wiederanlaufverfahren zu klären. Sicherheits- und Compliance-Anforderungen müssen im konkreten Gesamtsystem bewertet werden.",
+      "en": "IGEL develops a software platform for secure endpoints and digital workspaces. Read-only, Linux-based IGEL OS 12 provides the foundation; the Universal Management Suite (UMS) centrally manages devices, policies, configurations and updates. UMSaaS adds a cloud service operated by IGEL, while the App Portal delivers applications separately from the operating system. The platform provides access to SaaS, virtual desktops, cloud PCs and enterprise browsers. Citrix, Microsoft, Omnissa and Island supply the respective partner platforms. Managed Hypervisor addresses local virtual machines and legacy IT/OT applications; Managed Containers extends the offering to centrally governed container workloads at the edge. Business Continuity & Disaster Recovery, dual boot and UD Pocket support alternative access during Windows disruptions. Advanced Services, Technical Relationship Management and training support deployment and operations. Typical settings include healthcare, public administration, financial services, retail and manufacturing. Selection requires assessment of hardware and peripheral compatibility, app availability, licensing scope, identity integration, self-managed UMS versus UMSaaS and regularly tested recovery procedures. Security and compliance requirements must be assessed within the actual overall system."
+    },
+    "focus": {
+      "de": [
+        "IGEL OS 12: schreibgeschütztes Endpoint-Betriebssystem",
+        "UMS: zentrale Geräte-, Richtlinien- und App-Verwaltung",
+        "UMSaaS: von IGEL betriebene Cloud-Verwaltung",
+        "App Portal und unabhängige App-Bereitstellung",
+        "Zugriff auf Citrix, Microsoft, Omnissa und Island",
+        "Managed Hypervisor für virtuelle Maschinen und IT/OT",
+        "Managed Containers für kontrollierte Edge-Workloads",
+        "Business Continuity, Dual Boot und UD Pocket",
+        "Advanced Services, TRM und IGEL Education"
+      ],
+      "en": [
+        "IGEL OS 12: read-only endpoint operating system",
+        "UMS: central device, policy and app management",
+        "UMSaaS: cloud management operated by IGEL",
+        "App Portal and independent application delivery",
+        "Access to Citrix, Microsoft, Omnissa and Island",
+        "Managed Hypervisor for virtual machines and IT/OT",
+        "Managed Containers for governed edge workloads",
+        "Business continuity, dual boot and UD Pocket",
+        "Advanced Services, TRM and IGEL Education"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Digital-Workplace- und EUC-Verantwortliche",
+        "Endpoint- und UMS-Administratoren",
+        "VDI-, DaaS- und Cloud-PC-Architekten",
+        "IT-Sicherheit und Identity Management",
+        "Business-Continuity- und Disaster-Recovery-Teams",
+        "OT-Sicherheit und Edge-Betrieb",
+        "Klinik- und Verwaltungs-IT",
+        "IT-Einkauf, Lizenzmanagement und MSPs"
+      ],
+      "en": [
+        "Digital workplace and EUC leaders",
+        "Endpoint and UMS administrators",
+        "VDI, DaaS and cloud PC architects",
+        "IT security and identity management",
+        "Business continuity and disaster recovery teams",
+        "OT security and edge operations",
+        "Healthcare and public-sector IT",
+        "IT procurement, licensing teams and MSPs"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.igel.de/secure-endpoint-os/",
+        "label": {
+          "de": "IGEL OS 12",
+          "en": "IGEL OS 12"
+        }
+      },
+      {
+        "url": "https://www.igel.de/solution-family/universal-management-suite/",
+        "label": {
+          "de": "UMS und UMSaaS",
+          "en": "UMS and UMSaaS"
+        }
+      },
+      {
+        "url": "https://www.igel.de/secure-managed-hypervisor/",
+        "label": {
+          "de": "Managed Hypervisor",
+          "en": "Managed Hypervisor"
+        }
+      },
+      {
+        "url": "https://www.igel.de/secure-managed-containers/",
+        "label": {
+          "de": "Managed Containers",
+          "en": "Managed Containers"
+        }
+      },
+      {
+        "url": "https://www.igel.de/business-continuity-disaster-recovery/",
+        "label": {
+          "de": "Business Continuity & Disaster Recovery",
+          "en": "Business Continuity & Disaster Recovery"
+        }
+      },
+      {
+        "url": "https://www.igel.de/udpocket/",
+        "label": {
+          "de": "UD Pocket",
+          "en": "UD Pocket"
+        }
+      },
+      {
+        "url": "https://www.igel.de/solution-family/advanced-services/",
+        "label": {
+          "de": "Advanced Services",
+          "en": "Advanced Services"
+        }
+      },
+      {
+        "url": "https://www.igel.de/learn-and-connect/resource-library/",
+        "label": {
+          "de": "Ressourcenbibliothek",
+          "en": "Resource library"
+        }
+      },
+      {
+        "url": "https://www.igel.de/learn-and-connect/webinars/",
+        "label": {
+          "de": "Webinare und On-Demand",
+          "en": "Webinars and on-demand"
+        }
+      },
+      {
+        "url": "https://www.igel.de/legal-notice/",
+        "label": {
+          "de": "Impressum und Anbieteridentität",
+          "en": "Legal notice and provider identity"
+        }
+      }
+    ]
+  }
+}

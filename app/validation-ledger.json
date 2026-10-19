@@ -1,0 +1,825 @@
+{
+  "version": 1,
+  "batches": [
+    {
+      "id": "2026-09-08-01",
+      "reviewedAt": "2026-09-08",
+      "minimumPackageSize": 82,
+      "weeklyGrowth": 41,
+      "requiredPackageSize": 82,
+      "assetIds": [
+        4707, 4708, 4709, 4710, 4711, 4712, 4720, 4721, 4722, 4724, 4725, 4726,
+        4727, 4728, 4729, 4730, 4731, 4732, 4733, 4734, 4735, 4736, 4737, 4738,
+        4739, 4740, 4742, 4744, 1001, 1010, 1007, 1002, 1011, 1006, 1005, 1018,
+        1023, 1017, 1027, 1014, 1013, 1026, 1024, 1022, 1031, 1029, 1021, 1025,
+        1015, 1019, 1030, 1028, 1032, 1036, 1035, 1037, 1034, 1033, 1039, 1038,
+        1046, 1043, 1052, 1040, 1051, 1050, 1048, 1041, 1054, 1047, 1053, 1055,
+        1056, 1063, 1065, 1067, 1072, 1080, 1081, 1082, 1085, 1089
+      ],
+      "weeklyAssetIds": [
+        4707, 4708, 4709, 4710, 4711, 4712, 4720, 4721, 4722, 4724, 4725, 4726,
+        4727, 4728, 4729, 4730, 4731, 4732, 4733, 4734, 4735, 4736, 4737, 4738,
+        4739, 4740, 4742, 4744
+      ],
+      "newProviderFamilies": 17,
+      "checks": [
+        "Originalquelle und Erreichbarkeit",
+        "Titel und Veröffentlichungsdatum",
+        "Anbieterfamilie und Portalherkunft",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ]
+    },
+    {
+      "id": "2026-09-09-01",
+      "reviewedAt": "2026-09-09",
+      "minimumPackageSize": 82,
+      "weeklyGrowth": 41,
+      "requiredPackageSize": 82,
+      "assetIds": [
+        1097, 1093, 1120, 1119, 1115, 1113, 1110, 1122, 1164, 1158,
+        1152, 1149, 1145, 1185, 1182, 1179, 1169, 1142, 1200, 1199,
+        1187, 1235, 1228, 1227, 1222, 1219, 1218, 1252, 1118, 1267,
+        1303, 1297, 1296, 1287, 1282, 1278, 1273, 1331, 1330, 1323,
+        1322, 1312, 1311, 1306, 1358, 1356, 1353, 1351, 1349, 1346,
+        1337, 1125, 1361, 1389, 1378, 1375, 1423, 1420, 1418, 1410,
+        1405, 1404, 1444, 1436, 1425, 1463, 1455, 1448, 1212, 1143,
+        1533, 1485, 1484, 1481, 1480, 1476, 1472, 1580, 1572, 4745,
+        4746, 1486
+      ],
+      "weeklyAssetIds": [4745, 4746],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Originalquelle und Erreichbarkeit",
+        "Titel und Veröffentlichungsdatum",
+        "Anbieterfamilie, Mittlerrolle und Portalherkunft",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "Censys, SAP Concur, VAST Data und Vertex auf belastbare Anbieterfamilien normalisiert",
+        "Offensichtlich fehlerhafte Taxonomiezuordnungen im geprüften Paket redaktionell präzisiert",
+        "Zwei inzwischen erreichbare Adobe-Neuzugänge aus der Offenliste in den geprüften Stand übernommen"
+      ]
+    },
+    {
+      "id": "2026-09-10-01",
+      "reviewedAt": "2026-09-10",
+      "minimumPackageSize": 82,
+      "weeklyGrowth": 41,
+      "requiredPackageSize": 82,
+      "assetIds": [
+        1162, 1156, 1163, 1154, 1153, 1171, 1170, 1183, 1202, 1208,
+        1189, 1210, 1197, 1213, 1193, 1192, 1211, 1201, 1231, 1234,
+        1232, 1243, 1230, 1241, 1226, 1238, 1249, 1261, 1266, 1263,
+        1262, 1280, 1279, 1290, 1294, 1275, 1308, 1310, 1324, 1336,
+        1327, 1359, 1355, 1354, 1344, 1343, 1342, 1363, 1362, 1360,
+        1388, 1384, 1372, 1373, 1412, 1399, 1398, 1397, 1395, 1396,
+        1394, 1422, 1391, 1417, 1406, 1402, 1413, 1442, 1438, 1429,
+        1451, 1464, 1462, 1500, 1498, 1477, 1499, 1514, 1526, 1522,
+        1520, 1527
+      ],
+      "weeklyAssetIds": [],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Originalquelle und Erreichbarkeit",
+        "Titel und Veröffentlichungsdatum",
+        "Anbieterfamilie, Mittlerrolle und Portalherkunft",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "Object First auf den tatsächlichen Anbieter normalisiert; die PR-Agentur bleibt nur Quellenkontakt",
+        "Zebra Technologies auf eine stabile Anbieterfamilie normalisiert",
+        "Fehlerhafte generische Taxonomiezuordnungen im geprüften Paket redaktionell präzisiert"
+      ]
+    },
+    {
+      "id": "2026-09-11-nvidia-gtc",
+      "reviewedAt": "2026-09-11",
+      "minimumPackageSize": 7,
+      "weeklyGrowth": 48,
+      "requiredPackageSize": 7,
+      "assetIds": [500000, 500001, 500002, 500003, 500004, 500005, 500006],
+      "weeklyAssetIds": [500000, 500001, 500002, 500003, 500004, 500005, 500006],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Offizielle NVIDIA-Originalquelle und Erreichbarkeit",
+        "Sessiontitel, GTC-Berlin-Termin und Newsletterherkunft",
+        "NVIDIA als Anbieter sowie Sprecherorganisationen als Praxisbeispiele",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "Newsletter-Trackinglinks durch stabile offizielle NVIDIA-Session-URLs ersetzt",
+        "Together AI bei der Revolut-Session transparent als präsentierender Partner dokumentiert"
+      ]
+    },
+    {
+      "id": "2026-09-15-weka",
+      "reviewedAt": "2026-09-15",
+      "minimumPackageSize": 61,
+      "weeklyGrowth": 61,
+      "requiredPackageSize": 61,
+      "assetIds": [
+        4877, 4878, 4879, 4880, 4881, 4882, 4883, 4884, 4885, 4886, 4887, 4888,
+        4889, 4890, 4891, 4892, 4893, 4894, 4895, 4896, 4897, 4898, 4899, 4900,
+        4901, 4902, 4903, 4904, 4905, 4906, 4907, 4908, 4909, 4910, 4911, 4912,
+        4913, 4914, 4915, 4916, 4917, 4918, 4919, 4920, 4921, 4922, 4923, 4924,
+        4925, 4926, 4927, 4928, 4929, 4930, 4931, 4932, 4933, 4934, 4935, 4936,
+        4937
+      ],
+      "weeklyAssetIds": [
+        4877, 4878, 4879, 4880, 4881, 4882, 4883, 4884, 4885, 4886, 4887, 4888,
+        4889, 4890, 4891, 4892, 4893, 4894, 4895, 4896, 4897, 4898, 4899, 4900,
+        4901, 4902, 4903, 4904, 4905, 4906, 4907, 4908, 4909, 4910, 4911, 4912,
+        4913, 4914, 4915, 4916, 4917, 4918, 4919, 4920, 4921, 4922, 4923, 4924,
+        4925, 4926, 4927, 4928, 4929, 4930, 4931, 4932, 4933, 4934, 4935, 4936,
+        4937
+      ],
+      "newProviderFamilies": 1,
+      "checks": [
+        "WEKA-Originalseite und Erreichbarkeit",
+        "Echtes Veröffentlichungsdatum aus Article-JSON-LD statt Sitemap-lastmod",
+        "WEKA Intelligence als Herausgeber",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "61 Veröffentlichungen aus 2026 freigegeben; ältere Veröffentlichungen von 2015 bis 2025 ausgeschlossen",
+        "Sitemap-lastmod nicht als Publikationsdatum verwendet",
+        "Künftige neue WEKA-URLs bleiben bis zur Einzelprüfung in der Prüfliste"
+      ]
+    },
+    {
+      "id": "2026-09-16-mnet",
+      "reviewedAt": "2026-09-16",
+      "minimumPackageSize": 11,
+      "weeklyGrowth": 11,
+      "requiredPackageSize": 11,
+      "assetIds": [
+        620000, 620001, 620002, 620003, 620004, 620005, 620006, 620007, 620008,
+        620009, 620010
+      ],
+      "weeklyAssetIds": [
+        620000, 620001, 620002, 620003, 620004, 620005, 620006, 620007, 620008,
+        620009, 620010
+      ],
+      "newProviderFamilies": 1,
+      "checks": [
+        "M-net-Originalquellen und Erreichbarkeit",
+        "Publikationsdatum nur bei ausdrücklich datierten Beiträgen",
+        "M-net als Anbieter; Referenzkunden nicht als Herausgeber zugerechnet",
+        "Trennung von Originalquelle und unabhängiger Fachpresse",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "M-net Telekommunikations GmbH konservativ auf die Anbieterfamilie M-net normalisiert",
+        "Undatierte Lösungs-, Whitepaper- und Referenzseiten ohne erfundenes Publikationsdatum aufgenommen",
+        "Connect-Professional-Test als unabhängige Fachquelle gekennzeichnet; M-net-eigene Inhalte bleiben separat"
+      ]
+    },
+    {
+      "id": "2026-09-17-akamai",
+      "reviewedAt": "2026-09-17",
+      "minimumPackageSize": 7,
+      "weeklyGrowth": 7,
+      "requiredPackageSize": 7,
+      "assetIds": [630000, 630001, 630002, 630003, 630004, 630005, 630006],
+      "weeklyAssetIds": [630000, 630001, 630002, 630003, 630004, 630005, 630006],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Akamai-Originalquellen und Erreichbarkeit",
+        "Publikationsdatum nur bei ausdrücklich datierten Beiträgen",
+        "Akamai als Herausgeber der Originalinhalte",
+        "Trennung von Originalquelle, Fachpresse und Syndication",
+        "Plusserver- und Partnerbeziehungen ohne ungesicherte Anbieterzusammenführung",
+        "Dubletten und kanonische Detailseite",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus"
+      ],
+      "corrections": [
+        "Akamai-Profil um Cloud, KI-Inferenz, GenAI-Sicherheit und Mikrosegmentierung verbreitert",
+        "Undatierte Produkt- und Studienseiten ohne erfundenes Publikationsdatum aufgenommen",
+        "Security-Insider als unabhängige Fachquelle gekennzeichnet; Akamai-Originalinhalte bleiben separat"
+      ]
+    },
+    {
+      "id": "2026-09-17-mnet-redaktionell",
+      "reviewedAt": "2026-09-17",
+      "minimumPackageSize": 2,
+      "weeklyGrowth": 2,
+      "requiredPackageSize": 2,
+      "assetIds": [620011, 620012],
+      "weeklyAssetIds": [620011, 620012],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Originalseiten, Titel, Autoren und Publikationsdaten geprüft",
+        "M-net als behandelter Anbieter belegt",
+        "Redaktionelle Fachquellen getrennt von M-net-Originalquellen",
+        "Business-Relevanz für Mittelstand, Channel, Investitionen und Open Access",
+        "Dubletten und kanonische Detailseiten",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "Telecom Handel als B2B-Fachquelle für Händler, Reseller und Geschäftskunden priorisiert",
+        "Energie & Management als unabhängige Quelle für Eigentümerstruktur, Investitionen und Netzauslastung ergänzt"
+      ]
+    },
+    {
+      "id": "2026-09-17-telecom-handel",
+      "reviewedAt": "2026-09-17",
+      "minimumPackageSize": 23,
+      "weeklyGrowth": 23,
+      "requiredPackageSize": 23,
+      "assetIds": [
+        640000, 640001, 640002, 640003, 640004, 640005, 640006, 640007,
+        640008, 640009, 640010, 640011, 640012, 640013, 640014, 640015,
+        640016, 640017, 640018, 640019, 640020, 640021, 640022
+      ],
+      "weeklyAssetIds": [
+        640000, 640001, 640002, 640003, 640004, 640005, 640006, 640007,
+        640008, 640009, 640010, 640011, 640012, 640013, 640014, 640015,
+        640016, 640017, 640018, 640019, 640020, 640021, 640022
+      ],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Telecom-Handel-Originalseiten, Titel und sichtbare Publikationsdaten geprüft",
+        "Nur bereits vorhandene SmartTech-Anbieterfamilien öffentlich ergänzt",
+        "Anbieterzuordnung und Kooperationsrollen konservativ geprüft",
+        "Personalien, Incentives und reine Eventankündigungen ausgeschlossen",
+        "Bereits vorhandene M-net-URL nicht doppelt erfasst",
+        "Wirkungsraum, Herausforderung, Lösung, Lieferform und Lebenszyklus",
+        "Trennung Beobachtet, Kuratiert und Community"
+      ],
+      "corrections": [
+        "Sitemap-lastmod nicht als Publikationsdatum verwendet",
+        "Fehlende Anbieter in einer getrennten Potenzialliste zur Abstimmung gehalten",
+        "Kooperationsbeiträge jeweils nur der fachlich führenden vorhandenen Anbieterfamilie zugeordnet"
+      ]
+    },
+    {
+      "id": "2026-09-21-servicenow-profile",
+      "reviewedAt": "2026-09-21",
+      "minimumPackageSize": 11,
+      "weeklyGrowth": 11,
+      "requiredPackageSize": 11,
+      "assetIds": [
+        660000, 660001, 660002, 660003, 660004, 660005,
+        660006, 660007, 660008, 660009, 660010
+      ],
+      "weeklyAssetIds": [
+        660000, 660001, 660002, 660003, 660004, 660005,
+        660006, 660007, 660008, 660009, 660010
+      ],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Elf offizielle ServiceNow-Produktseiten als kuratierte Originalquellen geprüft",
+        "ServiceNow AI Platform, AI Agents und AI Control Tower getrennt eingeordnet",
+        "ITSM, ITOM, Kundenservice, HR, Security, Risiko, Portfolio und App Engine abgedeckt",
+        "Zwei vorhandene CIO-Whitepaper als beobachtete Quellen unverändert erhalten",
+        "Kuratierte und beobachtete Quellen auf Anbieter- und Detailseiten getrennt",
+        "Original-URLs, Anbieterzuordnung und stabile ServiceNow-Anbieter-URL erhalten"
+      ],
+      "corrections": [
+        "Undatierte Produktübersichten nicht mit einem erfundenen Publikationsdatum versehen",
+        "Produktversprechen als Anbieterpositionierung und nicht als unabhängig bestätigte Wirkung formuliert"
+      ]
+    },
+    {
+      "id": "2026-09-21-telecom-wave1",
+      "reviewedAt": "2026-09-21",
+      "minimumPackageSize": 23,
+      "weeklyGrowth": 23,
+      "requiredPackageSize": 23,
+      "assetIds": [
+        650000, 650001, 650002, 650003, 650004, 650005, 650006, 650007,
+        650008, 650009, 650010, 650011, 650012, 650013, 650014, 650015,
+        650016, 650017, 650018, 650019, 650020, 650021, 650022
+      ],
+      "weeklyAssetIds": [
+        650000, 650001, 650002, 650003, 650004, 650005, 650006, 650007,
+        650008, 650009, 650010, 650011, 650012, 650013, 650014, 650015,
+        650016, 650017, 650018, 650019, 650020, 650021, 650022
+      ],
+      "newProviderFamilies": 5,
+      "checks": [
+        "Telefónica Deutschland, Enreach, Peoplefone, TD SYNNEX und 1&1 Versatel als getrennte Anbieterfamilien angelegt",
+        "18 Telecom-Handel-Originalseiten mit sichtbarem Publikationsdatum 2026 geprüft",
+        "Je Anbieter eine offizielle Leistungsübersicht als kuratierte Quelle ergänzt",
+        "Beobachtete und kuratierte Quellen auf Anbieter- und Detailseiten getrennt",
+        "Netze, UCaaS, Voice-AI, Distribution, Security und Geschäftskundeninfrastruktur taxonomisch eingeordnet",
+        "Original-URLs, Quellenportale und Publikationsdaten erhalten",
+        "Keine URL- oder Titel-Dubletten im bestehenden Datenbestand"
+      ],
+      "corrections": [
+        "Offizielle und redaktionelle Quellen nicht zu einem einheitlichen Herkunftstyp vermischt",
+        "Unternehmensnamen konservativ normalisiert; O2 Business bleibt dem Profil Telefónica Deutschland zugeordnet",
+        "Undatierte offizielle Übersichtsseiten nicht mit einem erfundenen Publikationsdatum versehen"
+      ]
+    },
+    {
+      "id": "2026-09-22-telecom-wave2",
+      "reviewedAt": "2026-09-22",
+      "minimumPackageSize": 19,
+      "weeklyGrowth": 19,
+      "requiredPackageSize": 19,
+      "assetIds": [
+        670000, 670001, 670002, 670003, 670004, 670005, 670006, 670007,
+        670008, 670009, 670010, 670011, 670012, 670013, 670014, 670015,
+        670016, 670017, 670018
+      ],
+      "weeklyAssetIds": [
+        670000, 670001, 670002, 670003, 670004, 670005, 670006, 670007,
+        670008, 670009, 670010, 670011, 670012, 670013, 670014, 670015,
+        670016, 670017, 670018
+      ],
+      "newProviderFamilies": 6,
+      "checks": [
+        "Easybell, Snom, NFON, Auerswald, Jabra und R&S Networks and Cybersecurity als getrennte Anbieterfamilien angelegt",
+        "13 Telecom-Handel-Originalseiten mit Publikationsdatum 2026 übernommen",
+        "Je Anbieter eine offizielle Leistungsübersicht als kuratierte Quelle ergänzt",
+        "Beobachtete und kuratierte Quellen auf Anbieter- und Detailseiten getrennt",
+        "Cloud-Telefonie, Voice-AI, IP-Telefonie, DECT, Workplace-Audio sowie Netzwerk und Cybersecurity taxonomisch eingeordnet",
+        "Original-URLs, Quellenportale und Publikationsdaten erhalten",
+        "Keine URL- oder Titel-Dubletten im bestehenden Datenbestand"
+      ],
+      "corrections": [
+        "Reinen Snom-Personalienbeitrag ohne belastbares Wissensobjekt ausgeschlossen",
+        "LANCOM Systems gemäß offizieller Quelle seit 1. Juli 2026 als R&S Networks and Cybersecurity geführt; historische Titel erhalten",
+        "Undatierte offizielle Übersichtsseiten nicht mit einem erfundenen Publikationsdatum versehen"
+      ]
+    },
+    {
+      "id": "2026-09-21-serviceware-profile-expansion",
+      "reviewedAt": "2026-09-21",
+      "minimumPackageSize": 10,
+      "weeklyGrowth": 10,
+      "requiredPackageSize": 10,
+      "assetIds": [
+        610011, 610012, 610013, 610014, 610015,
+        610016, 610017, 610018, 610019, 610020
+      ],
+      "weeklyAssetIds": [
+        610011, 610012, 610013, 610014, 610015,
+        610016, 610017, 610018, 610019, 610020
+      ],
+      "newProviderFamilies": 0,
+      "checks": [
+        "Zehn offizielle Serviceware Plattform- und Lösungsseiten live geprüft",
+        "Gesamtprofil auf 23 Wissensangebote erweitert: 21 kuratierte Originalquellen und zwei beobachtete CIO-Veröffentlichungen",
+        "Plattform, Agentic AI, ESM, ITSM, HRSM, Customer Service, ITFM, CPM, Wissensmanagement und Field Service abgedeckt",
+        "Produktversprechen als Anbieterpositionierung und nicht als unabhängig bestätigte Wirkung formuliert",
+        "Original-URLs, Quellenherkunft und stabile Serviceware-Anbieter-URL erhalten",
+        "Deutsche und englische Detailseiten ergänzt",
+        "Keine URL- oder Titel-Dubletten im bestehenden Datenbestand"
+      ],
+      "corrections": [
+        "Undatierte Lösungsübersichten nicht mit einem erfundenen Publikationsdatum versehen",
+        "Partnerangebote auf der Serviceware-Website weiterhin nicht automatisch Serviceware zugerechnet",
+        "SaaS-, On-Premises- und Hosting-Aussagen ausdrücklich als Anbieterangaben eingeordnet"
+      ]
+    },
+    {
+      "id": "2026-10-08-althallerassist-product",
+      "reviewedAt": "2026-10-08",
+      "requiredPackageSize": 1,
+      "assetIds": [
+        780000
+      ],
+      "weeklyAssetIds": [
+        780000
+      ],
+      "newProviderFamilies": 1,
+      "checks": [
+        "Eine öffentliche Originalproduktseite vollständig gelesen: https://althallercommunication.de/assist",
+        "Eigener Produktanbieter mit voller Firmierung auf der Originalseite belegt; keine pauschale Übernahme des Kommunikationsportfolios",
+        "Funktionen, Zielgruppen und Bereitstellung als Anbieterangaben erfasst",
+        "Medienbereich, weitere Fachbezüge, Kanäle und Querschnittsthema KI zugeordnet",
+        "DE/EN-Profil und Wissensobjekt erstellt; undatierten Inhalt nicht mit erfundenem Veröffentlichungsdatum versehen"
+      ],
+      "corrections": [
+        "Technische Aussagen zum Sprachmodell, Hosting und Datenschutz nicht als unabhängig verifiziert dargestellt",
+        "Keine unbelegten Funktionen für Social Listening, Kampagnentracking oder automatisches Posting ergänzt",
+        "Presse-Backgrounder nicht ohne separate Originalprüfung als zusätzliches Wissensobjekt aufgenommen"
+      ]
+    },
+    {
+      "id": "2026-10-08-marconomy-products",
+      "reviewedAt": "2026-10-08",
+      "assetIds": [
+        790000,
+        790001,
+        790002,
+        790004,
+        790005,
+        790006,
+        790007,
+        790008,
+        790009,
+        790010,
+        790011,
+        790012,
+        790013,
+        790014,
+        790015,
+        790016
+      ],
+      "checks": [
+        "Official provider identity and public product overview individually reviewed",
+        "DE/EN descriptions and buying context",
+        "Canonical URLs and duplicate check",
+        "No gated documents validated; Agorapulse excluded because direct retrieval was blocked"
+      ]
+    },
+    {
+      "id": "2026-10-08-spacex-xai",
+      "reviewedAt": "2026-10-08",
+      "assetIds": [
+        800000,
+        800006,
+        800007,
+        800008,
+        800009,
+        800010,
+        800011,
+        800012,
+        800013,
+        800014,
+        800015
+      ],
+      "checks": [
+        "Public original pages read individually; provider statements distinguished from independent tests",
+        "Acquisition date evidenced; product delivery and provider identities remain separate",
+        "Inaccessible SpaceX/Starlink pages and Grokipedia remain observed",
+        "Bilingual metadata, classification and source links checked"
+      ]
+    },
+    {
+      "id": "2026-10-08-skydance",
+      "reviewedAt": "2026-10-08",
+      "assetIds": [
+        810000,
+        810001,
+        810002,
+        810003,
+        810004,
+        810005
+      ],
+      "checks": [
+        "Six public original pages individually read; provider statements distinguished from technical verification",
+        "Completed corporate merger distinguished from planned streaming integration",
+        "Oracle ecosystem relationship treated as strategic context, not a cloud product or corporate merger",
+        "US-oriented CTV details do not establish DACH availability; bilingual metadata reviewed"
+      ]
+    },
+    {
+      "id": "2026-10-09-althaller-management-summary",
+      "reviewedAt": "2026-10-09",
+      "assetIds": [
+        820000
+      ],
+      "checks": [
+        "GitHub PR #1 original review reconciled with current canonical Sites source",
+        "Original PDF retrieved; SHA-256 matches prior review, all pages read and discrepant country chart visually checked",
+        "One study item, separate from existing AlthallerAssist product; DE/EN methodological caveats preserved",
+        "No asserted publication date, representative sample or full-study review"
+      ]
+    },
+{
+  "id": "2026-10-12-akamai",
+  "reviewedAt": "2026-10-12",
+  "minimumPackageSize": 12,
+  "weeklyGrowth": 7,
+  "requiredPackageSize": 12,
+  "assetIds": [
+    630007,
+    630008,
+    630009,
+    630010,
+    630011,
+    630012,
+    630013,
+    3236,
+    1984,
+    3239,
+    3233,
+    3238
+  ],
+  "weeklyAssetIds": [
+    630007,
+    630008,
+    630009,
+    630010,
+    630011,
+    630012,
+    630013
+  ],
+  "newProviderFamilies": 0,
+  "checks": [
+    "Öffentliche Originalseiten und Portalbeschreibungen einzeln gelesen",
+    "Prüfumfang: Portalbeschreibung, kein formulargebundener PDF-Volltext",
+    "Beobachtet und Kuratiert getrennt; stabile IDs und Detailpfade erhalten",
+    "DE/EN gleichwertig; keine erfundenen Publikationsdaten",
+    "APAC-Ländergruppen unterschieden; CPU-Vertrag nicht als GPU-Kapazität gewertet"
+  ],
+  "corrections": [
+    "15 fachliche Änderungen: Profil, sieben neue Originalressourcen, vollständige Inferenzstudie, sechs Portalobjekte"
+  ]
+},
+{
+  "id": "2026-10-12-anthropic",
+  "reviewedAt": "2026-10-12",
+  "minimumPackageSize": 5,
+  "weeklyGrowth": 0,
+  "requiredPackageSize": 5,
+  "assetIds": [
+    2583,
+    2582,
+    2003,
+    2413,
+    2134
+  ],
+  "weeklyAssetIds": [],
+  "newProviderFamilies": 1,
+  "checks": [
+    "Fünf öffentliche Portaltexte vollständig gelesen; Partnerrollen konservativ abgegrenzt",
+    "Tenable-Originalmeldung und Anthropic-Unternehmens-/Produktquellen geprüft",
+    "Akamai-Objekt bereits geprüft; keine doppelte Validierung",
+    "Sechs bestehende Artikel verknüpft, keine neuen oder duplizierten Wissensobjekte",
+    "DE/EN-Profil; Canonical, Suche, Sitemap und primäre Anbieter erhalten"
+  ],
+  "corrections": [
+    "Anthropic PBC als eigener KI-Anbieter profiliert",
+    "Kosten-/Produktivitätseinstufung der Cybersecurity-Beiträge korrigiert",
+    "Meldung und Partnerleistungen von Anthropic-Modellen unterschieden"
+  ]
+},
+    {
+      "id": "2026-10-13-allianz-trade-atlas",
+      "reviewedAt": "2026-10-13",
+      "assetIds": [
+        840000
+      ],
+      "checks": [
+        "Original uploaded PDF: 52 pages, English language, cover date 7 September 2026 verified; public summary date 11 September distinguished",
+        "Executive summary and electronics, IT services, machinery and telecom chapters reviewed; methodology and electronics rating visually checked",
+        "Sector ratings distinguished from country and individual buyer assessments; original clean source URL, no tracking parameters",
+        "External PDF HTTP 403 retained as access caveat; supplied file enabled content review"
+      ],
+      "minimumPackageSize": 1,
+      "weeklyGrowth": 1,
+      "requiredPackageSize": 1,
+      "weeklyAssetIds": [
+        840000
+      ],
+      "newProviderFamilies": 1
+    },
+{
+  "id": "2026-10-13-also-trenkwalder",
+  "reviewedAt": "2026-10-13",
+  "minimumPackageSize": 18,
+  "requiredPackageSize": 18,
+  "weeklyGrowth": 18,
+  "assetIds": [
+    850000,
+    850001,
+    850002,
+    850003,
+    850004,
+    850005,
+    850006,
+    850007,
+    850008,
+    850009,
+    850010,
+    850011,
+    850012,
+    850013,
+    850014,
+    850015,
+    850016,
+    850017
+  ],
+  "weeklyAssetIds": [
+    850000,
+    850001,
+    850002,
+    850003,
+    850004,
+    850005,
+    850006,
+    850007,
+    850008,
+    850009,
+    850010,
+    850011,
+    850012,
+    850013,
+    850014,
+    850015,
+    850016,
+    850017
+  ],
+  "newProviderFamilies": 2,
+  "checks": [
+    "18 official public service/announcement pages individually reviewed; manufacturer and distributor roles distinguished",
+    "German and English descriptions; regional scope, source dates and availability limits preserved",
+    "Three observed press/event resources excluded from individual validation; historical or undated ALSO-Trenkwalder relationships labelled"
+  ]
+},
+{
+  "id": "2026-10-19-five-requested-providers",
+  "reviewedAt": "2026-10-19",
+  "assetIds": [
+    860000,
+    860001,
+    860002,
+    860003,
+    860004,
+    860005,
+    860006,
+    860007,
+    860008,
+    860009,
+    860010,
+    860011
+  ],
+  "minimumPackageSize": 12,
+  "requiredPackageSize": 12,
+  "weeklyGrowth": 12,
+  "weeklyAssetIds": [
+    860000,
+    860001,
+    860002,
+    860003,
+    860004,
+    860005,
+    860006,
+    860007,
+    860008,
+    860009,
+    860010,
+    860011
+  ],
+  "newProviderFamilies": 5,
+  "checks": [
+    "12 official public solution/article pages individually read; no whitepaper or recording validation inferred",
+    "Five provider identities verified from official legal or company pages; no existing canonical family found",
+    "DIKITALE future event announcement remains observed; client-side public content and legal identity inspected",
+    "ITMS own communication services explicitly requested by user; no client product attribution changed",
+    "German and English profiles, taxonomy, source URLs and canonical article paths reviewed"
+  ]
+},
+{
+  "id": "2026-10-19-medienhaus-tradedoubler",
+  "reviewedAt": "2026-10-19",
+  "assetIds": [
+    870000,
+    870001,
+    870002,
+    870003,
+    870004,
+    870005,
+    870006
+  ],
+  "minimumPackageSize": 7,
+  "requiredPackageSize": 7,
+  "weeklyGrowth": 7,
+  "weeklyAssetIds": [
+    870000,
+    870001,
+    870002,
+    870003,
+    870004,
+    870005,
+    870006
+  ],
+  "newProviderFamilies": 2,
+  "checks": [
+    "Seven distinct public official offering pages individually reviewed; no duplicated section anchors",
+    "MEDIENHAUS.de identified via official legal notice as Kassel-based Medienhaus.de GmbH, not similarly named publishers",
+    "Own marketing/platform services explicitly requested; existing client-product attribution preserved",
+    "Tradedoubler brand/group and DACH scope sourced; recurring Grow platform fees distinguished from commissions",
+    "No pricing guarantee, inventory exclusivity, universal tracking or blanket consent exemption inferred"
+  ]
+},
+    {
+      "id": "2026-10-19-it-refresh",
+      "reviewedAt": "2026-10-19",
+      "assetIds": [
+        880068,
+        880069,
+        880070,
+        880071,
+        880072
+      ],
+      "weeklyAssetIds": [
+        880068,
+        880069,
+        880070,
+        880071,
+        880072
+      ],
+      "newProviderFamilies": 5,
+      "checks": [
+        "Öffentliche Originalseite einzeln gelesen; keine verlinkten gated Volltexte oder Aufzeichnungen validiert",
+        "Titel, Anbieteridentität, Angebotsumfang und Verfügbarkeit",
+        "DE/EN, Taxonomie, Dubletten und stabile interne Detailseite"
+      ]
+    }
+  ],
+  "open": [
+    {
+      "assetId": 4714,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 4723,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 4741,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 4743,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 4747,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1008,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1009,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1012,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1016,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1020,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1042,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1045,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 1078,
+      "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar"
+    },
+    {
+      "assetId": 4713,
+      "reason": "Auszeichnungsmeldung ohne belastbares Wissensobjekt"
+    },
+    { "assetId": 4715, "reason": "Kein hinreichender SmartTech-Bezug" },
+    { "assetId": 4716, "reason": "Kein hinreichender SmartTech-Bezug" },
+    { "assetId": 4717, "reason": "Kein hinreichender SmartTech-Bezug" },
+    {
+      "assetId": 4718,
+      "reason": "Personalmeldung ohne belastbares Wissensobjekt"
+    },
+    { "assetId": 4719, "reason": "Kein hinreichender B2B-SmartTech-Bezug" },
+    { "assetId": 58, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1141, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1139, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1269, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1341, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1419, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1392, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1443, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1440, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1435, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1432, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1428, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1465, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1487, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1577, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1576, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1575, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1569, "reason": "Quelle beim Prüfabruf nicht belastbar erreichbar" },
+    { "assetId": 1216, "reason": "Anbieterzuordnung wegen möglicher Kommunikationsmittler-Rolle offen" },
+    { "assetId": 1285, "reason": "Realer Anbieter ist im Quellkontakt nicht belastbar vom Kommunikationsmittler getrennt" },
+    { "assetId": 1321, "reason": "Realer Anbieter ist im Quellkontakt nicht belastbar vom Kommunikationsmittler getrennt" }
+  ]
+}

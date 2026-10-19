@@ -1,0 +1,346 @@
+{
+  "ALSO": {
+    "officialUrl": "https://www.also.com/ec/cms5/de_1010/1010/index.jsp",
+    "officialLabel": {
+      "de": "ALSO: Unternehmen und Leistungen",
+      "en": "ALSO: company and services"
+    },
+    "metaDescription": {
+      "de": "ALSO ist ein Technologieanbieter und ITK-Distributor mit der ALSO Holding AG in der Schweiz als Gruppenholding; das deutsche Angebot wird unter anderem durch ALSO Deutschland GmbH getragen. Cloud, Lösungen und Quellenbezüge.",
+      "en": "ALSO: ICT distribution, cloud marketplace, AI, IoT, cybersecurity, finance and lifecycle services."
+    },
+    "summary": {
+      "de": "ALSO ist ein Technologieanbieter und ITK-Distributor mit der ALSO Holding AG in der Schweiz als Gruppenholding; das deutsche Angebot wird unter anderem durch ALSO Deutschland GmbH getragen. Das Geschäftsmodell verbindet Supply für Hardware und Software, Solutions für Lösungsberatung und Projektunterstützung sowie Service für digitale Plattformen und ergänzende Betriebsprozesse. Reseller, Systemhäuser, MSPs, ISVs und Distributoren nutzen den Cloud Marketplace für Beschaffung, Provisionierung, Abrechnung und eigene Serviceangebote. ALSO ist dabei Handels- und Plattformpartner; die Produkte und Betriebszusagen der Hersteller bleiben separat zu prüfen. Das Portfolio reicht von Cloud und Cybersecurity über KI, IoT und Kommunikationslösungen bis zu Digital Signage, Gesundheits-IT, Schulausstattung und Managed Print. Finanzierung, Fulfilment und Lifecycle-Leistungen ergänzen die Umsetzung. Die Standortübersicht belegt Aktivitäten in DACH, Benelux, den nordischen Ländern, Frankreich, Italien, Iberien und Mittel- und Osteuropa. Sie enthält außerdem Cloud- und Plattformpartner; diese Einträge sind von eigenen Landesgesellschaften zu unterscheiden. Für die Auswahl zählen Länder- und Herstellerverfügbarkeit, Schnittstellen, Lizenzbedingungen, Finanzierungsgeber, Supportverteilung und Zuständigkeiten beim Betrieb. Die am 7. Oktober 2026 angekündigte HPE/Juniper-Erweiterung ist für November vorgesehen. Droege ist Hauptaktionär der Gruppe. Zu Trenkwalder Learning bestehen belegte Webinarbezüge, darunter die CTV 2020; daraus lässt sich kein aktueller gemeinsamer Vertriebsvertrag ableiten.",
+      "en": "ALSO is a technology provider and ICT distributor, with ALSO Holding AG in Switzerland as group holding company; ALSO Deutschland GmbH is among the entities responsible for the German offering. Its business model combines Supply for hardware and software, Solutions for consulting and project support, and Service for digital platforms and supporting operational processes. Resellers, system integrators, MSPs, ISVs and distributors use the Cloud Marketplace for procurement, provisioning, billing and their own services. ALSO acts as a commercial and platform partner; vendors’ products and operational commitments require separate assessment. Its portfolio spans cloud, cybersecurity, AI, IoT and communications through digital signage, healthcare IT, school equipment and managed print. Finance, fulfilment and lifecycle services support delivery. The location directory establishes activity across DACH, Benelux, the Nordics, France, Italy, Iberia, and Central and Eastern Europe. It also includes cloud and platform partners, which should be distinguished from owned national subsidiaries. Selection depends on country and vendor availability, interfaces, licence terms, finance providers, support allocation and operating responsibilities. The HPE/Juniper expansion announced on 7 October 2026 is scheduled for November. Droege is the group’s principal shareholder. Documented webinar relationships with Trenkwalder Learning include CTV 2020; these do not establish a current joint sales contract."
+    },
+    "focus": {
+      "de": [
+        "Supply: Hardware- und Softwaredistribution",
+        "Cloud Marketplace und Subscription Management",
+        "KI-Lösungen und IoT-Integration",
+        "Cybersecurity-Distribution",
+        "UCC, Workplace as a Service und Managed Print",
+        "Digital Signage und Gesundheits-IT",
+        "Schulausstattung und Channel-Weiterbildung",
+        "Finanzierung und IT-Fulfilment",
+        "Lifecycle, Rücknahme und Refurbishment"
+      ],
+      "en": [
+        "Supply: hardware and software distribution",
+        "Cloud Marketplace and subscription management",
+        "AI solutions and IoT integration",
+        "Cybersecurity distribution",
+        "UCC, workplace as a service and managed print",
+        "Digital signage and healthcare IT",
+        "School equipment and channel learning",
+        "Finance and IT fulfilment",
+        "Lifecycle, take-back and refurbishment"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Systemhäuser und IT-Reseller",
+        "MSP- und Cloud-Service-Leitung",
+        "ISVs und Plattformpartner",
+        "Presales und Lösungsarchitektur",
+        "IT-Einkauf und Channel Management",
+        "Finanzen und Beschaffungslogistik",
+        "Projektverantwortliche für Bildung und Gesundheits-IT"
+      ],
+      "en": [
+        "System integrators and IT resellers",
+        "MSP and cloud service leaders",
+        "ISVs and platform partners",
+        "Presales and solution architects",
+        "IT procurement and channel management",
+        "Finance and procurement logistics",
+        "Education and healthcare IT project managers"
+      ]
+    },
+    "aliases": [
+      "ALSO Holding AG",
+      "ALSO Deutschland GmbH"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.also.com/ec/cms5/de_6000/6000/cloud/marketplace/index.jsp",
+        "label": {
+          "de": "ALSO Cloud Marketplace: Cloud-Beschaffung und Abrechnung",
+          "en": "ALSO Cloud Marketplace: cloud procurement and billing"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/also-ai-business-solutions/index.jsp",
+        "label": {
+          "de": "ALSO AI Business Solutions: KI-Lösungen für Geschäftsprozesse",
+          "en": "ALSO AI Business Solutions: AI for business processes"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/also-iot-plattform/index.jsp",
+        "label": {
+          "de": "ALSO IoT-Plattform: Sensoren, Konnektivität und Daten",
+          "en": "ALSO IoT platform: sensors, connectivity and data"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/news-und-pressemitteilungen/news_item_12_298432.jsp",
+        "label": {
+          "de": "ALSO und Huntress: Managed Security über den Cloud Marketplace",
+          "en": "ALSO and Huntress: managed security through the Cloud Marketplace"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/news-und-pressemitteilungen/news_item_12_298752.jsp",
+        "label": {
+          "de": "ALSO und HPE: Infrastrukturportfolio und angekündigte Juniper-Erweiterung",
+          "en": "ALSO and HPE: infrastructure portfolio and planned Juniper expansion"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/financial-services/index.jsp",
+        "label": {
+          "de": "ALSO Financial Services: Finanzierung im IT-Channel",
+          "en": "ALSO Financial Services: financing for the IT channel"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/logistics-services/index.jsp",
+        "label": {
+          "de": "ALSO Logistics Services: Fulfilment und Direktlieferung",
+          "en": "ALSO Logistics Services: fulfilment and direct delivery"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/digital-signage/index.jsp",
+        "label": {
+          "de": "ALSO Digital Signage: Planung, Rollout und Betrieb",
+          "en": "ALSO Digital Signage: planning, rollout and operations"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/digital-healthcare/index.jsp",
+        "label": {
+          "de": "ALSO Digital Healthcare: Beratung für Gesundheits-IT",
+          "en": "ALSO Digital Healthcare: healthcare IT consulting"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/also-lifecycle-solutions/index.jsp",
+        "label": {
+          "de": "ALSO Lifecycle Solutions: Rücknahme und Wiederverwendung von IT",
+          "en": "ALSO Lifecycle Solutions: IT take-back and reuse"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/digital-services/waas/waas_new.jsp",
+        "label": {
+          "de": "ALSO Workplace as a Service: Arbeitsplatzangebote bündeln",
+          "en": "ALSO Workplace as a Service: bundling workplace offerings"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/ucc/index.jsp",
+        "label": {
+          "de": "ALSO UCC: Kommunikation und Zusammenarbeit für Unternehmen",
+          "en": "ALSO UCC: business communication and collaboration"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/schuledigital/index.jsp",
+        "label": {
+          "de": "ALSO #schuledigital: Ausstattung und Projektbegleitung",
+          "en": "ALSO #schuledigital: equipment and project support"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/services/solutions-services/managed-print-services/index.jsp",
+        "label": {
+          "de": "ALSO Managed Print Services: Druckumgebungen analysieren",
+          "en": "ALSO Managed Print Services: assessing print environments"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/standorte/index.jsp",
+        "label": {
+          "de": "Standorte und Plattformpartner: unterschiedliche Präsenzarten",
+          "en": "Locations and platform partners: different types of presence"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/en_5210/5210/company/news-and-press-releases/news_item_9_298176.jsp",
+        "label": {
+          "de": "ALSO-Mitteilung vom 01.10.2026: Droege als Hauptaktionär",
+          "en": "ALSO announcement of 1 October 2026: Droege as principal shareholder"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/news-und-pressemitteilungen/news_item_12_119808.jsp",
+        "label": {
+          "de": "CTV 2020: historische Nennung von Trenkwalder Learning",
+          "en": "CTV 2020: historical mention of Trenkwalder Learning"
+        }
+      },
+      {
+        "url": "https://app.livestorm.co/also-international/mobile-academy-as-a-service",
+        "label": {
+          "de": "ALSO Academy: undatierte Webinar-Landingpage",
+          "en": "ALSO Academy: undated webinar landing page"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_6000/6000_ir/corporate-governance/board-of-directors/index.jsp",
+        "label": {
+          "de": "ALSO-Verwaltungsrat: Rollen im Droege-/Trenkwalder-Umfeld",
+          "en": "ALSO board: roles in the Droege/Trenkwalder ecosystem"
+        }
+      }
+    ],
+    "relatedProviders": [
+      {
+        "name": "Trenkwalder",
+        "context": {
+          "de": "Belegte Einbindung von Trenkwalder Learning in ALSO-Weiterbildungsformate: CTV vom März 2020 und undatierte Mobile-Academy-Webinarseite. Gemeinsames Droege-Umfeld; kein Nachweis eines laufenden Vertriebsvertrags.",
+          "en": "Documented Trenkwalder Learning participation in ALSO learning formats: CTV in March 2020 and an undated mobile academy webinar page. Shared Droege ecosystem; no evidence of an ongoing sales contract."
+        },
+        "sourceUrl": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/news-und-pressemitteilungen/news_item_12_119808.jsp"
+      }
+    ],
+    "languageNote": {
+      "de": "Stand der Einzelprüfung: 13.10.2026. Historische und undatierte Beziehungsquellen bleiben als solche gekennzeichnet; Herstellerleistungen, Vertragsgesellschaften und regionale Verfügbarkeit sind gesondert zu prüfen.",
+      "en": "Individual source review: 13 October 2026. Historical and undated relationship sources retain those qualifications; vendor services, contracting entities and regional availability require separate assessment."
+    }
+  },
+  "Trenkwalder": {
+    "officialUrl": "https://de.trenkwalder.com/companies",
+    "officialLabel": {
+      "de": "Trenkwalder: Unternehmen und Leistungen",
+      "en": "Trenkwalder: company and services"
+    },
+    "metaDescription": {
+      "de": "Trenkwalder: Workforce Services, Recruiting, Payroll, Field Service und KI-gestützte Kundenkommunikation mit Quellen und ALSO-Bezügen.",
+      "en": "Trenkwalder: workforce services, recruitment, payroll, field services and AI-assisted customer communication with sourced ALSO relationships."
+    },
+    "summary": {
+      "de": "Trenkwalder verbindet Personal- und Workforce Services mit ausgelagerten Geschäftsprozessen und technologiegestützten Lösungen. Das Profil beschreibt die Gruppenmarke; auf der deutschen Unternehmensseite wird Trenkwalder Personaldienste GmbH als Ansprechpartner genannt. Die Angebote von Personaldiensten, Business Solutions und Learning sind hinsichtlich Vertragsgesellschaft und Leistungsumfang gesondert zu prüfen. Kernleistungen sind Zeitarbeit, Personalvermittlung, internationales Recruiting und Recruiting Process Outsourcing; Payroll und Employer of Record adressieren unterschiedliche Aufgaben der Personaladministration beziehungsweise Beschäftigung. Field Service Outsourcing ergänzt technische Installation, Wartung und Support, Customer Experience Outsourcing die Kundenkommunikation. Die LLM-Lösungsseite beschreibt mehrsprachige Unterstützung für Kundenservice mit Implementierung und Schulung. Damit passt Trenkwalder vor allem in Unternehmen und Verwaltung, mit Field-Service-Bezug zu Produktion und digitaler Infrastruktur sowie historisch belegter Weiterbildung. Die neue Positionierung konzentriert sich auf industriellen Personalbedarf in Europa. Käufer sollten Länderabdeckung, Qualifikationen, Datenflüsse, Systemintegration, Reaktionszeiten und die Übergabe zwischen internem Team und Dienstleister klären. Teilweise als Coming soon gekennzeichnete KI-Matching-Demos sind kein Verfügbarkeitsnachweis einer vollständigen Softwareplattform. Die Unternehmenshistorie dokumentiert den Einstieg von Droege 2011 und die Entwicklung des Learning-Angebots. ALSO und Trenkwalder sind über das Droege-Umfeld verbunden; konkrete operative Belege sind die historische CTV-Teilnahme und eine undatierte ALSO-Academy-Landingpage mit Trenkwalder Learning.",
+      "en": "Trenkwalder combines staffing and workforce services with outsourced business processes and technology-assisted solutions. This profile covers the group brand; the German company page names Trenkwalder Personaldienste GmbH as its contact. Staffing, Business Solutions and Learning offerings require separate assessment of contracting entity and scope. Core services include temporary staffing, permanent placement, international recruitment and recruitment process outsourcing; payroll and employer of record address different administrative and employment tasks. Field service outsourcing adds technical installation, maintenance and support, while customer experience outsourcing covers customer communication. Its LLM solution page describes multilingual customer service support with implementation and training. Trenkwalder therefore primarily belongs in business and administration, with field services related to manufacturing and digital infrastructure and historically documented learning activity. Its new positioning focuses on industrial staffing in Europe. Buyers should assess country coverage, qualifications, data flows, system integration, response times and handover between internal teams and the provider. AI matching demos partly marked coming soon do not establish availability of a complete software platform. The company history documents Droege’s investment in 2011 and development of learning services. ALSO and Trenkwalder are connected through the Droege ecosystem; specific operational evidence includes historical CTV participation and an undated ALSO Academy landing page featuring Trenkwalder Learning."
+    },
+    "focus": {
+      "de": [
+        "Zeitarbeit und Personalvermittlung",
+        "International Recruiting und Relocation",
+        "Recruiting Process Outsourcing",
+        "Payroll und Employer of Record",
+        "Field Service Outsourcing",
+        "Customer Experience Outsourcing",
+        "LLM-gestützte Kundenkommunikation",
+        "Corporate Learning: historische ALSO-Belege"
+      ],
+      "en": [
+        "Temporary staffing and permanent placement",
+        "International recruitment and relocation",
+        "Recruitment process outsourcing",
+        "Payroll and employer of record",
+        "Field service outsourcing",
+        "Customer experience outsourcing",
+        "LLM-assisted customer communication",
+        "Corporate learning: historical ALSO evidence"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "HR-Leitung und Talent Acquisition",
+        "Produktionsleitung und Workforce-Planung",
+        "Finance und Payroll-Verantwortliche",
+        "Technischer Service und Einsatzplanung",
+        "Customer-Service- und Contact-Center-Leitung",
+        "IT und Prozessintegration",
+        "Learning and Development"
+      ],
+      "en": [
+        "HR leadership and talent acquisition",
+        "Production leadership and workforce planning",
+        "Finance and payroll managers",
+        "Technical service and dispatch",
+        "Customer service and contact centre leaders",
+        "IT and process integration",
+        "Learning and development"
+      ]
+    },
+    "aliases": [
+      "Trenkwalder Personaldienste GmbH"
+    ],
+    "officialSources": [
+      {
+        "url": "https://de.trenkwalder.com/companies",
+        "label": {
+          "de": "Trenkwalder Workforce Solutions: Personalbedarf und Recruiting",
+          "en": "Trenkwalder Workforce Solutions: staffing and recruitment"
+        }
+      },
+      {
+        "url": "https://de.trenkwalder.com/lp/payroll",
+        "label": {
+          "de": "Trenkwalder Payroll: Entgeltabrechnung auslagern",
+          "en": "Trenkwalder Payroll: outsourcing payroll"
+        }
+      },
+      {
+        "url": "https://de.trenkwalder.com/companies/field-service",
+        "label": {
+          "de": "Trenkwalder Field Service: technischer Außendienst",
+          "en": "Trenkwalder Field Service: technical field operations"
+        }
+      },
+      {
+        "url": "https://de.trenkwalder.com/en-DE/lp/LLM",
+        "label": {
+          "de": "Trenkwalder: LLM-gestützte mehrsprachige Kundenkommunikation",
+          "en": "Trenkwalder: LLM-assisted multilingual customer communication"
+        }
+      },
+      {
+        "url": "https://de.trenkwalder.com/uber-uns/history",
+        "label": {
+          "de": "Unternehmenshistorie: Droege und Learning",
+          "en": "Company history: Droege and learning"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/news-und-pressemitteilungen/news_item_12_119808.jsp",
+        "label": {
+          "de": "CTV 2020: historische Nennung von Trenkwalder Learning",
+          "en": "CTV 2020: historical mention of Trenkwalder Learning"
+        }
+      },
+      {
+        "url": "https://app.livestorm.co/also-international/mobile-academy-as-a-service",
+        "label": {
+          "de": "ALSO Academy: undatierte Webinar-Landingpage",
+          "en": "ALSO Academy: undated webinar landing page"
+        }
+      },
+      {
+        "url": "https://www.also.com/ec/cms5/de_6000/6000_ir/corporate-governance/board-of-directors/index.jsp",
+        "label": {
+          "de": "ALSO-Verwaltungsrat: Rollen im Droege-/Trenkwalder-Umfeld",
+          "en": "ALSO board: roles in the Droege/Trenkwalder ecosystem"
+        }
+      }
+    ],
+    "relatedProviders": [
+      {
+        "name": "ALSO",
+        "context": {
+          "de": "Belegte Einbindung von Trenkwalder Learning in ALSO-Weiterbildungsformate: CTV vom März 2020 und undatierte Mobile-Academy-Webinarseite. Gemeinsames Droege-Umfeld; kein Nachweis eines laufenden Vertriebsvertrags.",
+          "en": "Documented Trenkwalder Learning participation in ALSO learning formats: CTV in March 2020 and an undated mobile academy webinar page. Shared Droege ecosystem; no evidence of an ongoing sales contract."
+        },
+        "sourceUrl": "https://www.also.com/ec/cms5/de_1010/1010/unternehmen/news-und-pressemitteilungen/news_item_12_119808.jsp"
+      }
+    ],
+    "languageNote": {
+      "de": "Stand der Einzelprüfung: 13.10.2026. Historische und undatierte Beziehungsquellen bleiben als solche gekennzeichnet; Herstellerleistungen, Vertragsgesellschaften und regionale Verfügbarkeit sind gesondert zu prüfen.",
+      "en": "Individual source review: 13 October 2026. Historical and undated relationship sources retain those qualifications; vendor services, contracting entities and regional availability require separate assessment."
+    }
+  }
+}

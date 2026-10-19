@@ -1,0 +1,644 @@
+{
+  "checkedAt": "2026-10-06",
+  "profiles": [
+    "Flender",
+    "Flowserve",
+    "Tektronix",
+    "Hitachi Energy",
+    "Oldcastle Infrastructure",
+    "Rubrik",
+    "A-LIGN",
+    "Drata",
+    "Solutions2Share",
+    "Windhoff Group",
+    "MPS Monitor",
+    "Tata Communications",
+    "Amazon Business",
+    "PASCOM",
+    "genua",
+    "Lynus",
+    "Stadtwerke Karlsruhe",
+    "e-con",
+    "Telefónica Deutschland"
+  ],
+  "decisions": [
+    {
+      "caseIndex": 0,
+      "url": "https://b2b-knowhow.com/assets/20287-nehmen-sie-als-eine-von-uber-30-000-fuhrungskraften-am-ai-summit-2026-teil-einem-zendesk-event",
+      "portal": "B2B KnowHow",
+      "provider": "Zendesk",
+      "decision": "published-observed",
+      "knowledgeId": 750000,
+      "checkedAt": "2026-10-06",
+      "detail": "Digitaler Veranstaltungstermin: 12.11.2026; dies ist kein Veröffentlichungsdatum. Anmeldung nicht durchgeführt."
+    },
+    {
+      "caseIndex": 1,
+      "url": "https://b2b-knowhow.com/assets/20299-trust-ready-ai",
+      "portal": "B2B KnowHow",
+      "provider": "A-LIGN",
+      "decision": "published-observed",
+      "knowledgeId": 750001,
+      "checkedAt": "2026-10-06",
+      "detail": "Gemeinsame Ressource von A-LIGN und Drata; Audit-Anbieter und Softwareanbieter bleiben getrennte Unternehmensprofile."
+    },
+    {
+      "caseIndex": 2,
+      "url": "https://b2b-knowhow.com/assets/20306-runout-wear-and-seal-failure-rethinking-mixer-seal-reliability",
+      "portal": "B2B KnowHow",
+      "provider": "Flowserve",
+      "decision": "published-observed",
+      "knowledgeId": 750002,
+      "checkedAt": "2026-10-06",
+      "detail": "Pharma Manufacturing ist Publisher, Flowserve der explizit benannte Hersteller; On-Demand-Webinar nicht angesehen."
+    },
+    {
+      "caseIndex": 3,
+      "url": "https://b2b-knowhow.com/assets/20307-a-new-approach-to-frequency-domain-analysis-on-oscilloscopes",
+      "portal": "B2B KnowHow",
+      "provider": "Tektronix",
+      "decision": "published-observed",
+      "knowledgeId": 750003,
+      "checkedAt": "2026-10-06",
+      "detail": "Electronic Design ist Publisher; Tektronix wird als Gerätehersteller ausdrücklich genannt."
+    },
+    {
+      "caseIndex": 4,
+      "url": "https://b2b-knowhow.com/assets/20308-spectrum-view-vs-fft-frequency-response-analysis",
+      "portal": "B2B KnowHow",
+      "provider": "Tektronix",
+      "decision": "published-observed",
+      "knowledgeId": 750004,
+      "checkedAt": "2026-10-06",
+      "detail": "Electronic Design ist Publisher; Tektronix wird als Gerätehersteller ausdrücklich genannt."
+    },
+    {
+      "caseIndex": 5,
+      "url": "https://b2b-knowhow.com/assets/20309-debugging-across-domains-simultaneous-time-frequency-and-digital-analysis",
+      "portal": "B2B KnowHow",
+      "provider": "Tektronix",
+      "decision": "published-observed",
+      "knowledgeId": 750005,
+      "checkedAt": "2026-10-06",
+      "detail": "Electronic Design ist Publisher; Tektronix wird als Gerätehersteller ausdrücklich genannt."
+    },
+    {
+      "caseIndex": 6,
+      "url": "https://b2b-knowhow.com/assets/20310-hidden-capacity-faster-power-optimize-today-s-grid-expand-tomorrow-s",
+      "portal": "B2B KnowHow",
+      "provider": "Hitachi Energy",
+      "decision": "published-observed",
+      "knowledgeId": 750006,
+      "checkedAt": "2026-10-06",
+      "detail": "Hitachi Energy wird unabhängig von Hitachi Vantara geführt."
+    },
+    {
+      "caseIndex": 7,
+      "url": "https://b2b-knowhow.com/assets/20330-detect-underground-water-leaks-with-93-accuracy",
+      "portal": "B2B KnowHow",
+      "provider": "Oldcastle Infrastructure",
+      "decision": "published-observed",
+      "knowledgeId": 750007,
+      "checkedAt": "2026-10-06",
+      "detail": "Gleichlautende Zweitveröffentlichung bei B2B KnowHow 20339 zusammengeführt; Leistungszahl im Titel ist eine Quellenbehauptung, kein unabhängig geprüftes Testergebnis."
+    },
+    {
+      "caseIndex": 8,
+      "url": "https://b2b-knowhow.com/assets/20339-detect-underground-water-leaks-with-93-accuracy",
+      "portal": "B2B KnowHow",
+      "provider": "Oldcastle Infrastructure",
+      "decision": "consolidated-duplicate",
+      "knowledgeId": 750007,
+      "checkedAt": "2026-10-06",
+      "detail": "Identischer Anbieter, Titel, Inhaltsteaser, Umfang und Dateigröße; nur ein Wissensobjekt."
+    },
+    {
+      "caseIndex": 9,
+      "url": "https://b2b-knowhow.com/assets/20387-siemens-sw-the-ai-tide-e-book",
+      "portal": "B2B KnowHow",
+      "provider": "Siemens",
+      "decision": "published-observed",
+      "knowledgeId": 750009,
+      "checkedAt": "2026-10-06",
+      "detail": "Siemens-Zuordnung durch Logo der Originalseite und passende offizielle Siemens-Ressource belegt; IndustryWeek ist Publisher."
+    },
+    {
+      "caseIndex": 10,
+      "url": "https://b2b-knowhow.com/assets/20389-executive-brief-unlocking-throughput-through-intelligent-tank-terminal-operations",
+      "portal": "B2B KnowHow",
+      "provider": "Siemens",
+      "decision": "published-observed",
+      "knowledgeId": 750010,
+      "checkedAt": "2026-10-06",
+      "detail": "Siemens-Zuordnung über die gleichnamige offizielle Ressourcenbeschreibung belegt; Oil & Gas Journal ist Publisher."
+    },
+    {
+      "caseIndex": 11,
+      "url": "https://b2b-knowhow.com/assets/20390-the-midstream-data-quality-problem-no-one-talks-about",
+      "portal": "B2B KnowHow",
+      "provider": "Siemens",
+      "decision": "published-observed",
+      "knowledgeId": 750011,
+      "checkedAt": "2026-10-06",
+      "detail": "Siemens-Zuordnung über die gleichnamige offizielle Ressourcenbeschreibung belegt; Oil & Gas Journal ist Publisher."
+    },
+    {
+      "caseIndex": 12,
+      "url": "https://b2b-knowhow.com/assets/20484-the-specialist-for-hazardous-areas",
+      "portal": "B2B KnowHow",
+      "provider": "ABB",
+      "decision": "pending-content-consistency",
+      "checkedAt": "2026-10-06",
+      "detail": "Anbieterhinweis geklärt, aber Titel zu explosionsgefährdeten Bereichen und Beschreibung zur Wärmetauscherinstrumentierung passen nicht eindeutig zusammen. Originaldokument erforderlich; deshalb noch nicht publiziert."
+    },
+    {
+      "caseIndex": 13,
+      "url": "https://b2b-knowhow.com/assets/20490-how-to-catch-a-hacker",
+      "portal": "B2B KnowHow",
+      "provider": "Rubrik",
+      "decision": "published-observed",
+      "knowledgeId": 750013,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 14,
+      "url": "https://b2b-knowhow.com/assets/20491-5-cyber-risks-traditional-backup-vendors-ignore",
+      "portal": "B2B KnowHow",
+      "provider": "Rubrik",
+      "decision": "published-observed",
+      "knowledgeId": 750014,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 15,
+      "url": "https://b2b-knowhow.com/assets/20492-your-cyber-recovery-blueprint",
+      "portal": "B2B KnowHow",
+      "provider": "Rubrik",
+      "decision": "published-observed",
+      "knowledgeId": 750015,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 16,
+      "url": "https://business-services.heise.de/security/authentifizierung-zugangssysteme/beitrag/falsche-identitaeten-so-schuetzen-sie-sich-vor-deepfakes-und-anderen-bedrohungen-5111",
+      "portal": "heise Business Services",
+      "provider": "Ergon Informatik AG",
+      "decision": "linked-editorial-reference",
+      "relatedKnowledgeId": 710000,
+      "checkedAt": "2026-10-06",
+      "detail": "Anbieter und Identity-First-Bezug belegt; zusätzliche Portalreferenz ohne neues Wissensasset. Identität einzelner PDF-Fassungen nicht behauptet."
+    },
+    {
+      "caseIndex": 17,
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/copilot-governance-was-passiert-hier-ueberhaupt-5110",
+      "portal": "heise Business Services",
+      "provider": "Solutions2Share",
+      "decision": "published-observed",
+      "knowledgeId": 750017,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 18,
+      "url": "https://whitepaper.cio.de/resources/warum-dieses-whitepaper-lesenswert-ist-2",
+      "portal": "Whitepaper CIO.de",
+      "provider": "Tata Communications",
+      "decision": "published-observed",
+      "knowledgeId": 750018,
+      "checkedAt": "2026-10-06",
+      "detail": "Der generische Titel entspricht dem Originalportal; ein nicht belegter PDF-Titel wird nicht erfunden."
+    },
+    {
+      "caseIndex": 19,
+      "url": "https://whitepaper.cio.de/resources/prufen-sie-in-wenigen-minuten-inwieweit-ihre-sap-landschaft-fur-ki-bereit-ist-2",
+      "portal": "Whitepaper CIO.de",
+      "provider": "Windhoff Group",
+      "decision": "published-observed",
+      "knowledgeId": 750019,
+      "checkedAt": "2026-10-06",
+      "detail": "Angekündigter KI-Reifegrad-Check; die Überprüfung wurde nicht ausgeführt."
+    },
+    {
+      "caseIndex": 20,
+      "url": "https://whitepaper.cio.de/resources/identity-first-warum-vertrauen-der-neue-perimeter-wird-2",
+      "portal": "Whitepaper CIO.de",
+      "provider": "Ergon Informatik AG",
+      "decision": "linked-editorial-reference",
+      "relatedKnowledgeId": 710000,
+      "checkedAt": "2026-10-06",
+      "detail": "Anbieter und Identity-First-Bezug belegt; zusätzliche Portalreferenz ohne neues Wissensasset. Identität einzelner PDF-Fassungen nicht behauptet."
+    },
+    {
+      "caseIndex": 21,
+      "url": "https://whitepaper.cio.de/resources/die-zukunft-der-beschaffung-im-gesundheitswesen-gestalten-2",
+      "portal": "Whitepaper CIO.de",
+      "provider": "Amazon Business",
+      "decision": "published-observed",
+      "knowledgeId": 750021,
+      "checkedAt": "2026-10-06",
+      "detail": "Amazon Business ist das Beschaffungsangebot und wird nicht Amazon Web Services zugeordnet."
+    },
+    {
+      "caseIndex": 22,
+      "url": "https://whitepaper.silicon.de/resource/das-groesste-risiko-fuer-ihr-mps-geschaeft-ist-nicht-die-migration-es-ist-das-festhalten-am-status-quo/",
+      "portal": "Whitepaper Silicon.de",
+      "provider": "MPS Monitor",
+      "decision": "published-observed",
+      "knowledgeId": 750022,
+      "checkedAt": "2026-10-06",
+      "detail": "Das Portal kündigt eine Studie von Keypoint Intelligence an; Ergebnisse wurden nicht unabhängig geprüft."
+    },
+    {
+      "caseIndex": 23,
+      "url": "https://www.b2b-expertise.com/industrie/n-zapex-xn-zahnkupplung/",
+      "portal": "B2B Expertise",
+      "provider": "Flender",
+      "decision": "published-observed",
+      "knowledgeId": 750023,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 24,
+      "url": "https://www.energie-und-management.de/nachrichten/ueberblick/detail/pflicht-mit-potenzial-nis-2-als-chance-fuer-energieversorger-379827",
+      "portal": "Energie & Management",
+      "provider": "genua",
+      "decision": "published-observed",
+      "knowledgeId": 750024,
+      "checkedAt": "2026-10-06",
+      "detail": "Die Originalseite kennzeichnet den Beitrag als Anzeige; Produktauswahl allein belegt keine NIS-2-Konformität."
+    },
+    {
+      "caseIndex": 25,
+      "url": "https://www.energie-und-management.de/nachrichten/ueberblick/detail/fernwaerme-versorgt-bauheizung-fuer-neues-klinikum-380443",
+      "portal": "Energie & Management",
+      "provider": "e-con",
+      "decision": "published-observed",
+      "knowledgeId": 750025,
+      "checkedAt": "2026-10-06",
+      "detail": "Nur öffentlich zugänglicher E&M-Teaser gelesen; e-con-Zuordnung zusätzlich durch die offizielle Klinikum-Fallstudie belegt."
+    },
+    {
+      "caseIndex": 26,
+      "url": "https://www.energie-und-management.de/nachrichten/ueberblick/detail/neuer-speicher-am-karlsruher-heizkraftwerk-west-380371",
+      "portal": "Energie & Management",
+      "provider": "Stadtwerke Karlsruhe",
+      "decision": "published-observed",
+      "knowledgeId": 750026,
+      "checkedAt": "2026-10-06",
+      "detail": "Nur öffentlich zugänglicher E&M-Teaser gelesen; die Anlage im eigenen Kraftwerksbetrieb ist kein Nachweis eines Speicherangebots für externe Kunden."
+    },
+    {
+      "caseIndex": 27,
+      "url": "https://www.energie-und-management.de/nachrichten/ueberblick/detail/lynus-startet-speicherfertigung-in-bayern-379887",
+      "portal": "Energie & Management",
+      "provider": "Lynus",
+      "decision": "published-observed",
+      "knowledgeId": 750027,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 28,
+      "url": "https://www.telecom-handel.de/themen/business-solutions/pascom-bringt-ki-telefonassistent-pia-in-den-regelbetrieb",
+      "portal": "Telecom Handel",
+      "provider": "PASCOM",
+      "decision": "published-observed",
+      "knowledgeId": 750028,
+      "checkedAt": "2026-10-06",
+      "detail": "Identität und Originalmetadaten geprüft."
+    },
+    {
+      "caseIndex": 29,
+      "url": "https://www.telecom-handel.de/themen/business-solutions/neue-tarifstruktur-fuer-o2-business-mit-mehr-sicherheit-und-datenvolumen",
+      "portal": "Telecom Handel",
+      "provider": "Telefónica Deutschland",
+      "decision": "published-observed",
+      "knowledgeId": 750029,
+      "checkedAt": "2026-10-06",
+      "detail": "O2 Business ist dem bestehenden Profil Telefónica Deutschland zugeordnet; keine zusätzliche Unternehmensidentität."
+    },
+    {
+      "caseIndex": 30,
+      "url": "https://b2b-knowhow.com/assets/20483-duo-3-agentic-webinar-2nd",
+      "portal": "B2B KnowHow",
+      "provider": "Cisco",
+      "decision": "published-observed",
+      "knowledgeId": 750030,
+      "checkedAt": "2026-10-06",
+      "detail": "Original-Anmeldeseite nennt Cisco/Duo. Veranstaltung am 15.10.2026; dies ist kein Veröffentlichungsdatum. Anmeldung nicht durchgeführt."
+    }
+  ],
+  "officialEvidence": [
+    {
+      "provider": "Flender",
+      "url": "https://www.flender.com/en/company/about-flender",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Unternehmen und Antriebskompetenz",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Flender",
+      "url": "https://www.flender.com/en/one",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "FLENDER ONE und AIQ-Core-Sensorik",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Flender",
+      "url": "https://www.flender.com/en/products/couplings",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Kupplungsbauarten und Einsatzfelder",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Flowserve",
+      "url": "https://www.flowserve.com/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Produktportfolio und Industrien",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Flowserve",
+      "url": "https://www.flowserve.com/solutions/innovation/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "RedRaven, Sensorik und Analyseservices",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Flowserve",
+      "url": "https://www.flowserve.com/services/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Lifecycle-Services und Betriebsunterstützung",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Tektronix",
+      "url": "https://www.tek.com/en",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Messgeräte, Anwendungen und Produktfamilien",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Tektronix",
+      "url": "https://www.tek.com/en/solutions/application/test-automation",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Testautomatisierung und Softwareintegration",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Tektronix",
+      "url": "https://www.tek.com/en/services",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Kalibrierung, Reparatur und Services",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/company/company-profile",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Unternehmensidentität und Geschäftsbereiche",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Netztechnik und Systemportfolio",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/energy-industry-software-solutions",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Energie- und Netzsoftware",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Oldcastle Infrastructure",
+      "url": "https://oldcastleinfrastructure.com/about/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "CRH-Zugehörigkeit und nordamerikanische Marktpräsenz",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Oldcastle Infrastructure",
+      "url": "https://oldcastleinfrastructure.com/water/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Wassertechnik und Infrastrukturprodukte",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Oldcastle Infrastructure",
+      "url": "https://oldcastleinfrastructure.com/solutions/non-revenue-water-leak-detection/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "CivilSense: Sensorik und Risikobewertung",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Oldcastle Infrastructure",
+      "url": "https://oldcastleinfrastructure.com/communications/",
+      "checkedAt": "2026-10-06",
+      "retrieval": "web open: readable public official HTML",
+      "scope": "Kommunikationsinfrastruktur",
+      "knowledgeValidation": false
+    },
+    {
+      "provider": "Rubrik",
+      "checkedAt": "2026-10-06",
+      "status": "official-pages-retrieved",
+      "sources": [
+        "https://www.rubrik.com/products",
+        "https://www.rubrik.com/de/products/identity-resilience",
+        "https://www.rubrik.com/solutions"
+      ],
+      "scope": "Public company and product pages checked; no gated syndicated resource claimed as read."
+    },
+    {
+      "provider": "A-LIGN",
+      "checkedAt": "2026-10-06",
+      "status": "official-pages-retrieved",
+      "sources": [
+        "https://www.a-lign.com/services",
+        "https://www.a-lign.com/resources/a-lign-announces-bold-new-vision-and-grc-partnerships",
+        "https://drata.com/partners/audit-alliance/directory/a-lign",
+        "https://www.a-lign.com/a-scend"
+      ],
+      "scope": "Public company and product pages checked; no gated syndicated resource claimed as read."
+    },
+    {
+      "provider": "Drata",
+      "checkedAt": "2026-10-06",
+      "status": "official-pages-retrieved",
+      "sources": [
+        "https://drata.com/products",
+        "https://drata.com/products/compliance-automation",
+        "https://drata.com/partners/audit-alliance/directory/a-lign"
+      ],
+      "scope": "Public company and product pages checked; no gated syndicated resource claimed as read."
+    },
+    {
+      "provider": "Solutions2Share GmbH",
+      "checkedAt": "2026-10-06",
+      "status": "official-pages-retrieved",
+      "sources": [
+        "https://www.solutions2share.com/de/apps",
+        "https://www.solutions2share.com/de/teams-manager",
+        "https://www.solutions2share.com/de/external-user-manager",
+        "https://www.solutions2share.com/de/impressum"
+      ],
+      "scope": "Public company and product pages checked; no gated syndicated resource claimed as read."
+    },
+    {
+      "provider": "Windhoff Group",
+      "checkedAt": "2026-10-06",
+      "status": "official-pages-retrieved",
+      "sources": [
+        "https://windhoff-group.de/data-und-ai-services/",
+        "https://windhoff-group.de/data-und-ai-services/software-engineering/",
+        "https://windhoff-group.de/ueber-uns/"
+      ],
+      "scope": "Public company and product pages checked; no gated syndicated resource claimed as read."
+    },
+    {
+      "provider": "MPS Monitor",
+      "checkedAt": "2026-10-06",
+      "status": "official-pages-retrieved",
+      "sources": [
+        "https://www.mpsmonitor.com/about-us/",
+        "https://www.mpsmonitor.com/print-fleet-management/",
+        "https://www.mpsmonitor.com/mps-monitor-security/"
+      ],
+      "scope": "Public company and product pages checked; no gated syndicated resource claimed as read."
+    },
+    {
+      "provider": "Tata Communications",
+      "officialUrls": [
+        "https://www.tatacommunications.com/tata-communications-digital-fabric",
+        "https://www.tatacommunications.com/izo"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "Amazon Business",
+      "officialUrls": [
+        "https://business.amazon.de/de/solutions/streamlined-purchasing",
+        "https://business.amazon.de/de/industries/healthcare",
+        "https://business.amazon.de/de/blog/what-is-amazon-business"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "PASCOM",
+      "officialUrls": [
+        "https://www.pascom.net/funktionsuebersicht/",
+        "https://www.pascom.net/funktionen/pascom-intelligence/",
+        "https://www.pascom.net/impressum/"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "genua",
+      "officialUrls": [
+        "https://www.genua.de/einsatzfelder/kritis",
+        "https://www.genua.de/ueber-genua"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "Lynus",
+      "officialUrls": [
+        "https://lynus.io/batteriegrossspeicher/",
+        "https://lynus.io/flexibilitaetsvermarktung/",
+        "https://lynus.io/impressum/"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "Stadtwerke Karlsruhe",
+      "officialUrls": [
+        "https://www.stadtwerke-karlsruhe.de/de/gk/gewerbe.php",
+        "https://www.stadtwerke-karlsruhe.de/de/gk/gewerbekunden/energiedienstleistungen.php",
+        "https://www.stadtwerke-karlsruhe.de/de/gk/kommunen.php"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "e-con AG",
+      "officialUrls": [
+        "https://econ-ag.com/leistungen/energieversorgung/",
+        "https://econ-ag.com/leistungen/ganzheitliche-energiekonzepte/",
+        "https://econ-ag.com/impressum/impressum-econ-ag/"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    },
+    {
+      "provider": "Telefónica Deutschland",
+      "officialUrls": [
+        "https://www.o2business.de/internet-vernetzung/",
+        "https://www.o2business.de/recht/impressum/"
+      ],
+      "checkedAt": "2026-10-06",
+      "method": "Official primary pages opened/search indexed; Amazon Business direct open403 but official search extracts support portfolio"
+    }
+  ],
+  "newKnowledge": 27,
+  "validationLedgerChanged": false,
+  "before": {
+    "knowledge": 4919,
+    "providers": 1315
+  },
+  "after": {
+    "knowledge": 4946,
+    "providers": 1332
+  },
+  "newProviders": [
+    "A-LIGN",
+    "Amazon Business",
+    "Flender",
+    "Flowserve",
+    "Hitachi Energy",
+    "Lynus",
+    "MPS Monitor",
+    "Oldcastle Infrastructure",
+    "PASCOM",
+    "Rubrik",
+    "Solutions2Share",
+    "Stadtwerke Karlsruhe",
+    "Tata Communications",
+    "Tektronix",
+    "Windhoff Group",
+    "e-con",
+    "genua"
+  ],
+  "refreshedProviders": [
+    "Drata",
+    "Telefónica Deutschland"
+  ],
+  "remainingCases": 1
+}

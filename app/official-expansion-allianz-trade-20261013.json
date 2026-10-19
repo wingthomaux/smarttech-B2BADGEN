@@ -1,0 +1,32 @@
+[
+  {
+    "id": 840000,
+    "title": "Allianz Trade Sector Atlas 2026: Branchenrisiken und KI-Transformation",
+    "provider": "Allianz Trade",
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur",
+      "Produktion und Produkte",
+      "Energie und Versorgung",
+      "Mobilität und Logistik"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Branchenresearch für Kunden- und Forderungsrisiken",
+    "delivery": "Englischsprachiger Branchenatlas als PDF",
+    "lifecycle": "Bewertung und Planung",
+    "origin": "Kuratiert",
+    "format": "Branchenstudie",
+    "url": "https://www.allianz-trade.de/content/dam/onemarketing/aztrade/allianz-trade_de/dokumente/2026-09-branchen-risiko-atlas-allianz-trade.pdf",
+    "note": "Allianz Research: englischsprachiger Sector Atlas vom 07.09.2026, 52 Seiten und 17 Branchen. Die Methodik auf Seite 48 bewertet Branchen-Zahlungsausfallrisiken in 70 Ländern anhand von Nachfrage, Profitabilität, Liquidität und Geschäftsumfeld; interne Daten, externe Indikatoren und Expertenurteile werden kombiniert. Die vier Stufen sind Low, Medium, Sensitive und High. Im vorliegenden Atlas: IT Services Low (S. 22), Electronics Medium (S. 16), Machinery and Equipment Medium (S. 24) und Telecom Medium (S. 36). Die Ratings sind Brancheneinschätzungen, keine individuelle Bonitätsbewertung. Inhaltliche Schwerpunkte: veränderte Software- und Dienstleistungsmodelle durch KI, Inferenzkosten, Nachfrage nach Security und kontrollierten Branchenlösungen, Margen- und Lieferkettenrisiken bei Elektronik sowie KI-Rechenzentrumsvernetzung und Satellitenwettbewerb im Telekommunikationssektor. Geeignet zur Vorbereitung von Kunden-, Markt- und Forderungsrisikoprüfungen. Die bereitgestellte PDF-Datei und relevante Fachkapitel wurden am 13.10.2026 geprüft; Methodik und Elektronikrating zusätzlich visuell abgeglichen. Prognosen und Ratings bleiben auf den Dokumentstand bezogen. Die deutsche Online-Zusammenfassung ist vom 11.09.2026.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.allianz-trade.de/",
+    "datePublished": "2026-09-07",
+    "addedAt": "2026-10-13",
+    "sourceReviewWarning": {
+      "de": "Die Quelle ist eine datierte Branchenstudie. Länder- und Einzelkundenrisiken sind gesondert zu prüfen; keine pauschale Aussage zur Zahlungsfähigkeit einzelner Unternehmen. Der externe PDF-Abruf lieferte HTTP 403, der Inhalt wurde über die bereitgestellte PDF-Datei geprüft.",
+      "en": "This source is a dated sector study. Country and individual buyer risks require separate assessment; it does not establish any particular company’s ability to pay. The external PDF returned HTTP 403; content was reviewed using the supplied PDF file."
+    }
+  }
+]

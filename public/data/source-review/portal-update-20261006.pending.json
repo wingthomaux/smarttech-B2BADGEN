@@ -1,0 +1,155 @@
+{
+  "checkedAt": "2026-10-06",
+  "items": [
+    {
+      "portal": "B2B KnowHow",
+      "title": "The specialist for Hazardous Areas",
+      "url": "https://b2b-knowhow.com/assets/20484-the-specialist-for-hazardous-areas",
+      "providerEvidence": "ABB-Logo auf der Originalseite; Control als Publisher",
+      "reason": "Anbieterhinweis geklärt, aber Titel zu explosionsgefährdeten Bereichen und Beschreibung zur Wärmetauscherinstrumentierung passen nicht eindeutig zusammen. Originaldokument erforderlich; deshalb noch nicht publiziert.",
+      "checkedAt": "2026-10-06"
+    }
+  ],
+  "duplicates": [
+    {
+      "title": "6 real-world costs of using disconnected finance systems",
+      "provider": "SAP Concur",
+      "url": "https://b2b-knowhow.com/assets/20304-6-real-world-costs-of-using-disconnected-finance-systems",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Tips for Simplifying Endpoint Security with a Unified Agent",
+      "provider": "Fortinet",
+      "url": "https://b2b-knowhow.com/assets/20333-tips-for-simplifying-endpoint-security-with-a-unified-agent",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "The Need for Unified Endpoint Security",
+      "provider": "Fortinet",
+      "url": "https://b2b-knowhow.com/assets/20335-the-need-for-unified-endpoint-security",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Increase Tank Terminal Throughput Without Expanding Infrastructure",
+      "provider": "Siemens",
+      "url": "https://b2b-knowhow.com/assets/20351-increase-tank-terminal-throughput-without-expanding-infrastructure",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Buyers Guide: SaaS Data Protection Guide",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20384-buyers-guide-saas-data-protection-guide",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Veeam Data Cloud Customer Success Stories",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20385-veeam-data-cloud-customer-success-stories",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "6 Reasons for Microsoft Entra ID Backup",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20392-6-reasons-for-microsoft-entra-id-backup",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Data Sovereignty: A Guide for European Organizations",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20395-data-sovereignty-a-guide-for-european-organizations",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Salesforce Backup Checklist",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20396-salesforce-backup-checklist",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Stop Guessing, Start Securing – Azure Backups that Actually Work",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20400-stop-guessing-start-securing-azure-backups-that-actually-work",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "4 Critical SaaS Risks Every Small Team Faces",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20402-4-critical-saas-risks-every-small-team-faces",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Microsoft Azure Backup Best Practices Guide",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20403-microsoft-azure-backup-best-practices-guide",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "8 Benefits of a Backup Service for IaaS, PaaS, and SaaS",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20412-8-benefits-of-a-backup-service-for-iaas-paas-and-saas",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Cyber Resilience Playbook for Microsoft 365 + Entra ID",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20416-cyber-resilience-playbook-for-microsoft-365-entra-id",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Reinventing Backup and Recovery with AI & ML: A Smart Solution for Small Businesses",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20427-reinventing-backup-and-recovery-with-ai-ml-a-smart-solution-for-small-businesses",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Futureproof Data Protection: From Backup to Resilience",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20435-futureproof-data-protection-from-backup-to-resilience",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "The SMB Guide to Ransomware Recovery",
+      "provider": "Veeam",
+      "url": "https://b2b-knowhow.com/assets/20442-the-smb-guide-to-ransomware-recovery",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "How to improve cash flow: Top tips for finance leaders",
+      "provider": "SAP Concur",
+      "url": "https://b2b-knowhow.com/assets/20496-how-to-improve-cash-flow-top-tips-for-finance-leaders",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "6 real-world costs of using disconnected finance systems",
+      "provider": "SAP Concur",
+      "url": "https://b2b-knowhow.com/assets/20497-6-real-world-costs-of-using-disconnected-finance-systems",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Entscheidungen für die Architektur der Zukunft – IT-Sicherheit als Geschäftsgrundlage und Wettbewerbsfaktor",
+      "provider": "HP Deutschland",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/entscheidungen-fuer-die-architektur-der-zukunft-it-sicherheit-als-geschaeftsgrundlage-und-wettbewerbsfaktor-5101",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Intelligentere KI beginnt mit besseren Daten",
+      "provider": "Dell Technologies",
+      "url": "https://whitepaper.cio.de/resources/intelligentere-ki-beginnt-mit-besseren-daten-2",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "3 ways to simplify selling to accelerate growth",
+      "provider": "ServiceNow",
+      "url": "https://whitepaper.cio.de/resources/3-ways-to-simplify-selling-to-accelerate-growth-7",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    },
+    {
+      "title": "Escape the Trap of Legacy",
+      "provider": "ServiceNow",
+      "url": "https://whitepaper.cio.de/resources/escape-the-trap-of-legacy-5",
+      "reason": "Original-URL oder Anbieter/Titel bereits vorhanden"
+    }
+  ],
+  "reviewedAt": "2026-10-06",
+  "resolvedCasesFile": "portal-profile-reviews-20261006.json"
+}

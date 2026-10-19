@@ -1,0 +1,7 @@
+# M-net: Vernetzung, 29. September 2026
+
+Das von Thomas bereitgestellte 18-seitige M-net-Whitepaper „Wie Sie mit nahtloser Vernetzung Ihre Konkurrenz abhängen“ wurde vollständig gelesen. Die PDF-Adresse wird weder als Wissensobjekt noch als externer Link veröffentlicht. Der bestehende Eintrag 620005 führt weiterhin zur M-net-Landingpage mit Formular und hat jetzt eine präzisere Inhaltsangabe.
+
+Der Produktüberblick auf Seite 10 nennt Connect-LAN mit optionaler Verschlüsselung, MPLS IP-VPN, dedizierte Cloud-Anbindung, Leitungsbackup, Housing und DDoS-Schutz. Das Interview auf Seite 14 erläutert Auswahl nach Anwendung, SLA, Laufzeit, Redundanz und Verschlüsselung. Allgemeine Beispiele zu Unified Communications, Business Intelligence, IoT, 5G und KI sind keine Belege für entsprechende M-net-Produkte. Der Text enthält historische Markt- und Regulierungsbehauptungen, die nicht als heutige Tatsachen übernommen wurden.
+
+Für den Lösungseinstieg „SASE / SD-WAN / sichere Netze“ sind die bestehende Whitepaper-Landingpage und drei einzeln geprüfte offizielle Produktseiten zugeordnet: SD-WAN (620013), MPLS IP-VPN (620014) und Connect-LAN (620015). Die Produktseiten sind direkt verlinkt; sie zeigen unterschiedliche Architekturen. M-net wird dadurch nicht pauschal als Anbieter einer vollständigen SASE-Plattform eingeordnet. Cloud-Telefonie und Colocation behalten ihre schon vorhandenen, getrennten Nachweise.

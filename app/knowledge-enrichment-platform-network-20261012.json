@@ -1,0 +1,963 @@
+[
+  {
+    "id": 4648,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Backup-Integration",
+          "en": "Backup integration"
+        },
+        "context": {
+          "de": "Die öffentliche Veeam-Beschreibung behandelt Veeam Data Cloud und Microsoft-Integrationen. Veeam bleibt Anbieter der Backup-Lösung.",
+          "en": "The public Veeam description covers Veeam Data Cloud and Microsoft integrations. Veeam remains the backup vendor."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/17703-cyberresilienz-mit-veeam-data-cloud-und-microsoft",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3303,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Produktbezug: Microsoft 365",
+          "en": "Product relationship: Microsoft 365"
+        },
+        "context": {
+          "de": "Das Druva-Playbook adressiert Cyberresilienz und Wiederherstellung für Microsoft 365. Dies belegt den Produktbezug, keinen pauschalen Partnerstatus.",
+          "en": "The Druva playbook addresses Microsoft 365 cyber resilience and recovery. This establishes a product relationship rather than blanket partner status."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/18785-microsoft-365-playbook-your-guide-to-achieving-true-cyber-resilience",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1536,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Hybrid-Infrastruktur",
+          "en": "Hybrid infrastructure"
+        },
+        "context": {
+          "de": "Der Dell-Lösungsüberblick behandelt Azure Local mit Dell PowerStore; Hardware- und Cloud-Komponenten bleiben getrennte Leistungen.",
+          "en": "The Dell solution brief covers Azure Local with Dell PowerStore; hardware and cloud components remain distinct offerings."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/19867-azure-local-with-dell-powerstore",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3692,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Umsetzungspartner-Auszeichnung",
+          "en": "Implementation partner recognition"
+        },
+        "context": {
+          "de": "Reply meldet das Microsoft-Frontier-Partner-Badge im AI Cloud Partner Program. Der Beleg betrifft die genannte Auszeichnung und den Zeitpunkt der Meldung.",
+          "en": "Reply reports a Microsoft Frontier Partner badge in the AI Cloud Partner Program. Evidence applies to the stated recognition and announcement date."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-als-microsoft-frontier-partner-fuer-die-bereitstellung-von-enterprise-ki-ausgezeichnet/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2574,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Angekündigte Cloud-Bereitstellung",
+          "en": "Announced cloud delivery"
+        },
+        "context": {
+          "de": "Hyland kündigt die Content Innovation Cloud auf Azure an. Die Meldung wird als angekündigte Bereitstellung eingeordnet, nicht als allgemeiner Verfügbarkeitsnachweis.",
+          "en": "Hyland announces Content Innovation Cloud delivery on Azure. The announcement is not treated as proof of universal availability."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/hyland-und-microsoft-bringen-die-content-innovation-cloud-auf-microsoft-azure/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Zertifizierte Produktintegration",
+          "en": "Certified product integration"
+        },
+        "context": {
+          "de": "Keeper beschreibt einen zertifizierten Power-Platform-Konnektor für Secrets Manager. Die Zertifizierung gilt für diesen Konnektor.",
+          "en": "Keeper describes a certified Power Platform connector for Secrets Manager. Certification applies to this connector."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/keeper-security-stellt-zertifizierten-microsoft-power-platform-connector-fuer-secrets-manager-vor/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 4535,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Integration und Marketplace",
+          "en": "Integration and marketplace"
+        },
+        "context": {
+          "de": "Talkdesk beschreibt eine Teams-Integration und CXA im Azure Marketplace. Talkdesk bleibt Anbieter der Contact-Center-Lösung.",
+          "en": "Talkdesk describes a Teams integration and CXA on Azure Marketplace. Talkdesk remains the contact-center vendor."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/talkdesk-erweitert-partnerschaft-mit-microsoft-verbesserte-teams-integration-talkdesk-cxa-im-microsoft-azure-marketplace-erhaeltlich/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 690004,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Ergänzende Sicherheitslösung",
+          "en": "Complementary security solution"
+        },
+        "context": {
+          "de": "Die KnowBe4-Produktseite behandelt E-Mail-Sicherheit für Microsoft 365. Der Bezug belegt eine ergänzende Lösung, keine Microsoft-eigene Leistung.",
+          "en": "The KnowBe4 product page covers email security for Microsoft 365. This is a complementary vendor solution rather than a Microsoft service."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.knowbe4.com/de/products/cloud-email-security",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 710002,
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Studie zum Produktökosystem",
+          "en": "Product ecosystem study"
+        },
+        "context": {
+          "de": "Die öffentliche CoreView-Studienbeschreibung behandelt Identitäts-, Konfigurations- und KI-Risiken in Microsoft 365. Der Bericht stammt von CoreView.",
+          "en": "The public CoreView report description addresses identity, configuration and AI risks in Microsoft 365. CoreView is the report provider."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.security-insider.de/state-of-microsoft-365-security-report-d-6a6c65e349d1e/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Systemintegration",
+          "en": "Systems integration"
+        },
+        "context": {
+          "de": "SVA beschreibt VMware Private AI Services mit NVIDIA für Hochschulen. NVIDIA liefert einen Technologiebaustein, SVA die Umsetzung.",
+          "en": "SVA describes VMware Private AI Services with NVIDIA for universities. NVIDIA supplies technology while SVA delivers implementation."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.b2b-expertise.com/it/it-management/vmware-private-ai-services-with-nvidia-ki-infrastruktur-fur-hochschulen/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3895,
+    "additionalProviders": [
+      "NVIDIA",
+      "Google Cloud",
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Technologieeinsatz und Simulation",
+          "en": "Technology use and simulation"
+        },
+        "context": {
+          "de": "Reply beschreibt NVIDIA Omniverse und Isaac Sim für industrielle KI und digitale Zwillinge. Eine Konferenzteilnahme allein ist nicht die Begründung der Verknüpfung.",
+          "en": "Reply describes NVIDIA Omniverse and Isaac Sim for industrial AI and digital twins. Conference participation alone is not the basis for association."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-auf-der-nvidia-gtc-digital-twins-und-physical-ai-fuer-die-naechste-stufe-industrieller-wertschoepfung/",
+        "scope": "Öffentliche Beschreibung"
+      },
+      {
+        "name": "Google Cloud",
+        "type": {
+          "de": "Simulation auf Cloud-Infrastruktur",
+          "en": "Simulation on cloud infrastructure"
+        },
+        "context": {
+          "de": "Der Reply-Beitrag beschreibt NVIDIA Isaac Sim auf Google Cloud G4-Instanzen für cloudbasierte Robotersimulation.",
+          "en": "The Reply article describes NVIDIA Isaac Sim on Google Cloud G4 instances for cloud-based robotics simulation."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-auf-der-nvidia-gtc-digital-twins-und-physical-ai-fuer-die-naechste-stufe-industrieller-wertschoepfung/",
+        "scope": "Öffentliche Beschreibung"
+      },
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Cloud-Infrastruktur für industrielle KI",
+          "en": "Cloud infrastructure for industrial AI"
+        },
+        "context": {
+          "de": "Reply beschreibt The AI Fast Lane for the Industrial Edge powered by NVIDIA on AWS; AWS ist die Cloud-Infrastruktur der gezeigten Lösung.",
+          "en": "Reply describes The AI Fast Lane for the Industrial Edge powered by NVIDIA on AWS; AWS supplies the showcased solution’s cloud infrastructure."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-auf-der-nvidia-gtc-digital-twins-und-physical-ai-fuer-die-naechste-stufe-industrieller-wertschoepfung/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3137,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Gemeinsame KI-Lösung",
+          "en": "Joint AI solution"
+        },
+        "context": {
+          "de": "Die HPE-Whitepaperbeschreibung nennt NVIDIA AI Computing by HPE. HPE-Lösung und NVIDIA-Technologie werden als gemeinsames Angebot eingeordnet.",
+          "en": "The HPE white-paper description names NVIDIA AI Computing by HPE. The HPE solution and NVIDIA technology are classified as a joint offering."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/18928-hpe-und-nvidia-bieten-eine-sofort-nutzbare-losung-fur-ki-hier-erfahren-sie-wie-es-funktioniert",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2161,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Industriekooperation",
+          "en": "Industrial collaboration"
+        },
+        "context": {
+          "de": "NavVis beschreibt Zusammenarbeit mit NVIDIA und KION für digitale Zwillinge und industrielle KI.",
+          "en": "NavVis describes collaboration with NVIDIA and KION on digital twins and industrial AI."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/navvis-nvidia-und-kion-buendeln-digitale-zwillinge-ki-und-branchenexpertise-fuer-eine-intelligente-industrielle-transformation/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 4003,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Angekündigter Technologie-Stack",
+          "en": "Announced technology stack"
+        },
+        "context": {
+          "de": "VAST Data beschreibt einen NVIDIA-basierten KI-Datenstack und eine erweiterte Kooperation. Ankündigung und tatsächliche Produktverfügbarkeit sind getrennt zu prüfen.",
+          "en": "VAST Data describes an NVIDIA-based AI data stack and expanded collaboration. Announcement and actual product availability require separate assessment."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/vast-data-praesentiert-ersten-voll-beschleunigten-end-to-end-ki-datenstack-mit-nvidia/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3855,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Cloud-Technologie und Roadmap",
+          "en": "Cloud technology and roadmap"
+        },
+        "context": {
+          "de": "Vultr beschreibt NVIDIA Dynamo und Nemotron; Vera-Rubin-Unterstützung wird für Q4 2026 angekündigt. Der Termin ist kein Nachweis bereits verfügbarer Rubin-Kapazität.",
+          "en": "Vultr describes NVIDIA Dynamo and Nemotron, with Vera Rubin support planned for Q4 2026. The date does not establish already available Rubin capacity."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/vultr-setzt-auf-die-nvidia-rubin-plattform-nvidia-dynamo-und-nvidia-nemotron-um-ki-inference-in-unternehmen-neu-zu-definieren/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3688,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Angekündigte technische Integration",
+          "en": "Announced technical integration"
+        },
+        "context": {
+          "de": "Mirantis kündigt Unterstützung des NVIDIA NCX Infra Controllers in k0rdent AI an. Der Beleg betrifft die beschriebenen Komponenten und Funktionen.",
+          "en": "Mirantis announces NVIDIA NCX Infra Controller support in k0rdent AI. Evidence concerns the stated components and features."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/ki-infrastruktur-auf-open-source-basis-mirantis-kuendigt-support-fuer-nvidia-ncx-infra-controller-an/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 630002,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "GPU-Infrastruktur",
+          "en": "GPU infrastructure"
+        },
+        "context": {
+          "de": "Akamai beschreibt NVIDIA RTX PRO 6000 Blackwell und AI-Enterprise-Komponenten für Inference Cloud; Akamai betreibt die Cloud-Plattform.",
+          "en": "Akamai describes NVIDIA RTX PRO 6000 Blackwell and AI Enterprise components for Inference Cloud; Akamai operates the cloud platform."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.akamai.com/products/akamai-inference-cloud-platform",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 630005,
+    "additionalProviders": [
+      "NVIDIA"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Cloud-Compute-Baustein",
+          "en": "Cloud compute component"
+        },
+        "context": {
+          "de": "Akamais Cloud-Beitrag nennt NVIDIA-Blackwell-GPUs als Teil des Compute-Angebots.",
+          "en": "Akamai’s cloud article names NVIDIA Blackwell GPUs as part of its compute offering."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.akamai.com/blog/cloud/akamai-cloud-updated-may-2026",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 650016,
+    "additionalProviders": [
+      "NVIDIA",
+      "Cisco"
+    ],
+    "providerRelations": [
+      {
+        "name": "NVIDIA",
+        "type": {
+          "de": "Gemeinsames Testzentrum",
+          "en": "Joint test center"
+        },
+        "context": {
+          "de": "TD SYNNEX beschreibt eine Secure AI Factory mit NVIDIA- und Cisco-Technologie für Channel-Partner.",
+          "en": "TD SYNNEX describes a Secure AI Factory combining NVIDIA and Cisco technology for channel partners."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/td-synnex-eroeffnet-ki-testzentrum-fuer-channel-partner",
+        "scope": "Öffentliche Beschreibung"
+      },
+      {
+        "name": "Cisco",
+        "type": {
+          "de": "Gemeinsames Testzentrum",
+          "en": "Joint test center"
+        },
+        "context": {
+          "de": "Das TD-SYNNEX-Testzentrum kombiniert Cisco- und NVIDIA-Technologie; TD SYNNEX bietet die Test- und Enablement-Umgebung.",
+          "en": "The TD SYNNEX test center combines Cisco and NVIDIA technology; TD SYNNEX provides the testing and enablement environment."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/td-synnex-eroeffnet-ki-testzentrum-fuer-channel-partner",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2157,
+    "additionalProviders": [
+      "Google Cloud"
+    ],
+    "providerRelations": [
+      {
+        "name": "Google Cloud",
+        "type": {
+          "de": "Cloudbasierte Sicherheitslösung",
+          "en": "Cloud-based security solution"
+        },
+        "context": {
+          "de": "Die Fortinet-Lösungsübersicht behandelt FortiSASE für Google Cloud; Fortinet bleibt Anbieter des Sicherheitsdienstes.",
+          "en": "The Fortinet solution brief covers FortiSASE for Google Cloud; Fortinet remains the security service vendor."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/19573-starke-zugriffs-und-datensicherheit-mit-fortisase-fur-google-cloud",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2151,
+    "additionalProviders": [
+      "Google Cloud"
+    ],
+    "providerRelations": [
+      {
+        "name": "Google Cloud",
+        "type": {
+          "de": "Cloudbasierte Sicherheitslösung",
+          "en": "Cloud-based security solution"
+        },
+        "context": {
+          "de": "Die englische Fortinet-Lösungsübersicht beschreibt FortiSASE auf dem Google-Cloud-Netz. Sie bleibt als eigene Sprach-/Quellenvariante erhalten.",
+          "en": "The English Fortinet solution brief describes FortiSASE on the Google Cloud network. It retains its own language and source identity."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/19571-gain-exceptional-access-security-and-data-protection-with-fortisase-on-google-cloud",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3216,
+    "additionalProviders": [
+      "Google Cloud"
+    ],
+    "providerRelations": [
+      {
+        "name": "Google Cloud",
+        "type": {
+          "de": "Partnerauszeichnung",
+          "en": "Partner award"
+        },
+        "context": {
+          "de": "Go Reply erhält laut Meldung den Partner of the Year Award 2026 für Talent Development: EMEA. Die Auszeichnung gilt für diese Kategorie.",
+          "en": "The announcement reports Go Reply winning the 2026 Partner of the Year Award for Talent Development: EMEA. The award applies to that category."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/go-reply-erhaelt-google-cloud-partner-of-the-year-award-2026-in-der-kategorie-talent-development-emea/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3106,
+    "additionalProviders": [
+      "Google Cloud"
+    ],
+    "providerRelations": [
+      {
+        "name": "Google Cloud",
+        "type": {
+          "de": "Datenintegration",
+          "en": "Data integration"
+        },
+        "context": {
+          "de": "Fivetran beschreibt die Synchronisierung von Kundendaten nach BigQuery; Fivetran liefert die Datenintegration, Google Cloud die Zielplattform.",
+          "en": "Fivetran describes synchronizing customer data into BigQuery; Fivetran supplies integration and Google Cloud the target platform."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/neuer-meilenstein-fuer-enterprise-ki-auf-google-cloud-fivetran-uebertrifft-die-18-billionen-monat-datenzeilen-marke-in-bigquery/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3170,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Angekündigte SAP-Sicherheitsfunktion",
+          "en": "Announced SAP security capability"
+        },
+        "context": {
+          "de": "Onapsis kündigt Agentic Gateway für SAP-Sicherheit an. Die LLM-Beispiele in der Meldung werden nicht als bereits produktive Partnerschaften zusätzlich zugeordnet.",
+          "en": "Onapsis announces Agentic Gateway for SAP security. Listed LLM examples are not additionally attributed as existing production partnerships."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/onapsis-kuendigt-neue-funktionen-fuer-agentenbasierte-ki-in-der-sap-cybersecurity-an/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1266,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Transformationsangebot",
+          "en": "Transformation offering"
+        },
+        "context": {
+          "de": "Die Natuvion-Whitepaperbeschreibung behandelt Migrationsansätze für SAP S/4HANA; Natuvion bleibt Anbieter des Transformationsangebots.",
+          "en": "The Natuvion white-paper description addresses SAP S/4HANA migration approaches; Natuvion remains the transformation provider."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://whitepaper.cio.de/resources/whitepaper-sap-s-4hana-transformation-im-ki-zeitalter-2",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Technische Integration",
+          "en": "Technical integration"
+        },
+        "context": {
+          "de": "aktivweb beschreibt die DOCBOX-Integration in SAP Business One gemeinsam mit WS-Informatik. Der Beleg betrifft diese Produktintegration.",
+          "en": "aktivweb describes DOCBOX integration with SAP Business One together with WS-Informatik. Evidence applies to this product integration."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/docbox-und-sap-business-one-nahtlose-integration-fuer-durchgaengige-geschaeftsprozesse-im-mittelstand/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1341,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Produktzertifizierung",
+          "en": "Product certification"
+        },
+        "context": {
+          "de": "cbs meldet die Zertifizierung des EA Enterprise Analyzer als Built with SAP Business Technology Platform; keine pauschale Zertifizierung aller cbs-Leistungen.",
+          "en": "cbs reports its EA Enterprise Analyzer certification as Built with SAP Business Technology Platform; this does not certify all cbs services."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/cbs-ea-enterprise-analyzer-von-sap-zertifiziert-als-built-with-sap-business-technology-platform/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2872,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Plattform- und Beratungsbezug",
+          "en": "Platform and advisory relationship"
+        },
+        "context": {
+          "de": "Die Sycor-Whitepaperbeschreibung behandelt SAP BTP für mittelständische Unternehmen. Daraus wird kein eigener SAP-Herstellerstatus abgeleitet.",
+          "en": "The Sycor white-paper description covers SAP BTP for midsize businesses. This does not make Sycor the SAP product manufacturer."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.b2b-expertise.com/it/die-sap-business-technology-platform/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3105,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Implementierung und Kundenreferenz",
+          "en": "Implementation and customer reference"
+        },
+        "context": {
+          "de": "FIS beschreibt die SAP-S/4HANA-Transformation bei STARK Deutschland. FIS ist Umsetzungspartner, SAP der Plattformanbieter.",
+          "en": "FIS describes SAP S/4HANA transformation at STARK Deutschland. FIS is the implementation provider and SAP supplies the platform."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/fis-realisiert-erfolgreiche-sap-transformation/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Prozessintegration",
+          "en": "Process integration"
+        },
+        "context": {
+          "de": "Die öffentliche Camunda-Webcastbeschreibung behandelt Prozessarchitektur zur Verbesserung von SAP-Prozessen. Die Aufzeichnung selbst wurde nicht abgerufen.",
+          "en": "The public Camunda webcast description covers process architecture for improving SAP processes. The recording itself was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 790128,
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Ergänzende Fachlösung",
+          "en": "Complementary business solution"
+        },
+        "context": {
+          "de": "Die öffentliche FIS-Checklistenbeschreibung behandelt SAP-Lösungen und FIS-Tools im Großhandel. Der Volltext wurde nicht über das Formular abgerufen.",
+          "en": "The public FIS checklist description covers SAP solutions and FIS tools for wholesale. The full text was not retrieved through the form."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.marconomy.de/diese-10-sap-funktionen-brauchen-sie-wirklich-d-6977747c5b148/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2686,
+    "additionalProviders": [
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Backup in Hybrid-Cloud",
+          "en": "Hybrid-cloud backup"
+        },
+        "context": {
+          "de": "Die Veeam-Webinarbeschreibung behandelt Datensicherung über lokale und AWS-Umgebungen. Der Standort jeder einzelnen Veeam-Komponente wird daraus nicht abgeleitet.",
+          "en": "The Veeam webinar description covers backup across on-premises and AWS environments. It does not establish the hosting location of every Veeam component."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/19309-resilience-without-borders-veeam-and-aws-for-hybrid-cloud",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3560,
+    "additionalProviders": [
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Strategische Kooperation",
+          "en": "Strategic collaboration"
+        },
+        "context": {
+          "de": "Reply meldet eine Kooperationsvereinbarung mit AWS für Cloud- und KI-Transformation; Reply übernimmt Umsetzung und Beratung.",
+          "en": "Reply announces an AWS collaboration agreement for cloud and AI transformation; Reply provides implementation and consulting."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-und-aws-strategische-kooperation-fuer-das-naechste-level-der-ki-gestuetzten-cloud-transformation/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2332,
+    "additionalProviders": [
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Partnerkompetenz",
+          "en": "Partner competency"
+        },
+        "context": {
+          "de": "Reply meldet die AWS Business Value Realization Competency. Die Einordnung gilt für die genannte Spezialisierung.",
+          "en": "Reply reports the AWS Business Value Realization Competency. Classification applies to the named specialization."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/reply-erhaelt-die-aws-business-value-realization-competency/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 200473,
+    "additionalProviders": [
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Betrieb auf Cloud-Infrastruktur",
+          "en": "Operation on cloud infrastructure"
+        },
+        "context": {
+          "de": "Die aktuell erreichbare Siemens-Zielseite beschreibt Simcenter X auf AWS-Infrastruktur. Der ursprüngliche Whitepaper-Volltext wurde nicht geprüft.",
+          "en": "The currently accessible Siemens destination page describes Simcenter X on AWS infrastructure. The original white-paper full text was not reviewed."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://resources.sw.siemens.com/en-US/white-paper-instant-access-to-hpc-resources-using-aws-global-infrastructure/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 640017,
+    "additionalProviders": [
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Cloud-Kooperation",
+          "en": "Cloud collaboration"
+        },
+        "context": {
+          "de": "Vodafone meldet eine Zusammenarbeit mit AWS für Cloud-Dienste in Deutschland. Regionen, Verfügbarkeit und Vertragszusagen sind für das konkrete Angebot zu prüfen.",
+          "en": "Vodafone announces collaboration with AWS for cloud services in Germany. Regions, availability and contractual commitments require assessment for the specific offer."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.telecom-handel.de/themen/business-solutions/vodafone-startet-cloud-kooperation-mit-amazon-web-services",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 2409,
+    "additionalProviders": [
+      "Cisco"
+    ],
+    "providerRelations": [
+      {
+        "name": "Cisco",
+        "type": {
+          "de": "Unternehmens- und Portfoliobezug",
+          "en": "Corporate and portfolio relationship"
+        },
+        "context": {
+          "de": "Das von Splunk verbreitete E-Book behandelt Cisco Data Fabric für ITOps. Splunk bleibt als eigener Anbieter und Herausgeber im Katalog sichtbar.",
+          "en": "The Splunk-distributed ebook covers Cisco Data Fabric for ITOps. Splunk retains its own provider and publisher identity in the catalogue."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/19475-powering-operational-excellence-with-cisco-data-fabric-for-itops",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1159,
+    "additionalProviders": [
+      "Cisco"
+    ],
+    "providerRelations": [
+      {
+        "name": "Cisco",
+        "type": {
+          "de": "Unternehmens- und Portfoliobezug",
+          "en": "Corporate and portfolio relationship"
+        },
+        "context": {
+          "de": "Die öffentliche 451-Reportbeschreibung behandelt das kombinierte Cisco-Splunk-Portfolio. Der vollständige Analystenbericht wurde nicht abgerufen.",
+          "en": "The public 451 report description covers the combined Cisco-Splunk portfolio. The full analyst report was not retrieved."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://b2b-knowhow.com/assets/20155-451-research-the-triple-threat-of-a-combined-cisco-splunk",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3765,
+    "additionalProviders": [
+      "Cisco"
+    ],
+    "providerRelations": [
+      {
+        "name": "Cisco",
+        "type": {
+          "de": "Managed-Service-Partner",
+          "en": "Managed service partner"
+        },
+        "context": {
+          "de": "Controlware meldet ein Audit für Cisco Powered BCaaS auf Basis von Cisco Unified Communications Manager. Der Auditbezug gilt für diesen Service.",
+          "en": "Controlware reports an audit for Cisco Powered BCaaS using Cisco Unified Communications Manager. The audit applies to this service."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/cisco-powered-service-business-collaboration-as-a-service-bcaas-controlware-erweitert-das-managed-service-angebot-nach-erfolgreichem-cisco-audit/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 4994,
+    "additionalProviders": [
+      "Cisco"
+    ],
+    "providerRelations": [
+      {
+        "name": "Cisco",
+        "type": {
+          "de": "Gemeinsames Lösungsangebot",
+          "en": "Joint solution offering"
+        },
+        "context": {
+          "de": "Cisco liefert Netzwerk- und Security-Komponenten, Schwarz Digits die STACKIT-Basis, Controlware Planung, Umsetzung und Betrieb.",
+          "en": "Cisco supplies networking and security components, Schwarz Digits the STACKIT foundation, and Controlware design, implementation and operations."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/digitale-souveraenitaet-aus-deutschland-controlware-cisco-und-schwarz-digits-buendeln-kompetenzen/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 1389,
+    "additionalProviders": [
+      "Cisco"
+    ],
+    "providerRelations": [
+      {
+        "name": "Cisco",
+        "type": {
+          "de": "Integrationsprogramm",
+          "en": "Integration program"
+        },
+        "context": {
+          "de": "Tenable meldet seinen Beitritt zu Cisco SolutionsPlus als Exposure-Management-Partner. Die Rolle betrifft das genannte Programm.",
+          "en": "Tenable announces joining Cisco SolutionsPlus as an exposure management partner. The role concerns the stated program."
+        },
+        "reviewedAt": "2026-10-12",
+        "sourceUrl": "https://www.it-management.today/tenable-wird-exposure-management-partner-im-cisco-solutionsplus-program/",
+        "scope": "Öffentliche Beschreibung"
+      }
+    ]
+  },
+  {
+    "id": 3593,
+    "sourceReviewWarning": {
+      "de": "Quellenprüfung 12.10.2026: Der Portaltitel nennt Azure beziehungsweise Microsoft 365, die aktuelle Beschreibung behandelt jedoch Salesforce und nennt Metric Theory als Anbieter. Der bestehende Prüfstatus betrifft den früheren Quellenstand. Dieser Eintrag wurde wegen des Quellenkonflikts nicht mit Microsoft verknüpft; aktuelle Inhaltszuordnung und Download müssen erneut geprüft werden.",
+      "en": "Source review on 12 October 2026: the portal title names Azure or Microsoft 365, but the current description covers Salesforce and names Metric Theory as provider. The existing review status refers to the earlier source state. This entry was not linked to Microsoft because of the source conflict; current content attribution and download require reassessment."
+    }
+  },
+  {
+    "id": 3590,
+    "sourceReviewWarning": {
+      "de": "Quellenprüfung 12.10.2026: Der Portaltitel nennt Azure beziehungsweise Microsoft 365, die aktuelle Beschreibung behandelt jedoch Salesforce und nennt Metric Theory als Anbieter. Der bestehende Prüfstatus betrifft den früheren Quellenstand. Dieser Eintrag wurde wegen des Quellenkonflikts nicht mit Microsoft verknüpft; aktuelle Inhaltszuordnung und Download müssen erneut geprüft werden.",
+      "en": "Source review on 12 October 2026: the portal title names Azure or Microsoft 365, but the current description covers Salesforce and names Metric Theory as provider. The existing review status refers to the earlier source state. This entry was not linked to Microsoft because of the source conflict; current content attribution and download require reassessment."
+    }
+  }
+]

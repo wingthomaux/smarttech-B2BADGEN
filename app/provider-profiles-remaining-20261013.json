@@ -1,0 +1,786 @@
+{
+  "TransGate": {
+    "officialUrl": "https://transgate.de/",
+    "officialLabel": {
+      "de": "TransGate: offizielle Leistungsquelle",
+      "en": "TransGate: official service source"
+    },
+    "summary": {
+      "de": "TransGate entwickelt die modulare Arbeitsschutzsoftware Prevenio. Sie verbindet Unterweisungen, Besucherverwaltung, Gefährdungsbeurteilungen, Verbandbuch und medizinische Vorsorgeprozesse. Unternehmen können damit Nachweise und Maßnahmen zentral organisieren. Bei der Einführung sind Rollen, personenbezogene Gesundheitsdaten, Inhalte und bestehende Personalprozesse zu klären. Die Software unterstützt Dokumentation; die fachliche Verantwortung für Arbeitsschutz bleibt beim Unternehmen. Beratungs- und Softwareleistungen sind von einzelnen Modulzusagen zu unterscheiden.",
+      "en": "TransGate develops the modular Prevenio occupational safety software. It connects training, visitor management, risk assessments, incident records and occupational health workflows. Businesses can organize evidence and actions centrally. Implementation requires assessment of roles, sensitive health data, content and existing HR processes. Software supports documentation; the employer retains responsibility for occupational safety. Consulting and software services should be distinguished from individual module commitments."
+    },
+    "metaDescription": {
+      "de": "TransGate entwickelt die modulare Arbeitsschutzsoftware Prevenio.",
+      "en": "TransGate develops the modular Prevenio occupational safety software."
+    },
+    "focus": {
+      "de": [
+        "Unterweisungsmanagement",
+        "Gefährdungsbeurteilung",
+        "Besucher und Fremdfirmen",
+        "Vorsorge und Dokumentation"
+      ],
+      "en": [
+        "Training management",
+        "Risk assessment",
+        "Visitors and contractors",
+        "Health workflows and documentation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Arbeitsschutz",
+        "HSE",
+        "Personal und Datenschutz",
+        "IT und Einkauf"
+      ],
+      "en": [
+        "Occupational safety",
+        "HSE",
+        "HR and privacy",
+        "IT and procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://transgate.de/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "MQ result consulting": {
+    "officialUrl": "https://www.mqresult.de/erp-beratung/",
+    "officialLabel": {
+      "de": "MQ result consulting: offizielle Leistungsquelle",
+      "en": "MQ result consulting: official service source"
+    },
+    "summary": {
+      "de": "MQ result consulting unterstützt mittelständische Unternehmen bei ERP-Auswahl, Einführung und Prozessoptimierung. Die Beratung verbindet Strategie, Geschäftsprozesse und IT-Systeme. Potenzialanalyse, Anbieterwahl und Projektbegleitung sind unterschiedliche Leistungen. Kunden sollten Zielprozesse, Integrationen, Datenmigration und Entscheidungsverantwortung festlegen. MQ ist Beratungs- und Umsetzungspartner; ERP-Lizenzen und Produktfunktionen bleiben dem ausgewählten Hersteller zugeordnet. Die dokumentierten KI-Veranstaltungen belegen keine universelle KI-Funktion jedes ERP-Produkts.",
+      "en": "MQ result consulting supports ERP selection, implementation and process optimization for mid-sized businesses. Consulting connects strategy, business processes and IT systems. Potential analysis, vendor selection and project support are distinct services. Customers should define target processes, integrations, migration and decision responsibilities. MQ provides consulting and project support; ERP licenses and product capabilities remain attributed to the selected manufacturer. Its AI events do not establish universal AI functionality in every ERP product."
+    },
+    "metaDescription": {
+      "de": "MQ result consulting unterstützt mittelständische Unternehmen bei ERP-Auswahl, Einführung und Prozessoptimierung.",
+      "en": "MQ result consulting supports ERP selection, implementation and process optimization for mid-sized businesses."
+    },
+    "focus": {
+      "de": [
+        "ERP-Auswahl",
+        "Prozessanalyse",
+        "Projektmanagement",
+        "ERP-Einführung"
+      ],
+      "en": [
+        "ERP selection",
+        "Process analysis",
+        "Project management",
+        "ERP implementation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "IT-Leitung",
+        "ERP-Projektleitung",
+        "Prozessverantwortliche",
+        "Einkauf"
+      ],
+      "en": [
+        "IT leadership",
+        "ERP project owners",
+        "Process owners",
+        "Procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.mqresult.de/erp-beratung/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "raumAKUSTIKS": {
+    "officialUrl": "https://raum-akustiks.de/branchen/industrie/produktion/",
+    "officialLabel": {
+      "de": "raumAKUSTIKS: offizielle Leistungsquelle",
+      "en": "raumAKUSTIKS: official service source"
+    },
+    "summary": {
+      "de": "raumAKUSTIKS plant und realisiert Raumakustik und Schallschutz für Unternehmen. Das Angebot umfasst Beratung, Messung, Absorber, Sonderfertigung und Montage für Produktionshallen, Büros und weitere Räume. Nachhallminderung und Schallschutz an Maschinen sind unterschiedliche Aufgaben. Käufer sollten Lärmquelle, Übertragungsweg, Brandschutz, Einbausituation und gewünschte Messwerte klären. Eine Absorberlösung ersetzt keine bauliche Entkopplung von Körperschall; die passende Maßnahme wird für den konkreten Raum geplant.",
+      "en": "raumAKUSTIKS designs and delivers business acoustics and noise-control solutions. Services include consulting, measurement, absorbers, custom fabrication and installation for production halls, offices and other rooms. Reverberation reduction and machine noise control address different problems. Buyers should assess sources, transmission paths, fire requirements, installation and target measurements. Absorbers do not replace structural isolation of vibration; measures must be planned for the specific room."
+    },
+    "metaDescription": {
+      "de": "raumAKUSTIKS plant und realisiert Raumakustik und Schallschutz für Unternehmen.",
+      "en": "raumAKUSTIKS designs and delivers business acoustics and noise-control solutions."
+    },
+    "focus": {
+      "de": [
+        "Akustikmessung",
+        "Industrieabsorber",
+        "Raumakustik",
+        "Planung und Montage"
+      ],
+      "en": [
+        "Acoustic measurement",
+        "Industrial absorbers",
+        "Room acoustics",
+        "Planning and installation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Facility Management",
+        "Produktion",
+        "Arbeitsschutz",
+        "Technischer Einkauf"
+      ],
+      "en": [
+        "Facility management",
+        "Production",
+        "Occupational safety",
+        "Technical procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://raum-akustiks.de/branchen/industrie/produktion/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "HAIC – HUMANAI CONTACT UNIPESSOAL LDA": {
+    "officialUrl": "https://www.humanaicontact.com/",
+    "officialLabel": {
+      "de": "HAIC – HUMANAI CONTACT UNIPESSOAL LDA: offizielle Leistungsquelle",
+      "en": "HAIC – HUMANAI CONTACT UNIPESSOAL LDA: official service source"
+    },
+    "summary": {
+      "de": "Human AI Contact verbindet personell erbrachten Kundenservice mit KI-gestützten Abläufen. Angeboten werden Customer Care, Vertriebsunterstützung, technischer und mehrsprachiger Support. Routing, Dokumentation und Workflows unterstützen die Mitarbeitenden. Kunden sollten Sprachen, Qualitätskennzahlen, Datenzugriff, Eskalationen und die Anbindung ihrer Systeme definieren. Das Unternehmen ist ein Serviceanbieter; aus KI-Unterstützung folgt kein eigenständig vertriebenes universelles Sprachmodell. Leistungen und Kapazitäten werden für den jeweiligen Prozess vereinbart.",
+      "en": "Human AI Contact combines staffed customer service with AI-supported workflows. Offerings include customer care, sales support, technical support and multilingual service. Routing, documentation and workflow automation support staff. Customers should define languages, quality metrics, data access, escalation and systems integration. It is a service provider; AI support does not establish an independently sold general language model. Services and capacity are agreed for the specific process."
+    },
+    "metaDescription": {
+      "de": "Human AI Contact verbindet personell erbrachten Kundenservice mit KI-gestützten Abläufen.",
+      "en": "Human AI Contact combines staffed customer service with AI-supported workflows."
+    },
+    "focus": {
+      "de": [
+        "Customer Care",
+        "Sales Support",
+        "Technical Support",
+        "Mehrsprachige Serviceprozesse"
+      ],
+      "en": [
+        "Customer care",
+        "Sales support",
+        "Technical support",
+        "Multilingual service"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Customer Service",
+        "Contact-Center-Leitung",
+        "Vertrieb",
+        "IT und Datenschutz"
+      ],
+      "en": [
+        "Customer service",
+        "Contact center leadership",
+        "Sales",
+        "IT and privacy"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.humanaicontact.com/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Ferdinand Eisele": {
+    "officialUrl": "https://www.extra4.net/de/",
+    "officialLabel": {
+      "de": "Ferdinand Eisele: offizielle Leistungsquelle",
+      "en": "Ferdinand Eisele: official service source"
+    },
+    "summary": {
+      "de": "Ferdinand Eisele bietet unter eXtra4 Labelling Systems Etikettierung für Schmuck, Uhren, Handel und Industrie. Etiketten, Thermotransfer-Hardware, Etikettendrucksoftware und Zubehör bilden das Leistungsbild. Booklet- und Sicherheitsetiketten adressieren zusätzliche Datenflächen oder Manipulationshinweise. Unternehmen sollten Material, Haftung, Lesbarkeit, Druckerkompatibilität und Artikelnummernprozesse prüfen. Hersteller, Softwaregesellschaft und Hardwarepartner erfüllen unterschiedliche Rollen; ein Etikettenmerkmal ist keine pauschale Zertifizierung des gesamten Identifikationsprozesses.",
+      "en": "Ferdinand Eisele offers labeling for jewelry, watches, retail and industry under eXtra4 Labelling Systems. Labels, thermal-transfer hardware, printing software and accessories form its offering. Booklet and security labels address additional data areas or tamper indications. Businesses should assess materials, adhesion, legibility, printer compatibility and item numbering. Manufacturer, software company and hardware partners perform different roles; one label feature does not certify the entire identification process."
+    },
+    "metaDescription": {
+      "de": "Ferdinand Eisele bietet unter eXtra4 Labelling Systems Etikettierung für Schmuck, Uhren, Handel und Industrie.",
+      "en": "Ferdinand Eisele offers labeling for jewelry, watches, retail and industry under eXtra4 Labelling Systems."
+    },
+    "focus": {
+      "de": [
+        "Etiketten und Barcode",
+        "Thermotransferdruck",
+        "Etikettendrucksoftware",
+        "Zubehör und Support"
+      ],
+      "en": [
+        "Labels and barcodes",
+        "Thermal-transfer printing",
+        "Label printing software",
+        "Accessories and support"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Produktion",
+        "Handelsorganisation",
+        "Logistik",
+        "Technischer Einkauf"
+      ],
+      "en": [
+        "Production",
+        "Retail operations",
+        "Logistics",
+        "Technical procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.extra4.net/de/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Firma IT-KS OG": {
+    "officialUrl": "https://www.itks.at/",
+    "officialLabel": {
+      "de": "Firma IT-KS OG: offizielle Leistungsquelle",
+      "en": "Firma IT-KS OG: official service source"
+    },
+    "summary": {
+      "de": "IT-KS OG unterstützt Unternehmen mit Web-, Shopify- und Online-Marketing-Lösungen. Die vorhandene Juweliermeldung beschreibt eine Zusammenarbeit mit BEST WAWI: Warenwirtschaft und Webshop sind dabei getrennte Komponenten. IT-KS übernimmt digitale Umsetzung und Betreuung, nicht automatisch die Entwicklung jedes Warenwirtschaftsmoduls. Kunden sollten Produktdaten, Schnittstellen, Bestandsabgleich, Hosting und laufenden Support klären. KI-Bots und Marketingmaßnahmen sind konkrete Projektleistungen; Reichweite oder Umsatzerfolg bleiben vom Einsatz abhängig.",
+      "en": "IT-KS OG supports businesses with web, Shopify and online marketing solutions. Its jewelry-sector article describes collaboration with BEST WAWI, with inventory software and storefront as separate components. IT-KS provides digital implementation and support rather than necessarily developing every inventory module. Customers should assess product data, interfaces, stock synchronization, hosting and ongoing support. AI bots and marketing activities are project services; audience reach and sales outcomes depend on implementation."
+    },
+    "metaDescription": {
+      "de": "IT-KS OG unterstützt Unternehmen mit Web-, Shopify- und Online-Marketing-Lösungen.",
+      "en": "IT-KS OG supports businesses with web, Shopify and online marketing solutions."
+    },
+    "focus": {
+      "de": [
+        "Shopify-Umsetzung",
+        "Webentwicklung",
+        "Shop- und Datenintegration",
+        "Digitale Betreuung"
+      ],
+      "en": [
+        "Shopify implementation",
+        "Web development",
+        "Store and data integration",
+        "Digital support"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "E-Commerce",
+        "Handelsleitung",
+        "Marketing",
+        "IT und Einkauf"
+      ],
+      "en": [
+        "E-commerce",
+        "Retail leadership",
+        "Marketing",
+        "IT and procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.itks.at/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Smart Landlord": {
+    "officialUrl": "https://www.smartlandlord.de/features/",
+    "officialLabel": {
+      "de": "Smart Landlord: offizielle Leistungsquelle",
+      "en": "Smart Landlord: official service source"
+    },
+    "summary": {
+      "de": "SmartLandlord bietet digitale Immobilienanalyse und Bestandsverwaltung. Analysewerkzeuge, Dashboards, Portfoliofunktionen sowie Dokumenten- und Mietverwaltung ergänzen sich. Die bestehende Österreich-Meldung bleibt von der deutschen Produktquelle und regionalen Varianten unterscheidbar. Anwender sollten Datenherkunft, Marktgebiete, Tarifumfang, Berechtigungen und die fachliche Prüfung berechneter Werte klären. Modellierte Marktwerte, Steuer- oder Finanzierungsszenarien sind Entscheidungshilfen; sie ersetzen keine objektbezogene Bewertung oder verbindliche Rechts- und Steuerprüfung.",
+      "en": "SmartLandlord offers digital property analysis and portfolio management. Analysis tools, dashboards, portfolio features, document handling and tenancy management work together. Its existing Austria article remains distinct from the German product source and regional versions. Users should assess data origins, market coverage, plans, permissions and professional review of calculations. Modeled values, tax and financing scenarios support decisions; they do not replace property-specific valuation or binding legal and tax review."
+    },
+    "metaDescription": {
+      "de": "SmartLandlord bietet digitale Immobilienanalyse und Bestandsverwaltung.",
+      "en": "SmartLandlord offers digital property analysis and portfolio management."
+    },
+    "focus": {
+      "de": [
+        "Immobilienanalyse",
+        "Portfolio und Dashboards",
+        "Dokumente",
+        "Miet- und Zahlungsverwaltung"
+      ],
+      "en": [
+        "Property analysis",
+        "Portfolio and dashboards",
+        "Documents",
+        "Tenancy and payment management"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Immobilienmanagement",
+        "Portfolio-Verantwortliche",
+        "Finanzen",
+        "IT und Datenschutz"
+      ],
+      "en": [
+        "Property management",
+        "Portfolio owners",
+        "Finance",
+        "IT and privacy"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.smartlandlord.de/features/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "SwiPay": {
+    "officialUrl": "https://swipay.de/",
+    "officialLabel": {
+      "de": "SwiPay: offizielle Leistungsquelle",
+      "en": "SwiPay: official service source"
+    },
+    "summary": {
+      "de": "SwiPay berät Händler zur Auswahl und Umsetzung von Payment-Lösungen. Das Leistungsbild umfasst Bedarfsanalyse, Konditionenvergleich, Verhandlungen und Begleitung im Betrieb. Die vorhandene Liechtenstein-Meldung beschreibt eine lokale Kooperation; die deutsche Website belegt ein regionales Angebot. Zahlungsabwicklung und Beratung sind getrennte Rollen. Käufer sollten Länderabdeckung, Terminal- und Shopanbindung, Vertragslaufzeiten, Gebühren und den tatsächlichen Zahlungsdienstleister prüfen. Einsparungsangaben sind Anbieterbehauptungen und keine garantierten Ergebnisse für jeden Händler.",
+      "en": "SwiPay advises merchants on payment solution selection and implementation. Services cover needs analysis, commercial comparison, negotiation and operational support. Its Liechtenstein article describes local collaboration; the German website documents a regional offering. Payment processing and advice are separate roles. Buyers should assess country coverage, terminal and storefront integration, contract terms, fees and the actual payment processor. Savings claims are provider statements, not guaranteed results for every merchant."
+    },
+    "metaDescription": {
+      "de": "SwiPay berät Händler zur Auswahl und Umsetzung von Payment-Lösungen.",
+      "en": "SwiPay advises merchants on payment solution selection and implementation."
+    },
+    "focus": {
+      "de": [
+        "Payment-Beratung",
+        "POS und Online-Zahlung",
+        "Konditionenvergleich",
+        "Umsetzung und Betreuung"
+      ],
+      "en": [
+        "Payment consulting",
+        "POS and online payments",
+        "Commercial comparison",
+        "Implementation and support"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Handelsleitung",
+        "E-Commerce",
+        "Finanzen",
+        "Einkauf"
+      ],
+      "en": [
+        "Retail leadership",
+        "E-commerce",
+        "Finance",
+        "Procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://swipay.de/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "KFK KONRAD®": {
+    "officialUrl": "https://www.pruefservice-kfk.de/",
+    "officialLabel": {
+      "de": "KFK KONRAD®: offizielle Leistungsquelle",
+      "en": "KFK KONRAD®: official service source"
+    },
+    "summary": {
+      "de": "KFK Konrad bietet technische Prüfservices für elektrische Betriebsmittel, Maschinen und Anlagen. Weitere Bereiche umfassen Ladeinfrastruktur, Windenergie und betriebliche Sicherheitsprüfungen. Die offizielle Quelle unterscheidet eigene Leistungen von der Zusammenarbeit mit KFK Torservice & Safety Prüfservice. Unternehmen sollten Prüfobjekte, Qualifikation, Dokumentation, Einsatzplanung und die zuständige Gesellschaft klären. Ein Prüfservice ist kein Hersteller sämtlicher geprüfter Systeme. Normenbezüge und Prüfintervalle sind am jeweiligen Betriebsmittel und Einsatzfall zu prüfen.",
+      "en": "KFK Konrad provides technical inspections for electrical equipment, machinery and installations. Other areas include charging infrastructure, wind energy and workplace safety inspections. Its official source distinguishes its services from collaboration with KFK Torservice & Safety Prüfservice. Businesses should assess inspection scope, qualifications, records, scheduling and contracting company. An inspection service does not manufacture every inspected system. Standards and inspection intervals require assessment for the specific equipment and use case."
+    },
+    "metaDescription": {
+      "de": "KFK Konrad bietet technische Prüfservices für elektrische Betriebsmittel, Maschinen und Anlagen.",
+      "en": "KFK Konrad provides technical inspections for electrical equipment, machinery and installations."
+    },
+    "focus": {
+      "de": [
+        "Elektroprüfungen",
+        "Maschinen und Anlagen",
+        "Ladeinfrastruktur",
+        "Prüfdokumentation"
+      ],
+      "en": [
+        "Electrical inspections",
+        "Machinery and installations",
+        "Charging infrastructure",
+        "Inspection records"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Instandhaltung",
+        "Elektrotechnik",
+        "Arbeitsschutz",
+        "Facility Management"
+      ],
+      "en": [
+        "Maintenance",
+        "Electrical engineering",
+        "Occupational safety",
+        "Facility management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.pruefservice-kfk.de/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Degro": {
+    "officialUrl": "https://www.degro.de/",
+    "officialLabel": {
+      "de": "Degro: offizielle Leistungsquelle",
+      "en": "Degro: official service source"
+    },
+    "summary": {
+      "de": "Degro entwickelt, produziert und vertreibt Garten- und Heimtierprodukte sowie Handelsmarken. Fertigung, Abfüllung, Verpackung und Vertriebsabwicklung sind relevante B2B-Leistungen für den Handel. Die eigene Silosteuerung und MES-Anbindung beschreibt interne Produktionstechnik; daraus folgt kein Verkauf einer MES-Plattform. Kunden sollten Rezeptur, Verpackung, Mengen, Lieferfähigkeit und Qualitätsnachweise konkret vereinbaren. Das bestehende Dehner-Gruppenumfeld bleibt erhalten; private Endkundenangebote werden von Fertigungs- und Handelsleistungen unterschieden.",
+      "en": "Degro develops, manufactures and distributes gardening, pet-care and private-label products. Manufacturing, filling, packaging and distribution are B2B services for retail. Its silo control and MES connection describe internal production technology, not the sale of an MES platform. Customers should agree formulations, packaging, quantities, delivery and quality evidence. Its existing Dehner group context remains intact; consumer products are distinguished from manufacturing and trade services."
+    },
+    "metaDescription": {
+      "de": "Degro entwickelt, produziert und vertreibt Garten- und Heimtierprodukte sowie Handelsmarken.",
+      "en": "Degro develops, manufactures and distributes gardening, pet-care and private-label products."
+    },
+    "focus": {
+      "de": [
+        "Private Label",
+        "Produktion und Abfüllung",
+        "Verpackung",
+        "Handelsabwicklung"
+      ],
+      "en": [
+        "Private label",
+        "Manufacturing and filling",
+        "Packaging",
+        "Trade operations"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Handelseinkauf",
+        "Produktmanagement",
+        "Qualität",
+        "Supply Chain"
+      ],
+      "en": [
+        "Retail procurement",
+        "Product management",
+        "Quality",
+        "Supply chain"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.degro.de/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Dehner Logistik": {
+    "officialUrl": "https://www.dehner.de/unternehmen/unternehmen/logistik",
+    "officialLabel": {
+      "de": "Dehner Logistik: offizielle Leistungsquelle",
+      "en": "Dehner Logistik: official service source"
+    },
+    "summary": {
+      "de": "Dehner Logistik organisiert die Logistik der Dehner-Gruppe am Standort Rain. Die offizielle Darstellung nennt Pflanzenlogistik, eigenen Fuhrpark, Werkstatt, Wertstoffhof und Gefahrstofflager. Das Profil beschreibt einen Gruppenbetrieb; ein allgemein buchbares Transportangebot für externe Kunden ist damit nicht belegt. Für geschäftliche Einordnung zählen Warenart, Lager- und Transportprozesse sowie die zuständige Gesellschaft. Aus interner Logistik entsteht keine behauptete Software- oder Plattformleistung.",
+      "en": "Dehner Logistik handles Dehner group logistics at Rain. The official description identifies plant logistics, its own fleet, workshop, recycling yard and hazardous materials warehouse. This profile describes a group operation; it does not establish an externally bookable general transport service. Business assessment concerns goods, storage, transport processes and contracting company. Internal logistics does not establish a software or platform offering."
+    },
+    "metaDescription": {
+      "de": "Dehner Logistik organisiert die Logistik der Dehner-Gruppe am Standort Rain.",
+      "en": "Dehner Logistik handles Dehner group logistics at Rain."
+    },
+    "focus": {
+      "de": [
+        "Pflanzenlogistik",
+        "Fuhrpark und Werkstatt",
+        "Lagerprozesse",
+        "Wertstofflogistik"
+      ],
+      "en": [
+        "Plant logistics",
+        "Fleet and workshop",
+        "Warehousing",
+        "Recycling logistics"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Logistikleitung",
+        "Supply Chain",
+        "Lagerbetrieb",
+        "Gruppenorganisation"
+      ],
+      "en": [
+        "Logistics leadership",
+        "Supply chain",
+        "Warehouse operations",
+        "Group operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.dehner.de/unternehmen/unternehmen/logistik",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "SCM Creative Management": {
+    "officialUrl": "https://scm-creative.net/",
+    "officialLabel": {
+      "de": "SCM Creative Management: offizielle Leistungsquelle",
+      "en": "SCM Creative Management: official service source"
+    },
+    "summary": {
+      "de": "SCM Creative Management bietet Webentwicklung, technische Suchmaschinenoptimierung und KI-Beratung. Die aktuelle Leistungsquelle beschreibt Website-Performance, Barrierefreiheit und Sichtbarkeit in KI-Suchsystemen als getrennte Aufgaben. Das Profil belegt eigene Umsetzungsleistungen; es bezeichnet SCM nicht als Hersteller der verwendeten Sprachmodelle. Kunden sollten Zielsysteme, Hosting, Datenzugriff, Messgrößen und Wartung vereinbaren. Eine ältere Meldung zu KI-Agenten wird dadurch nicht zur Bestätigung beliebiger Agentenfunktionen oder garantierter Suchpositionen.",
+      "en": "SCM Creative Management offers web engineering, technical search optimization and AI consulting. Its current source distinguishes website performance, accessibility and visibility in AI search. This profile documents implementation services rather than language model manufacturing. Customers should agree systems, hosting, data access, metrics and maintenance. An older AI agent announcement does not establish arbitrary agent capabilities or guaranteed search positions."
+    },
+    "metaDescription": {
+      "de": "SCM Creative Management bietet Webentwicklung, technische Suchmaschinenoptimierung und KI-Beratung.",
+      "en": "SCM Creative Management offers web engineering, technical search optimization and AI consulting."
+    },
+    "focus": {
+      "de": [
+        "Webentwicklung",
+        "SEO und KI-Suche",
+        "Website-Performance",
+        "KI-Beratung"
+      ],
+      "en": [
+        "Web engineering",
+        "SEO and AI search",
+        "Website performance",
+        "AI consulting"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Digitalleitung",
+        "Marketing",
+        "Web- und IT-Teams",
+        "Einkauf"
+      ],
+      "en": [
+        "Digital leadership",
+        "Marketing",
+        "Web and IT teams",
+        "Procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://scm-creative.net/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Adacta": {
+    "officialUrl": "https://www.adacta-fintech.com/",
+    "officialLabel": {
+      "de": "Adacta: offizielle Leistungsquelle",
+      "en": "Adacta: official service source"
+    },
+    "summary": {
+      "de": "Adacta entwickelt die Versicherungsplattform AdInsure für Lebens- und Sachversicherung. Das modulare Leistungsbild adressiert Kernprozesse, Modernisierung bestehender Systeme und API-Integration mit weiteren Geschäftspartnern. Adacta ist Softwareanbieter; der frühere Katalogzusatz „PR-Agentur“ war eine falsche Rollenbeschreibung. Versicherer sollten Spartenabdeckung, Datenmigration, Prozesskonfiguration, Schnittstellen und Betriebsmodell prüfen. Cloud- und hybride Bereitstellung bleiben vom konkreten Projekt abhängig. Eine Marktstudie zur Schadenautomatisierung ist von einer Produktfreigabe zu unterscheiden.",
+      "en": "Adacta develops the AdInsure platform for life and non-life insurance. Its modular offering addresses core workflows, legacy modernization and API integration. Adacta is a software provider; the earlier catalogue suffix “PR agency” misdescribed its role. Insurers should assess business-line coverage, migration, process configuration, interfaces and operations. Cloud and hybrid deployment depend on the project. A claims automation survey is distinct from product acceptance."
+    },
+    "metaDescription": {
+      "de": "Adacta entwickelt die Versicherungsplattform AdInsure für Lebens- und Sachversicherung.",
+      "en": "Adacta develops the AdInsure platform for life and non-life insurance."
+    },
+    "focus": {
+      "de": [
+        "AdInsure",
+        "Versicherungskernprozesse",
+        "Modernisierung",
+        "API-Integration"
+      ],
+      "en": [
+        "AdInsure",
+        "Core insurance workflows",
+        "Modernization",
+        "API integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Versicherungs-IT",
+        "Schadenmanagement",
+        "Enterprise-Architektur",
+        "Einkauf"
+      ],
+      "en": [
+        "Insurance IT",
+        "Claims operations",
+        "Enterprise architecture",
+        "Procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.adacta-fintech.com/",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  },
+  "Zulassungsautomat": {
+    "officialUrl": "https://zulassungsautomat.de/impressum",
+    "officialLabel": {
+      "de": "Zulassungsautomat: offizielle Leistungsquelle",
+      "en": "Zulassungsautomat: official service source"
+    },
+    "summary": {
+      "de": "Zulassungsautomat ist ein privater digitaler Dienstleister für Kfz-Zulassungsvorgänge. Die vorhandene Veröffentlichung beschreibt An-, Um- und Abmeldung, Halterwechsel und einen Wartezeiten-Index. Das Impressum stellt klar, dass keine amtliche Verbindung zu einer Behörde besteht. Auftraggeber sollten Vollmacht, Unterlagen, Datenschutz, Gebühren und die jeweilige Prozessverfügbarkeit prüfen. Gemessene Terminvorläufe sind datierte Beobachtungen, keine garantierte Bearbeitungszeit. Der Markenname ist keine eigenständige Behörde oder staatliche Plattform.",
+      "en": "Zulassungsautomat is a private digital vehicle-registration service. Its existing publication describes registration, changes, deregistration and a waiting-time index. The legal notice makes clear it has no official connection to an authority. Customers should assess authorization, documents, privacy, fees and process availability. Measured appointment lead times are dated observations, not guaranteed processing times. The brand is not a separate authority or government platform."
+    },
+    "metaDescription": {
+      "de": "Zulassungsautomat ist ein privater digitaler Dienstleister für Kfz-Zulassungsvorgänge.",
+      "en": "Zulassungsautomat is a private digital vehicle-registration service."
+    },
+    "focus": {
+      "de": [
+        "Digitale Zulassungsprozesse",
+        "Unterlagenübermittlung",
+        "Terminbeobachtung",
+        "Kunden- und Händleraufträge"
+      ],
+      "en": [
+        "Digital registration workflows",
+        "Document submission",
+        "Appointment monitoring",
+        "Customer and dealer requests"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Automobilhandel",
+        "Fuhrpark",
+        "Operations",
+        "Datenschutz"
+      ],
+      "en": [
+        "Automotive retail",
+        "Fleet",
+        "Operations",
+        "Privacy"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://zulassungsautomat.de/impressum",
+        "label": {
+          "de": "Leistungsbild und Anbieterrolle",
+          "en": "Services and provider role"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Anbieterrolle und Leistungsquelle am 13.10.2026 geprüft. Beobachtete Artikel und formulargebundene Inhalte behalten ihren eigenen Prüfstatus.",
+      "en": "Provider role and service source reviewed on 13 October 2026. Observed articles and gated content retain their separate review status."
+    }
+  }
+}

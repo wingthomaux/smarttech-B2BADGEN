@@ -1,0 +1,118 @@
+{
+  "Allianz Trade": {
+    "officialUrl": "https://www.allianz-trade.de/",
+    "officialLabel": {
+      "de": "Allianz Trade: Lösungen und Research",
+      "en": "Allianz Trade: solutions and research"
+    },
+    "metaDescription": {
+      "de": "Allianz Trade: Warenkreditversicherung, Bürgschaften, Inkasso und Branchenresearch für Forderungs-, Liquiditäts- und Risikomanagement.",
+      "en": "Allianz Trade: trade credit insurance, surety bonds, debt collection and sector research for receivables, liquidity and risk management."
+    },
+    "summary": {
+      "de": "Allianz Trade bietet Unternehmen Warenkreditversicherungen, Bürgschaften und Garantien, Inkasso sowie Schutz vor Vertrauensschäden. Die Marke führt das frühere Euler-Hermes-Angebot fort; sie ist von anderen Allianz-Geschäftsbereichen zu unterscheiden. Unternehmen können damit Forderungsrisiken, Zahlungsprozesse und die Absicherung von Kunden- und Projektgeschäften adressieren. Der Branchenatlas ergänzt dieses Leistungsbild um Research zu wirtschaftlichen und sektoralen Risiken. Die Ausgabe vom September 2026 behandelt KI-Investitionen, geopolitische Belastungen und unterschiedliche Branchenaussichten. Solche Einschätzungen helfen bei der Vorbereitung von Markt-, Kunden- und Risikoprüfungen, ersetzen jedoch weder eine individuelle Bonitätsprüfung noch eine Deckungsentscheidung. Für die Auswahl einer Versicherung sind unter anderem versicherte Forderungen, Kreditlimite, Selbstbehalt, Ausschlüsse, Meldepflichten, Länderabdeckung und die zuständige Vertragsgesellschaft zu klären. Bürgschaften sichern definierte Verpflichtungen gegenüber Auftraggebern; Inkasso betrifft die Einziehung offener Forderungen. Diese Leistungen und das Research bleiben getrennt beschrieben. Die englischsprachige Studie Sector Atlas 2026 vom 7. September umfasst 17 Branchen. Die Methodik bewertet Zahlungsausfallrisiken für Branchen in 70 Ländern über Nachfrage, Profitabilität, Liquidität und Geschäftsumfeld. Interne Daten, externe Indikatoren und Expertenurteile fließen in vier Risikostufen ein. Dieser Branchenblick ergänzt Länder- und Einzelkundenprüfungen.",
+      "en": "Allianz Trade provides businesses with trade credit insurance, surety bonds and guarantees, debt collection and fidelity insurance. The brand continues the former Euler Hermes offering and should be distinguished from other Allianz businesses. Its services address receivables risk, payment processes and protection of customer and project transactions. The sector atlas adds research on economic and industry risks. The September 2026 edition covers AI investment, geopolitical pressures and differing sector outlooks. These assessments support preparation of market, customer and risk reviews; they do not replace individual credit assessment or an insurance coverage decision. Insurance selection requires assessment of insured receivables, credit limits, deductibles, exclusions, notification duties, geographic coverage and the contracting legal entity. Surety bonds secure defined obligations to contracting parties; debt collection concerns recovery of outstanding receivables. These services remain distinct from research. The English-language Sector Atlas 2026 dated 7 September covers 17 sectors. Its methodology assesses sector non-payment risk in 70 countries using demand, profitability, liquidity and business environment. Internal data, external indicators and expert judgment inform four risk levels. This sector view complements country and individual buyer assessments."
+    },
+    "focus": {
+      "de": [
+        "Warenkreditversicherung und Forderungsschutz",
+        "Bürgschaften, Garantien und Avale",
+        "Inkasso und Forderungsmanagement",
+        "Vertrauensschadenversicherung",
+        "Branchen-, Länder- und Insolvenzresearch",
+        "Kundenrisiko und Liquiditätsplanung"
+      ],
+      "en": [
+        "Trade credit insurance and receivables protection",
+        "Surety bonds and guarantees",
+        "Debt collection and receivables management",
+        "Fidelity insurance",
+        "Sector, country and insolvency research",
+        "Customer risk and liquidity planning"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CFO und kaufmännische Leitung",
+        "Treasury und Liquiditätsmanagement",
+        "Credit Management und Debitorenbuchhaltung",
+        "Risikomanagement",
+        "Vertrieb und Exportleitung",
+        "Projektfinanzierung und Einkauf"
+      ],
+      "en": [
+        "CFO and finance leadership",
+        "Treasury and liquidity management",
+        "Credit management and accounts receivable",
+        "Risk management",
+        "Sales and export leadership",
+        "Project finance and procurement"
+      ]
+    },
+    "aliases": [
+      "Euler Hermes"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.allianz-trade.de/",
+        "label": {
+          "de": "Allianz Trade: Leistungsübersicht",
+          "en": "Allianz Trade service overview"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/ueber-uns/allianz-trade-in-deutschland/euler-hermes-allianz-trade.html",
+        "label": {
+          "de": "Euler Hermes und Allianz Trade: Markenidentität",
+          "en": "Euler Hermes and Allianz Trade: brand identity"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/kreditversicherung.html",
+        "label": {
+          "de": "Warenkreditversicherung",
+          "en": "Trade credit insurance"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/buergschaften-und-garantien.html",
+        "label": {
+          "de": "Bürgschaften und Garantien",
+          "en": "Surety bonds and guarantees"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/service/weitere-loesungen/inkasso.html",
+        "label": {
+          "de": "Inkassoleistungen",
+          "en": "Debt collection"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/vertrauensschadenversicherung.html",
+        "label": {
+          "de": "Vertrauensschadenversicherung",
+          "en": "Fidelity insurance"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/wissen/wirtschafts-news/branchenatlas-2026.html",
+        "label": {
+          "de": "Branchenatlas 2026: geprüfte öffentliche Zusammenfassung",
+          "en": "Sector atlas 2026: reviewed public summary"
+        }
+      },
+      {
+        "url": "https://www.allianz-trade.de/content/dam/onemarketing/aztrade/allianz-trade_de/dokumente/2026-09-branchen-risiko-atlas-allianz-trade.pdf",
+        "label": {
+          "de": "Sector Atlas 2026: Original-PDF, 7. September 2026",
+          "en": "Sector Atlas 2026: original PDF, 7 September 2026"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Original-PDF vom 07.09.2026 anhand der bereitgestellten Datei geprüft: 52 Seiten, englischsprachig. Fachlich ausgewertet wurden Executive Summary, Elektronik, IT-Dienstleistungen, Maschinenbau, Telekommunikation und Methodik. Die öffentliche deutsche Zusammenfassung erschien am 11.09.2026. Der externe PDF-Abruf lieferte HTTP 403; der Dateiinhalt konnte dennoch über die Nutzerdatei geprüft werden.",
+      "en": "Original PDF dated 7 September 2026 reviewed using the supplied file: 52 pages, English-language. Analysis covered the executive summary, electronics, IT services, machinery, telecom and methodology. The public German summary appeared on 11 September 2026. The external PDF request returned HTTP 403; the supplied file allowed content review."
+    }
+  }
+}

@@ -1,0 +1,168 @@
+[
+  {
+    "id": 810000,
+    "title": "Skydance: Konzernportfolio nach dem WBD-Zusammenschluss",
+    "provider": "Skydance",
+    "space": "Medien und Öffentlichkeit",
+    "mediaPrimary": true,
+    "mediaArea": "Publishing und Distribution",
+    "relatedMediaAreas": [],
+    "channels": [
+      "Video und Streaming",
+      "Rundfunk"
+    ],
+    "topics": [],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Inhalte, Rechte und plattformübergreifende Distribution",
+    "delivery": "Dokumentiertes Medienangebot und Originalquelle",
+    "lifecycle": "Auswahl, Zusammenarbeit und laufender Medienbetrieb",
+    "origin": "Kuratiert",
+    "format": "Unternehmensmitteilung",
+    "url": "https://www.skydance.com/news/press/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance",
+    "note": "Die Konzernmitteilung bestätigt den Abschluss am 6. Oktober 2026 und den Namen Skydance Corporation. Inhalte werden auch an Dritte lizenziert. Die Zusammenführung der Streamingdienste ist als künftiges Vorhaben beschrieben. Originalquelle am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige technische Prüfung. Bei undatierten Seiten ist das Erfassungsdatum kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.skydance.com/",
+    "addedAt": "2026-10-08",
+    "datePublished": "2026-10-06"
+  },
+  {
+    "id": 810001,
+    "title": "Skydance Advertising: Medienmarken und Werbezugänge",
+    "provider": "Skydance",
+    "space": "Medien und Öffentlichkeit",
+    "mediaPrimary": true,
+    "mediaArea": "Werbung und Monetarisierung",
+    "relatedMediaAreas": [
+      "Reichweite und Zielgruppen"
+    ],
+    "channels": [
+      "Video und Streaming",
+      "Rundfunk"
+    ],
+    "topics": [],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Werbeinventar und Markenpartnerschaften",
+    "delivery": "Dokumentiertes Medienangebot und Originalquelle",
+    "lifecycle": "Auswahl, Zusammenarbeit und laufender Medienbetrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://www.skydance.com/about/advertising",
+    "note": "Die Übersicht führt zu Paramount- und WBD-Werbeangeboten für Unterhaltung, Nachrichten und Sport. Sie dient der Partnerauswahl; konkrete Marktverfügbarkeit, Inventare und Konditionen sind je Vermarkter zu klären. Originalquelle am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige technische Prüfung. Bei undatierten Seiten ist das Erfassungsdatum kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.skydance.com/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 810002,
+    "title": "Paramount Ads Manager: CTV-Kampagnen selbst planen",
+    "provider": "Skydance",
+    "space": "Medien und Öffentlichkeit",
+    "mediaPrimary": true,
+    "mediaArea": "Werbung und Monetarisierung",
+    "relatedMediaAreas": [
+      "Reichweite und Zielgruppen"
+    ],
+    "channels": [
+      "Video und Streaming",
+      "Rundfunk"
+    ],
+    "topics": [],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Self-Service-CTV-Werbung mit Targeting und Reporting",
+    "delivery": "Dokumentiertes Medienangebot und Originalquelle",
+    "lifecycle": "Auswahl, Zusammenarbeit und laufender Medienbetrieb",
+    "origin": "Kuratiert",
+    "format": "Produkt- und Lösungsübersicht",
+    "url": "https://adsmanager.paramount.com/",
+    "note": "Die Produktseite beschreibt Kampagnenziele, Budget, Zielgruppenauswahl und Video-Upload. US-Bezüge wie DMA- und ZIP-Code-Targeting sind ausdrücklich sichtbar. Eine DACH-Verfügbarkeit ist hier nicht bestätigt; Messmethodik und Datenschutz sind im Beschaffungsprozess zu prüfen. Originalquelle am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige technische Prüfung. Bei undatierten Seiten ist das Erfassungsdatum kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.skydance.com/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 810003,
+    "title": "Paramount: technische Anforderungen an Video-Master",
+    "provider": "Skydance",
+    "space": "Medien und Öffentlichkeit",
+    "mediaPrimary": true,
+    "mediaArea": "Audio, Video und Broadcast",
+    "relatedMediaAreas": [
+      "Content und Redaktion"
+    ],
+    "channels": [
+      "Video und Streaming",
+      "Rundfunk"
+    ],
+    "topics": [],
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Video-Master für Lokalisierung und Distribution",
+    "delivery": "Dokumentiertes Medienangebot und Originalquelle",
+    "lifecycle": "Auswahl, Zusammenarbeit und laufender Medienbetrieb",
+    "origin": "Kuratiert",
+    "format": "Technischer Leitfaden",
+    "url": "https://pop.paramount.com/video-requirements/",
+    "note": "Der öffentlich lesbare Leitfaden unterscheidet Texted-, Semi-Textless- und Textless-Master für internationale Medienlieferungen. Für Produktions- und Postproduktionsteams ist er eine konkrete Grundlage zur Abstimmung von Lieferformaten; projektspezifische Vorgaben bleiben zu klären. Originalquelle am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige technische Prüfung. Bei undatierten Seiten ist das Erfassungsdatum kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.skydance.com/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 810004,
+    "title": "Skydance: Zuständigkeiten für digitale Plattformen und KI",
+    "provider": "Skydance",
+    "space": "Medien und Öffentlichkeit",
+    "mediaPrimary": true,
+    "mediaArea": "Publishing und Distribution",
+    "relatedMediaAreas": [],
+    "channels": [
+      "Video und Streaming",
+      "Rundfunk"
+    ],
+    "topics": [
+      "KI"
+    ],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Produkt- und Technologiestrategie für Medienplattformen",
+    "delivery": "Dokumentiertes Medienangebot und Originalquelle",
+    "lifecycle": "Auswahl, Zusammenarbeit und laufender Medienbetrieb",
+    "origin": "Kuratiert",
+    "format": "Unternehmensübersicht",
+    "url": "https://www.skydance.com/about/leadership",
+    "note": "Die Führungsübersicht beschreibt Zuständigkeiten für digitale Plattformen, Werbung und KI sowie globale Distribution und Content Sales. Das belegt den organisatorischen Technologieanspruch, aber keine bereits verfügbare externe KI- oder Cloudlösung. Originalquelle am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige technische Prüfung. Bei undatierten Seiten ist das Erfassungsdatum kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.skydance.com/",
+    "addedAt": "2026-10-08"
+  },
+  {
+    "id": 810005,
+    "title": "Skydance und Oracle: historischer Technologiebezug",
+    "provider": "Skydance",
+    "space": "Medien und Öffentlichkeit",
+    "mediaPrimary": true,
+    "mediaArea": "Publishing und Distribution",
+    "relatedMediaAreas": [],
+    "channels": [
+      "Video und Streaming",
+      "Rundfunk"
+    ],
+    "topics": [],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Technologieökosystem und Medienintegration",
+    "delivery": "Dokumentiertes Medienangebot und Originalquelle",
+    "lifecycle": "Auswahl, Zusammenarbeit und laufender Medienbetrieb",
+    "origin": "Kuratiert",
+    "format": "Strategiemitteilung",
+    "url": "https://www.skydance.com/news/press/paramount-launches-all-cash-tender-offer-to-acquire-warner-bros-discovery-for-30-per-share",
+    "note": "Die Mitteilung vom 8. Dezember 2025 nennt eine enge Technologiebeziehung zu Oracle und dessen Ökosystem als Innovationschance. Sie ist historischer Strategiekontext; damalige Übernahmebedingungen sind keine aktuellen Konditionen. Ein lieferbares gemeinsames Plattformprodukt wird damit nicht nachgewiesen. Originalquelle am 08.10.2026 gelesen; Anbieterangaben sind keine unabhängige technische Prüfung. Bei undatierten Seiten ist das Erfassungsdatum kein Veröffentlichungsdatum.",
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.skydance.com/",
+    "addedAt": "2026-10-08",
+    "datePublished": "2025-12-08"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 730000,
+    "title": "European Cyber Report 2026",
+    "provider": "Link11",
+    "space": "Digitale Infrastruktur",
+    "related": [],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "DDoS-Abwehr und Schutz von Webanwendungen und APIs",
+    "delivery": "Ressource mit Formularzugang",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Studie",
+    "url": "https://www.security-insider.de/european-cyber-report-d-6a830d1dd0dd3/",
+    "note": "Der Jahresreport 2026 behandelt laut Landingpage DDoS, Web- und API-Schutz. Link11 ist als Anbieter ausgewiesen. Dies ist eine neue Katalogaufnahme, keine Behauptung einer Veröffentlichung am heutigen Tag. Erfasst am 30.09.2026; genauer Veröffentlichungstag nicht belegt, Volltext hinter Formular oder Registrierung nicht eingesehen.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.link11.com/de/download/european-cyber-report-2026/",
+    "addedAt": "2026-09-30"
+  },
+  {
+    "id": 730001,
+    "title": "Wenn der Bildschirm schwarz bleibt: Cyber-Resilienz für den Mittelstand",
+    "provider": "Dell Technologies",
+    "space": "Digitale Infrastruktur",
+    "related": [],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Prävention, Erkennung und Wiederherstellung bei Cybervorfällen",
+    "delivery": "Ressource mit Formularzugang",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://www.security-insider.de/wenn-der-bildschirm-schwarz-bleibt-cyber-resilienz-fuer-den-mittelstand-d-6aa94e066d201/",
+    "note": "Die Landingpage nennt Dell GmbH und Microsoft GmbH gemeinsam als Anbieter. Der Leitfaden behandelt Prävention, Erkennung, Wiederherstellung und Verantwortlichkeiten im Mittelstand. Die Unternehmenszuordnung erfolgt zu Dell Technologies; Microsoft ist Kooperationspartner dieses Dokuments. Erfasst am 30.09.2026; genauer Veröffentlichungstag nicht belegt, Volltext hinter Formular oder Registrierung nicht eingesehen.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.dell.com/de-de",
+    "addedAt": "2026-09-30"
+  },
+  {
+    "id": 730002,
+    "title": "So finden Sie die richtige Firewall für Ihr Unternehmen",
+    "provider": "Sophos",
+    "space": "Digitale Infrastruktur",
+    "related": [],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Auswahl und Bewertung von Next-Generation-Firewalls",
+    "delivery": "Ressource mit Formularzugang",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://www.security-insider.de/so-finden-sie-die-richtige-firewall-fuer-ihr-unternehmen-d-69ce694dd081b/",
+    "note": "Security-Insider nennt Sophos Technology GmbH. Der Next-Gen Firewall Buyer’s Guide 2026 beschreibt Auswahlkriterien, notwendige und optionale Funktionen sowie Fragen für die Shortlist. Erfasst am 30.09.2026; genauer Veröffentlichungstag nicht belegt, Volltext hinter Formular oder Registrierung nicht eingesehen.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.sophos.com/de-de",
+    "addedAt": "2026-09-30"
+  },
+  {
+    "id": 730005,
+    "title": "Integration von Identity Management mit Cybersicherheit",
+    "provider": "Okta",
+    "space": "Digitale Infrastruktur",
+    "related": [],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Identitätsmanagement als Bestandteil einer Zero-Trust-Architektur",
+    "delivery": "Ressource mit Formularzugang",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "E-Book",
+    "url": "https://www.security-insider.de/integration-von-identity-management-mit-cybersicherheit-d-69cbae7cb2925/",
+    "note": "Die Portal-Landingpage ordnet das E-Book Okta zu und behandelt die Verbindung von Identitätsmanagement, Zugriffssteuerung und Cybersicherheit. Security-Insider ist Publikationsplattform und wird nicht als zusätzlicher Technologieanbieter angelegt. Erfasst am 30.09.2026; genauer Veröffentlichungstag nicht belegt, Volltext hinter Formular oder Registrierung nicht eingesehen.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.okta.com/de/",
+    "addedAt": "2026-09-30"
+  },
+  {
+    "id": 730006,
+    "title": "Bericht 2026 über offengelegte Passwörter",
+    "provider": "Specops Software",
+    "space": "Digitale Infrastruktur",
+    "related": [],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Bewertung kompromittierter Zugangsdaten und Passwortschutz",
+    "delivery": "Ressource mit Formularzugang",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Studie",
+    "url": "https://www.security-insider.de/bericht-2026-ueber-offengelegte-passwoerter-d-6a0b0f3d3ca66/",
+    "note": "Die Landingpage nennt Specops Software GmbH. Der Report behandelt offengelegte Zugangsdaten, Infostealer und Passwortmuster. Mengenangaben des Teasers werden hier nicht als unabhängig validierte Statistik übernommen. Erfasst am 30.09.2026; genauer Veröffentlichungstag nicht belegt, Volltext hinter Formular oder Registrierung nicht eingesehen.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://specopssoft.com/de/",
+    "addedAt": "2026-09-30"
+  }
+]

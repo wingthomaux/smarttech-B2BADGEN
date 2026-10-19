@@ -1,0 +1,1117 @@
+{
+  "Tenable": {
+    "officialUrl": "https://www.tenable.com/products",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Tenable",
+      "en": "Official provider source: Tenable"
+    },
+    "metaDescription": {
+      "de": "Tenable bietet Plattformen zur Bewertung von Cyberrisiken in IT, Cloud und operativer Technologie.",
+      "en": "Tenable offers platforms to assess cyber risk across IT, cloud and operational technology."
+    },
+    "summary": {
+      "de": "Tenable bietet Plattformen zur Bewertung von Cyberrisiken in IT, Cloud und operativer Technologie. Erfasste Schwachstellen und Exponierungen müssen auf geschäftskritische Assets, Eigentümer und realistische Abhilfemaßnahmen bezogen werden. Käufer sollten Sensorabdeckung, Authentifizierung, Priorisierung, Ticketintegration und Reporting prüfen. Ein Risikoscore allein beseitigt keine Schwachstelle; Betriebsteams brauchen abgestimmte Wartungsfenster und überprüfbare Ausnahmen. Bei KI-Agenten ergänzt Exchange Inspector die Expositionsbewertung um die Prüfung ausgewählter Open-Source-Agenten. Der beschriebene Ablauf verbindet automatisierte Analyse, eine KI-gestützte Prüfung und menschliche Laufzeitverifikation. Das ist eine Prüfung ausgewählter Einträge, keine pauschale Freigabe des gesamten Agentenverzeichnisses. Käufer sollten Prüfumfang, Versionsbezug, Berechtigungen und die Absicherung im eigenen Laufzeitbetrieb klären.",
+      "en": "Tenable offers platforms to assess cyber risk across IT, cloud and operational technology. Vulnerabilities and exposures need mapping to critical assets, owners and feasible remediation. Buyers should examine sensor coverage, authentication, prioritisation, ticket integration and reporting. A risk score does not remove a vulnerability; operations teams need agreed maintenance windows and auditable exceptions. For AI agents, Exchange Inspector extends exposure assessment to selected open-source agents. The documented process combines automated analysis, AI-assisted assessment and human runtime verification. This assesses selected listings rather than approving the entire agent directory. Buyers should clarify assessment scope, version coverage, permissions and safeguards in their own runtime environment."
+    },
+    "focus": {
+      "de": [
+        "Vulnerability Management",
+        "Exposure Management",
+        "Cloud Security",
+        "OT-Sicherheit",
+        "Asset Discovery",
+        "Priorisierung",
+        "Reporting",
+        "Sicherheitsprüfung ausgewählter KI-Agenten"
+      ],
+      "en": [
+        "Vulnerability management",
+        "Exposure management",
+        "Cloud security",
+        "OT security",
+        "Asset discovery",
+        "Prioritisation",
+        "Reporting",
+        "Security assessment of selected AI agents"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CISO",
+        "SOC",
+        "IT-Betrieb",
+        "OT-Betrieb",
+        "Cloud Security",
+        "Risikomanagement",
+        "Einkauf",
+        "KI-Plattformverantwortliche"
+      ],
+      "en": [
+        "CISO",
+        "SOC",
+        "IT operations",
+        "OT operations",
+        "Cloud security",
+        "Risk management",
+        "Procurement",
+        "AI platform owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://de.tenable.com/blog/tenable-openai-security-vetting-open-source-ai-agents-exchange-inspector",
+        "label": {
+          "de": "Exchange Inspector: Sicherheitsprüfung für KI-Agenten",
+          "en": "Exchange Inspector: security assessment of AI agents"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Pendo": {
+    "officialUrl": "https://www.pendo.io/",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Pendo",
+      "en": "Official provider source: Pendo"
+    },
+    "metaDescription": {
+      "de": "Pendo bietet Produktanalytik, In-App-Anleitungen und Feedbackfunktionen für digitale Produkte.",
+      "en": "Pendo offers product analytics, in-app guidance and feedback for digital products."
+    },
+    "summary": {
+      "de": "Pendo bietet Produktanalytik, In-App-Anleitungen und Feedbackfunktionen für digitale Produkte. Produktteams können Nutzungsmuster und Onboarding untersuchen, sofern Ereignisse und Zielgruppen sauber definiert sind. Käufer sollten Instrumentierung, Einwilligungen, Datenumfang, Segmentierung und Wirksamkeitsmessung prüfen. Nutzungsdaten zeigen Verhalten, aber erklären allein nicht die Gründe für eine Entscheidung. Pendo for Agents erweitert den Blick auf die Nutzung von KI-Agenten. Agent Analytics ist laut Dokumentation allgemein verfügbar; Agent Toolkit befindet sich in offener Beta. Das Toolkit stellt Produkt- und Sitzungskontext für Agenten bereit, während Analytics Nutzung und Ergebnisse messbar machen soll. Voraussetzung sind geeignete Instrumentierung und Zugriffsrechte. Bei der Auswahl sind Beta-Bedingungen, Datenweitergabe und die Definition erfolgreicher Agentenaktionen getrennt zu prüfen.",
+      "en": "Pendo offers product analytics, in-app guidance and feedback for digital products. Product teams can examine usage and onboarding if events and audiences are defined carefully. Buyers should assess instrumentation, consent, data scope, segmentation and outcome measurement. Usage data show behaviour but alone cannot explain why people make a decision. Pendo for Agents extends measurement to AI-agent usage. Documentation lists Agent Analytics as generally available and Agent Toolkit as an open beta. The toolkit supplies product and session context to agents, while analytics supports measurement of usage and outcomes. Appropriate instrumentation and access rights are prerequisites. Selection should assess beta terms, data sharing and the definition of successful agent actions separately."
+    },
+    "focus": {
+      "de": [
+        "Produktanalytik",
+        "In-App-Guides",
+        "Onboarding",
+        "Feedback",
+        "Segmentierung",
+        "Daten",
+        "Integration",
+        "Agent Analytics und Agent Toolkit (offene Beta)"
+      ],
+      "en": [
+        "Product analytics",
+        "In-app guides",
+        "Onboarding",
+        "Feedback",
+        "Segmentation",
+        "Data",
+        "Integration",
+        "Agent Analytics and Agent Toolkit (open beta)"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Produktmanagement",
+        "UX",
+        "Customer Success",
+        "Entwicklung",
+        "Datenschutz",
+        "Analytics",
+        "Einkauf",
+        "Verantwortliche für KI-Produkte"
+      ],
+      "en": [
+        "Product management",
+        "UX",
+        "Customer success",
+        "Development",
+        "Privacy",
+        "Analytics",
+        "Procurement",
+        "AI product owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://support.pendo.io/hc/en-us/articles/56114732122523-Overview-of-Pendo-for-Agents",
+        "label": {
+          "de": "Pendo for Agents: Analytics und Toolkit",
+          "en": "Pendo for Agents: analytics and toolkit"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Quadient": {
+    "officialUrl": "https://www.quadient.com/",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Quadient",
+      "en": "Official provider source: Quadient"
+    },
+    "metaDescription": {
+      "de": "Quadient bietet Lösungen für Kundenkommunikation, Dokumentenprozesse und angrenzende Geschäftsabläufe.",
+      "en": "Quadient offers solutions for customer communication, document processes and related business operations."
+    },
+    "summary": {
+      "de": "Quadient bietet Lösungen für Kundenkommunikation, Dokumentenprozesse und angrenzende Geschäftsabläufe. Digitale und physische Zustellung sowie Automatisierung brauchen konsistente Kundendaten und abgestimmte Freigaben. Käufer sollten Kanäle, Vorlagen, Archivierung, Barrierefreiheit, Integration und Nachweisbarkeit prüfen. Eine beschleunigte Dokumentenerstellung ist kein Beleg für korrekte Inhalte; regulatorisch relevante Kommunikation erfordert fachliche Verantwortung. Im Forderungsmanagement ergänzt Quadient die Verarbeitung eingehender Kunden-E-Mails um einen KI-Agenten. Dieser soll unter anderem Zahlungszusagen, Reklamationen und Rechnungsfragen erkennen und in Arbeitsabläufe überführen. Finance-Teams behalten die Kontrolle über Entscheidungen und Freigaben. Bei der Einführung zählen die Anbindung an Debitorendaten, Berechtigungen, nachvollziehbare Zuordnungen und der Umgang mit Ausnahmen; eine Anbieterankündigung belegt keine fehlerfreie autonome Finanzbearbeitung.",
+      "en": "Quadient offers solutions for customer communication, document processes and related business operations. Digital and physical delivery and automation require consistent customer data and coordinated approval. Buyers should review channels, templates, retention, accessibility, integration and evidence of delivery. Faster document creation cannot prove content accuracy; regulated communications require accountable business review. In accounts receivable, Quadient adds an AI agent for incoming customer emails. It is intended to identify payment promises, disputes and invoice questions and turn them into workflow actions. Finance teams retain control over decisions and approvals. Implementation requires access to receivables data, permissions, traceable matching and exception handling; a vendor announcement does not establish error-free autonomous financial processing."
+    },
+    "focus": {
+      "de": [
+        "Customer Communications",
+        "Dokumente",
+        "Omnichannel",
+        "Automatisierung",
+        "Versand",
+        "Vorlagen",
+        "Integration",
+        "KI-gestützte E-Mail-Verarbeitung im Forderungsmanagement"
+      ],
+      "en": [
+        "Customer communications",
+        "Documents",
+        "Omnichannel",
+        "Automation",
+        "Delivery",
+        "Templates",
+        "Integration",
+        "AI-assisted email processing in accounts receivable"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Kundenservice",
+        "Marketing",
+        "Operations",
+        "Compliance",
+        "IT",
+        "Datenschutz",
+        "Einkauf",
+        "Debitorenmanagement"
+      ],
+      "en": [
+        "Customer service",
+        "Marketing",
+        "Operations",
+        "Compliance",
+        "IT",
+        "Privacy",
+        "Procurement",
+        "Accounts receivable teams"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.quadient.com/de-de/news/quadient-expands-agentic-ai-to-accounts-receivable-turning-customer-emails-into-action",
+        "label": {
+          "de": "KI-Agent für Forderungsmanagement",
+          "en": "AI agent for accounts receivable"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Reply": {
+    "officialUrl": "https://www.reply.com/en",
+    "officialLabel": {
+      "de": "Reply: Unternehmens- und Produktquellen",
+      "en": "Reply: company and product sources"
+    },
+    "metaDescription": {
+      "de": "Reply verbindet Beratung, Systemintegration und digitale Services in einem Netzwerk spezialisierter Unternehmen.",
+      "en": "Reply combines consulting, systems integration and digital services through a network of specialized companies."
+    },
+    "summary": {
+      "de": "Reply verbindet Beratung, Systemintegration und digitale Services in einem Netzwerk spezialisierter Unternehmen. Schwerpunkte sind Cloud, Daten, KI, Automatisierung, Customer Experience und industrielle Anwendungen. Die Beiträge im Bestand belegen unterschiedliche Beziehungen zu Microsoft, NVIDIA, Google Cloud, AWS, SAP und Adobe. Reply übernimmt dabei je nach Projekt Beratung, Entwicklung oder Integration; die Plattformprodukte bleiben ihren Herstellern zugeordnet. Auszeichnungen und Partnerprogramme gelten für die benannte Spezialisierung und den jeweiligen Zeitpunkt. Die bestehenden Profile Reply Deutschland SE und Logistics Reply bleiben eigenständig. Käufer sollten das zuständige Unternehmen, Projektumfang, Betriebsverantwortung und Support vertraglich klären. Mit Symbiosis beschreibt Reply ein Betriebsmodell für die Zusammenarbeit von Menschen und KI-Agenten. Intents strukturieren Ziele und Verantwortung, Cells verbinden menschliche und agentische Arbeit, ein Learning Mesh soll Erkenntnisse über Arbeitsabläufe hinweg nutzbar machen. Für Unternehmen stehen damit Organisationsgestaltung und kontrollierte Umsetzung neben der technischen Integration. Zu klären sind Entscheidungsrechte, Prozessgrenzen, Erfolgsmessung und die Zuständigkeit für Fehler; das Modell allein garantiert keine Produktivitätssteigerung.",
+      "en": "Reply combines consulting, systems integration and digital services through a network of specialized companies. Its focus includes cloud, data, AI, automation, customer experience and industrial applications. Existing articles document distinct relationships with Microsoft, NVIDIA, Google Cloud, AWS, SAP and Adobe. Reply provides consulting, engineering or integration depending on the project; platform products remain attributed to their manufacturers. Awards and partner programs apply to the named specialization and date. Existing Reply Deutschland SE and Logistics Reply profiles remain separate. Buyers should establish the contracting company, project scope, operational responsibilities and support. With Symbiosis, Reply describes an operating model for collaboration between people and AI agents. Intents structure objectives and accountability, Cells combine human and agent work, and a Learning Mesh is intended to share insights across workflows. Organisational design and controlled implementation sit alongside technical integration. Buyers should clarify decision rights, process boundaries, outcome measurement and responsibility for errors; the model alone does not guarantee productivity gains."
+    },
+    "focus": {
+      "de": [
+        "Cloud- und Datenintegration",
+        "KI-Agenten und Governance",
+        "Industrie, Simulation und Edge",
+        "SAP- und Microsoft-Umsetzung",
+        "Customer Experience und Adobe",
+        "Symbiosis: Betriebsmodelle für Menschen und KI-Agenten"
+      ],
+      "en": [
+        "Cloud and data integration",
+        "AI agents and governance",
+        "Industry, simulation and edge",
+        "SAP and Microsoft implementation",
+        "Customer experience and Adobe",
+        "Symbiosis: operating models for people and AI agents"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO, CTO und Digitalleitung",
+        "Cloud- und Datenarchitektur",
+        "ERP- und CRM-Verantwortliche",
+        "Industrie und Customer Experience",
+        "Verantwortliche für Prozessorganisation"
+      ],
+      "en": [
+        "CIO, CTO and digital leadership",
+        "Cloud and data architecture",
+        "ERP and CRM owners",
+        "Industry and customer experience",
+        "Process organisation leaders"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.reply.com/en/reply-and-microsoft",
+        "label": {
+          "de": "Reply und Microsoft",
+          "en": "Reply and Microsoft"
+        }
+      },
+      {
+        "url": "https://www.reply.com/en/newsroom/news/reply-highlights-sap-cloud-erp-and-ai-driven-innovation-at-sap-sapphire-orlando-2026",
+        "label": {
+          "de": "Reply: SAP-Umsetzung und Partnernetzwerk",
+          "en": "Reply: SAP implementation and partner network"
+        }
+      },
+      {
+        "url": "https://www.reply.com/symbiosis-reply/en",
+        "label": {
+          "de": "Symbiosis Reply: Zusammenarbeit von Menschen und Agenten",
+          "en": "Symbiosis Reply: collaboration between people and agents"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    },
+    "relatedProviders": [
+      {
+        "name": "Microsoft",
+        "context": {
+          "de": "Reply meldet seine Rolle als Agent-365-Launch-Partner für Governance und Skalierung von KI-Agenten. Die Rolle gilt für das genannte Programm.",
+          "en": "Reply reports its Agent 365 launch partner role for AI agent governance and scaling. The role applies to the named program."
+        },
+        "sourceUrl": "https://www.it-management.today/reply-von-microsoft-als-launch-partner-fuer-agent-365-ausgewaehlt-unterstuetzung-fuer-governance-und-skalierung-von-ki-agenten/"
+      },
+      {
+        "name": "NVIDIA",
+        "context": {
+          "de": "Reply beschreibt NVIDIA Omniverse und Isaac Sim für industrielle KI und digitale Zwillinge. Eine Konferenzteilnahme allein ist nicht die Begründung der Verknüpfung.",
+          "en": "Reply describes NVIDIA Omniverse and Isaac Sim for industrial AI and digital twins. Conference participation alone is not the basis for association."
+        },
+        "sourceUrl": "https://www.it-management.today/reply-auf-der-nvidia-gtc-digital-twins-und-physical-ai-fuer-die-naechste-stufe-industrieller-wertschoepfung/"
+      },
+      {
+        "name": "Google Cloud",
+        "context": {
+          "de": "Go Reply erhält laut Meldung den Partner of the Year Award 2026 für Talent Development: EMEA. Die Auszeichnung gilt für diese Kategorie.",
+          "en": "The announcement reports Go Reply winning the 2026 Partner of the Year Award for Talent Development: EMEA. The award applies to that category."
+        },
+        "sourceUrl": "https://www.it-management.today/go-reply-erhaelt-google-cloud-partner-of-the-year-award-2026-in-der-kategorie-talent-development-emea/"
+      },
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "context": {
+          "de": "Reply meldet eine Kooperationsvereinbarung mit AWS für Cloud- und KI-Transformation; Reply übernimmt Umsetzung und Beratung.",
+          "en": "Reply announces an AWS collaboration agreement for cloud and AI transformation; Reply provides implementation and consulting."
+        },
+        "sourceUrl": "https://www.it-management.today/reply-und-aws-strategische-kooperation-fuer-das-naechste-level-der-ki-gestuetzten-cloud-transformation/"
+      },
+      {
+        "name": "SAP",
+        "context": {
+          "de": "Syskoplan Reply beschreibt Vorwerks Einsatz der SAP Business Technology Platform. Reply liefert Umsetzung; SAP liefert die Plattform.",
+          "en": "Syskoplan Reply describes Vorwerk’s use of SAP Business Technology Platform. Reply supplies implementation; SAP supplies the platform."
+        },
+        "sourceUrl": "https://www.it-management.today/syskoplan-reply-und-vorwerk-optimieren-den-direktvertrieb-mit-digitalen-assistenten/"
+      },
+      {
+        "name": "Adobe",
+        "context": {
+          "de": "Comwrap Reply meldet eine Adobe-Auszeichnung für Experience-Cloud-Projekte. Der Bezug gilt für die benannte Einheit und Auszeichnung.",
+          "en": "Comwrap Reply reports an Adobe award for Experience Cloud projects. The relationship applies to the named business and award."
+        },
+        "sourceUrl": "https://www.it-management.today/comwrap-reply-erhaelt-adobe-cxo-emerging-partner-award-fuer-westeuropa/"
+      }
+    ]
+  },
+  "Paessler": {
+    "officialUrl": "https://www.paessler.com/prtg",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Paessler",
+      "en": "Official provider source: Paessler"
+    },
+    "metaDescription": {
+      "de": "Paessler entwickelt PRTG für die Überwachung von Netzwerken, Servern und IT-Diensten.",
+      "en": "Paessler develops PRTG to monitor networks, servers and IT services."
+    },
+    "summary": {
+      "de": "Paessler entwickelt PRTG für die Überwachung von Netzwerken, Servern und IT-Diensten. Sensoren liefern Messwerte und Alarme, deren Nutzen von richtiger Schwelle, Geräteabdeckung und Eskalation abhängt. Käufer sollten Sensorbedarf, Rechte, verteilte Standorte, Schnittstellen und den Betrieb der Monitoring-Plattform testen. Ein grünes Dashboard ersetzt keine End-to-End-Prüfung geschäftskritischer Anwendungen und keine dokumentierte Störungsreaktion. Für industrielle Umgebungen ist die PRTG Multi-Platform Probe als Container im Siemens-Industrial-Edge-Ökosystem verfügbar. Sie verbindet das Monitoring von IT und OT und unterstützt je nach Sensor unter anderem MQTT, OPC UA, Modbus und SNMP. Die Probe ersetzt keine eigenständige PRTG-Lizenz; ein passendes Abonnement ist erforderlich. Auswahlfragen betreffen Sensorkonfiguration, Netzsegmentierung, Edge-Betrieb und die Verantwortung für Reaktionen auf Alarme.",
+      "en": "Paessler develops PRTG to monitor networks, servers and IT services. Sensors produce measurements and alerts whose value depends on thresholds, device coverage and escalation. Buyers should test sensor needs, permissions, distributed sites, interfaces and operation of the monitoring platform. A green dashboard cannot replace end-to-end checks of critical business applications or a documented incident response. For industrial environments, the PRTG Multi-Platform Probe is available as a container in the Siemens Industrial Edge ecosystem. It connects IT and OT monitoring and supports protocols such as MQTT, OPC UA, Modbus and SNMP through appropriate sensors. The probe does not replace a PRTG licence; a suitable subscription is required. Selection should address sensor configuration, network segmentation, edge operations and responsibility for responding to alerts."
+    },
+    "focus": {
+      "de": [
+        "PRTG",
+        "Netzwerkmonitoring",
+        "Sensoren",
+        "Serverüberwachung",
+        "Alarme",
+        "Dashboards",
+        "IT-Betrieb",
+        "PRTG-Probe für Siemens Industrial Edge"
+      ],
+      "en": [
+        "PRTG",
+        "Network monitoring",
+        "Sensors",
+        "Server monitoring",
+        "Alerts",
+        "Dashboards",
+        "IT operations",
+        "PRTG probe for Siemens Industrial Edge"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Netzwerkbetrieb",
+        "IT-Leitung",
+        "Service Desk",
+        "Rechenzentrum",
+        "SRE",
+        "Sicherheit",
+        "Einkauf",
+        "OT-Monitoring-Verantwortliche"
+      ],
+      "en": [
+        "Network operations",
+        "IT leadership",
+        "Service desk",
+        "Data centres",
+        "SRE",
+        "Security",
+        "Procurement",
+        "OT monitoring owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://blog.paessler.com/prtg-multi-platform-probe-joining-the-siemens-industrial-edge-ecosystem",
+        "label": {
+          "de": "PRTG Multi-Platform Probe für Siemens Industrial Edge",
+          "en": "PRTG Multi-Platform Probe for Siemens Industrial Edge"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Septeo CNEE": {
+    "officialUrl": "https://www.septeo.com/en",
+    "officialLabel": {
+      "de": "Offizielle Unternehmensquelle",
+      "en": "Official organization source"
+    },
+    "metaDescription": {
+      "de": "Septeo CNEE gehört zum Septeo-Umfeld für branchenspezifische Software. Konzernportfolio und Produkte einer lokalen Einheit dürfen nicht gleichgesetzt werde",
+      "en": "Septeo CNEE is part of Septeo's sector-specific software group. The group's portfolio should not be automatically attributed to a particular local entity. "
+    },
+    "summary": {
+      "de": "Septeo CNEE gehört zum Septeo-Umfeld für branchenspezifische Software. Konzernportfolio und Produkte einer lokalen Einheit dürfen nicht gleichgesetzt werden. Interessenten sollten die konkrete Anwendung, Marktverfügbarkeit, Datenmigration, Schnittstellen, Support, Lizenzbedingungen und den vertraglichen Anbieter anhand des Angebots prüfen. Produktnamen und Rechtseinheiten können sich je Land unterscheiden. Amberlo ergänzt das Angebot für Kanzleien um eine cloudbasierte Arbeitsumgebung mit Akten, Fristen, RVG-Abrechnung und beA-Funktionen. Office-365- und IMAP-Anbindungen unterstützen den Arbeitsalltag. KI-Funktionen über LegalTwin sind als gesondertes Zusatzangebot zu betrachten und arbeiten im Rahmen der jeweiligen Aktenberechtigungen. Kanzleien sollten Datenmigration, beA-Prozesse, Leistungsumfang der Zusatzmodule und vertragliche Datenverarbeitung prüfen. Amberlo wird hier als Produkt eingeordnet und nicht als zusätzliche Anbieterentität angelegt.",
+      "en": "Septeo CNEE is part of Septeo's sector-specific software group. The group's portfolio should not be automatically attributed to a particular local entity. Prospects should confirm the exact application, market availability, migration, integrations, support, licensing and contracting supplier for the offer. Product names and legal entities may differ by country. Amberlo extends the legal practice offering with a cloud workspace for matters, deadlines, RVG billing and beA functions. Office 365 and IMAP connections support daily work. LegalTwin AI functions should be assessed as a separate add-on operating within matter permissions. Law firms should examine migration, beA processes, add-on scope and contractual data processing. Amberlo is treated here as a product rather than a separate provider entity."
+    },
+    "focus": {
+      "de": [
+        "Branchensoftware",
+        "Digitale Prozesse",
+        "Softwareintegration",
+        "Kundenservice",
+        "Datenmigration",
+        "Lizenzierung",
+        "Amberlo-Kanzleisoftware und optionales LegalTwin"
+      ],
+      "en": [
+        "Sector software",
+        "Digital processes",
+        "Software integration",
+        "Customer support",
+        "Data migration",
+        "Licensing",
+        "Amberlo legal practice software and optional LegalTwin"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO",
+        "IT-Architektur",
+        "IT-Betrieb",
+        "CISO",
+        "Fachbereich",
+        "Einkauf",
+        "Kanzleimanagement"
+      ],
+      "en": [
+        "CIO",
+        "IT architecture",
+        "IT operations",
+        "CISO",
+        "Business functions",
+        "Procurement",
+        "Law firm management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.stp.one/kanzleisoftware-der-naechsten-generation-amberlo",
+        "label": {
+          "de": "Amberlo: Kanzleisoftware und LegalTwin",
+          "en": "Amberlo: legal practice software and LegalTwin"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Veeam": {
+    "officialUrl": "https://www.veeam.com/products/veeam-data-platform/backup-recovery.html",
+    "officialLabel": {
+      "de": "Veeam Backup und Recovery",
+      "en": "Veeam backup and recovery"
+    },
+    "metaDescription": {
+      "de": "Veeam: Backup, Wiederherstellung und Datenresilienz für lokale, Cloud- und SaaS-Workloads.",
+      "en": "Veeam: backup, recovery and data resilience for on-premises, cloud and SaaS workloads."
+    },
+    "summary": {
+      "de": "Veeam bietet Produkte für Datensicherung, Wiederherstellung und Resilienz über lokale IT, Cloud und SaaS hinweg. Veeam Data Platform adressiert Backup und Recovery im eigenen Betrieb, während Veeam Data Cloud SaaS-Workloads abdeckt; das Portfolio nennt unter anderem Microsoft 365, Cloud-Plattformen und Kubernetes. Für die Auswahl sind geschützte Workloads, Wiederanlaufziele, Speicherorte, Verantwortlichkeiten und das Vorgehen nach einem Sicherheitsvorfall wichtig. Backup ist dabei nur ein Teil der Resilienz: Wiederherstellung und regelmäßige Prüfung der Prozesse gehören dazu. Die im Katalog beobachteten Beiträge zu Ransomware, Cloud und Datenmanagement behalten ihre eigene Quellen- und Statusprüfung. Intelligent ResOps für Microsoft 365 ergänzt Veeam Data Cloud um die Einordnung von Daten, Berechtigungen und Wiederherstellungszielen. Das Angebot wird als Zusatzmodul geführt und gehört nicht automatisch zu jedem Basispaket. Der Nutzen liegt unter anderem darin, sensible Informationen und Zugriffsrisiken im Wiederherstellungskontext besser zu erkennen. Käufer sollten unterstützte Workloads, Datenhaltung, Lizenzumfang und die Verbindung zu bestehenden Backup- und Governance-Prozessen klären.",
+      "en": "Veeam provides data backup, recovery and resilience products across on-premises IT, cloud and SaaS. Veeam Data Platform addresses backup and recovery in customer-operated environments, while Veeam Data Cloud covers SaaS workloads; the portfolio includes Microsoft 365, cloud platforms and Kubernetes. Selection depends on protected workloads, recovery objectives, storage locations, responsibilities and response after a security incident. Backup is only one part of resilience: recovery and regular process testing also matter. Catalogue items about ransomware, cloud and data management retain their individual source and status review. Intelligent ResOps for Microsoft 365 extends Veeam Data Cloud with context about data, permissions and recovery targets. It is offered as an add-on and is not automatically included in every base package. Intended uses include identifying sensitive information and access risks in a recovery context. Buyers should clarify supported workloads, data residency, licensing and integration with existing backup and governance processes."
+    },
+    "focus": {
+      "de": [
+        "Backup und Recovery",
+        "Veeam Data Platform",
+        "Veeam Data Cloud",
+        "Microsoft 365 und SaaS",
+        "Cloud-Workloads",
+        "Kubernetes",
+        "Ransomware-Recovery",
+        "Hybrid-Cloud-Datenresilienz",
+        "Intelligent ResOps für Microsoft 365 als Zusatzmodul"
+      ],
+      "en": [
+        "Backup and recovery",
+        "Veeam Data Platform",
+        "Veeam Data Cloud",
+        "Microsoft 365 and SaaS",
+        "Cloud workloads",
+        "Kubernetes",
+        "Ransomware recovery",
+        "Hybrid-cloud data resilience",
+        "Intelligent ResOps for Microsoft 365 as an add-on"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und IT-Leitung",
+        "Backup und Storage",
+        "Cloud- und Plattformbetrieb",
+        "Informationssicherheit",
+        "Business Continuity",
+        "Microsoft-365-Verantwortliche",
+        "Kubernetes-Teams",
+        "IT-Einkauf",
+        "Microsoft-365-Governance-Verantwortliche"
+      ],
+      "en": [
+        "CIO and IT leadership",
+        "Backup and storage",
+        "Cloud and platform operations",
+        "Information security",
+        "Business continuity",
+        "Microsoft 365 owners",
+        "Kubernetes teams",
+        "IT procurement",
+        "Microsoft 365 governance owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.veeam.com/products/intelligent-res-ops/microsoft-office-365.html",
+        "label": {
+          "de": "Intelligent ResOps für Microsoft 365",
+          "en": "Intelligent ResOps for Microsoft 365"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Scality": {
+    "officialUrl": "https://www.scality.com/",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Scality",
+      "en": "Official provider source: Scality"
+    },
+    "metaDescription": {
+      "de": "Scality entwickelt Software für Objekt- und Dateispeicherung in Unternehmensumgebungen.",
+      "en": "Scality develops software for object and file storage in enterprise environments."
+    },
+    "summary": {
+      "de": "Scality entwickelt Software für Objekt- und Dateispeicherung in Unternehmensumgebungen. Einsatzfelder reichen von großen Datenbeständen bis zu Backup-Zielen, wobei Datenzugriff und Wiederherstellung unterschiedlich zu planen sind. Käufer sollten S3-Kompatibilität, Skalierung, Replikation, Hardwareanforderungen und Betrieb anhand vorhandener Workloads testen. Objektspeicher ersetzt nicht automatisch Block-Storage oder einen vollständigen Wiederanlaufplan. Mit AI Inference Factory beschreibt Scality einen integrierten, offen einsehbaren Software-Stack für Inferenz auf eigener Infrastruktur. Er verbindet die Bereitstellung unterstützter Open-Weight-Modelle mit getrennter Inferenzverarbeitung und Steuerungsfunktionen wie Authentifizierung, Routing und Abrechnung. Daraus folgt keine pauschale Open-Source-Lizenzierung aller Komponenten oder Modelle. Zu bewerten sind Hardwarebedarf, Modellrechte, Betriebsverantwortung und die Anbindung an die Datenplattform.",
+      "en": "Scality develops software for object and file storage in enterprise environments. Use cases range from large data estates to backup targets, with differing access and recovery needs. Buyers should test S3 compatibility, scaling, replication, hardware requirements and operations against existing workloads. Object storage does not automatically replace block storage or a full business recovery plan. With AI Inference Factory, Scality describes an integrated software stack with accessible code for inference on customer infrastructure. It combines deployment of supported open-weight models with disaggregated serving and control functions such as authentication, routing and billing. This does not imply blanket open-source licensing of all components or models. Evaluation should cover hardware requirements, model rights, operating responsibilities and data-platform integration."
+    },
+    "focus": {
+      "de": [
+        "Objektspeicher",
+        "S3",
+        "Dateispeicher",
+        "Skalierung",
+        "Backup-Ziel",
+        "Replikation",
+        "Datenschutz",
+        "AI Inference Factory auf eigener Infrastruktur"
+      ],
+      "en": [
+        "Object storage",
+        "S3",
+        "File storage",
+        "Scaling",
+        "Backup target",
+        "Replication",
+        "Data protection",
+        "AI Inference Factory on customer infrastructure"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Storage",
+        "Rechenzentrum",
+        "Backup",
+        "Cloud-Architektur",
+        "IT-Betrieb",
+        "Sicherheit",
+        "Einkauf",
+        "KI-Infrastrukturteams"
+      ],
+      "en": [
+        "Storage",
+        "Data centres",
+        "Backup",
+        "Cloud architecture",
+        "IT operations",
+        "Security",
+        "Procurement",
+        "AI infrastructure teams"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.scality.com/ai-inference-factory",
+        "label": {
+          "de": "AI Inference Factory",
+          "en": "AI Inference Factory"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Scrive": {
+    "officialUrl": "https://www.scrive.com/de/produkte",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Scrive",
+      "en": "Official provider source: Scrive"
+    },
+    "metaDescription": {
+      "de": "Scrive bietet elektronische Signaturen und Identitätsprüfungen für digitale Vertragsprozesse.",
+      "en": "Scrive offers electronic signatures and identity verification for digital agreement workflows."
+    },
+    "summary": {
+      "de": "Scrive bietet elektronische Signaturen und Identitätsprüfungen für digitale Vertragsprozesse. Signaturarten, Identifikationsverfahren und Archivierung erfüllen unterschiedliche rechtliche und fachliche Anforderungen. Käufer sollten Identitätsniveau, Länderabdeckung, API, Nachweisdateien, Aufbewahrung und Prozesse bei Abbruch prüfen. Eine elektronische Unterschrift ist nur ein Teil eines rechtlich und organisatorisch belastbaren Vertragsablaufs. Ein quelloffener MCP-Server verbindet KI-Anwendungen mit Scrive-Funktionen für Dokumente, Identität und elektronische Signaturen. Agenten können im freigegebenen Umfang Vorgänge vorbereiten und anstoßen; daraus folgt keine automatische rechtliche Freigabe jeder Signatur oder eine Ersetzung der erforderlichen Identitätsprüfung. Für den Einsatz zählen API-Rechte, Dokumentenzugriff, Protokollierung und die Übergabe an menschliche Unterzeichner innerhalb des bestehenden Vertragsprozesses.",
+      "en": "Scrive offers electronic signatures and identity verification for digital agreement workflows. Signature types, identification methods and archiving meet different legal and operational needs. Buyers should examine assurance level, country coverage, API, evidence files, retention and abandoned journeys. An electronic signature is only one element of a legally and operationally robust contracting process. An open-source MCP server connects AI applications to Scrive functions for documents, identity and electronic signatures. Agents can prepare and initiate processes within authorised scopes; this does not automatically establish legal approval of every signature or replace required identity checks. Implementation should address API permissions, document access, audit trails and handoff to human signers within the existing contract process."
+    },
+    "focus": {
+      "de": [
+        "E-Signatur",
+        "Identitätsprüfung",
+        "Vertragsworkflow",
+        "API",
+        "Nachweisdaten",
+        "Archivierung",
+        "Onboarding",
+        "MCP-Anbindung für agentengestützte Signaturabläufe"
+      ],
+      "en": [
+        "E-signature",
+        "Identity verification",
+        "Contract workflow",
+        "API",
+        "Evidence",
+        "Archiving",
+        "Onboarding",
+        "MCP integration for agent-assisted signing workflows"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Recht",
+        "Vertrieb",
+        "Compliance",
+        "IT",
+        "Datenschutz",
+        "Kundenservice",
+        "Einkauf",
+        "Verantwortliche für Vertragsautomatisierung"
+      ],
+      "en": [
+        "Legal",
+        "Sales",
+        "Compliance",
+        "IT",
+        "Privacy",
+        "Customer service",
+        "Procurement",
+        "Contract automation owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.scrive.com/products/mcp-server",
+        "label": {
+          "de": "MCP-Server für Signaturprozesse",
+          "en": "MCP server for signing workflows"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Hyland": {
+    "officialUrl": "https://www.hyland.com/en/solutions/products",
+    "officialLabel": {
+      "de": "Offizielle Anbieterquelle: Hyland",
+      "en": "Official provider source: Hyland"
+    },
+    "metaDescription": {
+      "de": "Hyland bietet Content- und Prozessplattformen für die Verwaltung geschäftlicher Informationen.",
+      "en": "Hyland provides content and process platforms to manage business information."
+    },
+    "summary": {
+      "de": "Hyland bietet Content- und Prozessplattformen für die Verwaltung geschäftlicher Informationen. Dokumentenmanagement, Erfassung und Workflows können Fachprozesse verbinden, benötigen jedoch passende Metadaten und klare Aufbewahrungsregeln. Käufer sollten Migration, Berechtigungen, Integrationen, Suchqualität und den konkreten Betriebsumfang vergleichen. KI-Funktionen für Dokumente sollten mit repräsentativen Originaldaten getestet werden, insbesondere bei vertraulichen und regulierten Inhalten. IDP AP Invoices ergänzt Hylands Content Innovation Cloud um die Verarbeitung von Eingangsrechnungen. Die Lösung extrahiert Kopf- und Positionsdaten und unterstützt die Identifikation beziehungsweise Zuordnung von Lieferanten. Workday wird als unterstützte Integration genannt; weitere ERP-Anbindungen sind angekündigt und deshalb gesondert auf Verfügbarkeit zu prüfen. Für die Auswahl zählen Ausnahmebehandlung, menschliche Prüfung, Lieferantenstammdaten und die Qualität des Abgleichs mit dem tatsächlichen Rechnungsbestand.",
+      "en": "Hyland provides content and process platforms to manage business information. Document management, capture and workflows can connect specialist processes but need suitable metadata and retention rules. Buyers should compare migration, permissions, integration, search quality and operating scope. AI document features should be tested with representative source material, especially for confidential and regulated content. IDP AP Invoices extends Hyland Content Innovation Cloud with accounts payable invoice processing. It extracts header and line-item data and supports supplier identification and matching. Workday is listed as a supported integration; additional ERP connections are announced and require separate availability checks. Selection should cover exception handling, human review, supplier master data and matching quality against the organisation’s actual invoices."
+    },
+    "focus": {
+      "de": [
+        "Content Management",
+        "Dokumentenerfassung",
+        "Workflows",
+        "Archivierung",
+        "Suche",
+        "Integration",
+        "KI-Dokumente",
+        "IDP AP Invoices für Eingangsrechnungen"
+      ],
+      "en": [
+        "Content management",
+        "Document capture",
+        "Workflows",
+        "Archiving",
+        "Search",
+        "Integration",
+        "AI documents",
+        "IDP AP Invoices for accounts payable"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Informationsmanagement",
+        "IT",
+        "Compliance",
+        "Recht",
+        "Fachabteilungen",
+        "Archiv",
+        "Einkauf",
+        "Kreditorenbuchhaltung"
+      ],
+      "en": [
+        "Information management",
+        "IT",
+        "Compliance",
+        "Legal",
+        "Business units",
+        "Records",
+        "Procurement",
+        "Accounts payable teams"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.hyland.com/en/company/newsroom/hyland-IDP-AP-Invoices",
+        "label": {
+          "de": "IDP AP Invoices: Verarbeitung von Eingangsrechnungen",
+          "en": "IDP AP Invoices: accounts payable invoice processing"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Profil am 19.10.2026 anhand der verlinkten Originalquelle ergänzt. Ankündigungen, Beta- und Zusatzmodulstatus beziehen sich auf die jeweilige Quelle; dies validiert keine verlinkten Volltexte oder Aufzeichnungen.",
+      "en": "Profile updated on 19 October 2026 using the linked original source. Announcements, beta and add-on status refer to that source; this does not validate linked full documents or recordings."
+    }
+  },
+  "Omnissa": {
+    "officialUrl": "https://www.omnissa.com/products/omnissa-intelligence/",
+    "officialLabel": {
+      "de": "Omnissa Intelligence: Workspace-Analytik und Automatisierung",
+      "en": "Omnissa Intelligence: workspace analytics and automation"
+    },
+    "metaDescription": {
+      "de": "Omnissa: Workspace ONE: Endgeräte- und Anwendungsverwaltung, Horizon: virtuelle Desktops und Anwendungen, Intelligence: Telemetrie und Arbeitsplatzanalytik.",
+      "en": "Omnissa: Workspace ONE: endpoint and application management, Horizon: virtual desktops and applications, Intelligence: telemetry and workspace analytics."
+    },
+    "summary": {
+      "de": "Omnissa bietet Software für digitale Arbeitsplätze. Workspace ONE verbindet die Verwaltung von Endgeräten und Anwendungen, Horizon stellt virtuelle Desktops und Anwendungen bereit. Intelligence führt Telemetrie aus Arbeitsplatz- und Endgeräteumgebungen zusammen, damit IT-Teams Nutzung, Zustände und digitale Mitarbeitererfahrung untersuchen können. Über Freestyle Orchestrator lassen sich darauf aufbauend Abläufe automatisieren und externe Systeme anbinden. Das Angebot richtet sich an Unternehmen mit verteilten Geräten, hybriden Arbeitsplätzen oder VDI-Umgebungen. Bei der Auswahl zählen unterstützte Plattformen, Datenzugriffe, Integrationen, Betriebsmodell und die im jeweiligen Paket enthaltenen Funktionen. Intelligence und zusätzliche Funktionen sind nicht automatisch Bestandteil jeder Lizenz.",
+      "en": "Omnissa provides digital workspace software. Workspace ONE connects endpoint and application management, while Horizon delivers virtual desktops and applications. Intelligence combines telemetry from workspace and endpoint environments so IT teams can examine usage, system health and digital employee experience. Freestyle Orchestrator supports workflow automation and connections to external systems. The offering addresses organisations with distributed devices, hybrid workplaces or VDI environments. Selection should consider supported platforms, data access, integrations, operating model and functions included in each package. Intelligence and additional capabilities are not automatically part of every licence."
+    },
+    "focus": {
+      "de": [
+        "Workspace ONE: Endgeräte- und Anwendungsverwaltung",
+        "Horizon: virtuelle Desktops und Anwendungen",
+        "Intelligence: Telemetrie und Arbeitsplatzanalytik",
+        "Digital Employee Experience",
+        "Freestyle Orchestrator: Workflow-Automatisierung",
+        "Anbindung externer IT-Systeme"
+      ],
+      "en": [
+        "Workspace ONE: endpoint and application management",
+        "Horizon: virtual desktops and applications",
+        "Intelligence: telemetry and workspace analytics",
+        "Digital employee experience",
+        "Freestyle Orchestrator: workflow automation",
+        "External IT-system integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Digital-Workplace-Teams",
+        "Endgeräteverwaltung",
+        "VDI- und DaaS-Verantwortliche",
+        "IT-Service-Management",
+        "Informationssicherheit"
+      ],
+      "en": [
+        "Digital workplace teams",
+        "Endpoint management",
+        "VDI and DaaS owners",
+        "IT service management",
+        "Information security"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.omnissa.com/products/omnissa-intelligence/",
+        "label": {
+          "de": "Omnissa Intelligence: Workspace-Analytik und Automatisierung",
+          "en": "Omnissa Intelligence: workspace analytics and automation"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Originalquelle am 19.10.2026 geprüft. Produktstatus und Beschaffungsumfang sind anhand der jeweils verlinkten Unterlagen zu klären.",
+      "en": "Original source reviewed on 19 October 2026. Product status and procurement scope should be assessed using the linked documentation."
+    }
+  },
+  "Arista Networks": {
+    "officialUrl": "https://www.arista.com/en/company/company-overview",
+    "officialLabel": {
+      "de": "Arista Networks: Netzwerkplattformen",
+      "en": "Arista Networks: networking platforms"
+    },
+    "metaDescription": {
+      "de": "Arista Networks: Rechenzentrums- und Cloud-Netzwerke, Ethernet-Switching, EOS-Netzwerkbetriebssystem.",
+      "en": "Arista Networks: Data centre and cloud networking, Ethernet switching, EOS network operating system."
+    },
+    "summary": {
+      "de": "Arista Networks entwickelt Netzwerkplattformen für Rechenzentren, Cloud-Umgebungen und Unternehmensnetze. Das Portfolio verbindet Ethernet-Switching mit dem Netzwerkbetriebssystem EOS und Management- beziehungsweise Automatisierungsfunktionen über CloudVision. Im KI-Umfeld adressiert Etherlink die Vernetzung von Rechenressourcen. Die im Oktober angekündigte SU144-Architektur erweitert den Ansatz um Ethernet-basierte Scale-Up-Netze; angekündigte Ausbaustufen dürfen nicht als durchgängig sofort lieferbar behandelt werden. Käufer sollten Bandbreite, Latenz, Topologie, Interoperabilität, Verkabelung, Betriebsautomatisierung und konkrete Liefertermine gegen ihre Workloads prüfen. Arista liefert Netzwerktechnik; die Auswahl von Beschleunigern, Modellen und Anwendungen bleibt Teil der übergreifenden Infrastrukturplanung.",
+      "en": "Arista Networks develops networking platforms for data centres, cloud environments and enterprise networks. Its portfolio combines Ethernet switching with the EOS network operating system and management and automation through CloudVision. For AI environments, Etherlink addresses connectivity between compute resources. The SU144 architecture announced in October extends this approach to Ethernet-based scale-up networking; announced stages should not be treated as immediately available across the entire range. Buyers should assess bandwidth, latency, topology, interoperability, cabling, operational automation and delivery dates against their workloads. Arista supplies networking technology; accelerator, model and application selection remains part of wider infrastructure planning."
+    },
+    "focus": {
+      "de": [
+        "Rechenzentrums- und Cloud-Netzwerke",
+        "Ethernet-Switching",
+        "EOS-Netzwerkbetriebssystem",
+        "CloudVision: Netzwerkmanagement und Automatisierung",
+        "Campus-Netzwerke",
+        "Etherlink für KI-Netzwerke"
+      ],
+      "en": [
+        "Data centre and cloud networking",
+        "Ethernet switching",
+        "EOS network operating system",
+        "CloudVision: network management and automation",
+        "Campus networks",
+        "Etherlink for AI networking"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Netzwerkarchitektur",
+        "Rechenzentrumsbetrieb",
+        "Cloud-Infrastruktur",
+        "KI-Infrastrukturteams",
+        "IT-Einkauf"
+      ],
+      "en": [
+        "Network architecture",
+        "Data centre operations",
+        "Cloud infrastructure",
+        "AI infrastructure teams",
+        "IT procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.arista.com/en/company/company-overview",
+        "label": {
+          "de": "Arista Networks: Netzwerkplattformen",
+          "en": "Arista Networks: networking platforms"
+        }
+      },
+      {
+        "url": "https://investors.arista.com/Communications/Press-Releases-and-Events/Press-Release-Detail/2026/Arista-Announces-Rack-Scale-Architectures-for-Scale-Up-and-Scale-Out-AI-Fabrics/default.aspx",
+        "label": {
+          "de": "Etherlink: angekündigte KI-Netzwerkarchitekturen",
+          "en": "Etherlink: announced AI networking architectures"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Originalquelle am 19.10.2026 geprüft. Produktstatus und Beschaffungsumfang sind anhand der jeweils verlinkten Unterlagen zu klären.",
+      "en": "Original source reviewed on 19 October 2026. Product status and procurement scope should be assessed using the linked documentation."
+    }
+  },
+  "NetKnights": {
+    "officialUrl": "https://netknights.it/",
+    "officialLabel": {
+      "de": "NetKnights: privacyIDEA und Mehrfaktorauthentifizierung",
+      "en": "NetKnights: privacyIDEA and multi-factor authentication"
+    },
+    "metaDescription": {
+      "de": "NetKnights: privacyIDEA: zentrale MFA-Verwaltung, Verwaltung von Authentisierungstoken, Integration in Anmelde- und Verzeichnisumgebungen.",
+      "en": "NetKnights: privacyIDEA: central MFA management, Authentication token management, Login and directory integration."
+    },
+    "summary": {
+      "de": "NetKnights entwickelt und unterstützt Lösungen für Mehrfaktorauthentifizierung rund um privacyIDEA. Die quelloffene Plattform verwaltet Authentisierungstoken und lässt sich in bestehende Anmeldeumgebungen integrieren. Unternehmen können damit unterschiedliche Benutzergruppen und Authentisierungsverfahren zentral organisieren. Version 3.14 ergänzt Conditional Access, konfigurierbares Remember Me für bekannte Geräte und eine neue Weboberfläche. Solche Komfortfunktionen erfordern passende Regeln für Gerätevertrauen, Ablauf und Widerruf. Für die Auswahl zählen bestehende Verzeichnisdienste und Anwendungen, unterstützte Token, Hochverfügbarkeit sowie Betriebs- und Supportverantwortung. Quelloffene Software und kommerzielle Dienstleistungen beziehungsweise Supportpakete sind bei der Beschaffung getrennt zu bewerten.",
+      "en": "NetKnights develops and supports multi-factor authentication solutions around privacyIDEA. The open-source platform manages authentication tokens and integrates with existing login environments. Organisations can centrally manage different user groups and authentication methods. Version 3.14 adds Conditional Access, configurable Remember Me for known devices and a new web interface. These convenience functions require appropriate rules for device trust, expiry and revocation. Selection should consider existing directories and applications, supported tokens, high availability and responsibility for operations and support. Open-source software and commercial services or support packages should be assessed separately in procurement."
+    },
+    "focus": {
+      "de": [
+        "privacyIDEA: zentrale MFA-Verwaltung",
+        "Verwaltung von Authentisierungstoken",
+        "Integration in Anmelde- und Verzeichnisumgebungen",
+        "Conditional Access in privacyIDEA 3.14",
+        "Remember Me mit Ablauf und Widerruf",
+        "Kommerzieller Support und Dienstleistungen"
+      ],
+      "en": [
+        "privacyIDEA: central MFA management",
+        "Authentication token management",
+        "Login and directory integration",
+        "Conditional Access in privacyIDEA 3.14",
+        "Remember Me with expiry and revocation",
+        "Commercial support and services"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Identity-and-Access-Management",
+        "IT-Sicherheitsarchitektur",
+        "Verzeichnisdienst-Administration",
+        "IT-Betrieb",
+        "IT-Einkauf"
+      ],
+      "en": [
+        "Identity and access management",
+        "IT security architecture",
+        "Directory administration",
+        "IT operations",
+        "IT procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://netknights.it/",
+        "label": {
+          "de": "NetKnights: privacyIDEA und Mehrfaktorauthentifizierung",
+          "en": "NetKnights: privacyIDEA and multi-factor authentication"
+        }
+      },
+      {
+        "url": "https://netknights.it/presse/netknights-veroeffentlicht-privacyidea-3-14-mit-conditional-access-remember-me-funktion-und-neuem-web-ui/",
+        "label": {
+          "de": "privacyIDEA 3.14: Funktionen und Status",
+          "en": "privacyIDEA 3.14: features and status"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Originalquelle am 19.10.2026 geprüft. Produktstatus und Beschaffungsumfang sind anhand der jeweils verlinkten Unterlagen zu klären.",
+      "en": "Original source reviewed on 19 October 2026. Product status and procurement scope should be assessed using the linked documentation."
+    }
+  },
+  "Commvault": {
+    "officialUrl": "https://www.commvault.com/",
+    "officialLabel": {
+      "de": "Commvault: Datenschutz und Cyber-Recovery",
+      "en": "Commvault: data protection and cyber recovery"
+    },
+    "metaDescription": {
+      "de": "Commvault: Datensicherung und Wiederherstellung, Datenschutz in hybriden Cloud-Umgebungen, Cyber-Recovery.",
+      "en": "Commvault: Backup and recovery, Data protection in hybrid cloud environments, Cyber recovery."
+    },
+    "summary": {
+      "de": "Commvault bietet Software und Dienste für Datensicherung, Wiederherstellung und Cyber-Resilienz in hybriden IT-Umgebungen. Unternehmen können damit Backup- und Recovery-Prozesse über unterschiedliche Datenquellen und Betriebsmodelle organisieren. Cyber-Recovery ergänzt die Wiederherstellung um Abläufe zur Untersuchung und Behandlung kompromittierter Daten beziehungsweise Systeme, unter anderem in isolierten Umgebungen. Die Integration mit CrowdStrike Charlotte Agentic SOAR verbindet ausgewählte Commvault-Aktionen mit Sicherheitsabläufen; sie ersetzt keine vollständige Incident-Response-Organisation. Käufer sollten unterstützte Workloads, Wiederherstellungsziele, unveränderliche Sicherungen, Berechtigungen, saubere Wiederanlaufumgebungen und Tests der eigenen Recovery-Kette prüfen. Funktionsumfang und Integrationen hängen von den eingesetzten Produkten und Lizenzen ab.",
+      "en": "Commvault provides software and services for backup, recovery and cyber resilience in hybrid IT environments. Organisations can coordinate backup and recovery across different data sources and operating models. Cyber recovery extends restoration with workflows for examining and handling compromised data or systems, including isolated environments. Integration with CrowdStrike Charlotte Agentic SOAR connects selected Commvault actions with security workflows; it does not replace a complete incident response organisation. Buyers should assess supported workloads, recovery objectives, immutable backups, permissions, clean recovery environments and tests of their own recovery chain. Feature scope and integrations depend on the products and licences in use."
+    },
+    "focus": {
+      "de": [
+        "Datensicherung und Wiederherstellung",
+        "Datenschutz in hybriden Cloud-Umgebungen",
+        "Cyber-Recovery",
+        "Isolierte Wiederherstellungsumgebungen",
+        "Automatisierung von Recovery-Abläufen",
+        "Integration mit CrowdStrike Charlotte Agentic SOAR"
+      ],
+      "en": [
+        "Backup and recovery",
+        "Data protection in hybrid cloud environments",
+        "Cyber recovery",
+        "Isolated recovery environments",
+        "Recovery workflow automation",
+        "CrowdStrike Charlotte Agentic SOAR integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Backup- und Recovery-Teams",
+        "Informationssicherheit",
+        "Incident Response",
+        "Cloud-Betrieb",
+        "Business Continuity"
+      ],
+      "en": [
+        "Backup and recovery teams",
+        "Information security",
+        "Incident response",
+        "Cloud operations",
+        "Business continuity"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.commvault.com/",
+        "label": {
+          "de": "Commvault: Datenschutz und Cyber-Recovery",
+          "en": "Commvault: data protection and cyber recovery"
+        }
+      },
+      {
+        "url": "https://www.commvault.com/news/commvault-integrates-cyber-recovery-actions-into-crowdstrike-charlotte-agentic-soar-workflows",
+        "label": {
+          "de": "Cyber-Recovery-Aktionen in CrowdStrike Charlotte Agentic SOAR",
+          "en": "Cyber recovery actions in CrowdStrike Charlotte Agentic SOAR"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Originalquelle am 19.10.2026 geprüft. Produktstatus und Beschaffungsumfang sind anhand der jeweils verlinkten Unterlagen zu klären.",
+      "en": "Original source reviewed on 19 October 2026. Product status and procurement scope should be assessed using the linked documentation."
+    },
+    "relatedProviders": [
+      {
+        "name": "CrowdStrike",
+        "context": {
+          "de": "Belegte Integration ausgewählter Cyber-Recovery-Aktionen in Charlotte Agentic SOAR; Ankündigung vom 31.08.2026.",
+          "en": "Documented integration of selected cyber recovery actions with Charlotte Agentic SOAR; announced on 31 August 2026."
+        },
+        "sourceUrl": "https://www.commvault.com/news/commvault-integrates-cyber-recovery-actions-into-crowdstrike-charlotte-agentic-soar-workflows"
+      }
+    ]
+  },
+  "Barracuda Networks": {
+    "officialUrl": "https://www.barracuda.com/company/news/2026/barracuda-ai-data-security-ai-governance",
+    "officialLabel": {
+      "de": "Barracuda: AI Data Security und Governance",
+      "en": "Barracuda: AI Data Security and governance"
+    },
+    "metaDescription": {
+      "de": "Barracuda Networks: E-Mail-Sicherheit, Datensicherheit und Schutz vor Datenabfluss, Netzwerk- und Anwendungssicherheit.",
+      "en": "Barracuda Networks: Email security, Data security and data loss prevention, Network and application security."
+    },
+    "summary": {
+      "de": "Barracuda Networks bietet Sicherheitslösungen für E-Mail, Daten, Netzwerke und Anwendungen sowie Dienste zur Erkennung und Behandlung von Angriffen. Das Angebot richtet sich an Unternehmen und Managed Service Provider. AI Data Security ergänzt den Schutz um die Kontrolle sensibler Daten bei der Nutzung generativer KI und um Regeln für deren Einsatz. Die Ankündigung nennt Datenabfluss und Prompt-Injection als adressierte Risiken sowie Oktober 2026 als Verfügbarkeitszeitraum, ohne damit einen konkreten Freigabetag zu belegen. Käufer sollten unterstützte KI-Dienste, Erkennungsregeln, Mandantenfähigkeit, Datenhaltung und die Einbindung in bestehende Sicherheitsabläufe prüfen. Technische Kontrollen ersetzen keine organisatorische KI-Governance oder die Prüfung regulatorischer Anforderungen.",
+      "en": "Barracuda Networks provides security for email, data, networks and applications, together with services for detecting and responding to attacks. It serves businesses and managed service providers. AI Data Security extends protection to sensitive data in generative AI use and policies governing that use. The announcement identifies data leakage and prompt injection as risks addressed and gives October 2026 as the availability window without establishing a specific release day. Buyers should assess supported AI services, detection policies, multi-tenancy, data residency and integration with existing security workflows. Technical controls do not replace organisational AI governance or assessment of regulatory requirements."
+    },
+    "focus": {
+      "de": [
+        "E-Mail-Sicherheit",
+        "Datensicherheit und Schutz vor Datenabfluss",
+        "Netzwerk- und Anwendungssicherheit",
+        "Managed Detection and Response",
+        "AI Data Security für generative KI",
+        "Mandantenfähige Sicherheitsverwaltung für MSPs"
+      ],
+      "en": [
+        "Email security",
+        "Data security and data loss prevention",
+        "Network and application security",
+        "Managed detection and response",
+        "AI Data Security for generative AI",
+        "Multi-tenant security management for MSPs"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Informationssicherheit",
+        "Security Operations",
+        "KI-Governance",
+        "Managed Service Provider",
+        "IT-Betrieb"
+      ],
+      "en": [
+        "Information security",
+        "Security operations",
+        "AI governance",
+        "Managed service providers",
+        "IT operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.barracuda.com/company/news/2026/barracuda-ai-data-security-ai-governance",
+        "label": {
+          "de": "Barracuda: AI Data Security und Governance",
+          "en": "Barracuda: AI Data Security and governance"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Originalquelle am 19.10.2026 geprüft. Produktstatus und Beschaffungsumfang sind anhand der jeweils verlinkten Unterlagen zu klären.",
+      "en": "Original source reviewed on 19 October 2026. Product status and procurement scope should be assessed using the linked documentation."
+    }
+  }
+}

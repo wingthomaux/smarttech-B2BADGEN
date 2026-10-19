@@ -1,0 +1,194 @@
+[
+  {
+    "id": 870000,
+    "title": "MEDIENHAUS.de: programmatische Display-, Video- und Audiowerbung",
+    "provider": "MEDIENHAUS.de",
+    "space": "Medien und Öffentlichkeit",
+    "related": [],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Programmatic Advertising und Location Targeting",
+    "delivery": "Planung und Ausspielung digitaler Werbekampagnen",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://medienhaus.de/",
+    "note": "Die Angebotsübersicht nennt Programmatic Display und Location Targeting sowie Video, Connected TV, Addressable TV, Audio, Podcasts und Webradio. Plattformnamen dienen der Beschreibung angebotener Werbeumfelder. Sie belegen keinen uneingeschränkten direkten Inventarzugang oder eine exklusive Vermarktungsvereinbarung. Verfügbarkeit, Zielgruppen, Messung und Buchungsumfang sind je Kampagne zu klären.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://medienhaus.de/",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Werbung und Monetarisierung",
+    "channels": [
+      "Web und Fachportale",
+      "Video und Streaming",
+      "Audio und Podcasts"
+    ]
+  },
+  {
+    "id": 870001,
+    "title": "MEDIENHAUS.de: Kampagnenmanagement und B2B-Leadgenerierung",
+    "provider": "MEDIENHAUS.de",
+    "space": "Medien und Öffentlichkeit",
+    "related": [],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Kampagnenplanung, Optimierung und B2B-Leadgenerierung",
+    "delivery": "Beratung und betreute Kampagnenleistungen",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://medienhaus.de/leistungen/",
+    "note": "Die Leistungsseite beschreibt regionale, nationale und internationale Werbekampagnen, B2B-Leadgenerierung sowie begleitendes Kampagnenmanagement und Optimierung. Das Angebot betrifft eigene Marketingleistungen. Leaddefinition, Zielgruppe, Herkunft, Einwilligungsnachweise und Übergabeformat sind projektspezifisch zu vereinbaren; konkrete MQL-, SQL- oder Abschlussquoten sind nicht belegt.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://medienhaus.de/",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Reichweite und Zielgruppen",
+    "channels": [
+      "Web und Fachportale"
+    ]
+  },
+  {
+    "id": 870002,
+    "title": "Tradedoubler für Marken: Partnerprogramme, Leads und App-Kampagnen",
+    "provider": "Tradedoubler",
+    "space": "Medien und Öffentlichkeit",
+    "related": [
+      "Handel und Konsum"
+    ],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Partnerprogramme und Performance-Kampagnen",
+    "delivery": "Publisher-Netzwerk mit betreutem Kampagnenbetrieb",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.tradedoubler.com/de/brands",
+    "note": "Die Markenübersicht bündelt Partnerprogramme, Leadgenerierung und App Marketing. Genannt werden Kampagnen-Setup, Management, Optimierung und Reporting. Die Abrechnungsmodelle richten sich nach dem Angebot, etwa CPL für Leads und CPI, CPR oder CPA im App Marketing. Für eine Buchung zählen Zielereignis, Leadqualität, Attribution, Einwilligungen und Validierung; Leistungs- und Wachstumsversprechen der Seite sind keine Ergebnisgarantie.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.tradedoubler.com/de/brands",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Werbung und Monetarisierung",
+    "channels": [
+      "Web und Fachportale"
+    ]
+  },
+  {
+    "id": 870003,
+    "title": "Tradedoubler Grow: Self-Service-Partnermarketing für KMU",
+    "provider": "Tradedoubler",
+    "space": "Medien und Öffentlichkeit",
+    "related": [
+      "Handel und Konsum"
+    ],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Affiliate-Programm als Self-Service-SaaS",
+    "delivery": "SaaS-Plattform mit Shop-Anbindungen und Reporting",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.tradedoubler.com/de/grow",
+    "note": "Grow richtet sich an kleinere Unternehmen und Startups, die Partnerprogramme aufsetzen und verwalten möchten. Die Seite nennt Shop-Anbindungen, Provisionseinstellungen und Reporting. Zusätzlich zu erfolgsbezogenen Provisionen können laufende Plattformgebühren anfallen; der Tarifvergleich ist vor Buchung zu prüfen. Integrationen und Preise sind angebotsabhängig, Erfolg ist nicht garantiert.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.tradedoubler.com/de/brands",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Werbung und Monetarisierung",
+    "channels": [
+      "Web und Fachportale"
+    ],
+    "sourceReviewWarning": {
+      "de": "Die Seite nennt sowohl erfolgsbezogene Vergütung als auch monatliche Plattformgebühren. Pay per Sale bedeutet hier nicht automatisch gebührenfreien Plattformzugang.",
+      "en": "The page lists both performance-based remuneration and monthly platform fees. Pay per sale does not automatically mean free platform access."
+    }
+  },
+  {
+    "id": 870004,
+    "title": "Tradedoubler PVN: eigenes Partnernetzwerk und White Label",
+    "provider": "Tradedoubler",
+    "space": "Medien und Öffentlichkeit",
+    "related": [
+      "Handel und Konsum"
+    ],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Partnernetzwerk in Eigenregie und White-Label-Plattform",
+    "delivery": "Software für Programme, Publisher, Tracking und Zahlungen",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.tradedoubler.com/de/pvn",
+    "note": "PVN steht für Private Virtual Network. Marken, Publisher und Dienstleister können ein eigenes gebrandetes Partnernetzwerk aufbauen. Beschrieben werden Programme, Provisionen, Tracking, Reports, APIs und Publisher-Zahlungen. Einführungsprojekt, Datenmodell, Abrechnungszuständigkeit und Rollen sind festzulegen; die Software allein stellt weder Partnergewinnung noch Vertriebserfolg sicher.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.tradedoubler.com/de/brands",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Werbung und Monetarisierung",
+    "channels": [
+      "Web und Fachportale"
+    ]
+  },
+  {
+    "id": 870005,
+    "title": "Tradedoubler: Tracking-Technologie und Integrationsschnittstellen",
+    "provider": "Tradedoubler",
+    "space": "Medien und Öffentlichkeit",
+    "related": [
+      "Handel und Konsum"
+    ],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Marketing-Attribution und Tracking-Integration",
+    "delivery": "Tracking Library, Branded Tracking und APIs",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.tradedoubler.com/de/our-tech",
+    "note": "Die Technologieübersicht beschreibt Tracking Library, Branded Tracking, mobile Integrationen sowie Schnittstellen unter anderem für Conversions und Produktdaten. Web-, App- und Offline-Bezüge werden erläutert. Messumfang, Einwilligungslogik und Datenverarbeitung müssen zur konkreten Implementierung passen. Cookieless-Verfahren sind keine pauschale Ausnahme von Datenschutz- oder Einwilligungsanforderungen; die öffentliche Übersicht ersetzt keine technische Prüfung.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.tradedoubler.com/de/brands",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Analyse und Wirkung",
+    "channels": [
+      "Web und Fachportale"
+    ]
+  },
+  {
+    "id": 870006,
+    "title": "Tradedoubler: Influencer- und Creator-Programme",
+    "provider": "Tradedoubler",
+    "space": "Medien und Öffentlichkeit",
+    "related": [
+      "Handel und Konsum"
+    ],
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Creator-Partnerschaften und performancebezogene Programme",
+    "delivery": "Programmverwaltung, Tracking und Creator-Vergütung",
+    "lifecycle": "Planung, Integration und Kampagnenbetrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.tradedoubler.com/de/influencer-marketing",
+    "note": "Das Angebot integriert Influencer, Markenbotschafter und Mikro-Creator in Partnerprogramme. Die Seite nennt Verwaltung, Tracking und Zahlungen sowie in der Regel eine erfolgsbezogene Vergütung. Auswahlkriterien, Werbekennzeichnung, Nutzungsrechte, Messfenster und Vergütung sind konkret zu vereinbaren. Historische Marktprognosen werden nicht als aktuelle Leistungskennzahlen übernommen.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "sourcePortals": [],
+    "providerUrl": "https://www.tradedoubler.com/de/brands",
+    "addedAt": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Social Media und Communities",
+    "channels": [
+      "Social Media",
+      "Web und Fachportale"
+    ]
+  }
+]

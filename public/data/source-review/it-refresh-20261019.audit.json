@@ -1,0 +1,4219 @@
+{
+  "reviewedAt": "2026-10-19",
+  "baselineCatalogKnowledge": 5066,
+  "baselineProviders": 1340,
+  "portalsScanned": 17,
+  "childSitemapRequests": 389,
+  "selectedPublicPagesFetched": 152,
+  "newObservedKnowledge": 68,
+  "newIndividuallyReviewedOriginalPages": 5,
+  "newProviders": [
+    "Omnissa",
+    "Arista Networks",
+    "NetKnights",
+    "Commvault",
+    "Barracuda Networks"
+  ],
+  "updatedProfiles": [
+    "Tenable",
+    "Pendo",
+    "Quadient",
+    "Reply",
+    "Paessler",
+    "Septeo CNEE",
+    "Veeam",
+    "Scality",
+    "Scrive",
+    "Hyland"
+  ],
+  "existingKnowledgePatches": [
+    4784
+  ],
+  "rules": [
+    "Sitemap lastmod is a modification signal, never datePublished or automatic validation.",
+    "A source-page review does not validate gated whitepapers, downloads, forms or recordings.",
+    "Unknown publishers, press intermediaries, duplicate releases and purely corporate personnel/award news are not automatically imported.",
+    "Secondary HR, production and marketing APIs were sampled; not an exhaustive editorial review of all discovered URLs.",
+    "Existing IDs, primary provider names, source URLs and validated asset IDs are preserved."
+  ],
+  "coverage": [
+    {
+      "source": "B2B Expertise",
+      "base": "https://www.b2b-expertise.com",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.b2b-expertise.com/sitemap_index.xml",
+          "final": "https://www.b2b-expertise.com/sitemap_index.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.b2b-expertise.com/post-sitemap.xml",
+        "https://www.b2b-expertise.com/page-sitemap.xml",
+        "https://www.b2b-expertise.com/category-sitemap.xml",
+        "https://www.b2b-expertise.com/post_tag-sitemap.xml"
+      ],
+      "childResults": [
+        {
+          "source": "B2B Expertise",
+          "url": "https://www.b2b-expertise.com/post-sitemap.xml",
+          "status": 200,
+          "sha256": "8c4d0e2c1fcf17dfa448201b6e54c34f172e856406277e8521f2e00f0625e759",
+          "urlCount": 588,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 586,
+      "modifiedUnseenCandidateCount": 9,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "B2B KnowHow",
+      "base": "https://b2b-knowhow.com",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://b2b-knowhow.com/sitemap.xml",
+          "final": "https://business-iq.net/sitemap?locale=en",
+          "status": 200
+        },
+        {
+          "url": "https://b2b-knowhow.com/sitemap_index.xml",
+          "final": "https://business-iq.net/sitemap_index?locale=en",
+          "status": 200
+        }
+      ],
+      "children": [],
+      "childResults": [],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 0,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap routes return redirected business-iq.net HTML, not XML. Repeating resource variants not treated as new publications."
+    },
+    {
+      "source": "Businessleader.today",
+      "base": "https://www.businessleader.today",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.businessleader.today/wp-sitemap.xml",
+          "final": "https://www.businessleader.today/wp-sitemap.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.businessleader.today/sitemapindex.xml",
+          "final": "https://www.businessleader.today/sitemapindex.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.businessleader.today/wp-sitemap-posts-post-1.xml",
+        "https://www.businessleader.today/wp-sitemap-posts-post-2.xml",
+        "https://www.businessleader.today/wp-sitemap-posts-post-3.xml",
+        "https://www.businessleader.today/wp-sitemap-posts-page-1.xml",
+        "https://www.businessleader.today/wp-sitemap-posts-mailpoet_page-1.xml",
+        "https://www.businessleader.today/wp-sitemap-posts-tdb_templates-1.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-category-1.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-1.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-2.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-3.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-4.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-5.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-6.xml",
+        "https://www.businessleader.today/wp-sitemap-taxonomies-post_tag-7.xml",
+        "https://www.businessleader.today/wp-sitemap-users-1.xml",
+        "https://www.businessleader.today/site.xml",
+        "https://www.businessleader.today/post.xml",
+        "https://www.businessleader.today/post_tdc-review.xml",
+        "https://www.businessleader.today/post_tdc-review-email.xml",
+        "https://www.businessleader.today/post_tdb_templates.xml",
+        "https://www.businessleader.today/post_google_news.xml",
+        "https://www.businessleader.today/page.xml",
+        "https://www.businessleader.today/archive_monthly.xml",
+        "https://www.businessleader.today/archive_yearly.xml",
+        "https://www.businessleader.today/taxonomy_category.xml",
+        "https://www.businessleader.today/taxonomy_post_tag.xml",
+        "https://www.businessleader.today/taxonomy_tdc-review-criteria.xml"
+      ],
+      "childResults": [
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/page.xml",
+          "status": 200,
+          "sha256": "25031e068a3298ad0ab455c867b2b8a779c3fb236910771fdd15903d5141891e",
+          "urlCount": 70,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/post.xml",
+          "status": 200,
+          "sha256": "06ed1bae426fe66d2331fa1f0aeb1759e0daae71063269968f5b93c18ed1179c",
+          "urlCount": 5816,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/post_google_news.xml",
+          "status": 200,
+          "sha256": "4e046ce9f6b0a4ce7b2a3dc6f07c1655b50fb8c7ffe78124115aa4365bdaf59c",
+          "urlCount": 78,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/post_tdb_templates.xml",
+          "status": 200,
+          "sha256": "30e85901266ef3169ed351ac7df2b918ae390fe9c5859f64067fa73e69f4ecd4",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/post_tdc-review-email.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/post_tdc-review.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/site.xml",
+          "status": 200,
+          "sha256": "50b6e0ee2b34f47e012c0b466e01b5f6713664bc5ce8f84b5821a0307084a328",
+          "urlCount": 1,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-posts-mailpoet_page-1.xml",
+          "status": 200,
+          "sha256": "cef2ae265739a5bd6ff531dfa785e1b4d043c925a2e3e2ddcf4dcaa6adeaca95",
+          "urlCount": 1,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-posts-page-1.xml",
+          "status": 200,
+          "sha256": "49353d8990351bc643f8576fec9d654441f2c2bb4938dbb2c8729e6f7d4e1b86",
+          "urlCount": 70,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-posts-post-1.xml",
+          "status": 200,
+          "sha256": "de2619b53d1723ec204144afc10514114d3bc78768f2823e6b1ab7aad065d3f7",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-posts-post-2.xml",
+          "status": 200,
+          "sha256": "09f2a424c20d86e3d8b26a4c9831df79cacb0ee6bac9bfe58c1a359ae1e43a21",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-posts-post-3.xml",
+          "status": 200,
+          "sha256": "3bff1a1022eeb1b3cb8cbe775955e44be9f14d4e30a96975576fb2ae03938188",
+          "urlCount": 1816,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-posts-tdb_templates-1.xml",
+          "status": 200,
+          "sha256": "4fbcab3cf1a0a9c4996d3cab21e7e396b094196decc8275e121559cbcd3ce193",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Businessleader.today",
+          "url": "https://www.businessleader.today/wp-sitemap-users-1.xml",
+          "status": 200,
+          "sha256": "566d8d0eeb9c0cf8272ffe5d54ff4920d9aa1727e60820c5c23bb936a53f95ef",
+          "urlCount": 10,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 5915,
+      "modifiedUnseenCandidateCount": 146,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "ComputerWeekly",
+      "base": "https://www.computerweekly.com",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.computerweekly.com/siteIndex.xml",
+          "final": "https://www.computerweekly.com/siteIndex.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/googleNews.xml",
+          "final": "https://www.computerweekly.com/googleNews.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/siteIndexVideo.xml",
+          "final": "https://www.computerweekly.com/siteIndexVideo.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/de/siteIndex.xml",
+          "final": "https://www.computerweekly.com/de/siteIndex.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/de/googleNews.xml",
+          "final": "https://www.computerweekly.com/de/googleNews.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/de/siteIndexVideo.xml",
+          "final": "https://www.computerweekly.com/de/siteIndexVideo.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/br/siteIndex.xml",
+          "final": "https://www.computerweekly.com/br/siteIndex.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/br/googleNews.xml",
+          "final": "https://www.computerweekly.com/br/googleNews.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/br/siteIndexVideo.xml",
+          "final": "https://www.computerweekly.com/br/siteIndexVideo.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/es/siteIndex.xml",
+          "final": "https://www.computerweekly.com/es/siteIndex.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/es/googleNews.xml",
+          "final": "https://www.computerweekly.com/es/googleNews.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/es/siteIndexVideo.xml",
+          "final": "https://www.computerweekly.com/siteIndexVideo.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/microscope/siteIndex.xml",
+          "final": "https://www.computerweekly.com/microscope/siteIndex.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/microscope/googleNews.xml",
+          "final": "https://www.computerweekly.com/microscope/googleNews.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.computerweekly.com/microscope/siteIndexVideo.xml",
+          "final": "https://www.computerweekly.com/microscope/siteIndexVideo.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=1",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=2",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=3",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=4",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=5",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=6",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=7",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=8",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=9",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=10",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=11",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=12",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=13",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=14",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=15",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=16",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=17",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=18",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=19",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=20",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=21",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=22",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=23",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=24",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=25",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=26",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=27",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=28",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=29",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=30",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=31",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=32",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=33",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=34",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=35",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=36",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=37",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=38",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=39",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=40",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=41",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=42",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=43",
+        "https://www.computerweekly.com/siteIndex.xml?pageNo=44",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=1",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=2",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=3",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=4",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=5",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=6",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=7",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=8",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=9",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=10",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=11",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=12",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=13",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=14",
+        "https://www.computerweekly.com/de/siteIndex.xml?pageNo=15",
+        "https://www.computerweekly.com/br/siteIndex.xml?pageNo=1",
+        "https://www.computerweekly.com/br/siteIndex.xml?pageNo=2",
+        "https://www.computerweekly.com/br/siteIndex.xml?pageNo=3",
+        "https://www.computerweekly.com/es/siteIndex.xml?pageNo=1",
+        "https://www.computerweekly.com/es/siteIndex.xml?pageNo=2",
+        "https://www.computerweekly.com/es/siteIndex.xml?pageNo=3",
+        "https://www.computerweekly.com/es/siteIndex.xml?pageNo=4",
+        "https://www.computerweekly.com/es/siteIndex.xml?pageNo=5",
+        "https://www.computerweekly.com/es/siteIndex.xml?pageNo=6",
+        "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=1",
+        "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=2",
+        "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=3",
+        "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=4",
+        "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=5"
+      ],
+      "childResults": [
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/br/siteIndex.xml?pageNo=1",
+          "status": 200,
+          "sha256": "31df0333dd865eb5663bfd7981e3f09f4f358fa10db7fd4214394c5d4c8affad",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/br/siteIndex.xml?pageNo=2",
+          "status": 200,
+          "sha256": "3dc3cda05cf1cd914fc33e69b6b8d9bb4f9af47f31fffa1f8ecb5b34fdabb5db",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/br/siteIndex.xml?pageNo=3",
+          "status": 200,
+          "sha256": "14ab6cd185a2b15d603082828ac0d19e13b2d5eb904998b74371a7ba80295f2e",
+          "urlCount": 200,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=1",
+          "status": 200,
+          "sha256": "976b01852988d5e7f234a227f19d1b7bcabdafdc54ca4910566ea61dcd2046a7",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=10",
+          "status": 200,
+          "sha256": "b7ad6aed72308d7b77b025614f6c4a5cb9b136ce410cbf765be80bb58abf7e99",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=11",
+          "status": 200,
+          "sha256": "afce1a27b8056447425512c6691989791a17640adb5fd63bf8eb2753fa2a135c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=12",
+          "status": 200,
+          "sha256": "fb2f4d2f87267a2065cc0ff6786ad0ab6fa2567028b2b81e7def374e00d97dbd",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=13",
+          "status": 200,
+          "sha256": "cc37190782f229a87cf71c6819eca958e6872f3b4296e0f0456022374d2e4d6e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=14",
+          "status": 200,
+          "sha256": "3d5bb97be492d81a988e0b0f9c209f0a9935211e1fe5d53e511167369eea37e1",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=15",
+          "status": 200,
+          "sha256": "10e80b6f7a293082b0724c9d450e87661ed2fd26983fbb3d98b6ac2393bd6d80",
+          "urlCount": 967,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=2",
+          "status": 200,
+          "sha256": "2c708606a77886e84ea08ceadeb6708d60f0ee113e15e4a73d34bcb14b11602c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=3",
+          "status": 200,
+          "sha256": "529b05b36c73773727ce5c408cf33fc8e5272fad675fb8d0bdcd402cbf7b57b3",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=4",
+          "status": 200,
+          "sha256": "b3229365e040c202ad9ca116f5d6fd39cffe0ccaeb61b6f94953fa4f2df3f14f",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=5",
+          "status": 200,
+          "sha256": "b50607a9fe6f3eb17f7bc058034ba5ea927b57e79e55b1d04690c3cf0d5eac02",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=6",
+          "status": 200,
+          "sha256": "243ecf62f6a8c3d7571fa5e57c9ce9061d7db72d05901cd65adcd22594353edf",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=7",
+          "status": 200,
+          "sha256": "a8eab7634eca3a9aecc2b8485f461dc87acc7da16fcffd53e85fc6ca65e58304",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=8",
+          "status": 200,
+          "sha256": "c6a4de4bf213509e6e32681a5666bf161b3eb0707e744c4f1ac9f997f332cd12",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/de/siteIndex.xml?pageNo=9",
+          "status": 200,
+          "sha256": "3e17376d7cb74440c9ba40a0f636edef654f16390aae7d898566d26839b1dd5b",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/es/siteIndex.xml?pageNo=1",
+          "status": 200,
+          "sha256": "e01f89287679222130af05de8be532d66c7a4003c9ecd9a9b8da843c725149ed",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/es/siteIndex.xml?pageNo=2",
+          "status": 200,
+          "sha256": "28572866c63f031d3aac7f09fd34c4e10dbd368b9fd3e9e98981128ed11294b4",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/es/siteIndex.xml?pageNo=3",
+          "status": 200,
+          "sha256": "8136b91e8c4b3c4802f619f944127ce280242ae2c6ff8efcd26b3c0740b2c595",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/es/siteIndex.xml?pageNo=4",
+          "status": 200,
+          "sha256": "414d49fdfa8c39be3d767c5c858d579bae4b68ea9311a33049c252284117d5e0",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/es/siteIndex.xml?pageNo=5",
+          "status": 200,
+          "sha256": "212576457e8eb4ed80dfdcc3243701625dafa94f2887557ff2fab3bf7d4b3de7",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/es/siteIndex.xml?pageNo=6",
+          "status": 200,
+          "sha256": "7c09cdc874fff4dca48243d083b1ad7d5d7964a19008da759f64258f83045071",
+          "urlCount": 803,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=1",
+          "status": 200,
+          "sha256": "21752569e8684528fc75a7deb932105f16ef50f947929ad733c3d636b7a94296",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=2",
+          "status": 200,
+          "sha256": "a94bcd76d28ee954ab9d7743af17c756f0984d898e8637f28ba993d81ccf7840",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=3",
+          "status": 200,
+          "sha256": "8e47fb7759c2c6e0bc0f00260b66a1ee922da7b0058e2a1261925d33c2c5dff6",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=4",
+          "status": 200,
+          "sha256": "024aca9cdd009a15c31db82ddd5c8f1f4d72d48b4c65d7623989e2d9cf8e48da",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/microscope/siteIndex.xml?pageNo=5",
+          "status": 200,
+          "sha256": "006071e2846985195d121c89e9f2c063250e74da991c944e9b778ba5158069ea",
+          "urlCount": 416,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=1",
+          "status": 200,
+          "sha256": "ba657c9584f68ceede488f95c3f1a22e75e78b15d38efaf9483ef0640e6b0a21",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=10",
+          "status": 200,
+          "sha256": "5069d13f2fb11261a368bc07f912507ded10f3b3edf9d3ce16e7f67cd140b370",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=11",
+          "status": 200,
+          "sha256": "e957edc4bc2d39639befb30e63c7fbf5a133a18c69b51b58863eec87c344b6a3",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=12",
+          "status": 200,
+          "sha256": "88038fe099b90cf721437dd5b42adae62cf0d9321e766951e2cda2af7fa24ea7",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=13",
+          "status": 200,
+          "sha256": "0bf7b01f41a4a2d73efd42526961e66bbc40caaa4f2ae66c41f9a8560613e1ab",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=14",
+          "status": 200,
+          "sha256": "a90fb4f8fa19f4f094441d9c5704a07b7dd55a1fef3b1f156b3bea0b50ad0cae",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=15",
+          "status": 200,
+          "sha256": "c394eb5b78a48929a4421a98c3bf9a5ad8729c42a27ed97cb7aeab5b09405c4a",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=16",
+          "status": 200,
+          "sha256": "8f8003e841cfb6483d271d60c342837773fc0c595e1c6a31535d7cf4681fe041",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=17",
+          "status": 200,
+          "sha256": "038997435481ee2271a839351ad83a6e250d866206d9f5809c5ef3cd01c7e69d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=18",
+          "status": 200,
+          "sha256": "d978c5fbf0a456ad35ee381ec37fd802b834cfc32c9a9aa14a648f2bbfe2009c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=19",
+          "status": 200,
+          "sha256": "6b1889d01a8e8238d04af04a46f3ff2eb801baccfba7570691083b711a81a325",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=2",
+          "status": 200,
+          "sha256": "02b6839b8585f8eb1aa7da34d1220b6bd22baefc72f02bec8eb44e60c10c614e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=20",
+          "status": 200,
+          "sha256": "8f55ccb10d9fbca86eea69ddae4ae98ca8d02c7c3bf293ea7eb89eb6d046c841",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=21",
+          "status": 200,
+          "sha256": "27eee3c70ba1e6804d23ca683018e2773ecfb3f90ef66b42a2be6808e9661fa0",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=22",
+          "status": 200,
+          "sha256": "79988a285c31ffe5b89e9c1ab8bc41b775ee707f2bad2bb10997749becfdd805",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=23",
+          "status": 200,
+          "sha256": "a7e2833d23a2d2708b97935f72ac642d0fab966633b785148de62b2b494fcf24",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=24",
+          "status": 200,
+          "sha256": "2acb891f7b41dff19fc7d051419ab46b091ed65edb94512ea57390ca156e588e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=25",
+          "status": 200,
+          "sha256": "64e2bc90a1f9bca3c4f7e0f6667fd9c24506dd6e908caaf5521d3682a3186841",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=26",
+          "status": 200,
+          "sha256": "83872398d323721a8318f9c72578ef30c44991036c245cf5d3457e779ef9d34f",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=27",
+          "status": 200,
+          "sha256": "73a3feeebb2a6245b6ac3e1e1519173c1afbdde622112b1b00e9410f0914e9c4",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=28",
+          "status": 200,
+          "sha256": "04c36f6dbe9bf05d6ed81a49d94fa5c75656505f296676f0cab6e1cc7442882c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=29",
+          "status": 200,
+          "sha256": "929fb4b18c7dea0bde56db89800593ab7ac6fdb92c8a6fc6b7581230e2cb6906",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=3",
+          "status": 200,
+          "sha256": "8394109bee6d185db1eb2de4c27d83df75464ba5ab2984397913676fadb3db9e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=30",
+          "status": 200,
+          "sha256": "ec99d84c6cf84fd355b58891c35a93da6d8c0cb4d3a36d2d7e3b52334829036d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=31",
+          "status": 200,
+          "sha256": "14e3d60195110ca96fba622fe67e98b9dc9cde0d408819a8ade97601e36af70b",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=32",
+          "status": 200,
+          "sha256": "013d1484c804ceac0ba959469f9a9c091fc57b95e1db39d8a6da226a84be44c4",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=33",
+          "status": 200,
+          "sha256": "d6bcc16acce5adee21b85ea9deea59357deaf65771bb5c4a204fa7f5706bb1cf",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=34",
+          "status": 200,
+          "sha256": "444c589ac622da5e0fc1717a4751987d8fb911f900f655a456495b930d214234",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=35",
+          "status": 200,
+          "sha256": "c9c307adc56014ce5920f955d365d25eca9beb820523cd31c586a1dde19692ff",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=36",
+          "status": 200,
+          "sha256": "d7d7db403fee5efc8a61d5323920dbce6d89e4498ac2e6ada885e4f36cdbda2d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=37",
+          "status": 200,
+          "sha256": "1bff98241d4cd1f7ac6487300aa7b9c0b1c207b51a83257f84b6d7f7ea306b69",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=38",
+          "status": 200,
+          "sha256": "1ed52d2dff37b1ec723015154f84beb518dad25ca4dd606a5d5789b1f58fc25d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=39",
+          "status": 200,
+          "sha256": "715fa1707f19247494aa799cf3968516ae79efd8512b34d6e531f0661c5e6f36",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=4",
+          "status": 200,
+          "sha256": "369d25246cd33774e115db7581e9096294420dcac3ca14ecb9633ef5070e35f5",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=40",
+          "status": 200,
+          "sha256": "87a0066623acceb26bd30c559e177dcbd8c8bac27564136516f518fcf3a20957",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=41",
+          "status": 200,
+          "sha256": "b819558eb4193f14955ea836598566b0efcfa1dbf977fe36bee5305d02a1b55a",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=42",
+          "status": 200,
+          "sha256": "6185e29d0c0e100d764cbf60be819ed6c7322b261cc9409fc287d50a02be238e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=43",
+          "status": 200,
+          "sha256": "89512cb896f11cad02581afe3f67daff694ef840cdba85c5ba687fd21cfe580d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=44",
+          "status": 200,
+          "sha256": "50364b8d45ee0f84bed634fe21f14c28bf7e8f4a1b2f8d295b13d6487da9f406",
+          "urlCount": 801,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=5",
+          "status": 200,
+          "sha256": "b0490f2928d42de2a34ba1dacaf5a28c5068a1c73689dde3d9f70e7db597b5c5",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=6",
+          "status": 200,
+          "sha256": "bdd9aa23b8bc1c6222684d6186113fd2f2899b27577603cbd1f8654f00cd4a9e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=7",
+          "status": 200,
+          "sha256": "ea74f87de2cfe077cd45f1c349ec32291c6c54fc2404405f7377d928f169b45a",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=8",
+          "status": 200,
+          "sha256": "4fde0ad0230ed4aebf35d66c21ac7d3a42c84e6d127487c510326b4932e48b52",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "ComputerWeekly",
+          "url": "https://www.computerweekly.com/siteIndex.xml?pageNo=9",
+          "status": 200,
+          "sha256": "608beefe03d13f710d4f296be6623645fe47e21360f583409d7e9d8a6f98e850",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 71180,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 4,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "connect professional",
+      "base": "https://www.connect-professional.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.connect-professional.de/sitemap/index.xml",
+          "final": "https://www.connect-professional.de/sitemap/index.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/sitemap/index-bilder.xml",
+          "final": "https://www.connect-professional.de/sitemap/index-bilder.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/sitemap/index-bildergalerie.xml",
+          "final": "https://www.connect-professional.de/sitemap/index-bildergalerie.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/sitemap/index-archiv.xml",
+          "final": "https://www.connect-professional.de/sitemap/index-archiv.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/sitemap/index-aufmacherbilder.xml",
+          "final": "https://www.connect-professional.de/sitemap/index-aufmacherbilder.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/sitemap/index-bildergalerie-bilder.xml",
+          "final": "https://www.connect-professional.de/sitemap/index-bildergalerie-bilder.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/news.xml",
+          "final": "https://www.connect-professional.de/staticsitemap/connect-professional/news.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/index-pages.xml",
+          "final": "https://www.connect-professional.de/staticsitemap/connect-professional/index-pages.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/glossary.xml",
+          "final": "https://www.connect-professional.de/staticsitemap/connect-professional/glossary.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/service.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/security_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/security_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/security_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/produkte_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_4.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/news.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_4.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_4.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_5.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_6.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_7.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_8.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_9.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_10.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/know-how_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/index-pages.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/index-thema.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/ifkom_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/glossary.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/channelxpert_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_4.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_5.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_6.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_7.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_8.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_9.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_10.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_11.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bilder_12.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/service_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/security_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/produkte_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/news_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/markt_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/know-how_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/ifkom_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/channelxpert_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_archive.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_4.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_5.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_6.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_7.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_8.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_9.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_10.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_11.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_12.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_13.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_14.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_15.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_16.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_17.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_18.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_19.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/aufmacherbilder_20.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_41.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_42.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_43.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_44.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_45.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_46.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_47.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_48.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_49.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_50.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_51.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_32.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_33.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_34.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_35.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_36.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_37.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_38.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_39.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_40.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_21.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_22.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_23.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_24.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_25.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_26.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_27.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_28.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_29.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_30.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_31.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_1.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_2.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_3.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_4.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_5.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_6.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_7.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_8.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_9.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_10.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_11.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_12.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_13.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_14.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_15.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_16.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_17.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_18.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_19.xml",
+        "https://www.connect-professional.de/staticsitemap/connect-professional/bildergalerie_bilder_20.xml"
+      ],
+      "childResults": [
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/channelxpert_1.xml",
+          "status": 200,
+          "sha256": "e26e6ba36b0c0065163f6553709d1a5021cdfd636469e1728167c209e1b06c98",
+          "urlCount": 951,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_1.xml",
+          "status": 200,
+          "sha256": "e3d4ccbf2a152ff2035e208525ba87445f539ff799006df31038ac1470ae7dc4",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_2.xml",
+          "status": 200,
+          "sha256": "92e57ec5a44e184d55288aacfc4349bfa11b2e8f001892c88cccd069226ba522",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/datacenter-verkabelung_3.xml",
+          "status": 200,
+          "sha256": "6db4f155efb267811bc2a1b91572d69b07c7f131c098f80e9d0b4b765ae77668",
+          "urlCount": 1607,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/glossary.xml",
+          "status": 200,
+          "sha256": "fa8716bd6cef892944827de32f369b4a6b56f56b42ee146a31e981fa31726012",
+          "urlCount": 256,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_1.xml",
+          "status": 200,
+          "sha256": "c86a51d6a1ec4dffce404091238a4a66896f8e230aa6015dbc003571bf565dae",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_2.xml",
+          "status": 200,
+          "sha256": "ec2f65e56fd5c6c9ecb3d4f565bfda575b734ae7beb43809e9253ff9262b1f50",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/hardware_3.xml",
+          "status": 200,
+          "sha256": "785b05bf1e21e8cdea6a5494ddc6040e56f07c26a12a8693ec3023fe5d38d834",
+          "urlCount": 2133,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/ifkom_1.xml",
+          "status": 200,
+          "sha256": "d94ac8e81fc65d695a4ee5c088dc6c13bf2e382fd4e3c1c562611b0c8095090e",
+          "urlCount": 9,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/index-pages.xml",
+          "status": 200,
+          "sha256": "c0f51a5d048997703026709e7f31e48f8a08216c1c57f4d651ca45a9e60f0143",
+          "urlCount": 74,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/index-thema.xml",
+          "status": 200,
+          "sha256": "f2914f7f8e90fcb72f5d48f33ad1d26396166b8c7ceb09019511cbb0a6ea8c28",
+          "urlCount": 10,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/know-how_1.xml",
+          "status": 200,
+          "sha256": "2dde2f364e341900b3f933fb6d459f8fe2c3349d4eb5e77cc2bdde563187a29a",
+          "urlCount": 229,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_1.xml",
+          "status": 200,
+          "sha256": "9193325c60deaa3cce114e44314bd04a6eb4b04fc9af92862213ae9c84574a93",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_10.xml",
+          "status": 200,
+          "sha256": "52c496ec9d6bac072cec1a8159e16bee77f9ebb5d10788842bb9b136d7d9d7a4",
+          "urlCount": 4242,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_2.xml",
+          "status": 200,
+          "sha256": "9ab8094410e902f4894edf7c4ace543dc2a7ebe78177474b71258d9dadd5c30e",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_3.xml",
+          "status": 200,
+          "sha256": "581345ad06fdee96a886103078b6c8b2348ef75e0e8c9deb396338008dd62648",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_4.xml",
+          "status": 200,
+          "sha256": "62aebc47ad82ecb9c8c76f3dc5e62cb82037dcbe040d544f6e4c7b78c2bce8ad",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_5.xml",
+          "status": 200,
+          "sha256": "d9557ae37fead9f1d817e796e5cc7fb1428a93505946681b15d9da7c943cd8b6",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_6.xml",
+          "status": 200,
+          "sha256": "5fa5b2e016516ea6a00c11556ec5c1d44ba102533d8d98e87033160e11a94fbf",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_7.xml",
+          "status": 200,
+          "sha256": "ba487109a568e2d8fd0962ca0e2b8fd5353f365ee28a2d292f63b5c2306a2af9",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_8.xml",
+          "status": 200,
+          "sha256": "326472f6dc30fb6f9952d9556ddf7c9b07fa95edfaea8572039ad07281f3336a",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/markt_9.xml",
+          "status": 200,
+          "sha256": "12ec8f812d49cc32b75d6736a7e45f7ab83cccf936f27538460c2c58ba729775",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_1.xml",
+          "status": 200,
+          "sha256": "5f294df47a22a9eba7be67486ea9358e2d00977f2fa7dfe35ca2f6ce6cca2b64",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_2.xml",
+          "status": 200,
+          "sha256": "4d1fbad91def98a7172d812c3391e080e85cb8e51f83cc30002925afec696c13",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_3.xml",
+          "status": 200,
+          "sha256": "dbdcddb848235c239a678b179e606074f34d4d1cd31488a20a729200ffbb5ce2",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/netzwerke-it-infrastruktur_4.xml",
+          "status": 200,
+          "sha256": "4559ae9c7080d2fd92e906525b6458445e7849b5f2bf3c29d5f88f71cceec159",
+          "urlCount": 981,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/news.xml",
+          "status": 200,
+          "sha256": "27dbd2a75654ef2914d0ec870d0e8131e7eca34b4f63f45ba3f39d49ac1fc907",
+          "urlCount": 35088,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_1.xml",
+          "status": 200,
+          "sha256": "9ccbc1d728859c45dacb74d72d8652053ec4999b6bbc44514baa969a454a87a6",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_2.xml",
+          "status": 200,
+          "sha256": "ae9219563af8f5be4b1df2c89c0a7bc58fb2a7fa2ce7412cdeb543c438be3473",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_3.xml",
+          "status": 200,
+          "sha256": "aa15fc4da1871e3be2447fd3327f68e98b64e5ad04f05793472932ffb4e980f2",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/office-kommunikation_4.xml",
+          "status": 200,
+          "sha256": "316a69e084bb9c686e43f88ffc532aa0ab738bf5ae71b7118202ef88cf150833",
+          "urlCount": 3030,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/produkte_1.xml",
+          "status": 200,
+          "sha256": "186475f369be52b6d5b83c8aeb9adbc7a024ef3919ad10bcfc5cb198a8eb8145",
+          "urlCount": 107,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/security_1.xml",
+          "status": 200,
+          "sha256": "109311cd37dbffb902f4bbea6f408f90bc683f311d5b1eedfd5e6329675b0beb",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/security_2.xml",
+          "status": 200,
+          "sha256": "6e8dc5cc714816ffce78bb70b39a972572ac7d3c758e071ffa3d8808b3b65bfb",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/security_3.xml",
+          "status": 200,
+          "sha256": "3ac9499ce676fcebd8d879a065ac8d47468fc2880f5ddfe73427f7e74bdbb7f1",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/service.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_1.xml",
+          "status": 200,
+          "sha256": "ba3aeeafe5be9ff50f056f5da3d2ad7c6482abf8bc69deb22fe2247c31bbe522",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_2.xml",
+          "status": 200,
+          "sha256": "fa08a2b50d258bde8475d4082d226fc5021958778061faadf6db71188fb4bda8",
+          "urlCount": 4501,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "connect professional",
+          "url": "https://www.connect-professional.de/staticsitemap/connect-professional/software-services_3.xml",
+          "status": 200,
+          "sha256": "159fa2ae61adbb522d7ac05753f4330be4d761e3108d5ab34be69983e78aab83",
+          "urlCount": 3030,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 159760,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 6,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "Foundry Webcast",
+      "base": "https://webcast.foundryco.com",
+      "robotsStatus": "HTTP Error 404: Not Found",
+      "sitemaps": [
+        {
+          "url": "https://webcast.foundryco.com/sitemap.xml",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://webcast.foundryco.com/sitemap_index.xml",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "children": [],
+      "childResults": [],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 0,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap routes 404. Coverage unresolved; no inference of no new resources."
+    },
+    {
+      "source": "heise Business Services",
+      "base": "https://business-services.heise.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://business-services.heise.de/sitemap.xml",
+          "final": "https://business-services.heise.de/sitemap.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://business-services.heise.de/sitemap.xml?sitemap=pages&cHash=f9bf872f5798b98e7e8bbdae01ee45ff",
+        "https://business-services.heise.de/sitemap.xml?sitemap=content&cHash=94861e0b711e4263276febb81949d867",
+        "https://business-services.heise.de/sitemap.xml?page=1&sitemap=content&cHash=69827b492fa0928fc03a8c9a4c33161a"
+      ],
+      "childResults": [
+        {
+          "source": "heise Business Services",
+          "url": "https://business-services.heise.de/sitemap.xml?page=1&sitemap=content&cHash=69827b492fa0928fc03a8c9a4c33161a",
+          "status": 200,
+          "sha256": "a607697812fdee126845a5001787f0d14c8bb650a5f9990c8e9f0ecacf822df7",
+          "urlCount": 326,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "heise Business Services",
+          "url": "https://business-services.heise.de/sitemap.xml?sitemap=content&cHash=94861e0b711e4263276febb81949d867",
+          "status": 200,
+          "sha256": "24c2fcd1a8a6fb91d57b051733f8d67d1e2866ab3a9f08eff302108d4ecd9875",
+          "urlCount": 844,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "heise Business Services",
+          "url": "https://business-services.heise.de/sitemap.xml?sitemap=pages&cHash=f9bf872f5798b98e7e8bbdae01ee45ff",
+          "status": 200,
+          "sha256": "7a3a10eb9fce44ce3bec194bff73ac29746765dd456e6045a2b6b96d4759fadc",
+          "urlCount": 83,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 1253,
+      "modifiedUnseenCandidateCount": 901,
+      "selectedNewKnowledge": 5,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "IT-Management.today",
+      "base": "https://www.it-management.today",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.it-management.today/sitemap_index.xml",
+          "final": "https://www.it-management.today/sitemap_index.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.it-management.today/post-sitemap.xml",
+        "https://www.it-management.today/post-sitemap2.xml",
+        "https://www.it-management.today/post-sitemap3.xml",
+        "https://www.it-management.today/post-sitemap4.xml",
+        "https://www.it-management.today/post-sitemap5.xml",
+        "https://www.it-management.today/post-sitemap6.xml",
+        "https://www.it-management.today/post-sitemap7.xml",
+        "https://www.it-management.today/post-sitemap8.xml",
+        "https://www.it-management.today/post-sitemap9.xml",
+        "https://www.it-management.today/post-sitemap10.xml",
+        "https://www.it-management.today/post-sitemap11.xml",
+        "https://www.it-management.today/post-sitemap12.xml",
+        "https://www.it-management.today/post-sitemap13.xml",
+        "https://www.it-management.today/post-sitemap14.xml",
+        "https://www.it-management.today/post-sitemap15.xml",
+        "https://www.it-management.today/post-sitemap16.xml",
+        "https://www.it-management.today/post-sitemap17.xml",
+        "https://www.it-management.today/post-sitemap18.xml",
+        "https://www.it-management.today/post-sitemap19.xml",
+        "https://www.it-management.today/post-sitemap20.xml",
+        "https://www.it-management.today/post-sitemap21.xml",
+        "https://www.it-management.today/post-sitemap22.xml",
+        "https://www.it-management.today/post-sitemap23.xml",
+        "https://www.it-management.today/post-sitemap24.xml",
+        "https://www.it-management.today/post-sitemap25.xml",
+        "https://www.it-management.today/post-sitemap26.xml",
+        "https://www.it-management.today/post-sitemap27.xml",
+        "https://www.it-management.today/post-sitemap28.xml",
+        "https://www.it-management.today/post-sitemap29.xml",
+        "https://www.it-management.today/page-sitemap.xml",
+        "https://www.it-management.today/tdb_templates-sitemap.xml",
+        "https://www.it-management.today/category-sitemap.xml"
+      ],
+      "childResults": [
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap.xml",
+          "status": 200,
+          "sha256": "daa881af32a5044873b881ec4518d573009895cc90c100975e3b1ce02ec0fb0e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap10.xml",
+          "status": 200,
+          "sha256": "c50e4ef8297b50c11bfa54a5bd8c62879610e4d895788794c518b53585eeac6c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap11.xml",
+          "status": 200,
+          "sha256": "7a695b0354f8a30708a2359bad51a10d2888600432432512fd3301217d46e75d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap12.xml",
+          "status": 200,
+          "sha256": "bcc7cfa89395e5a04a0d16657f5400fb78a69fed0f79a48cc0a4c8bd6e220c73",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap13.xml",
+          "status": 200,
+          "sha256": "b4f77409a50783965959ba5b79e2556d21b4c65f67e516ce2fec2394a556f26e",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap14.xml",
+          "status": 200,
+          "sha256": "1f12a4c144464a30899349b4dde88d1adb1f6b5d5ff7bc2f50c41435f8d5a323",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap15.xml",
+          "status": 200,
+          "sha256": "abb3d1ca7a05292b0b4f8324afdd49bdbbfa7b3faf85ce01eec8ac894c1d8abd",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap16.xml",
+          "status": 200,
+          "sha256": "fc80c00c3ed17663ce9f70ce22253aff3c1ed027661ba1c03a2eb72218c066ce",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap17.xml",
+          "status": 200,
+          "sha256": "1c3edb826abb69cf60658fc8cc3b99bd8276ca3d6547079db294f95680bbd4dd",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap18.xml",
+          "status": 200,
+          "sha256": "57d2f6bd8a1486bb184d6dfc1e40d116e1b62a629f057cc802b540a7c85e7aae",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap19.xml",
+          "status": 200,
+          "sha256": "68405c37c877afa529f7a2f2f2e082d386682ade4f6376f367034eaa626d4d0f",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap2.xml",
+          "status": 200,
+          "sha256": "87d241d0a8b00e1cf1d491b37e89101f8a097afc31339811e16ed4eff3642993",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap20.xml",
+          "status": 200,
+          "sha256": "8f27afbed665f800b64c7a99de30dfe9d6b1c2fd4b61d5938c878294743741e1",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap21.xml",
+          "status": 200,
+          "sha256": "bcdec56f3b39e65ad140c1f52d0c35a0c0dbb4b4eddd386ca628084d334ab2e2",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap22.xml",
+          "status": 200,
+          "sha256": "72c02790a51a3b6305caebad5315ee9ee8686ee49d20c5497b90de6aeecd741a",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap23.xml",
+          "status": 200,
+          "sha256": "01b08fe25607067cecd2b0d2f3895aa21b2753c95edaff7702b2e86987369dc2",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap24.xml",
+          "status": 200,
+          "sha256": "d2beb45172ea65baa879354a22637c4ca664be49000169b56422009e869c9d9c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap25.xml",
+          "status": 200,
+          "sha256": "91e4d91ecdf47d68b282e71c8bbc7253097a8bc09eee6db89dce4eb16f3352f6",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap26.xml",
+          "status": 200,
+          "sha256": "0afcafcf1b126339302af4fdd9f42987e731893d2d22ebd3ce7dbf4cf8070859",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap27.xml",
+          "status": 200,
+          "sha256": "a50bdb90084b3605fe34bf2b82e067bd846e7833fb9102c8678b8e5dc026fa21",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap28.xml",
+          "status": 200,
+          "sha256": "480f2d23af164ceb7f6aeac29a207623ba11bb146be230196a7bb300b4598932",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap29.xml",
+          "status": 200,
+          "sha256": "4df3bd1dbc87a7714bedc7c8b1b6ae396211564cb011ce7a921c0eb34047575b",
+          "urlCount": 472,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap3.xml",
+          "status": 200,
+          "sha256": "1a3c7bd68e73afce3adcb349f7feed06ca69f77c08a8d5ebcd29053d5ada28cd",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap4.xml",
+          "status": 200,
+          "sha256": "5dcedad8030a2d3a2f1fcb1360f2afa2e37887f807ef31c7394d6c9508dcaea8",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap5.xml",
+          "status": 200,
+          "sha256": "d43897892a78324a9fc9f608798de475ecba1d2949f4b9352313ffe440d1e38d",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap6.xml",
+          "status": 200,
+          "sha256": "3c2fd8df09551dc77696b6f797ec874e880ad7116f6858b9badb46cef4f5d6fa",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap7.xml",
+          "status": 200,
+          "sha256": "8ed1677aa361572cabdc30b90f7a3ba47d04cd309338e4848c713b11e85f0979",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap8.xml",
+          "status": 200,
+          "sha256": "085cf3c39c64c4b5002453c60688d5650f870a17d87aa8e8fc862b8222b967e9",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/post-sitemap9.xml",
+          "status": 200,
+          "sha256": "6a8190a824017de5ba3462ad96096c3f7fe022b6281ad937cabb19532793bc4c",
+          "urlCount": 1000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "IT-Management.today",
+          "url": "https://www.it-management.today/tdb_templates-sitemap.xml",
+          "status": 200,
+          "sha256": "f36ddfa0d4e5373d48bbaee31464a0f091615adc00679ecd823b78969cedad8d",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 28490,
+      "modifiedUnseenCandidateCount": 150,
+      "selectedNewKnowledge": 23,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "marconomy",
+      "base": "https://www.marconomy.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.marconomy.de/sitemap.xml",
+          "final": "https://www.marconomy.de/sitemap.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.marconomy.de/sitemap_pages.xml",
+        "https://www.marconomy.de/sitemap_contents1.xml",
+        "https://www.marconomy.de/sitemap_contents2.xml",
+        "https://www.marconomy.de/sitemap_contents3.xml",
+        "https://www.marconomy.de/sitemap_contents4.xml",
+        "https://www.marconomy.de/sitemap_contents5.xml",
+        "https://www.marconomy.de/sitemap_contents6.xml",
+        "https://www.marconomy.de/sitemap_contents7.xml",
+        "https://www.marconomy.de/sitemap_contents8.xml",
+        "https://www.marconomy.de/sitemap_contents9.xml",
+        "https://www.marconomy.de/sitemap_contents10.xml",
+        "https://www.marconomy.de/sitemap_contents11.xml",
+        "https://www.marconomy.de/sitemap_contents12.xml",
+        "https://www.marconomy.de/sitemap_contents13.xml",
+        "https://www.marconomy.de/sitemap_contents14.xml",
+        "https://www.marconomy.de/sitemap_contents15.xml",
+        "https://www.marconomy.de/sitemap_contents16.xml",
+        "https://www.marconomy.de/sitemap_contents17.xml",
+        "https://www.marconomy.de/sitemap_contents18.xml",
+        "https://www.marconomy.de/sitemap_contents19.xml",
+        "https://www.marconomy.de/sitemap_contents20.xml",
+        "https://www.marconomy.de/sitemap_contents21.xml",
+        "https://www.marconomy.de/sitemap_contents22.xml",
+        "https://www.marconomy.de/sitemap_contents23.xml",
+        "https://www.marconomy.de/sitemap_contents24.xml",
+        "https://www.marconomy.de/sitemap_contents25.xml",
+        "https://www.marconomy.de/sitemap_contents26.xml",
+        "https://www.marconomy.de/sitemap_contents27.xml",
+        "https://www.marconomy.de/sitemap_contents28.xml",
+        "https://www.marconomy.de/sitemap_contents29.xml",
+        "https://www.marconomy.de/sitemap_contents30.xml",
+        "https://www.marconomy.de/sitemap_contents31.xml",
+        "https://www.marconomy.de/sitemap_contents32.xml",
+        "https://www.marconomy.de/sitemap_contents33.xml",
+        "https://www.marconomy.de/sitemap_news1.xml",
+        "https://www.marconomy.de/sitemap_images1.xml",
+        "https://www.marconomy.de/sitemap_images2.xml",
+        "https://www.marconomy.de/sitemap_images3.xml",
+        "https://www.marconomy.de/sitemap_images4.xml",
+        "https://www.marconomy.de/sitemap_videos1.xml",
+        "https://www.marconomy.de/sitemap_videos2.xml",
+        "https://www.marconomy.de/sitemap_videos3.xml",
+        "https://www.marconomy.de/sitemap_videos4.xml",
+        "https://www.marconomy.de/sitemap_companies1.xml",
+        "https://www.marconomy.de/sitemap_webinars1.xml",
+        "https://www.marconomy.de/sitemap_whitepapers1.xml",
+        "https://www.marconomy.de/sitemap_whitepapers2.xml",
+        "https://www.marconomy.de/sitemap_company_news1.xml",
+        "https://www.marconomy.de/sitemap_company_downloads1.xml",
+        "https://www.marconomy.de/sitemap_company_events1.xml",
+        "https://www.marconomy.de/sitemap_company_products1.xml",
+        "https://www.marconomy.de/sitemap_company_videos1.xml",
+        "https://www.marconomy.de/sitemap_company_images1.xml",
+        "https://www.marconomy.de/sitemap_company_aboutus1.xml",
+        "https://www.marconomy.de/sitemap_company_contact1.xml",
+        "https://www.marconomy.de/sitemap_company_webinars1.xml",
+        "https://www.marconomy.de/sitemap_company_whitepapers1.xml"
+      ],
+      "childResults": [
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_companies1.xml",
+          "status": 200,
+          "sha256": "987310aeef64271724455f58858d86a0eaa4e627a53617613bcb3fe9d5c94207",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_aboutus1.xml",
+          "status": 200,
+          "sha256": "1353681a7747585f3927f56c9b70da9edb49f222c81ab1ddc8b5e8d8601cec6b",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_contact1.xml",
+          "status": 200,
+          "sha256": "85157525821fbcde1cedb77c7611c2adeccde4e4ccbd6320c388ace984453ef4",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_downloads1.xml",
+          "status": 200,
+          "sha256": "0e4eca296434e620f24462fd192a01531f0548ba39a2dcdae9e66fd05303b4a8",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_events1.xml",
+          "status": 200,
+          "sha256": "8a340689df110991a7b66718f4f92701759fc40e251551027c711158f82840d3",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_news1.xml",
+          "status": 200,
+          "sha256": "e18473cded8e17723daf455aa52b9f521a5a5ab1f0df57b408b417be8daf571a",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_products1.xml",
+          "status": 200,
+          "sha256": "f5947f42dd3a8f373394867a6c2e3148c34dc850a961a498ee7d4583672b52fc",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_videos1.xml",
+          "status": 200,
+          "sha256": "5ad20b65c1e5918ed644830d292d3eb7fffe1a76590212722262fa0db3d4b486",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_webinars1.xml",
+          "status": 200,
+          "sha256": "8721a390635ef2ab34b92427d82f71364871f4c92a1c3ccdcad4855777d665d5",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_company_whitepapers1.xml",
+          "status": 200,
+          "sha256": "23042fa18c0e58f0c9f0f8dae068d1b3390419de91694bc5f674ce06c320be8f",
+          "urlCount": 5,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents1.xml",
+          "status": 200,
+          "sha256": "0d4be5866e48f9e9ea4365171dc118afe2f6e3d38da08c6e52f804b1e92a8305",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents10.xml",
+          "status": 200,
+          "sha256": "c9eb42bd770f0f10f86fafd2432c64ba54fc035b16f2b38ac344a82c3f688ffa",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents11.xml",
+          "status": 200,
+          "sha256": "cce3a0b372f02b2324e867ec89b460b6d7b7350fd4de0e1936e94d59cef2af93",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents12.xml",
+          "status": 200,
+          "sha256": "b110d0f41bf66ef97f47fab7c4d23467825d89e8b8ac7b36da51e8fc06b22dd7",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents13.xml",
+          "status": 200,
+          "sha256": "8c17825f64aea6fedfb6f55eb5fa3180d8fde1ba905dbe0779a408848f3dc82b",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents14.xml",
+          "status": 200,
+          "sha256": "9a4471f5e13d0b36f7b0e479401895ed3ca30760d3bbfdfcf1b6462cb22538ed",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents15.xml",
+          "status": 200,
+          "sha256": "30c6ebf234b10e315369e6d12dd37437917fcc4fd83404a75d10690b5c094ccf",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents16.xml",
+          "status": 200,
+          "sha256": "e1ea9b8cef758602434d81e58f3882bd1862a5e71f179090d393125fc0908b5f",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents17.xml",
+          "status": 200,
+          "sha256": "003dae6636cfd97ea47c559760c25b11222854ff5b6318d2efdd48e875bc04c8",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents18.xml",
+          "status": 200,
+          "sha256": "d3bacc96c4928fe51dd7424f6917354ffb27ae5141f542accdccfa881db676cd",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents19.xml",
+          "status": 200,
+          "sha256": "905e4a5383e2dcf89cdaeeb0c922b1d583f134db41047d1a0efca429f653141a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents2.xml",
+          "status": 200,
+          "sha256": "499ba01a531badfd06acc513dbb30d37f4f005a1aa6183c9d98fa4e7958ce495",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents20.xml",
+          "status": 200,
+          "sha256": "84d278582bfa0b5fbe5b6ae07ff07850edee1b5ffd699de246219f0739fb1b70",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents21.xml",
+          "status": 200,
+          "sha256": "009a83e9dddba598d2c6c85ef0997ecd135b444c651a6aaca0da352aab61a043",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents22.xml",
+          "status": 200,
+          "sha256": "636fffb91dca85bf3d18b497c9c9d2eb6dc21aeef189557f204fceb6bf882d6c",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents23.xml",
+          "status": 200,
+          "sha256": "8049832a1c1738b58ac7a14b1b6627245a8749c3318fa74c6484954eaa887664",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents24.xml",
+          "status": 200,
+          "sha256": "f64d8af149c6879443161f5d3d60aab2ba133c1a1d368447043ca428b0fcfc51",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents25.xml",
+          "status": 200,
+          "sha256": "69658ce09f97449c7441de55bb3b87a1d981c65a925a58647ef01e816690039f",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents26.xml",
+          "status": 200,
+          "sha256": "0bc41caed99cfb4fe79bb809ddbde7a83a12c70520aadd867fd9763057c59210",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents27.xml",
+          "status": 200,
+          "sha256": "32b968187669ad230e9e947bcaac4d3d24bdabfb901af7b69e034dc54aa7f0eb",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents28.xml",
+          "status": 200,
+          "sha256": "6531e80a89a6d52cfd4872bd1c2aa6cca7ae7a151d52240ea0071c4aa59dc55a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents29.xml",
+          "status": 200,
+          "sha256": "ef1d4376bceb4388ec81d45d63155f148fa71fe6b6e641860476963443d18411",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents3.xml",
+          "status": 200,
+          "sha256": "8dde193463d402f276a1a649a6cd8c38e8cccc700cb8c854bc99bff6998a3452",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents30.xml",
+          "status": 200,
+          "sha256": "58e1dafb9944887f5fac007c541c02334f1bf4edb92de355547acaef55ddbf3b",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents31.xml",
+          "status": 200,
+          "sha256": "66fdcd94fa76de0c744da97d21ce7179c9290b47fc9e5c155eb6d8724739cf15",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents32.xml",
+          "status": 200,
+          "sha256": "6fdbbdb010ab243aae78b1eb5ee301f1854d6fb3d75274d6efc23c777910f0bb",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents33.xml",
+          "status": 200,
+          "sha256": "c0b1fab9e39ab4984f17879c3a4fd98b273fdb86f43f95296db98d8094aea1d8",
+          "urlCount": 9,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents4.xml",
+          "status": 200,
+          "sha256": "248543e2be8167292ce6188f4c95a76278656da454329e307cace10047ab7196",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents5.xml",
+          "status": 200,
+          "sha256": "3303541bbdd9e6d75c03d236b2ba0ca25a3e959d7c9db0b599895c5410d4b442",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents6.xml",
+          "status": 200,
+          "sha256": "a3630e67d31570ae6e2d5a6159131c8a98df8d8667e9529c542739c1638f9a60",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents7.xml",
+          "status": 200,
+          "sha256": "5ba98340f494e8c4546d6ef9cc106e64e26e90217d6f879de690a59439a9eb09",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents8.xml",
+          "status": 200,
+          "sha256": "0c26b800e3376c7b77e8c2dd01cb8b79a51a187b6016c02ee5ab34968fb5ff19",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_contents9.xml",
+          "status": 200,
+          "sha256": "c16b7bce3067f7c3ee1dfd43022147cca2f8d0a9e32f340814ceefb3ad031561",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_news1.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_pages.xml",
+          "status": 200,
+          "sha256": "9f836b2c39e3d95f3ecab89e0ef24eca4f13cbc54640199125bb43ce8d62dc17",
+          "urlCount": 33,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_videos1.xml",
+          "status": 200,
+          "sha256": "671501c821fa47af0f05be72fe78ff0a3678837c94a35ec85a663f10000b5805",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_videos2.xml",
+          "status": 200,
+          "sha256": "08f8ec61101b930fc7cad42b088c4a0f4a55914ed0db6351ce3834bdb593a161",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_videos3.xml",
+          "status": 200,
+          "sha256": "91bc707257ac9506ea44d452330fa1973a9c4ec354d38b0737d4f141d82f1380",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_videos4.xml",
+          "status": 200,
+          "sha256": "1a2a7bdf4f28f69b0a3ed23778c5ee974314ed8ff3bfc830716a7685bdd18126",
+          "urlCount": 45,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_webinars1.xml",
+          "status": 200,
+          "sha256": "fe3033a5052da85536118fa0210d611e3a17f4fe7297ff67a855b80e4ad903e3",
+          "urlCount": 87,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_whitepapers1.xml",
+          "status": 200,
+          "sha256": "0353c00af2c7fcf1cb7fcbac9cbd6b3cb7a080a91a192282fed90d2991dcf9de",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "marconomy",
+          "url": "https://www.marconomy.de/sitemap_whitepapers2.xml",
+          "status": 200,
+          "sha256": "3e311023c4e52c4caa76a8620386ef8b2b5ddf68e4f5817f16e78a464fbcf1d4",
+          "urlCount": 121,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 4842,
+      "modifiedUnseenCandidateCount": 2,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "Marketingleiter.today",
+      "base": "https://www.marketingleiter.today",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.marketingleiter.today/wp-sitemap.xml",
+          "final": "https://www.marketingleiter.today/wp-sitemap.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.marketingleiter.today/sitemapindex.xml",
+          "final": "https://www.marketingleiter.today/sitemapindex.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.marketingleiter.today/wp-sitemap-posts-post-1.xml",
+        "https://www.marketingleiter.today/wp-sitemap-posts-post-2.xml",
+        "https://www.marketingleiter.today/wp-sitemap-posts-post-3.xml",
+        "https://www.marketingleiter.today/wp-sitemap-posts-post-4.xml",
+        "https://www.marketingleiter.today/wp-sitemap-posts-page-1.xml",
+        "https://www.marketingleiter.today/wp-sitemap-posts-mailpoet_page-1.xml",
+        "https://www.marketingleiter.today/wp-sitemap-posts-tdb_templates-1.xml",
+        "https://www.marketingleiter.today/wp-sitemap-taxonomies-category-1.xml",
+        "https://www.marketingleiter.today/wp-sitemap-taxonomies-post_tag-1.xml",
+        "https://www.marketingleiter.today/wp-sitemap-taxonomies-post_tag-2.xml",
+        "https://www.marketingleiter.today/wp-sitemap-taxonomies-post_tag-3.xml",
+        "https://www.marketingleiter.today/wp-sitemap-taxonomies-post_tag-4.xml",
+        "https://www.marketingleiter.today/wp-sitemap-users-1.xml",
+        "https://www.marketingleiter.today/site.xml",
+        "https://www.marketingleiter.today/post_part1.xml",
+        "https://www.marketingleiter.today/post_part2.xml",
+        "https://www.marketingleiter.today/post_tdc-review.xml",
+        "https://www.marketingleiter.today/post_tdc-review-email.xml",
+        "https://www.marketingleiter.today/post_tdb_templates.xml",
+        "https://www.marketingleiter.today/post_google_news.xml",
+        "https://www.marketingleiter.today/page.xml",
+        "https://www.marketingleiter.today/archive_monthly.xml",
+        "https://www.marketingleiter.today/archive_yearly.xml",
+        "https://www.marketingleiter.today/taxonomy_category.xml",
+        "https://www.marketingleiter.today/taxonomy_tdc-review-criteria.xml"
+      ],
+      "childResults": [
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/page.xml",
+          "status": 200,
+          "sha256": "771b74167393337306bd3a290630e00d6a9a5e92b9c3a3b1975ef9a9c1c8ce80",
+          "urlCount": 34,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/post_google_news.xml",
+          "status": 200,
+          "sha256": "20c1d5d63a8286aaba06559e0eb5f9c39c2e21ec7d127e03e7e01a804c315dc3",
+          "urlCount": 20,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/post_part1.xml",
+          "status": 200,
+          "sha256": "df91e82ec069ad42842526de5996f03b0bea64119f5e2e669f5ed7a5dc67faca",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/post_part2.xml",
+          "status": 200,
+          "sha256": "3f44aca2126732f4bf7621cbd39bab9800e1fe4423471aa6cda3948b952fefaf",
+          "urlCount": 1611,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/post_tdb_templates.xml",
+          "status": 200,
+          "sha256": "1464dc27baf2cb0b095a590e326426ae70d1013e48b0543193791c858e429243",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/post_tdc-review-email.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/post_tdc-review.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/site.xml",
+          "status": 200,
+          "sha256": "59f1b454fad10828a3ffc716c7d63a2b70db511fc43c0c189acabc32d7c4610c",
+          "urlCount": 1,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-mailpoet_page-1.xml",
+          "status": 200,
+          "sha256": "b6e22f9fe61a9537c4e11b1538f9f142875f5588722d95b8c2bf1c725a20bf80",
+          "urlCount": 2,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-page-1.xml",
+          "status": 200,
+          "sha256": "fe8611a1a372c6cb5d68e5ae90fbabcce129fd7d59be308af8224f0ef3072e6d",
+          "urlCount": 34,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-post-1.xml",
+          "status": 200,
+          "sha256": "36673d4bd66b41dcc9713a3c94317359c7ab2c39f8b0cc5042e58bf55b922e8d",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-post-2.xml",
+          "status": 200,
+          "sha256": "6f23b2d3f809e10e19bc31e40a20284a5da89f2c1170242d7ba163a17403c910",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-post-3.xml",
+          "status": 200,
+          "sha256": "ad554d3aa64fd8838104e266955dcbefaf65978857f700255ddf823d71a8e458",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-post-4.xml",
+          "status": 200,
+          "sha256": "c4d3cc8d42f6ad62db2ea14427edd761ce3c957ad9ab23a82727a07ab92c91a2",
+          "urlCount": 611,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-posts-tdb_templates-1.xml",
+          "status": 200,
+          "sha256": "6153ebb680148f42410d50d6312b4c6d65da985fd8bd7cf43f721161bb2604a8",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Marketingleiter.today",
+          "url": "https://www.marketingleiter.today/wp-sitemap-users-1.xml",
+          "status": 200,
+          "sha256": "3531626c9491e4ad1b5f9eab13c54c3d87f69a53c3aa8c720c6c5e30db24cb12",
+          "urlCount": 9,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 6674,
+      "modifiedUnseenCandidateCount": 35,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "Personalleiter.today",
+      "base": "https://www.personalleiter.today",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.personalleiter.today/wp-sitemap.xml",
+          "final": "https://www.personalleiter.today/wp-sitemap.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.personalleiter.today/sitemapindex.xml",
+          "final": "https://www.personalleiter.today/sitemapindex.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.personalleiter.today/wp-sitemap-posts-post-1.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-2.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-3.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-4.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-5.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-6.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-7.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-8.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-9.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-10.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-post-11.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-page-1.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-tdb_templates-1.xml",
+        "https://www.personalleiter.today/wp-sitemap-posts-mailpoet_page-1.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-category-1.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-1.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-2.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-3.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-4.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-5.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-6.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-7.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-8.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-9.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-10.xml",
+        "https://www.personalleiter.today/wp-sitemap-taxonomies-post_tag-11.xml",
+        "https://www.personalleiter.today/wp-sitemap-users-1.xml",
+        "https://www.personalleiter.today/site.xml",
+        "https://www.personalleiter.today/post_part1.xml",
+        "https://www.personalleiter.today/post_part2.xml",
+        "https://www.personalleiter.today/post_part3.xml",
+        "https://www.personalleiter.today/post_part4.xml",
+        "https://www.personalleiter.today/post_part5.xml",
+        "https://www.personalleiter.today/post_tdb_templates.xml",
+        "https://www.personalleiter.today/post_tdc-review.xml",
+        "https://www.personalleiter.today/post_tdc-review-email.xml",
+        "https://www.personalleiter.today/post_google_news.xml",
+        "https://www.personalleiter.today/page.xml",
+        "https://www.personalleiter.today/archive_monthly.xml",
+        "https://www.personalleiter.today/archive_yearly.xml",
+        "https://www.personalleiter.today/taxonomy_category.xml",
+        "https://www.personalleiter.today/taxonomy_tdc-review-criteria.xml"
+      ],
+      "childResults": [
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/page.xml",
+          "status": 200,
+          "sha256": "66dc5e613c36e446893b2bde9f8a1f358208a84ceb96150dacecf276f3f06637",
+          "urlCount": 45,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_google_news.xml",
+          "status": 200,
+          "sha256": "1a3e03ba335d2dd5af17fdbeb4851be111e8250cac3b8302da87f6950e006d81",
+          "urlCount": 65,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_part1.xml",
+          "status": 200,
+          "sha256": "e1de4cf5cb458849605e9da2dcb917b0040339b6d1c695cdee5e295ac95d09c3",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_part2.xml",
+          "status": 200,
+          "sha256": "e42d7e23ae81451b61f2fbb00c497d8de5fd92bd517bb8271f3ec3919a74d7bc",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_part3.xml",
+          "status": 200,
+          "sha256": "5b28abbb1bcc6df5526a3825d982df5d351ed4a94324dad6acff2c2339a25958",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_part4.xml",
+          "status": 200,
+          "sha256": "f6b64c85568c3cc56a7e87ad6aba9ba9117a7ef30deb192e5dcf636aa8e10e30",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_part5.xml",
+          "status": 200,
+          "sha256": "87c5783db60aa0b76ebf1daf1cf090a311f18159f6b8888c2de316dac167144c",
+          "urlCount": 284,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_tdb_templates.xml",
+          "status": 200,
+          "sha256": "32e4a4cd8c64ad96c8dc6da7422da71d2f44cdb111960a4bad4b010fe354109e",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_tdc-review-email.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/post_tdc-review.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/site.xml",
+          "status": 200,
+          "sha256": "3286d70f6367069d114c8a2e2116b7956da0079a61400f7f8b1f4e0a20f0524e",
+          "urlCount": 1,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-mailpoet_page-1.xml",
+          "status": 200,
+          "sha256": "34cfe2524c0bc7c33d472a03b39d58af76bbca1f6c0de00b3fbeba9b1e48bd81",
+          "urlCount": 1,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-page-1.xml",
+          "status": 200,
+          "sha256": "960b7fecdfa8ca897857ae0fccfcbf232db96ce438add3f0a1bd4367240d24a3",
+          "urlCount": 45,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-1.xml",
+          "status": 200,
+          "sha256": "3395cd71bccc030cfa5f5eab0b84ac559cfff4551e3471d4ab909ff25cbb826d",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-10.xml",
+          "status": 200,
+          "sha256": "61ecbb5f4c79931434d47781eba4bb27bc7debcb1b0cf153ab12a4734a01abb7",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-11.xml",
+          "status": 200,
+          "sha256": "4314ed2e853bc0cff65bd5df5987f5bb8dde3fbb03a73f439fd456188762bf0c",
+          "urlCount": 284,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-2.xml",
+          "status": 200,
+          "sha256": "d83732c9802373036f17daf244aa3d206f06079fe159db371c05b15c6ddb399f",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-3.xml",
+          "status": 200,
+          "sha256": "1b22f9e5e8e2172142fcc959a10b22524140e3e3cceb88faa800168e9e05acd6",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-4.xml",
+          "status": 200,
+          "sha256": "292bb79ebc866af4604a58a7ffc92a6ed7c4968c74eca8f90ee11a566a040b2b",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-5.xml",
+          "status": 200,
+          "sha256": "b70eae0cc7f880401cf171975071fd952984b4e5e55f8115b463410273abdfe3",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-6.xml",
+          "status": 200,
+          "sha256": "07b3f7bd205377150f2298f31006619474a752813074382238c281345885183e",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-7.xml",
+          "status": 200,
+          "sha256": "e93cb5304bcd71f41e3792793e7c357cd1c82af4afbeec2f13acc085541701fc",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-8.xml",
+          "status": 200,
+          "sha256": "6db5ac35ae4aac862bcfc06667c204809258a3eed80316a9ae0a95e1653825c3",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-post-9.xml",
+          "status": 200,
+          "sha256": "323b74f15a8cce8f2f471e050c554a89fc7f2ac7d6068f92eba6d430eb82b093",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-posts-tdb_templates-1.xml",
+          "status": 200,
+          "sha256": "4c12e4ccb37fbde722834160962b3dfb7f6b7eac1918f64e4f97fa7167c9279c",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Personalleiter.today",
+          "url": "https://www.personalleiter.today/wp-sitemap-users-1.xml",
+          "status": 200,
+          "sha256": "f65d42e9336602dc2b7acbdd6fae0920958a41443c9f8957402a7142ba19c886",
+          "urlCount": 15,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 20363,
+      "modifiedUnseenCandidateCount": 115,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "Produktionsleiter.today",
+      "base": "https://www.produktionsleiter.today",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.produktionsleiter.today/wp-sitemap.xml",
+          "final": "https://www.produktionsleiter.today/wp-sitemap.xml",
+          "status": 200
+        },
+        {
+          "url": "https://www.produktionsleiter.today/sitemapindex.xml",
+          "final": "https://www.produktionsleiter.today/sitemapindex.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-1.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-2.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-3.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-4.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-5.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-6.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-7.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-8.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-9.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-10.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-11.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-post-12.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-page-1.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-mailpoet_page-1.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-posts-tdb_templates-1.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-category-1.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-1.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-2.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-3.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-4.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-5.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-6.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-7.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-8.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-9.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-10.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-taxonomies-post_tag-11.xml",
+        "https://www.produktionsleiter.today/wp-sitemap-users-1.xml",
+        "https://www.produktionsleiter.today/site.xml",
+        "https://www.produktionsleiter.today/post_part1.xml",
+        "https://www.produktionsleiter.today/post_part2.xml",
+        "https://www.produktionsleiter.today/post_part3.xml",
+        "https://www.produktionsleiter.today/post_part4.xml",
+        "https://www.produktionsleiter.today/post_part5.xml",
+        "https://www.produktionsleiter.today/post_tdc-review.xml",
+        "https://www.produktionsleiter.today/post_tdc-review-email.xml",
+        "https://www.produktionsleiter.today/post_tdb_templates.xml",
+        "https://www.produktionsleiter.today/post_google_news.xml",
+        "https://www.produktionsleiter.today/page.xml",
+        "https://www.produktionsleiter.today/taxonomy_category.xml",
+        "https://www.produktionsleiter.today/taxonomy_tdc-review-criteria.xml"
+      ],
+      "childResults": [
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/page.xml",
+          "status": 200,
+          "sha256": "6ccf1e126cb0dc63e8b8751af9e12598445ab2c0a1f332b8cc8cc09016f611d1",
+          "urlCount": 41,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_google_news.xml",
+          "status": 200,
+          "sha256": "f509591584195c75bd3edbc213b9af3694222263cb21b2044a20cc492be73f3a",
+          "urlCount": 85,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_part1.xml",
+          "status": 200,
+          "sha256": "3eb5559d7ddaeba9472fb261c82f290c8b58262998b7e6e44c86d45257b3a2d5",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_part2.xml",
+          "status": 200,
+          "sha256": "3b0231a72f2c5988052a9b36963bcf935d13201c5304aa21e89a35ab4317102e",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_part3.xml",
+          "status": 200,
+          "sha256": "9b74bed2b6b3e77b2c3b6f88ed9f0142ce3aef7a18316a0377f37394b46a2405",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_part4.xml",
+          "status": 200,
+          "sha256": "1a75c78f2f3b24bcabed71032a253d35c19a5fbb22f4b0c950bf8b7501a6bf57",
+          "urlCount": 5000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_part5.xml",
+          "status": 200,
+          "sha256": "2ed071f3001e6bea19054e81aed55a15ccf3a8a17a516f18fdd598ff7acc06b6",
+          "urlCount": 2848,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_tdb_templates.xml",
+          "status": 200,
+          "sha256": "58d7e9d367e7a2b07e623ff0b2ec83bc25c7df5267aff21a8962d613ace3bd73",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_tdc-review-email.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/post_tdc-review.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/site.xml",
+          "status": 200,
+          "sha256": "8f7a20b508c9eb8faa12ca2a0d73cdcc365eac0fc005538c92aace584f5eb68f",
+          "urlCount": 1,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-mailpoet_page-1.xml",
+          "status": 200,
+          "sha256": "5df09114d14b00b5b2ac567d0c0be0b0362b7e2a1baea02b4aaf8dc7ff1dc762",
+          "urlCount": 2,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-page-1.xml",
+          "status": 200,
+          "sha256": "62523cfdea3235322e6831785b8a9e123c6b828ba8372bdadf4ea62030232916",
+          "urlCount": 41,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-1.xml",
+          "status": 200,
+          "sha256": "0df91cb9c02ced08a7ba86975b0240993957db0f8c92540fbac56d2160a02e22",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-10.xml",
+          "status": 200,
+          "sha256": "8beb3ae6e7dbb20a82e655bd89dea5f92260bf7449650774f9fb6a805632ff23",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-11.xml",
+          "status": 200,
+          "sha256": "082f33d5958e06b7e7e55f8afd0a0d7054d59c9d7f4ca4c187307985d2310a41",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-12.xml",
+          "status": 200,
+          "sha256": "b57a91680ab4744b25e8153f3148838523ea1e1a086f7f36e6bf504924a82742",
+          "urlCount": 848,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-2.xml",
+          "status": 200,
+          "sha256": "64814cb76e0fe854b4c9d2c342541a8cf111328b9b71a1015108f21117e3d88a",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-3.xml",
+          "status": 200,
+          "sha256": "ded823aa67f4dd83e460c74fa956c271a9c01db817e874a3570c5c67fe49c129",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-4.xml",
+          "status": 200,
+          "sha256": "40d83a17a3e6838722157ff4804c8dc10bd14143ce1174cb20c7bc63f59b572d",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-5.xml",
+          "status": 200,
+          "sha256": "13a9aa3aac74bf9dc724c359dd790c1be566d70c8b59d0f995d9081d105a2bab",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-6.xml",
+          "status": 200,
+          "sha256": "da65fb588f58cdcdb5aad9f34be1818205cda2930c5866ed23eb7774aadeb61e",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-7.xml",
+          "status": 200,
+          "sha256": "e1c6bd2165e48ae239a3166eb43995fb0056bc4d23bba5c3451da42a83319185",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-8.xml",
+          "status": 200,
+          "sha256": "758adcf0f2cd5b75f997b28ae381bc819d7f08a911557c91020bb36ff4291704",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-post-9.xml",
+          "status": 200,
+          "sha256": "59fc08842225a4463f2d77aa57c930f551480f0e6f8da4b859aaa59e97f680ce",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-posts-tdb_templates-1.xml",
+          "status": 200,
+          "sha256": "2ca15cad0e9a8bc21428538054dfa710d95834e01b6b0d5e8c03ad38442c59dc",
+          "urlCount": 18,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Produktionsleiter.today",
+          "url": "https://www.produktionsleiter.today/wp-sitemap-users-1.xml",
+          "status": 200,
+          "sha256": "2a09a57335a0a4f739b30202af622bd699a4ad74c9134bb2fd1f85dff44df4a5",
+          "urlCount": 9,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 22918,
+      "modifiedUnseenCandidateCount": 161,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "Security-Insider",
+      "base": "https://www.security-insider.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.security-insider.de/sitemap.xml",
+          "final": "https://www.security-insider.de/sitemap.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://www.security-insider.de/sitemap_pages.xml",
+        "https://www.security-insider.de/sitemap_contents1.xml",
+        "https://www.security-insider.de/sitemap_contents2.xml",
+        "https://www.security-insider.de/sitemap_contents3.xml",
+        "https://www.security-insider.de/sitemap_contents4.xml",
+        "https://www.security-insider.de/sitemap_contents5.xml",
+        "https://www.security-insider.de/sitemap_contents6.xml",
+        "https://www.security-insider.de/sitemap_contents7.xml",
+        "https://www.security-insider.de/sitemap_contents8.xml",
+        "https://www.security-insider.de/sitemap_contents9.xml",
+        "https://www.security-insider.de/sitemap_contents10.xml",
+        "https://www.security-insider.de/sitemap_contents11.xml",
+        "https://www.security-insider.de/sitemap_contents12.xml",
+        "https://www.security-insider.de/sitemap_contents13.xml",
+        "https://www.security-insider.de/sitemap_contents14.xml",
+        "https://www.security-insider.de/sitemap_contents15.xml",
+        "https://www.security-insider.de/sitemap_contents16.xml",
+        "https://www.security-insider.de/sitemap_contents17.xml",
+        "https://www.security-insider.de/sitemap_contents18.xml",
+        "https://www.security-insider.de/sitemap_contents19.xml",
+        "https://www.security-insider.de/sitemap_contents20.xml",
+        "https://www.security-insider.de/sitemap_contents21.xml",
+        "https://www.security-insider.de/sitemap_contents22.xml",
+        "https://www.security-insider.de/sitemap_contents23.xml",
+        "https://www.security-insider.de/sitemap_contents24.xml",
+        "https://www.security-insider.de/sitemap_contents25.xml",
+        "https://www.security-insider.de/sitemap_contents26.xml",
+        "https://www.security-insider.de/sitemap_contents27.xml",
+        "https://www.security-insider.de/sitemap_contents28.xml",
+        "https://www.security-insider.de/sitemap_contents29.xml",
+        "https://www.security-insider.de/sitemap_contents30.xml",
+        "https://www.security-insider.de/sitemap_contents31.xml",
+        "https://www.security-insider.de/sitemap_contents32.xml",
+        "https://www.security-insider.de/sitemap_contents33.xml",
+        "https://www.security-insider.de/sitemap_contents34.xml",
+        "https://www.security-insider.de/sitemap_contents35.xml",
+        "https://www.security-insider.de/sitemap_contents36.xml",
+        "https://www.security-insider.de/sitemap_contents37.xml",
+        "https://www.security-insider.de/sitemap_contents38.xml",
+        "https://www.security-insider.de/sitemap_contents39.xml",
+        "https://www.security-insider.de/sitemap_contents40.xml",
+        "https://www.security-insider.de/sitemap_contents41.xml",
+        "https://www.security-insider.de/sitemap_contents42.xml",
+        "https://www.security-insider.de/sitemap_contents43.xml",
+        "https://www.security-insider.de/sitemap_contents44.xml",
+        "https://www.security-insider.de/sitemap_contents45.xml",
+        "https://www.security-insider.de/sitemap_contents46.xml",
+        "https://www.security-insider.de/sitemap_contents47.xml",
+        "https://www.security-insider.de/sitemap_contents48.xml",
+        "https://www.security-insider.de/sitemap_contents49.xml",
+        "https://www.security-insider.de/sitemap_contents50.xml",
+        "https://www.security-insider.de/sitemap_contents51.xml",
+        "https://www.security-insider.de/sitemap_contents52.xml",
+        "https://www.security-insider.de/sitemap_contents53.xml",
+        "https://www.security-insider.de/sitemap_contents54.xml",
+        "https://www.security-insider.de/sitemap_contents55.xml",
+        "https://www.security-insider.de/sitemap_contents56.xml",
+        "https://www.security-insider.de/sitemap_contents57.xml",
+        "https://www.security-insider.de/sitemap_contents58.xml",
+        "https://www.security-insider.de/sitemap_contents59.xml",
+        "https://www.security-insider.de/sitemap_contents60.xml",
+        "https://www.security-insider.de/sitemap_contents61.xml",
+        "https://www.security-insider.de/sitemap_contents62.xml",
+        "https://www.security-insider.de/sitemap_contents63.xml",
+        "https://www.security-insider.de/sitemap_contents64.xml",
+        "https://www.security-insider.de/sitemap_contents65.xml",
+        "https://www.security-insider.de/sitemap_contents66.xml",
+        "https://www.security-insider.de/sitemap_contents67.xml",
+        "https://www.security-insider.de/sitemap_contents68.xml",
+        "https://www.security-insider.de/sitemap_contents69.xml",
+        "https://www.security-insider.de/sitemap_contents70.xml",
+        "https://www.security-insider.de/sitemap_contents71.xml",
+        "https://www.security-insider.de/sitemap_contents72.xml",
+        "https://www.security-insider.de/sitemap_contents73.xml",
+        "https://www.security-insider.de/sitemap_contents74.xml",
+        "https://www.security-insider.de/sitemap_contents75.xml",
+        "https://www.security-insider.de/sitemap_contents76.xml",
+        "https://www.security-insider.de/sitemap_contents77.xml",
+        "https://www.security-insider.de/sitemap_contents78.xml",
+        "https://www.security-insider.de/sitemap_contents79.xml",
+        "https://www.security-insider.de/sitemap_contents80.xml",
+        "https://www.security-insider.de/sitemap_news1.xml",
+        "https://www.security-insider.de/sitemap_images1.xml",
+        "https://www.security-insider.de/sitemap_images2.xml",
+        "https://www.security-insider.de/sitemap_images3.xml",
+        "https://www.security-insider.de/sitemap_images4.xml",
+        "https://www.security-insider.de/sitemap_images5.xml",
+        "https://www.security-insider.de/sitemap_images6.xml",
+        "https://www.security-insider.de/sitemap_images7.xml",
+        "https://www.security-insider.de/sitemap_images8.xml",
+        "https://www.security-insider.de/sitemap_images9.xml",
+        "https://www.security-insider.de/sitemap_images10.xml",
+        "https://www.security-insider.de/sitemap_images11.xml",
+        "https://www.security-insider.de/sitemap_images12.xml",
+        "https://www.security-insider.de/sitemap_images13.xml",
+        "https://www.security-insider.de/sitemap_images14.xml",
+        "https://www.security-insider.de/sitemap_images15.xml",
+        "https://www.security-insider.de/sitemap_images16.xml",
+        "https://www.security-insider.de/sitemap_images17.xml",
+        "https://www.security-insider.de/sitemap_videos1.xml",
+        "https://www.security-insider.de/sitemap_companies1.xml",
+        "https://www.security-insider.de/sitemap_webinars1.xml",
+        "https://www.security-insider.de/sitemap_webinars2.xml",
+        "https://www.security-insider.de/sitemap_webinars3.xml",
+        "https://www.security-insider.de/sitemap_whitepapers1.xml",
+        "https://www.security-insider.de/sitemap_whitepapers2.xml",
+        "https://www.security-insider.de/sitemap_whitepapers3.xml",
+        "https://www.security-insider.de/sitemap_whitepapers4.xml",
+        "https://www.security-insider.de/sitemap_whitepapers5.xml",
+        "https://www.security-insider.de/sitemap_whitepapers6.xml",
+        "https://www.security-insider.de/sitemap_whitepapers7.xml",
+        "https://www.security-insider.de/sitemap_whitepapers8.xml",
+        "https://www.security-insider.de/sitemap_company_news1.xml",
+        "https://www.security-insider.de/sitemap_company_downloads1.xml",
+        "https://www.security-insider.de/sitemap_company_events1.xml",
+        "https://www.security-insider.de/sitemap_company_products1.xml",
+        "https://www.security-insider.de/sitemap_company_videos1.xml",
+        "https://www.security-insider.de/sitemap_company_images1.xml",
+        "https://www.security-insider.de/sitemap_company_aboutus1.xml",
+        "https://www.security-insider.de/sitemap_company_contact1.xml",
+        "https://www.security-insider.de/sitemap_company_webinars1.xml",
+        "https://www.security-insider.de/sitemap_company_whitepapers1.xml"
+      ],
+      "childResults": [
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_companies1.xml",
+          "status": 200,
+          "sha256": "99483e26e85e9133ff871523b1cc1d46e18fa072aed8a5c7ce716dc4a8d65bec",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_aboutus1.xml",
+          "status": 200,
+          "sha256": "5ba3614ff375f9c06f69e07f395a062921881f4ab9b023375e725f585e52f4cb",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_contact1.xml",
+          "status": 200,
+          "sha256": "60c52edd09257554f1787064aefac0ec65034283ab9f86aa81d560e545f33284",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_downloads1.xml",
+          "status": 200,
+          "sha256": "100350aa99c2b6ef7c0dc75f4bd37ada473e0b1f7b1bc6f06d4b3fb521d38eaf",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_events1.xml",
+          "status": 200,
+          "sha256": "235b49a0b12d38c0795374a2846141d3279ed3e50be2c81d053a6665a69dca08",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_news1.xml",
+          "status": 200,
+          "sha256": "63549afcd8928921d2ad02034f8bd2e5bb6ae372f780824a3c1171c14d69e07c",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_products1.xml",
+          "status": 200,
+          "sha256": "582de21c67b6f7ec78363b3bfd3430fe010d2111120afabbf9267fbc17b95967",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_videos1.xml",
+          "status": 200,
+          "sha256": "e65dd969c5583a8d2184c37653c76b0e6bfb7b6a0e42d14d08ea975ec2c4286c",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_webinars1.xml",
+          "status": 200,
+          "sha256": "cc980a6fc56102d7a14f6c2a41fceab4bdcd1332f78f697e0aad91546a9f832a",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_company_whitepapers1.xml",
+          "status": 200,
+          "sha256": "1e7513cc997d4472a69b48f3d146093bc37e5bf4b7498278e4df297e783d32da",
+          "urlCount": 16,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents1.xml",
+          "status": 200,
+          "sha256": "d20779ab947c94dcbf214fc6012ae0fa1a3a57273998b538fbf49af53afb6847",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents10.xml",
+          "status": 200,
+          "sha256": "c65f1c2b57034a7616e8cb4589fd0d9c2ee54dc4d9b5d5a29b2623dfd9654841",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents11.xml",
+          "status": 200,
+          "sha256": "1164434ecb5f82ed2ea4c5404328fab952e2752f2d5ba42ebf355beef72dac3e",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents12.xml",
+          "status": 200,
+          "sha256": "3bce3d3be7de3e5dab61629cc9ea1fa4cbfeb83c215a6543c0a6063a5376247d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents13.xml",
+          "status": 200,
+          "sha256": "ede3d0bd996bbe44b743d3114a06c81007e88ead4bdafdbdc9a25b0ed01c5e4c",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents14.xml",
+          "status": 200,
+          "sha256": "7383502e6094649092e29596947ff8aac4548fb251c0906860ca3fad166cb668",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents15.xml",
+          "status": 200,
+          "sha256": "a820a9a57212624a012da16d6a547ddbb6a9f309284eb398508c06f53448bde1",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents16.xml",
+          "status": 200,
+          "sha256": "84c5657b8c14c05b30110d88368e12226bc7402773ff15a889a9ffccb49d1b2f",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents17.xml",
+          "status": 200,
+          "sha256": "4d5fda83049d6a918fc9846c044d19f9cd2459d97df8a99ea048ffec087aa3c2",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents18.xml",
+          "status": 200,
+          "sha256": "8a00f302bdaaa1588a790e3191e6d2666e05420314e988887fdde3e0ed9ac342",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents19.xml",
+          "status": 200,
+          "sha256": "0fca6e0555b62b2e11be7820a46a6158ed3717445c8acc65e6a24377e088f915",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents2.xml",
+          "status": 200,
+          "sha256": "21e0a817cee860027ace45076a9f73b650287fc3714b19d0b7e5ce1ab0675527",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents20.xml",
+          "status": 200,
+          "sha256": "1b5c0e3cf457a364970d0dd198bf243cbee1202f7f401d7cb88b627357c74fad",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents21.xml",
+          "status": 200,
+          "sha256": "ad5fbff1874b1f6cdfab2ed9a3d1c1813df250004e758c49ade1ad564499fc87",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents22.xml",
+          "status": 200,
+          "sha256": "632302f28584cc80d44bc7d84fc1db1f35757303d42a506910c952850f7b29f1",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents23.xml",
+          "status": 200,
+          "sha256": "4616e4f2ebabb88213dd8dd8f4444cff912c116dc74d26a28769145c81b844c5",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents24.xml",
+          "status": 200,
+          "sha256": "2fa6b1d3e0f990c749e11c31f97238ef7900f38fea13dd32c62016e29d1c155b",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents25.xml",
+          "status": 200,
+          "sha256": "7b8b8173f912209b14a124011bcf9a9c9042fbd2bca00bee03224419c44ca204",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents26.xml",
+          "status": 200,
+          "sha256": "7d42258eca0ac4447fb32fb81d7e2c87ff90f55b47cebc89d7b9d45ee093cb7f",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents27.xml",
+          "status": 200,
+          "sha256": "98e37587f1ca16c7605c2bbf4a69b0e74c5c1aeb3273af453ed3928c6a789cec",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents28.xml",
+          "status": 200,
+          "sha256": "53b38a45d386c7d59bc72790bb2a26f90f9de171c6b28d4f8240e6b8d4c0003b",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents29.xml",
+          "status": 200,
+          "sha256": "8f66fc054e9126f95654af296a81ba6e5a1850e40e1ea1925142d5e8f3ee61e2",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents3.xml",
+          "status": 200,
+          "sha256": "604770001c214c32f7fa663b89cb0418e8ce2bfbc6b5036e2a670c080e3f6ab7",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents30.xml",
+          "status": 200,
+          "sha256": "0e01b5d8b3dc12575c32570f85a94503f65f8cc945f02ee76c1979c907af3814",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents31.xml",
+          "status": 200,
+          "sha256": "a2b4b248b3b2913ef219e37eb3b05e7307d6cbbc0f8068c015f4f3ea11965e06",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents32.xml",
+          "status": 200,
+          "sha256": "636b8ad4815408c7f7660d521df5bb6a43e52082eb85815c816305380649a4c9",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents33.xml",
+          "status": 200,
+          "sha256": "4bd35e3a6ba560c157856c7f22109a0a871678b60bdaaef2c47cba1143a7fe22",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents34.xml",
+          "status": 200,
+          "sha256": "121c25e377dad0ece506bcf4b470a5a89e69a4c5e97410633a11eb9c3347398d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents35.xml",
+          "status": 200,
+          "sha256": "aa87eb02a88f2a1a4f70142d503fc433cf8d284e1e5bf442f79fac90b6df42c1",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents36.xml",
+          "status": 200,
+          "sha256": "4d415354a1cc7180f3ff6a47f38f13832d98ae37e6b5e4083f8c12569e4a2b0c",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents37.xml",
+          "status": 200,
+          "sha256": "b7285c469e94dfb12e706ac877de039e8341881524acf5999a357c250768878d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents38.xml",
+          "status": 200,
+          "sha256": "eeb278cb79c01fd77453cd790066c1b8c8d67ea24e84e255f31efdbf0e91930c",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents39.xml",
+          "status": 200,
+          "sha256": "3963854cd15cc743848b6da41a87c776e1fc6498c80db84491d88dce85ad5aa9",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents4.xml",
+          "status": 200,
+          "sha256": "6fdb142c52072c318fb363e583a325c8a590ffd9c773259bb45f13e6c4f7fea8",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents40.xml",
+          "status": 200,
+          "sha256": "cf242b5d50cf74b4d7c825fab8e14d5a4264cf6ba1040af8e13cf6754cd2c27d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents41.xml",
+          "status": 200,
+          "sha256": "54f28a02a945e701108db843bff7ff18f79ecdd7f7f0799c509751704a254e59",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents42.xml",
+          "status": 200,
+          "sha256": "08135f8ada4c1999cc318e795b80192bface1c7a26f60e7be43f480644ff362d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents43.xml",
+          "status": 200,
+          "sha256": "f8da255cda61ab618c26082cb14b8f42c330fdae2b1fb2ad8dc3401a887a6abc",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents44.xml",
+          "status": 200,
+          "sha256": "5ce7820d6928e909834a771aaf50dea7dc58d40eddf6f339eb8bc01bbc292c79",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents45.xml",
+          "status": 200,
+          "sha256": "2216ffd3baad5610ae055618cfe485589111c06b6fefb0509af6655ded9e0d10",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents46.xml",
+          "status": 200,
+          "sha256": "ab52a8e051dfee43374fd3d4f87a26f5ff0f49e0484ca3b6c18b26394af3bde4",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents47.xml",
+          "status": 200,
+          "sha256": "8719a33ba1ce87c5fb51bf77add6790c80315ad320fb3aad5106c5e7ec5be614",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents48.xml",
+          "status": 200,
+          "sha256": "c4a13aab0b837203dfac68ea37b55638e6bbe5907d5256ade4c88a81c7239f0f",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents49.xml",
+          "status": 200,
+          "sha256": "52ce63309de4644f8be78c5290e807a66b2cbcd4c9cbbb925886f80b75fa6a4e",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents5.xml",
+          "status": 200,
+          "sha256": "a45c602e086eb1787dc393b8590aa1bf15194cd51320b43074ec28df8526d009",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents50.xml",
+          "status": 200,
+          "sha256": "1c087f1fc851114d92f11e81e3a88f92ec8c3e02f62ad9323fc184c068ab9ee1",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents51.xml",
+          "status": 200,
+          "sha256": "50bc2fe4e3ad6abd63ad035e2cd29a5e33f0450869f6129471d0c17c90e83783",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents52.xml",
+          "status": 200,
+          "sha256": "f7d8982ff538c245cfd4081c393e8e7eabfb9a553e702e7673242dc051caede2",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents53.xml",
+          "status": 200,
+          "sha256": "e6139deb0a376957708ee93d7865b8eeebcf07aa120571093dafff96da3ac075",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents54.xml",
+          "status": 200,
+          "sha256": "68a2cab06a850c479aef4468d14645bf11a921c61cd5e13e956ec2b47f2a6ed5",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents55.xml",
+          "status": 200,
+          "sha256": "80613346b2113f935df658a266425bef171290eaa5020d454d3bf07d169452d4",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents56.xml",
+          "status": 200,
+          "sha256": "2960735edc44c054ad817914a2b182736b1f5cbbff3172c87cc4452404073537",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents57.xml",
+          "status": 200,
+          "sha256": "9feff7870697b3f6c20576eefb963253eb746221b8e9877cd00d0b1c1f2a3227",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents58.xml",
+          "status": 200,
+          "sha256": "0a1665eec977187aefa5f3110b18de2ab8b319fc9f62102f2162650b9de21b3d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents59.xml",
+          "status": 200,
+          "sha256": "c4046653fa10bbb0b09139c0fbaac0cda8da41b09c674b3d5dc0360caa38187c",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents6.xml",
+          "status": 200,
+          "sha256": "3b1df4407b4849ca17347d7c2bcbf1655831db2dea43426fb19c6eea3f837e4c",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents60.xml",
+          "status": 200,
+          "sha256": "c36fcc55c89d49f00607f06b88702f6b163ebba8c35ff11e26e40c07f7ecd51a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents61.xml",
+          "status": 200,
+          "sha256": "534a7f44d14c8f05fc8fd927f2e6178967483aaef110d09fe215181a78bbe497",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents62.xml",
+          "status": 200,
+          "sha256": "580c5abc2f5cc50463f91be31d1ac837e0b120ac14c5f9f0454e0ac519d51997",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents63.xml",
+          "status": 200,
+          "sha256": "e50465c3ad77a777501004450d294e761dac8e933550e86b4ad3ab4e823fbaef",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents64.xml",
+          "status": 200,
+          "sha256": "fe51fd9ad3c2609a6e6ff4c6e97e25a9cf9f9b229fc2bb1b750ac1c6029d1fc7",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents65.xml",
+          "status": 200,
+          "sha256": "7fa996a6104f3c1c77b0c081ac7d3bb92157e690c0160d54adcf83298dfc9ad7",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents66.xml",
+          "status": 200,
+          "sha256": "7c4c6dfecee8df0792314c28f5c83875eb3c58e72fba4ff155ef34c90878f5bf",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents67.xml",
+          "status": 200,
+          "sha256": "6bc144191351d8b3b8730d6773fa0a9b52f0a57bf80324dd9fc2f69671e02ead",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents68.xml",
+          "status": 200,
+          "sha256": "9052105b00d1dc14e4b522c94b58aea640a0df2d7cce50814dff253235d8a7ca",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents69.xml",
+          "status": 200,
+          "sha256": "d74f79cf2da010e3133610912ec75396c59dd1e8bbb8b3bcc978a0f8ac672296",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents7.xml",
+          "status": 200,
+          "sha256": "c20b3b27e5c8f5c149736e06268970df72adfeeebdc3963a3073205514ef5b80",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents70.xml",
+          "status": 200,
+          "sha256": "5c173d63e75f93d4d2822180169ede532e4c1465a0388fc218f76fabc87faab2",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents71.xml",
+          "status": 200,
+          "sha256": "794b4c9ace2d68536ae0aa5bb97c0b05e5c24bfd03db1c4fdc5032104d035aef",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents72.xml",
+          "status": 200,
+          "sha256": "448fc0bfb01fda5cd11e5eb65aff6c2d34a73e29a59ffc994e94bafcd5e7a17a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents73.xml",
+          "status": 200,
+          "sha256": "c57d47b1db946f8f177f6555c4f705bb0be009cbc6000b7cb3792926cf790cde",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents74.xml",
+          "status": 200,
+          "sha256": "151020ed37d5d8dd23620d80015498a872f33ee9ba4a9270d95499198bed4002",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents75.xml",
+          "status": 200,
+          "sha256": "094d28c1aeb4e845ace228e75e83a5b94db03285a5c16f134175919c0e46c5d1",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents76.xml",
+          "status": 200,
+          "sha256": "5e95fdd9804a6c8408239f2e98ffa008fb2e85ab6fc5d1bc64348c0b894c03a3",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents77.xml",
+          "status": 200,
+          "sha256": "44643faff2f2e75954125d88ca9edfd0fcdfae8db678d4b03dbf641edde94bd5",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents78.xml",
+          "status": 200,
+          "sha256": "957fd430104494b13c2f23126c39dc7e9332dafb46ce8b9ff5dccbef250ed481",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents79.xml",
+          "status": 200,
+          "sha256": "c2e35413b5605924f882ead5996b297b593d816d1dfeaca31a9bbe4faaa0a396",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents8.xml",
+          "status": 200,
+          "sha256": "079113c09142b835033dff4dd45a6724f05bed2479201b16978a2e125118e40d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents80.xml",
+          "status": 200,
+          "sha256": "b18cd807d07d1cc8ca4c9fb4a32920982e79e1b317e4dafa9f247aa419c0d85a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_contents9.xml",
+          "status": 200,
+          "sha256": "d05c5c42364a13c1ca0fa3def0be2f23ba450696a0ca1945d70e362fba18509a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_news1.xml",
+          "status": 200,
+          "sha256": "55c5ccfa26abd3587a544af8b7f5a0e59d6311eb1026ca179440e854f90a209c",
+          "urlCount": 3,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_pages.xml",
+          "status": 200,
+          "sha256": "3deafee42ff684ec060e84e4983513fd203aa66581fbc616b81b2a91c052eeb1",
+          "urlCount": 91,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_videos1.xml",
+          "status": 200,
+          "sha256": "d940ada51db600d58f741a0f7b0dc88cd447051fce87e93ba5f2be7721e7d108",
+          "urlCount": 9,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_webinars1.xml",
+          "status": 200,
+          "sha256": "ea906dbf23360aac0a317e65d6a9db4258809162e316e872385ced192953e8f9",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_webinars2.xml",
+          "status": 200,
+          "sha256": "9979f1b010c266fa8a993bd3a13f28a211a6e3f7985d4a4cc87a4372204cb778",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_webinars3.xml",
+          "status": 200,
+          "sha256": "9e6ac12dfb3882de9d533f3ee6b7591a58688f652246a33248a800e1d302700d",
+          "urlCount": 38,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers1.xml",
+          "status": 200,
+          "sha256": "a583f6934ecce5d8ac4e4fbe6fb28b8a2edae629e703dcd6b9a39ef6570bfd4d",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers2.xml",
+          "status": 200,
+          "sha256": "39d47cb9deee22b9dce512f419ffd28a4cf57058afdcadbf70d5889975242851",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers3.xml",
+          "status": 200,
+          "sha256": "b940e020a95a519884c0a872ee4c0802aae0b6a685c8578fe36c4ad83314626a",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers4.xml",
+          "status": 200,
+          "sha256": "cd4f262c7ee5477c92667e6997edaa8429d74133da42a876ae30f34a08f2f244",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers5.xml",
+          "status": 200,
+          "sha256": "30f28643a16499e466ba46ace126ca700c6b85966344000383ab2cb5c50444f4",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers6.xml",
+          "status": 200,
+          "sha256": "6ae49d697e088badf55f111ce434d2e922ef7f2673bff56d3b50f8ebfd4fed67",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers7.xml",
+          "status": 200,
+          "sha256": "151bea2ee27815c5297e3cfb16c6dbaf982324f287324686c38f6cdfd9518982",
+          "urlCount": 125,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Security-Insider",
+          "url": "https://www.security-insider.de/sitemap_whitepapers8.xml",
+          "status": 200,
+          "sha256": "52d100ee251d2a5049018b61d929855ae60560a14a8f6ffe05d449705749fac4",
+          "urlCount": 116,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 11536,
+      "modifiedUnseenCandidateCount": 62,
+      "selectedNewKnowledge": 8,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "Telecom Handel",
+      "base": "https://www.telecom-handel.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://www.telecom-handel.de/sitemap",
+          "final": "https://www.telecom-handel.de/sitemap",
+          "status": 200
+        }
+      ],
+      "children": [],
+      "childResults": [],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 1610,
+      "modifiedUnseenCandidateCount": 1522,
+      "selectedNewKnowledge": 1,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap discovery completed with per-request errors retained; lastmod is never a publication date."
+    },
+    {
+      "source": "WEKA Downloads",
+      "base": "https://www.weka.de",
+      "robotsStatus": "HTTP Error 503: Service Unavailable",
+      "sitemaps": [
+        {
+          "url": "https://www.weka.de/download-sitemap.xml",
+          "error": "HTTP Error 503: Service Unavailable"
+        }
+      ],
+      "children": [],
+      "childResults": [],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 0,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "HTTP 503. Coverage unresolved; no automatic import or activation."
+    },
+    {
+      "source": "Whitepaper CIO.de",
+      "base": "https://whitepaper.cio.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://whitepaper.cio.de/sitemap.xml",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://whitepaper.cio.de/sitemap_index.xml",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "children": [],
+      "childResults": [],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 0,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 21,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Sitemap 404; public first-party resource API and selected landing pages used."
+    },
+    {
+      "source": "Whitepaper Silicon.de",
+      "base": "https://whitepaper.silicon.de",
+      "robotsStatus": 200,
+      "sitemaps": [
+        {
+          "url": "https://whitepaper.silicon.de/wp-sitemap.xml",
+          "final": "https://whitepaper.silicon.de/wp-sitemap.xml",
+          "status": 200
+        }
+      ],
+      "children": [
+        "https://whitepaper.silicon.de/wp-sitemap-posts-page-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-posts-resource-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-posts-resource-2.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-taxonomies-category-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-taxonomies-post_tag-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-taxonomies-displayed_advertisers-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-taxonomies-displayed_authors-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-taxonomies-language_of_document-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-taxonomies-resource_type-1.xml",
+        "https://whitepaper.silicon.de/wp-sitemap-users-1.xml"
+      ],
+      "childResults": [
+        {
+          "source": "Whitepaper Silicon.de",
+          "url": "https://whitepaper.silicon.de/wp-sitemap-posts-page-1.xml",
+          "status": 200,
+          "sha256": "3b3fb61e812cd6383c3a7901a1d3b4d8d752881fb79b5c4ac21570e3c7e4c140",
+          "urlCount": 3,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Whitepaper Silicon.de",
+          "url": "https://whitepaper.silicon.de/wp-sitemap-posts-resource-1.xml",
+          "status": 200,
+          "sha256": "aec54449c480f8117b99cf979f25e0bdbdec5f307509e7f4c24ce472106c17de",
+          "urlCount": 2000,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Whitepaper Silicon.de",
+          "url": "https://whitepaper.silicon.de/wp-sitemap-posts-resource-2.xml",
+          "error": "HTTP Error 404: Not Found",
+          "urlCount": 0,
+          "nestedIndexes": 0
+        },
+        {
+          "source": "Whitepaper Silicon.de",
+          "url": "https://whitepaper.silicon.de/wp-sitemap-users-1.xml",
+          "status": 200,
+          "sha256": "da9e9d4f601494e351f873d520576ce911b7674cb00a8848f4e5c34c46f355f7",
+          "urlCount": 15,
+          "nestedIndexes": 0
+        }
+      ],
+      "checkedAt": "2026-10-19",
+      "sitemapUrlCount": 2018,
+      "modifiedUnseenCandidateCount": 0,
+      "selectedNewKnowledge": 0,
+      "scope": "Sitemap and URL discovery; selected source pages reviewed individually. Raw URL count may include archives, images and non-German content.",
+      "statusNote": "Resource sitemap 1 and RSS accessible; resource sitemap 2 returned 404 and API was denied. No clearly new selected IT resource; prior unresolved publisher identity remains pending."
+    }
+  ]
+}

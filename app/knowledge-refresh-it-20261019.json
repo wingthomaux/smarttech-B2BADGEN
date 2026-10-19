@@ -1,0 +1,16 @@
+[
+  {
+    "id": 4784,
+    "format": "Webcast",
+    "solution": "Integrierte Cyberabwehr und Detection & Response",
+    "delivery": "Registrierungspflichtiger Live-Webcast",
+    "lifecycle": "Bewertung und Sicherheitsplanung",
+    "stage": "Vorstrukturiert",
+    "note": "Sophos-Webcast am 22.10.2026 um 11 Uhr zu KI-gestützten Angriffen, vernetzten Schutzkomponenten und Detection & Response. Geprüft wurde die öffentliche heise-Landingpage mit Anbieterfeld. Der Termin liegt nach dem Prüftag 19.10.2026; weder Anmeldung noch Aufzeichnung wurden genutzt.",
+    "eventPeriod": "2026-10-22",
+    "sourceReviewWarning": {
+      "de": "Aktualisierte Landingpage am 19.10.2026 geprüft. Das ursprüngliche Portal-Publikationsdatum bleibt erhalten; Live-Termin und Volltextstatus sind davon getrennt.",
+      "en": "Updated landing page reviewed on 19 October 2026. Original portal publication date is preserved; live date and full-content status remain distinct."
+    }
+  }
+]

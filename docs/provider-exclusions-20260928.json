@@ -1,0 +1,4241 @@
+[
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 108,
+    "c": "Zu prüfen",
+    "d": "2026-08-19",
+    "t": "KI im Kundenfeedback: Wie Scoot Erkenntnisse schneller in Maßnahmen umsetzt",
+    "u": "https://www.marketingleiter.today/ki-im-kundenfeedback-wie-scoot-erkenntnisse-schneller-in-massnahmen-umsetzt/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 245,
+    "c": "Zu prüfen",
+    "d": "2026-08-11",
+    "t": "Für zu Hause gemacht: Warum Consumer-Hardware im Unternehmen zum Sicherheitsrisiko wird",
+    "u": "https://www.it-management.today/ki-und-cybersecurity-warum-der-mittelstand-seine-it-sicherheit-jetzt-neu-bewerten-sollte/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 260,
+    "c": "Zu prüfen",
+    "d": "2026-08-10",
+    "t": "Datensouveränität messbar machen: Welche Cloud-Strategie passt zu Ihrem Unternehmen?",
+    "u": "https://www.it-management.today/datensouveraenitaet-messbar-machen-welche-cloud-strategie-passt-zu-ihrem-unternehmen/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 340,
+    "c": "Buchautor",
+    "d": "2026-08-04",
+    "t": "Führungskräfte sollten von Ludwig Erhard lernen!",
+    "u": "https://www.personalleiter.today/fuehrungskraefte-sollten-von-ludwig-erhard-lernen/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 390,
+    "c": "Zu prüfen",
+    "d": "2026-07-31",
+    "t": "KI macht Cybersecurity-Prüfungen skalierbar",
+    "u": "https://www.it-management.today/ki-macht-cybersecurity-pruefungen-skalierbar/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 471,
+    "c": "Zu prüfen",
+    "d": "2026-07-28",
+    "t": "Drei Möglichkeiten, wie Produktteams ihr Stakeholder-Management verbessern können",
+    "u": "https://www.produktionsleiter.today/drei-moeglichkeiten-wie-produktteams-ihr-stakeholder-management-verbessern-koennen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 479,
+    "c": "Dieses nachträgliche Auswerten von Ereignissen",
+    "d": "2026-07-27",
+    "t": "Von der Fanstimme zur Maßnahme: Wie die PGA TOUR Fanfeedback in Wettbewerbsvorteile verwandelt",
+    "u": "https://www.marketingleiter.today/von-der-fanstimme-zur-massnahme/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Vermuteter Herausgeber aus erstem Unternehmenslink",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 919,
+    "c": "Zu prüfen",
+    "d": "2026-07-08",
+    "t": "Vom Rasierhobel zum Shampoo: Wie sich Männerpflege gerade neu erfindet",
+    "u": "https://www.marketingleiter.today/vom-rasierhobel-zum-shampoo-wie-sich-maennerpflege-gerade-neu-erfindet/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 969,
+    "c": "Zu prüfen",
+    "d": "2026-07-06",
+    "t": "Midea Energy – CLOU Electronics präsentiert seine Full-Stack-Energiespeicherlösungen auf der „Smarter E Europe 2026“ in Deutschland",
+    "u": "https://www.produktionsleiter.today/midea-energy-clou-electronics-praesentiert-seine-full-stack-energiespeicherloesungen-auf-der-smarter-e-europe-2026-in-deutschland/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1094,
+    "c": "Zu prüfen",
+    "d": "2026-06-30",
+    "t": "Wie können KMUs in Zeiten von KI-Slop Vertrauen aufbauen?",
+    "u": "https://www.marketingleiter.today/wie-koennen-kmus-in-zeiten-von-ki-slop-vertrauen-aufbauen/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1123,
+    "c": "Zu prüfen",
+    "d": "2026-06-29",
+    "t": "Wie Handwerksbetriebe von ChatGPT-Agenten profitieren könne",
+    "u": "https://www.it-management.today/wie-handwerksbetriebe-von-chatgpt-agenten-profitieren-koenne/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1373,
+    "c": "Zu prüfen",
+    "d": "2026-06-16",
+    "t": " Neue Skillsoft-Studie zeigt: Nur jeder fünfte Mitarbeitende fühlt sich für KI gerüstet",
+    "u": "https://www.personalleiter.today/neue-skillsoft-studie-zeigt-nur-jeder-fuenfte-mitarbeitende-fuehlt-sich-fuer-ki-geruestet/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1435,
+    "c": "Zu prüfen",
+    "d": "2026-06-11",
+    "t": "Energiebeschaffung in volatilen Märkten: Warum Unternehmen ihre Beschaffungsstrategie neu denken sollten",
+    "u": "https://www.produktionsleiter.today/energiebeschaffung-in-volatilen-maerkten-warum-unternehmen-ihre-beschaffungsstrategie-neu-denken-sollten/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 1456,
+    "c": "services-sbc",
+    "d": "2026-06-10",
+    "t": "SNOW LEAGUE VERÖFFENTLICHT KALENDER FÜR DIE ZWEITE SAISON",
+    "u": "https://www.marketingleiter.today/snow-league-veroeffentlicht-kalender-fuer-die-zweite-saison/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1483,
+    "c": "Zu prüfen",
+    "d": "2026-06-09",
+    "t": "Mehr Effizienz, besserer Vertrieb, erhöhte Sichtbarkeit: Wie datasolut Presales zum Wachstumstreiber machte",
+    "u": "https://www.it-management.today/mehr-effizienz-besserer-vertrieb-erhoehte-sichtbarkeit-wie-datasolut-presales-zum-wachstumstreiber-machte/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 1498,
+    "c": "San Francisco Frontiers",
+    "d": "2026-06-08",
+    "t": "SCANDIC COIN und COINBASE Listung als Brücke zu realen Vermögenswerten",
+    "u": "https://www.it-management.today/scandic-coin-und-coinbase-listung-als-bruecke-zu-realen-vermoegenswerten-2/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1523,
+    "c": "Zu prüfen",
+    "d": "2026-06-04",
+    "t": "IT-Fachkräftemangel lösen: Wie Mittelständler zusätzliche Entwicklungskapazitäten aufbauen können",
+    "u": "https://www.it-management.today/it-fachkraeftemangel-loesen-wie-mittelstaendler-zusaetzliche-entwicklungskapazitaeten-aufbauen-koennen/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 1643,
+    "c": "Alexis Sophos",
+    "d": "2026-05-27",
+    "t": "Die fünf wichtigsten Punkte einer seriösen Partnerrückführung.",
+    "u": "https://www.marketingleiter.today/die-fuenf-wichtigsten-punkte-einer-serioesen-partnerrueckfuehrung/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 1674,
+    "c": "NEUES WIENER TAGBLATT",
+    "d": "2026-05-26",
+    "t": "SNC Scandic Coin: Reguliertes real-world-asset Projekt startet auf BingX, BitMart, L-Bank und Biconomy",
+    "u": "https://www.it-management.today/snc-scandic-coin-reguliertes-real-world-asset-projekt-startet-auf-bingx-bitmart-l-bank-und-biconomy/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1688,
+    "c": "Zu prüfen",
+    "d": "2026-05-26",
+    "t": "Experience Gap: Wissen ohne Wirkung?",
+    "u": "https://www.marketingleiter.today/experience-gap-wissen-ohne-wirkung/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 1708,
+    "c": "CIGAR NEWSFEED",
+    "d": "2026-05-21",
+    "t": "Die größte Lüge vieler Business-Netzwerke?",
+    "u": "https://www.personalleiter.today/die-groesste-luege-vieler-business-netzwerke/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1779,
+    "c": "Zu prüfen",
+    "d": "2026-05-19",
+    "t": "Shiny Hair erwartet Umsatzplus von 20 Prozent – E-Commerce wird zum zentralen Wachstumstreiber",
+    "u": "https://www.marketingleiter.today/shiny-hair-erwartet-umsatzplus-von-20-prozent-e-commerce-wird-zum-zentralen-wachstumstreiber/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1786,
+    "c": "Buchautor",
+    "d": "2026-05-15",
+    "t": "Tech-Milliardäre wollen die Welt verändern",
+    "u": "https://www.personalleiter.today/tech-milliardaere-wollen-die-welt-veraendern/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 1822,
+    "c": "Aura Escort Frankfurt",
+    "d": "2026-05-12",
+    "t": "Aura Escort steht der wirtschaftlichen Herausforderung resilient gegenüber",
+    "u": "https://www.personalleiter.today/aura-escort-steht-der-wirtschaftlichen-herausforderung-resilient-gegenueber/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 1835,
+    "c": "NEUE ZÜRCHER NACHRICHTEN",
+    "d": "2026-05-12",
+    "t": "SNC: Reale Vermögenswerte treffen auf digitale Nutzbarkeit",
+    "u": "https://www.it-management.today/snc-reale-vermoegenswerte-treffen-auf-digitale-nutzbarkeit/",
+    "p": [
+      "IT-Management.today",
+      "Businessleader.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1841,
+    "c": "Zu prüfen",
+    "d": "2026-05-12",
+    "t": "TopSteam firmiert zu OSWALD Transportgeräte – Fokus auf Hubwagen und Lagertechnik ausgebaut",
+    "u": "https://www.produktionsleiter.today/topsteam-firmiert-zu-oswald-transportgeraete-fokus-auf-hubwagen-und-lagertechnik-ausgebaut/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1859,
+    "c": "Zu prüfen",
+    "d": "2026-05-11",
+    "t": "14. IP & Competition Forum",
+    "u": "https://www.marketingleiter.today/14-ip-competition-forum/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1862,
+    "c": "Buchautor",
+    "d": "2026-05-08",
+    "t": "Führungskräfte können viel von Ludwig Erhard lernen!",
+    "u": "https://www.personalleiter.today/fuehrungskraefte-koennen-viel-von-ludwig-erhard-lernen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 1878,
+    "c": "Firma",
+    "d": "2026-05-07",
+    "t": "nova reisen will mit Loyamo an die Spitze der Luxusreisen-Suche",
+    "u": "https://www.marketingleiter.today/nova-reisen-will-mit-loyamo-an-die-spitze-der-luxusreisen-suche/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2082,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-04-28",
+    "t": "Emanuell Charis: Warum Menschen plötzlich den Kontakt abbrechen – obwohl sie Gefühle haben",
+    "u": "https://www.it-management.today/emanuell-charis-warum-menschen-ploetzlich-den-kontakt-abbrechen-obwohl-sie-gefuehle-haben/",
+    "p": [
+      "IT-Management.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2098,
+    "c": "Zu prüfen",
+    "d": "2026-04-28",
+    "t": "Warteschleife nach dem Abschluss: Warum sich Mut zu Zwischenschritten lohnen kann",
+    "u": "https://www.it-management.today/warteschleife-nach-dem-abschluss-warum-sich-mut-zu-zwischenschritten-lohnen-kann/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2099,
+    "c": "Zu prüfen",
+    "d": "2026-04-28",
+    "t": "Vom Napf zum Menü: Food-Trends für Hunde und Katzen 2026",
+    "u": "https://www.marketingleiter.today/vom-napf-zum-menue-food-trends-fuer-hunde-und-katzen-2026/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2114,
+    "c": "Zu prüfen",
+    "d": "2026-04-27",
+    "t": "ecanis startet eigene Motoröl-Reihe – Premiumqualität ohne Markenaufschlag",
+    "u": "https://www.produktionsleiter.today/ecanis-startet-eigene-motoroel-reihe-premiumqualitaet-ohne-markenaufschlag/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2194,
+    "c": "Zu prüfen",
+    "d": "2026-04-23",
+    "t": "Employer Branding wird zum Dauerauftrag – Uniwunder-Studie zeigt neue Entscheidungslogik der Generation Z",
+    "u": "https://www.personalleiter.today/employer-branding-wird-zum-dauerauftrag-uniwunder-studie-zeigt-neue-entscheidungslogik-der-generation-z/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2257,
+    "c": "Buchautor",
+    "d": "2026-04-20",
+    "t": "Ludwig Erhard: Vorbild in Krisenzeiten",
+    "u": "https://www.marketingleiter.today/ludwig-erhard-vorbild-in-krisenzeiten/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2280,
+    "c": "Buchautor",
+    "d": "2026-04-18",
+    "t": "Demokratie, Zukunft und Tech-Milliardäre",
+    "u": "https://www.produktionsleiter.today/demokratie-zukunft-und-tech-milliardaere/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2332,
+    "c": "Buchautor",
+    "d": "2026-04-15",
+    "t": "Wird die Welt neu verteilt?",
+    "u": "https://www.personalleiter.today/wird-die-welt-neu-verteilt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2359,
+    "c": "Alexis Sophos",
+    "d": "2026-04-14",
+    "t": "Ex zurückgewinnen: Was viele Menschen nach einer Trennung falsch machen – und was sich in der Praxis wirklich zeigt",
+    "u": "https://www.it-management.today/ex-zurueckgewinnen-was-viele-menschen-nach-einer-trennung-falsch-machen-und-was-sich-in-der-praxis-wirklich-zeigt/",
+    "p": [
+      "IT-Management.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2362,
+    "c": "Buchautor",
+    "d": "2026-04-14",
+    "t": "Neues Buch: Notizen zur Lage der Welt",
+    "u": "https://www.personalleiter.today/neues-buch-notizen-zur-lage-der-welt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2436,
+    "c": "Budapest Media Desk",
+    "d": "2026-04-09",
+    "t": "Emanuell Charis: Ungarische Reporterin stößt auf Prophezeiung, die den aktuellen Iran-Krieg vorweg beschreibt",
+    "u": "https://www.personalleiter.today/emanuell-charis-ungarische-reporterin-stoesst-auf-prophezeiung-die-den-aktuellen-iran-krieg-vorweg-beschreibt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2460,
+    "c": "Zu prüfen",
+    "d": "2026-04-09",
+    "t": "B2B-Leads per KI generieren: Drei Ansätze im Reality-Check",
+    "u": "https://www.it-management.today/b2b-leads-per-ki-generieren-drei-ansaetze-im-reality-check/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2527,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-04-05",
+    "t": "Emanuell Charis: Warum sich Menschen zurückziehen – obwohl sie Interesse haben",
+    "u": "https://www.marketingleiter.today/emanuell-charis-warum-sich-menschen-zurueckziehen-obwohl-sie-interesse-haben/",
+    "p": [
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2657,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-03-27",
+    "t": "Emanuell Charis: Warum der Wunsch, den Ex zurückzugewinnen, oft genau das Gegenteil bewirkt",
+    "u": "https://www.personalleiter.today/emanuell-charis-warum-der-wunsch-den-ex-zurueckzugewinnen-oft-genau-das-gegenteil-bewirkt/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2746,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-03-23",
+    "t": "Emanuell Charis über Fluchbefreiung ohne Rituale: Warum die meisten Methoden Menschen tiefer binden statt befreien",
+    "u": "https://www.it-management.today/emanuell-charis-ueber-fluchbefreiung-ohne-rituale-warum-die-meisten-methoden-menschen-tiefer-binden-statt-befreien/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2766,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-03-20",
+    "t": "Hellsehen Emanuell Charis: Warum Menschen plötzlich Entscheidungen treffen, bevor sie selbst wissen warum",
+    "u": "https://www.it-management.today/hellsehen-emanuell-charis-warum-menschen-ploetzlich-entscheidungen-treffen-bevor-sie-selbst-wissen-warum/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 2846,
+    "c": "Jetzt herunterladen",
+    "d": "2026-03-17",
+    "t": "Digitale Personalakte 2026: Warum HR jetzt handeln muss",
+    "u": "https://www.personalleiter.today/digitale-personalakte-2026-warum-hr-jetzt-handeln-muss/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Vermuteter Herausgeber aus erstem Unternehmenslink",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2858,
+    "c": "Anna Kowalczyk",
+    "d": "2026-03-16",
+    "t": "Emanuell Charis – Der Hellseher aus Deutschland, über den Menschen in ganz Europa sprechen",
+    "u": "https://www.marketingleiter.today/emanuell-charis-der-hellseher-aus-deutschland-ueber-den-menschen-in-ganz-europa-sprechen/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2878,
+    "c": "Julian Weber",
+    "d": "2026-03-16",
+    "t": "Alexis Sophos bei der Berlinale in Berlin – diskrete Treffen abseits des Rampenlichts",
+    "u": "https://www.marketingleiter.today/alexis-sophos-bei-der-berlinale-in-berlin-diskrete-treffen-abseits-des-rampenlichts/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2964,
+    "c": "Julian Weber",
+    "d": "2026-03-10",
+    "t": "Alexis Sophos über Liebe, Trennung und die Dynamik menschlicher Beziehungen – Ein Gespräch über Hoffnung, Klarheit und neue Perspektiven",
+    "u": "https://www.it-management.today/alexis-sophos-ueber-liebe-trennung-und-die-dynamik-menschlicher-beziehungen-ein-gespraech-ueber-hoffnung-klarheit-und-neue-perspektiven/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 2981,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-03-09",
+    "t": "Emanuell Charis: Magie, Flüche und spirituelle Befreiung – warum immer mehr Menschen seine Hilfe suchen",
+    "u": "https://www.it-management.today/emanuell-charis-magie-flueche-und-spirituelle-befreiung-warum-immer-mehr-menschen-seine-hilfe-suchen/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3111,
+    "c": "Spec Media Greece",
+    "d": "2026-02-25",
+    "t": "Ex zurück mit Alexis Sophos – Warum echte Partnerrückführung mehr ist als Hoffnung und wie Sie verlorene Liebe seriös zurückgewinnen können",
+    "u": "https://www.it-management.today/ex-zurueck-mit-alexis-sophos-warum-echte-partnerrueckfuehrung-mehr-ist-als-hoffnung-und-wie-sie-verlorene-liebe-serioes-zurueckgewinnen-koennen/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3125,
+    "c": "Emanuell Charis GmbH",
+    "d": "2026-02-24",
+    "t": "Emanuell Charis: Ist die Zukunft festgelegt? Was seriöses Hellsehen wirklich leisten kann",
+    "u": "https://www.it-management.today/emanuell-charis-ist-die-zukunft-festgelegt-was-serioeses-hellsehen-wirklich-leisten-kann/",
+    "p": [
+      "IT-Management.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 3145,
+    "c": "Zu prüfen",
+    "d": "2026-02-24",
+    "t": "Souverän im Boardroom: Wie IT-Entscheider komplexe Strategien überzeugend präsentieren",
+    "u": "https://www.it-management.today/souveraen-im-boardroom-wie-it-entscheider-komplexe-strategien-ueberzeugend-praesentieren/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 3146,
+    "c": "Zu prüfen",
+    "d": "2026-02-24",
+    "t": "Warum HR-Transformation ohne Haltung scheitert",
+    "u": "https://www.it-management.today/warum-hr-transformation-ohne-haltung-scheitert/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 3189,
+    "c": "Stadtrat",
+    "d": "2026-02-19",
+    "t": "Bestattungsvorsorge Wer übernimmt die Kosten für meine Bestattung?",
+    "u": "https://www.produktionsleiter.today/bestattungsvorsorge-wer-uebernimmt-die-kosten-fuer-meine-bestattung/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3379,
+    "c": "Chogan-Vertriebspartner",
+    "d": "2026-01-29",
+    "t": "Chogan-Parfüm: Adam Bödö zeigt, guter Duft muss nicht teuer sein",
+    "u": "https://www.produktionsleiter.today/chogan-parfuem-adam-boedoe-zeigt-guter-duft-muss-nicht-teuer-sein/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3394,
+    "c": "RNB-KINK",
+    "d": "2026-01-29",
+    "t": "bedrooms – Rhythm & Intimacy",
+    "u": "https://www.personalleiter.today/bedrooms-rhythm-intimacy/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 3515,
+    "c": "Zu prüfen",
+    "d": "2026-01-22",
+    "t": "Zwischen Technologie und Talent: Warum Unternehmen umdenken müssen",
+    "u": "https://www.personalleiter.today/zwischen-technologie-und-talent-warum-unternehmen-umdenken-muessen/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3516,
+    "c": "Alexis Sophos",
+    "d": "2026-01-21",
+    "t": "Ex blockiert mich: Was es wirklich bedeutet – und wie Sie die Tür wieder öffnen (ohne sich klein zu machen)",
+    "u": "https://www.personalleiter.today/ex-blockiert-mich-was-es-wirklich-bedeutet-und-wie-sie-die-tuer-wieder-oeffnen-ohne-sich-klein-zu-machen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3519,
+    "c": "Chogan-Vertriebspartner",
+    "d": "2026-01-21",
+    "t": "Adam & Vanessa: Erfolg im Direktvertrieb mit Chogan Produkten",
+    "u": "https://www.produktionsleiter.today/adam-vanessa-erfolg-im-direktvertrieb-mit-chogan-produkten/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 3556,
+    "c": "Washington, DC",
+    "d": "2026-01-20",
+    "t": "Neu in Washington, DC: Dauerausstellung zum amerikanischen Traum",
+    "u": "https://www.produktionsleiter.today/neu-in-washington-dc-dauerausstellung-zum-amerikanischen-traum/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 3576,
+    "c": "Zu prüfen",
+    "d": "2026-01-16",
+    "t": "CIMPOR weitet Ericsson Private 5G nach erfolgreichem Rollout in Portugal global aus",
+    "u": "https://www.produktionsleiter.today/cimpor-weitet-ericsson-private-5g-nach-erfolgreichem-rollout-in-portugal-global-aus/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3577,
+    "c": "Alexis Sophos",
+    "d": "2026-01-15",
+    "t": "Ex zurückgewinnen mit Traum-Partnerrückführung – Alexis Sophos, das Liebesmedium",
+    "u": "https://www.it-management.today/ex-zurueckgewinnen-mit-traum-partnerrueckfuehrung-alexis-sophos-das-liebesmedium/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Kein identifizierbarer Anbieter (Platzhalter/Autorenfeld)",
+    "id": 3650,
+    "c": "Zu prüfen",
+    "d": "2026-01-12",
+    "t": "Mirantis tritt der Agentic AI Foundation der Linux Foundation als Silber-Mitglied bei",
+    "u": "https://www.it-management.today/mirantis-tritt-der-agentic-ai-foundation-der-linux-foundation-als-silber-mitglied-bei/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Keine eindeutige Zuordnung",
+    "s": "Niedrig"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Privatkundenthema ohne belastbaren B2B-Technologiebezug",
+    "id": 3719,
+    "c": "iG casino.de GmbH",
+    "d": "2026-09-04",
+    "t": "Deutsche Aktuelle Online Casinos: Dein umfassender Leitfaden für moderne Glücksspielplattformen",
+    "u": "https://www.produktionsleiter.today/deutsche-aktuelle-online-casinos-dein-umfassender-leitfaden-fur/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Nicht als Anbieter belegte Quelle oder Veranstaltung",
+    "id": 3819,
+    "c": "Taiwan Flagship showcase",
+    "d": "2026-09-09",
+    "t": "Taiwan eröffnet Flagship Showcase auf der Automechanika Frankfurt 2026",
+    "u": "https://www.produktionsleiter.today/taiwan-eroeffnet-flagship-showcase-auf-der-automechanika-frankfurt-2026/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Stefanie J. Camin",
+    "id": 9,
+    "c": "Stefanie J. Camin",
+    "d": "2026-08-25",
+    "t": "„Ich bin mir wichtiger als ein gerader Lebenslauf.“",
+    "u": "https://www.produktionsleiter.today/ich-bin-mir-wichtiger-als-ein-gerader-lebenslauf/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "id": 59,
+    "c": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "d": "2026-08-20",
+    "t": "Bitterstoffe: Neue Studie entschlüsselt ihre Wirkung im Magen",
+    "u": "https://www.produktionsleiter.today/bitterstoffe-neue-studie-entschluesselt-ihre-wirkung-im-magen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "GOLD Verlag – Scherer GmbH & Co. KG",
+    "id": 69,
+    "c": "GOLD Verlag – Scherer GmbH & Co. KG",
+    "d": "2026-08-20",
+    "t": "Ein spiritueller Superstar kann jeder sein",
+    "u": "https://www.personalleiter.today/ein-spiritueller-superstar-kann-jeder-sein/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 95,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-08-19",
+    "t": "Tupfen, Pfoten und Urlaubsfreude: Dalmatiner-Treffen im Ferienpark Am Birnbaumteich",
+    "u": "https://www.personalleiter.today/tupfen-pfoten-und-urlaubsfreude-dalmatiner-treffen-im-ferienpark-am-birnbaumteich/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 96,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-08-19",
+    "t": "Fernreisen 2027 mit IKARUS TOURS: Bekannte Länder neu entdecken – und dorthin reisen, wo andere Routen enden",
+    "u": "https://www.personalleiter.today/fernreisen-2027-mit-ikarus-tours-bekannte-laender-neu-entdecken-und-dorthin-reisen-wo-andere-routen-enden/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "luxussachen.kaufen",
+    "id": 100,
+    "c": "luxussachen.kaufen",
+    "d": "2026-08-19",
+    "t": "Luxus-Adventskalender 2026: Der Warenwert stimmt selten",
+    "u": "https://www.produktionsleiter.today/luxus-adventskalender-2026-der-warenwert-stimmt-selten/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Renna Taxi Tübingen",
+    "id": 104,
+    "c": "Renna Taxi Tübingen",
+    "d": "2026-08-19",
+    "t": "Websites für lokale Unternehmen",
+    "u": "https://www.it-management.today/websites-fuer-lokale-unternehmen/",
+    "p": [
+      "IT-Management.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Schweizer Literaturgesellschaft",
+    "id": 106,
+    "c": "Schweizer Literaturgesellschaft",
+    "d": "2026-08-19",
+    "t": "Neuerscheinung: „Sinnlose Sinnlosigkeit“ von Josi Rom",
+    "u": "https://www.produktionsleiter.today/neuerscheinung-sinnlose-sinnlosigkeit-von-josi-rom/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Sonneninsel Rügen",
+    "id": 121,
+    "c": "Sonneninsel Rügen GmbH",
+    "d": "2026-08-18",
+    "t": "Baugrundstück am Meer erschlossen 423 m² Kaufpreis 99.000,00 €",
+    "u": "https://www.produktionsleiter.today/baugrundstueck-am-meer-erschlossen-423-m%c2%b2-kaufpreis-99-00000-e/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Galerie Bilder Fuchs",
+    "id": 129,
+    "c": "Galerie Bilder Fuchs",
+    "d": "2026-08-17",
+    "t": "Ausstellungseröffnung MARILYN 100",
+    "u": "https://www.personalleiter.today/ausstellungseroeffnung-marilyn-100/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "PERSONAL CONSULTING",
+    "id": 134,
+    "c": "PERSONAL CONSULTING LIMITED",
+    "d": "2026-08-17",
+    "t": "Wenn dem Single ein*e wirklich passende*r Partner*in fehlt",
+    "u": "https://www.personalleiter.today/wenn-dem-single-eine-wirklich-passender-partnerin-fehlt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 148,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-08-14",
+    "t": "Neuer Katalog Expeditions-Seereisen 2027/2028 mit IKARUS TOURS und PolarNEWS",
+    "u": "https://www.personalleiter.today/neuer-katalog-expeditions-seereisen-2027-2028-mit-ikarus-tours-und-polarnews/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Motorsportclub Erftal e.V",
+    "id": 150,
+    "c": "Motorsportclub Erftal e.V.",
+    "d": "2026-08-14",
+    "t": "57. Bergrennen Eichenbühl",
+    "u": "https://www.personalleiter.today/57-bergrennen-eichenbuehl/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "City A-M-EU",
+    "id": 168,
+    "c": "City A-M-EU",
+    "d": "2026-08-13",
+    "t": "Silver Lake Ltd. baut Beratung für asiatische Unternehmen mit Fokus auf Europa aus",
+    "u": "https://www.personalleiter.today/silver-lake-ltd-baut-beratung-fuer-asiatische-unternehmen-mit-fokus-auf-europa-aus/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 176,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-08-13",
+    "t": "Vladlena Dizik und Oleksandr Mialkovskyy – Wie zwei der renommiertesten Designer der Ukraine in Deutschland ein neues Kapitel beginnen",
+    "u": "https://www.personalleiter.today/vladlena-dizik-und-oleksandr-mialkovskyy-wie-zwei-der-renommiertesten-designer-der-ukraine-in-deutschland-ein-neues-kapitel-beginnen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Luftleine",
+    "id": 255,
+    "c": "Luftleine GmbH",
+    "d": "2026-08-10",
+    "t": "Treburer Futterhersteller MIRALS erweitert sein Programm",
+    "u": "https://www.produktionsleiter.today/treburer-futterhersteller-mirals-erweitert-sein-programm/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "NARRUX Systems FZE",
+    "id": 256,
+    "c": "NARRUX Systems FZE",
+    "d": "2026-08-10",
+    "t": "Kapitalmarkt statt Umlage",
+    "u": "https://www.personalleiter.today/kapitalmarkt-statt-umlage/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "City A-M-EU",
+    "id": 272,
+    "c": "City A-M-EU",
+    "d": "2026-08-06",
+    "t": "Silver Lake Ltd. setzt Expansionskurs fort – Deutschland rückt in den Fokus",
+    "u": "https://www.personalleiter.today/silver-lake-ltd-setzt-expansionskurs-fort-deutschland-rueckt-in-den-fokus/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Localism",
+    "id": 288,
+    "c": "Localism GmbH",
+    "d": "2026-08-06",
+    "t": "Willi Arsan & Christoph Schwedler werden münchen.tv-Geschäftsführer",
+    "u": "https://www.it-management.today/willi-arsan-christoph-schwedler-werden-muenchen-tv-geschaeftsfuehrer/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Netapresse",
+    "id": 291,
+    "c": "Netapresse",
+    "d": "2026-08-06",
+    "t": "Auch für nebenberufliche Quereinsteiger ein perfektes Angebot",
+    "u": "https://www.personalleiter.today/auch-fuer-nebenberufliche-quereinsteiger-ein-perfektes-angebot/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Gläser Entertainment",
+    "id": 316,
+    "c": "Gläser Entertainment",
+    "d": "2026-08-05",
+    "t": "OSTROCKKONZERT in Zeulenroda!  Berluc & Puhdys Tribute",
+    "u": "https://www.personalleiter.today/ostrockkonzert-in-zeulenroda-berluc-puhdys-tribute/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "HAMBURGER ANZEIGER",
+    "id": 317,
+    "c": "HAMBURGER ANZEIGER",
+    "d": "2026-08-05",
+    "t": "Noosha Aubel: Ist sie Potsdams Problemen gewachsen?",
+    "u": "https://www.personalleiter.today/noosha-aubel-ist-sie-potsdams-problemen-gewachsen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Verkehrspädagogische Praxis Achim Dupke",
+    "id": 334,
+    "c": "Verkehrspädagogische Praxis Achim Dupke",
+    "d": "2026-08-05",
+    "t": "MPU-Vorbereitung 2026 : Experten-Ratgeber zeigt den sicheren Weg zurück zum Führerschein",
+    "u": "https://www.produktionsleiter.today/mpu-vorbereitung-2026-experten-ratgeber-zeigt-den-sicheren-weg-zurueck-zum-fuehrerschein/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Dirk Eggert",
+    "id": 430,
+    "c": "Dirk Eggert",
+    "d": "2026-07-29",
+    "t": "Herr Dirk Eggert wird Lebenshelfer der SeniorenLebenshilfe in Burg",
+    "u": "https://www.produktionsleiter.today/herr-dirk-eggert-wird-lebenshelfer-der-seniorenlebenshilfe-in-burg/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "LEVEL21 Strategie und Entwicklung",
+    "id": 439,
+    "c": "LEVEL21 Strategie und Entwicklung",
+    "d": "2026-07-29",
+    "t": "„Kintuition“ auf Platz 1 bei Amazon – Wissen, wann KI. Und wann Kintuition.",
+    "u": "https://www.it-management.today/kintuition-auf-platz-1-bei-amazon-wissen-wann-ki-und-wann-kintuition/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Froidevaux",
+    "id": 459,
+    "c": "Froidevaux AG",
+    "d": "2026-07-28",
+    "t": "Spa zuhause: So gelingt das Wellness-Bad auf kleinem Raum",
+    "u": "https://www.produktionsleiter.today/spa-zuhause-so-gelingt-das-wellness-bad-auf-kleinem-raum/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Harald Beintze",
+    "id": 461,
+    "c": "Harald Beintze",
+    "d": "2026-07-28",
+    "t": "Generationenplanung beginnt mit Verantwortung",
+    "u": "https://www.personalleiter.today/generationenplanung-beginnt-mit-verantwortung/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Candystorm PR",
+    "id": 475,
+    "c": "Candystorm PR GmbH",
+    "d": "2026-07-27",
+    "t": "Wanderausstellung „600 Akkordeons“ gastiert im Forum Steglitz",
+    "u": "https://www.produktionsleiter.today/wanderausstellung-600-akkordeons-gastiert-im-forum-steglitz/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "City A-M-EU",
+    "id": 587,
+    "c": "City A-M-EU",
+    "d": "2026-07-23",
+    "t": "Silver Lake Ltd. erhält den „UK Excellence Consulting Award  “ für herausragende Unternehmensqualität",
+    "u": "https://www.personalleiter.today/silver-lake-ltd-erhaelt-den-uk-excellence-consulting-award-fuer-herausragende-unternehmensqualitaet/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 599,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-07-23",
+    "t": "China-Rundreise: IKARUS TOURS verbindet auf einer 19-tägigen Rundreise jahrtausendealte Kultur, spektakuläre Natur und das internationale Flair Ho",
+    "u": "https://www.personalleiter.today/china-rundreise-ikarus-tours-verbindet-auf-einer-19-taegigen-rundreise-jahrtausendealte-kultur-spektakulaere-natur-und-das-internationale-flair-ho/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "JIMMY",
+    "id": 600,
+    "c": "JIMMY",
+    "d": "2026-07-23",
+    "t": "Wie der JIMMY Matrix M9 Pro die ultimative Wasserbar für Zuhause schafft",
+    "u": "https://www.produktionsleiter.today/wie-der-jimmy-matrix-m9-pro-die-ultimative-wasserbar-fuer-zuhause-schafft/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Netapresse",
+    "id": 603,
+    "c": "Netapresse",
+    "d": "2026-07-23",
+    "t": "Die weltweit einmalige Arbeitsweise von TTPCG DATING SERVICES®",
+    "u": "https://www.personalleiter.today/die-weltweit-einmalige-arbeitsweise-von-ttpcg-dating-services/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "RÄUMBLITZ",
+    "id": 608,
+    "c": "RÄUMBLITZ",
+    "d": "2026-07-23",
+    "t": "RÄUMBLITZ –  Entrümpelungsfirma in der Nähe",
+    "u": "https://www.produktionsleiter.today/raeumblitz-entruempelungsfirma-in-der-naehe/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "IFABET",
+    "id": 642,
+    "c": "IFABET",
+    "d": "2026-07-22",
+    "t": "Wissenschaftler warnen vor Tigermücken",
+    "u": "https://www.produktionsleiter.today/wissenschaftler-warnen-vor-tigermuecken/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "City A-M-EU",
+    "id": 689,
+    "c": "City A-M-EU",
+    "d": "2026-07-20",
+    "t": "Silver Lake Ltd. erweitert ihr Beratungsangebot für private Mandanten",
+    "u": "https://www.it-management.today/silver-lake-ltd-erweitert-ihr-beratungsangebot-fuer-private-mandanten/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Frankfurter Metallkasse",
+    "id": 695,
+    "c": "Frankfurter Metallkasse GmbH",
+    "d": "2026-07-20",
+    "t": "Frankfurter Metallkasse Erfahrungen: Was Kunden zur Edelmetall-Zusatzversorgung berichten",
+    "u": "https://www.personalleiter.today/frankfurter-metallkasse-erfahrungen-was-kunden-zur-edelmetall-zusatzversorgung-berichten/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Alparis",
+    "id": 711,
+    "c": "Alparis GmbH",
+    "d": "2026-07-18",
+    "t": "Ein Jahr nach Gründung: Schweizer Nahrungsergänzungs-Startup Revitera liefert in 13 europäische Länder",
+    "u": "https://www.produktionsleiter.today/ein-jahr-nach-gruendung-schweizer-nahrungsergaenzungs-startup-revitera-liefert-in-13-europaeische-laender/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Alparis",
+    "id": 716,
+    "c": "Alparis GmbH",
+    "d": "2026-07-17",
+    "t": "Ein Jahr nach Gründung: Schweizer Nahrungsergänzungs-Startup Revitera liefert in 13 europäische Länder",
+    "u": "https://www.personalleiter.today/ein-jahr-nach-gruendung-schweizer-nahrungsergaenzungs-startup-revitera-liefert-in-13-europaeische-laender/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "glanznagel",
+    "id": 733,
+    "c": "glanznagel",
+    "d": "2026-07-17",
+    "t": "Glanznagel: Der Maßstab für günstige & hochwertige Abendkleider im deutschsprachigen Raum",
+    "u": "https://www.marketingleiter.today/glanznagel-der-massstab-fuer-guenstige-hochwertige-abendkleider-im-deutschsprachigen-raum/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "ID-TECH",
+    "id": 735,
+    "c": "ID-TECH GmbH",
+    "d": "2026-07-17",
+    "t": "Erst Hitze, dann Sturzflut: So schützen Sie Ihren Keller",
+    "u": "https://www.produktionsleiter.today/erst-hitze-dann-sturzflut-so-schuetzen-sie-ihren-keller/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Nabab",
+    "id": 766,
+    "c": "Nabab S.A.",
+    "d": "2026-07-16",
+    "t": "Nabab S.A. setzt Fokus auf strukturierte Vermögensplanung nach Unternehmensverkauf",
+    "u": "https://www.personalleiter.today/nabab-s-a-setzt-fokus-auf-strukturierte-vermoegensplanung-nach-unternehmensverkauf/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Sonneninsel Rügen",
+    "id": 770,
+    "c": "Sonneninsel Rügen GmbH",
+    "d": "2026-07-16",
+    "t": "Wir vermieten Ihr Ferienobjekt auf Rügen erfolgreich",
+    "u": "https://www.produktionsleiter.today/wir-vermieten-ihr-ferienobjekt-auf-ruegen-erfolgreich/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Vella Group",
+    "id": 774,
+    "c": "Vella Group",
+    "d": "2026-07-16",
+    "t": "79 % der Hunde brauchen jedes Jahr den Tierarzt",
+    "u": "https://www.personalleiter.today/79-der-hunde-brauchen-jedes-jahr-den-tierarzt/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Vella Group",
+    "id": 803,
+    "c": "Vella Group",
+    "d": "2026-07-15",
+    "t": "79 % der Hunde brauchen jedes Jahr den Tierarzt",
+    "u": "https://www.produktionsleiter.today/79-der-hunde-brauchen-jedes-jahr-den-tierarzt/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Systeme Digital",
+    "id": 823,
+    "c": "Systeme Digital GmbH",
+    "d": "2026-07-14",
+    "t": "Digitale Materialliste für den Schuleinkauf",
+    "u": "https://www.it-management.today/digitale-materialliste-fuer-den-schuleinkauf/",
+    "p": [
+      "IT-Management.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Aviation & Tourism International",
+    "id": 824,
+    "c": "Aviation & Tourism International",
+    "d": "2026-07-13",
+    "t": "Atiworld präsentiert ab sofort bereits alle Fahrten auf dem Göta-Kanal für 2027",
+    "u": "https://www.produktionsleiter.today/atiworld-praesentiert-ab-sofort-bereits-alle-fahrten-auf-dem-goeta-kanal-fuer-2027/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Stressfrei Entrümpelungen & Umzüge",
+    "id": 849,
+    "c": "Stressfrei Entrümpelungen & Umzüge",
+    "d": "2026-07-13",
+    "t": "Entrümpelung im Rhein-Erft-Kreis: Stressfrei entlastet jetzt Hausverwaltungen",
+    "u": "https://www.produktionsleiter.today/entruempelung-im-rhein-erft-kreis-stressfrei-entlastet-jetzt-hausverwaltungen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 902,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-07-08",
+    "t": "Dr. Johanna Dahm veröffentlicht ihr neues Buch „Aufhören – Die schwerste Entscheidung überhaupt“",
+    "u": "https://www.personalleiter.today/dr-johanna-dahm-veroeffentlicht-ihr-neues-buch-aufhoeren-die-schwerste-entscheidung-ueberhaupt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Maike Petersen",
+    "id": 904,
+    "c": "Maike Petersen",
+    "d": "2026-07-08",
+    "t": "Sprachbarrieren überwinden: „Meine Tinnitus App“ ab sofort auch auf Englisch und Türkisch",
+    "u": "https://www.it-management.today/sprachbarrieren-ueberwinden-meine-tinnitus-app-ab-sofort-auch-auf-englisch-und-tuerkisch/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Mirko Kühner",
+    "id": 905,
+    "c": "Mirko Kühner",
+    "d": "2026-07-08",
+    "t": "In jedem steckt ein Held",
+    "u": "https://www.marketingleiter.today/in-jedem-steckt-ein-held/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "pg.ventures",
+    "id": 907,
+    "c": "pg.ventures GmbH",
+    "d": "2026-07-08",
+    "t": "Woran man transparente Anbieter von Trading-Indikatoren erkennt",
+    "u": "https://www.produktionsleiter.today/woran-man-transparente-anbieter-von-trading-indikatoren-erkennt/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Robin Hartmann Media",
+    "id": 909,
+    "c": "Robin Hartmann Media",
+    "d": "2026-07-08",
+    "t": "Wie fortschrittliche Trading-Bots den globalen Handel automatisieren",
+    "u": "https://www.it-management.today/wie-fortschrittliche-trading-bots-den-globalen-handel-automatisieren/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "twenty4U",
+    "id": 915,
+    "c": "twenty4U GmbH",
+    "d": "2026-07-08",
+    "t": "Neuer 24/7-Store bei GLOBUS Eschborn eröffnet",
+    "u": "https://www.produktionsleiter.today/neuer-24-7-store-bei-globus-eschborn-eroeffnet/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Gerd Müller",
+    "id": 929,
+    "c": "Gerd Müller",
+    "d": "2026-07-07",
+    "t": "Die Seniorenhilfe beschäftigt einen neuen Lebenshelfer: Herr Gerd Müller wird in Freital tätig",
+    "u": "https://www.produktionsleiter.today/die-seniorenhilfe-beschaeftigt-einen-neuen-lebenshelfer-herr-gerd-mueller-wird-in-freital-taetig/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "gutachter-restnutzungsdauer.de",
+    "id": 930,
+    "c": "gutachter-restnutzungsdauer.de",
+    "d": "2026-07-07",
+    "t": "Steuereinsparung dank Restnutzungsdauer Gutachten",
+    "u": "https://www.produktionsleiter.today/steuereinsparung-dank-restnutzungsdauer-gutachten/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Teilungserklärungen Gerd Hirning",
+    "id": 945,
+    "c": "Teilungserklärungen Gerd Hirning",
+    "d": "2026-07-07",
+    "t": "Einfamilienhaus mit Einliegerwohnung vererben: Warum Eigentümer die Aufteilung rechtzeitig prüfen sollten",
+    "u": "https://www.produktionsleiter.today/einfamilienhaus-mit-einliegerwohnung-vererben-warum-eigentuemer-die-aufteilung-rechtzeitig-pruefen-sollten/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Be great! Die Erfolgsagentur",
+    "id": 950,
+    "c": "Be great! Die Erfolgsagentur",
+    "d": "2026-07-06",
+    "t": "150 handverlesene Speaker. 21 Nationen. Zwei Bühnen. Zwei Sprachen. 240 Sekunden. Nur eine Siegerin: Claudia Frick aus Neumünster.",
+    "u": "https://www.personalleiter.today/150-handverlesene-speaker-21-nationen-zwei-buehnen-zwei-sprachen-240-sekunden-nur-eine-siegerin-claudia-frick-aus-neumuenster/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kathrin Schoeßler",
+    "id": 956,
+    "c": "Kathrin Schoeßler",
+    "d": "2026-07-06",
+    "t": "Kathrin Schoeßler ist Gewinnerin des Speaker Slams",
+    "u": "https://www.personalleiter.today/kathrin-schoessler-ist-gewinnerin-des-speaker-slams/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Pressebüro Dr. Willmann",
+    "id": 964,
+    "c": "Pressebüro Dr. Willmann",
+    "d": "2026-07-06",
+    "t": "Erfolg zu haben, ist sehr einfach mit TTPCG-Franchise",
+    "u": "https://www.personalleiter.today/erfolg-zu-haben-ist-sehr-einfach-mit-ttpcg-franchise/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "NappConsult",
+    "id": 980,
+    "c": "NappConsult",
+    "d": "2026-07-03",
+    "t": "Hans-Georg Napp erhält Auszeichnung für vorbildliche Beratung",
+    "u": "https://www.personalleiter.today/hans-georg-napp-erhaelt-auszeichnung-fuer-vorbildliche-beratung/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Candystorm PR",
+    "id": 990,
+    "c": "Candystorm PR GmbH",
+    "d": "2026-07-02",
+    "t": "Spandau Arcaden laden zum „eSports Football Cup“",
+    "u": "https://www.it-management.today/spandau-arcaden-laden-zum-esports-football-cup/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "brain and soul solutions",
+    "id": 1057,
+    "c": "brain and soul solutions",
+    "d": "2026-06-30",
+    "t": "Brain & Soul Solutions in Meerbusch | Barbara Koenig",
+    "u": "https://www.produktionsleiter.today/brain-soul-solutions-in-meerbusch-barbara-koenig/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Luftleine",
+    "id": 1071,
+    "c": "Luftleine GmbH",
+    "d": "2026-06-30",
+    "t": "Mirals Tiernahrung feiert 10-jähriges Geschäftsjubiläum",
+    "u": "https://www.produktionsleiter.today/mirals-tiernahrung-feiert-10-jaehriges-geschaeftsjubilaeum/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1112,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-06-29",
+    "t": "Warum wandern Unternehmen aus Deutschland ab? von Roger König",
+    "u": "https://www.personalleiter.today/warum-wandern-unternehmen-aus-deutschland-ab-von-roger-koenig/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Dreieinigkeit e.V",
+    "id": 1133,
+    "c": "Dreieinigkeit e.V.",
+    "d": "2026-06-26",
+    "t": "Neue Josephus-Forschung belebt Debatte über die Wunder Jesu | dreieinigkeit.de",
+    "u": "https://www.produktionsleiter.today/neue-josephus-forschung-belebt-debatte-ueber-die-wunder-jesu-dreieinigkeit-de/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "deadperformance",
+    "id": 1148,
+    "c": "deadperformance",
+    "d": "2026-06-25",
+    "t": "Ambientebeleuchtung in Berlin für nahezu jedes Fahrzeug – zu fairen Preisen und in überragender Qualität",
+    "u": "https://www.produktionsleiter.today/ambientebeleuchtung-in-berlin-fuer-nahezu-jedes-fahrzeug-zu-fairen-preisen-und-in-ueberragender-qualitaet/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Tsunga",
+    "id": 1167,
+    "c": "Tsunga",
+    "d": "2026-06-25",
+    "t": "Tsuga sammelt 35 Millionen US-Dollar in Serie-A-Finanzierungsrunde ein",
+    "u": "https://www.it-management.today/tsuga-sammelt-35-millionen-us-dollar-in-serie-a-finanzierungsrunde-ein/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Unternehmen laut Über-Abschnitt",
+    "s": "Mittel"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Verband für Messie-Syndrom Betroffene Österreich",
+    "id": 1168,
+    "c": "Verband für Messie-Syndrom Betroffene Österreich",
+    "d": "2026-06-25",
+    "t": "Wenn Scham dominiert: Warum Betroffene unsichtbar bleiben",
+    "u": "https://www.produktionsleiter.today/wenn-scham-dominiert-warum-betroffene-unsichtbar-bleiben/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "THE BALANCE RehabClinic",
+    "id": 1257,
+    "c": "THE BALANCE RehabClinic",
+    "d": "2026-06-22",
+    "t": "Internationales Treatment-Center THE BALANCE berichtet über das Jahr 2025: Mehr Patienten, erstmals mehr Männer",
+    "u": "https://www.personalleiter.today/internationales-treatment-center-the-balance-berichtet-ueber-das-jahr-2025-mehr-patienten-erstmals-mehr-maenner/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Wildtrolls Ltd & Co. KG",
+    "id": 1258,
+    "c": "Wildtrolls Ltd & Co. KG",
+    "d": "2026-06-22",
+    "t": "Europa braucht eine sicherere LGBTQIA+ Dating-App. u2nite wurde genau dafür entwickelt.",
+    "u": "https://www.it-management.today/europa-braucht-eine-sicherere-lgbtqia-dating-app-u2nite-wurde-genau-dafuer-entwickelt/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "RK Insight",
+    "id": 1271,
+    "c": "RK Insight",
+    "d": "2026-06-19",
+    "t": "Italiens Debatte als Warnsignal",
+    "u": "https://www.personalleiter.today/italiens-debatte-als-warnsignal/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Sabine Jöckel-Schwing",
+    "id": 1272,
+    "c": "Sabine Jöckel-Schwing",
+    "d": "2026-06-19",
+    "t": "Die SeniorenLebenshilfe eröffnet einen neuen Standort im Vogelsbergkreis – mit Sabine Jöckel-Schwing als Lebenshelferin in Lauterbach",
+    "u": "https://www.produktionsleiter.today/die-seniorenlebenshilfe-eroeffnet-einen-neuen-standort-im-vogelsbergkreis-mit-sabine-joeckel-schwing-als-lebenshelferin-in-lauterbach/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1383,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-06-15",
+    "t": "Meliá Berlin feiert 20-jähriges Jubiläum mit spanischer Kulinarik, Musik und Genuss",
+    "u": "https://www.personalleiter.today/melia-berlin-feiert-20-jaehriges-jubilaeum-mit-spanischer-kulinarik-musik-und-genuss/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Pressebüro Dr. Willmann",
+    "id": 1393,
+    "c": "Pressebüro Dr. Willmann",
+    "d": "2026-06-15",
+    "t": "Außergewöhnliche Leistungen eines außergewöhnlichen Franchisegebers",
+    "u": "https://www.personalleiter.today/aussergewoehnliche-leistungen-eines-aussergewoehnlichen-franchisegebers/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1427,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-06-11",
+    "t": "IKARUS TOURS: Expeditionsreisen entwickeln sich vom Bucket-List-Erlebnis zum Wachstumsmarkt",
+    "u": "https://www.personalleiter.today/ikarus-tours-expeditionsreisen-entwickeln-sich-vom-bucket-list-erlebnis-zum-wachstumsmarkt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "id": 1437,
+    "c": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "d": "2026-06-10",
+    "t": "Immunsystem: Ingwer und Frequenztherapie – ein spannendes Duo?",
+    "u": "https://www.produktionsleiter.today/immunsystem-ingwer-und-frequenztherapie-ein-spannendes-duo/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Vintage Guitar World",
+    "id": 1501,
+    "c": "Vintage Guitar World",
+    "d": "2026-06-08",
+    "t": "Vintage-Gitarren halten Musikgeschichte lebendig",
+    "u": "https://www.produktionsleiter.today/vintage-gitarren-halten-musikgeschichte-lebendig/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1509,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-06-05",
+    "t": "Warum es immer mehr Menschen in die Arktis und Antarktis zieht von Nikolas Kitzki / CEO Ikarus Tours",
+    "u": "https://www.personalleiter.today/warum-es-immer-mehr-menschen-in-die-arktis-und-antarktis-zieht-von-nikolas-kitzki-ceo-ikarus-tours/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "PaK Pflegedienst am Klinikum",
+    "id": 1518,
+    "c": "PaK Pflegedienst am Klinikum GmbH",
+    "d": "2026-06-04",
+    "t": "PaK Pflegedienst am Klinikum kehrt nach Merseburg zurück – Neues Pflege- und Beratungszentrum am Gerichtsrain",
+    "u": "https://www.personalleiter.today/pak-pflegedienst-am-klinikum-kehrt-nach-merseburg-zurueck-neues-pflege-und-beratungszentrum-am-gerichtsrain/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today",
+      "Businessleader.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Beton-Pumpen-Service",
+    "id": 1525,
+    "c": "Beton-Pumpen-Service",
+    "d": "2026-06-03",
+    "t": "Beton-Pumpen-Service & Verleih löst alle Probleme",
+    "u": "https://www.produktionsleiter.today/beton-pumpen-service-verleih-loest-alle-probleme/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Bell Yard 7",
+    "id": 1563,
+    "c": "Bell Yard 7",
+    "d": "2026-06-01",
+    "t": "Gründung mit fertigem Geschäftsmodell ist komfortabel und risikoarm",
+    "u": "https://www.personalleiter.today/gruendung-mit-fertigem-geschaeftsmodell-ist-komfortabel-und-risikoarm/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Curry Paule",
+    "id": 1567,
+    "c": "Curry Paule",
+    "d": "2026-06-01",
+    "t": "„Curry-Paule“ wächst weiter: Berliner Kultmarke holt dritten starken Lizenzpartner an Bord",
+    "u": "https://www.produktionsleiter.today/curry-paule-waechst-weiter-berliner-kultmarke-holt-dritten-starken-lizenzpartner-an-bord/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Huggiberries / Trusty & Trady",
+    "id": 1594,
+    "c": "Huggiberries / Trusty & Trady GmbH",
+    "d": "2026-05-29",
+    "t": "Bochumer Bio-Manufaktur Huggiberries setzt auf Nussmus ohne Palmöl und ausgewählte Snacks ohne Zuckerzusatz",
+    "u": "https://www.personalleiter.today/bochumer-bio-manufaktur-huggiberries-setzt-auf-nussmus-ohne-palmoel-und-ausgewaehlte-snacks-ohne-zuckerzusatz/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "HBT-Training",
+    "id": 1608,
+    "c": "HBT-Training gmbH",
+    "d": "2026-05-28",
+    "t": "Bitcoin und Steuern: Was Du zur Haltefrist wissen musst",
+    "u": "https://www.personalleiter.today/bitcoin-und-steuern-was-du-zur-haltefrist-wissen-musst/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "SOLIT Management",
+    "id": 1637,
+    "c": "SOLIT Management GmbH",
+    "d": "2026-05-28",
+    "t": "SOLIT Edelmetalldepot überzeugt zum 11. Mal in Folge mit Bestnote im FOCUS MONEY-Goldsparplantest 2026",
+    "u": "https://www.personalleiter.today/solit-edelmetalldepot-ueberzeugt-zum-11-mal-in-folge-mit-bestnote-im-focus-money-goldsparplantest-2026/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Hotel Green Ocean Zanzibar",
+    "id": 1652,
+    "c": "Hotel Green Ocean Zanzibar",
+    "d": "2026-05-27",
+    "t": "Influencer & Hotel Sansibar: Hotel Green Ocean Zanzibar",
+    "u": "https://www.marketingleiter.today/influencer-hotel-sansibar-hotel-green-ocean-zanzibar/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "JIMMY",
+    "id": 1655,
+    "c": "JIMMY",
+    "d": "2026-05-27",
+    "t": "Willkommen im deutschen Sommer: Der JIMMY M9 Pro definiert das saisonale Trinkwassererlebnis neu",
+    "u": "https://www.produktionsleiter.today/willkommen-im-deutschen-sommer-der-jimmy-m9-pro-definiert-das-saisonale-trinkwassererlebnis-neu/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "PERSONAL CONSULTING",
+    "id": 1661,
+    "c": "PERSONAL CONSULTING LIMITED",
+    "d": "2026-05-27",
+    "t": "Vielversprechende Zukunftsbranchen werden auch den Franchise-Markt dominieren",
+    "u": "https://www.personalleiter.today/vielversprechende-zukunftsbranchen-werden-auch-den-franchise-markt-dominieren/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1690,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-05-25",
+    "t": "Expeditionsreisen im Aufwind: IKARUS TOURS und PolarNEWS begeistern beim Pressefrühstück",
+    "u": "https://www.personalleiter.today/expeditionsreisen-im-aufwind-ikarus-tours-und-polarnews-begeistern-beim-pressefruehstueck/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Candystorm PR",
+    "id": 1707,
+    "c": "Candystorm PR GmbH",
+    "d": "2026-05-21",
+    "t": "Zwischenbericht für das am 31. März 2026 endende Halbjahr",
+    "u": "https://www.personalleiter.today/zwischenbericht-fuer-das-am-31-maerz-2026-endende-halbjahr/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "SCHWAB Fensterputzer",
+    "id": 1730,
+    "c": "SCHWAB Fensterputzer",
+    "d": "2026-05-21",
+    "t": "SCHWAB Fensterputzer bringt schwäbische Gründlichkeit ans Fenster",
+    "u": "https://www.produktionsleiter.today/schwab-fensterputzer-bringt-schwaebische-gruendlichkeit-ans-fenster/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Helvetia Glow",
+    "id": 1748,
+    "c": "Helvetia Glow GmbH",
+    "d": "2026-05-20",
+    "t": "ICONIQUE Erfahrungen: Exfoliating Peeling Gel für strahlenden Teint",
+    "u": "https://www.produktionsleiter.today/iconique-erfahrungen-exfoliating-peeling-gel-fuer-strahlenden-teint/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Virginia Tourism Coporation",
+    "id": 1756,
+    "c": "Virginia Tourism Coporation",
+    "d": "2026-05-20",
+    "t": "„Summer of Steam“: Authentisches Flair auf einer Fahrt in Virginias historischer Dampflok genießen",
+    "u": "https://www.produktionsleiter.today/summer-of-steam-authentisches-flair-auf-einer-fahrt-in-virginias-historischer-dampflok-geniessen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Welt-Bestattung",
+    "id": 1783,
+    "c": "Welt-Bestattung",
+    "d": "2026-05-18",
+    "t": "Seebestattung: Würdevoll, naturverbunden und oft besonders preiswert",
+    "u": "https://www.produktionsleiter.today/seebestattung-wuerdevoll-naturverbunden-und-oft-besonders-preiswert/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "A. Engelhardt Markenkonzepte",
+    "id": 1785,
+    "c": "A. Engelhardt Markenkonzepte GmbH",
+    "d": "2026-05-15",
+    "t": "Ballermann – Mit Partys Tiere retten!",
+    "u": "https://www.personalleiter.today/ballermann-mit-partys-tiere-retten/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1792,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-05-15",
+    "t": "Zwischen Worten und Laufsteg – Roger König über Mut, Selbstfindung und seinen überraschenden Weg auf die ELORA Fashion Show 2026",
+    "u": "https://www.personalleiter.today/zwischen-worten-und-laufsteg-roger-koenig-ueber-mut-selbstfindung-und-seinen-ueberraschenden-weg-auf-die-elora-fashion-show-2026/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 1793,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-05-15",
+    "t": "MS Douglas Mawson auf magischer Expeditionsreise zwischen Lofoten, Grönland und Island",
+    "u": "https://www.personalleiter.today/ms-douglas-mawson-auf-magischer-expeditionsreise-zwischen-lofoten-groenland-und-island/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Hydrofast / VICKY",
+    "id": 1797,
+    "c": "Hydrofast / VICKY LTD",
+    "d": "2026-05-14",
+    "t": "Hydrofast bringt moderne Auftisch-RO-Wasserfiltersysteme in europäische Haushalte",
+    "u": "https://www.produktionsleiter.today/hydrofast-bringt-moderne-auftisch-ro-wasserfiltersysteme-in-europaeische-haushalte/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Fensterputzer Berlin | Fensterreiniger",
+    "id": 1805,
+    "c": "Fensterputzer Berlin | Fensterreiniger",
+    "d": "2026-05-13",
+    "t": "Fensterputzer Berlin: Jetzt beginnt die beste Zeit für professionelle Fensterreinigung in Berlin",
+    "u": "https://www.produktionsleiter.today/fensterputzer-berlin-jetzt-beginnt-die-beste-zeit-fuer-professionelle-fensterreinigung-in-berlin/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Wohlfühlpflege",
+    "id": 1818,
+    "c": "Wohlfühlpflege GmbH",
+    "d": "2026-05-13",
+    "t": "Ambulante psychiatrische Pflege und Betreuung in Hannover",
+    "u": "https://www.marketingleiter.today/ambulante-psychiatrische-pflege-und-betreuung-in-hannover/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "99 Books /BT Verlag",
+    "id": 1860,
+    "c": "99 Books /BT Verlag",
+    "d": "2026-05-08",
+    "t": "DIE 99 SCHÖNSTEN PRIVATEN GÄRTEN",
+    "u": "https://www.marketingleiter.today/die-99-schoensten-privaten-gaerten/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Netapresse",
+    "id": 1868,
+    "c": "Netapresse",
+    "d": "2026-05-08",
+    "t": "TTPCG DATING SERVICES® nutzt verstärkt Chatbots",
+    "u": "https://www.personalleiter.today/ttpcg-dating-services-nutzt-verstaerkt-chatbots/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Candystorm PR",
+    "id": 1960,
+    "c": "Candystorm PR GmbH",
+    "d": "2026-05-04",
+    "t": "Pepco baut strategische Partnerschaft mit DHL Supply Chain aus, um Distribution und Filialversorgung in Europa weiter zu stärken",
+    "u": "https://www.produktionsleiter.today/pepco-baut-strategische-partnerschaft-mit-dhl-supply-chain-aus-um-distribution-und-filialversorgung-in-europa-weiter-zu-staerken/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Lehmann Hotel und Gaststätten Holding",
+    "id": 1967,
+    "c": "Lehmann Hotel und Gaststätten Holding GmbH",
+    "d": "2026-05-04",
+    "t": "Taco Bell kommt nach München",
+    "u": "https://www.personalleiter.today/taco-bell-kommt-nach-muenchen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Reef Guardian e.V",
+    "id": 1972,
+    "c": "Reef Guardian e.V.",
+    "d": "2026-05-04",
+    "t": "6 Jahre Reef Guardian: Korallenschutz vor Ort",
+    "u": "https://www.it-management.today/6-jahre-reef-guardian-korallenschutz-vor-ort-2/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "SUMO Repair",
+    "id": 2013,
+    "c": "SUMO Repair",
+    "d": "2026-04-30",
+    "t": "SUMO Repair setzt auf Spezialisierung: iPhone- und Samsung-Reparaturen",
+    "u": "https://www.it-management.today/sumo-repair-setzt-auf-spezialisierung-iphone-und-samsung-reparaturen/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "believe + trust LLC",
+    "id": 2021,
+    "c": "believe + trust LLC",
+    "d": "2026-04-29",
+    "t": "Science-Thriller über Wahrheit, Macht und Kontrolle",
+    "u": "https://www.it-management.today/science-thriller-ueber-wahrheit-macht-und-kontrolle/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Dennis Sievers",
+    "id": 2027,
+    "c": "Dennis Sievers",
+    "d": "2026-04-29",
+    "t": "Ganz Mensch sein im Business: Dennis Sievers begeistert",
+    "u": "https://www.marketingleiter.today/ganz-mensch-sein-im-business-dennis-sievers-begeistert/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "JIMMY",
+    "id": 2039,
+    "c": "JIMMY",
+    "d": "2026-04-29",
+    "t": "Jimmy bringt M9 Pro in Europa auf den Markt: Weltweit 1. modularer RO-Wasseraufbereiter für die Arbeitsplatte",
+    "u": "https://www.produktionsleiter.today/jimmy-bringt-m9-pro-in-europa-auf-den-markt-weltweit-1-modularer-ro-wasseraufbereiter-fuer-die-arbeitsplatte/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Renna Taxi Tübingen",
+    "id": 2094,
+    "c": "Renna Taxi Tübingen",
+    "d": "2026-04-28",
+    "t": "Taxi Tübingen Renna zum Flughafen",
+    "u": "https://www.it-management.today/taxi-tuebingen-renna-zum-flughafen/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Welt-Bestattung",
+    "id": 2097,
+    "c": "Welt-Bestattung",
+    "d": "2026-04-28",
+    "t": "Seebestattung in Kroatien – würdevoller Abschied auf dem Meer",
+    "u": "https://www.personalleiter.today/seebestattung-in-kroatien-wuerdevoller-abschied-auf-dem-meer/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "André Schnabel",
+    "id": 2100,
+    "c": "André Schnabel",
+    "d": "2026-04-27",
+    "t": "Dresdner Finanzprofi gewinnt Internationalen Speaker Slam",
+    "u": "https://www.personalleiter.today/dresdner-finanzprofi-gewinnt-internationalen-speaker-slam/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Räumung Direkt",
+    "id": 2149,
+    "c": "Räumung Direkt",
+    "d": "2026-04-24",
+    "t": "Räumung Direkt: Entrümpelungen in Thüringen",
+    "u": "https://www.produktionsleiter.today/raeumung-direkt-entruempelungen-in-thueringen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Tobias Müller, Einzelunternehmen",
+    "id": 2193,
+    "c": "Tobias Müller, Einzelunternehmen",
+    "d": "2026-04-23",
+    "t": "Bitcoin verstehen: Hürden beim Krypto-Einstieg",
+    "u": "https://www.personalleiter.today/bitcoin-verstehen-huerden-beim-krypto-einstieg/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "believe + trust LLC",
+    "id": 2198,
+    "c": "believe + trust LLC",
+    "d": "2026-04-22",
+    "t": "Science-Thriller über Wahrheit, Kontrolle, Wirklichkeit",
+    "u": "https://www.it-management.today/science-thriller-ueber-wahrheit-kontrolle-wirklichkeit/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "MEWATU, Inhaber M. Eberts",
+    "id": 2210,
+    "c": "MEWATU, Inhaber M. Eberts",
+    "d": "2026-04-22",
+    "t": "HAVELKNALLER am 25./26.04.2026 auf dem Garten Markt",
+    "u": "https://www.personalleiter.today/havelknaller-am-25-26-04-2026-auf-dem-garten-markt/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 2246,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-04-21",
+    "t": "Zwischen persönlichem Schicksal und gesellschaftlicher Analyse: Roger König gibt Einblicke in „Deutschland so blass“",
+    "u": "https://www.personalleiter.today/zwischen-persoenlichem-schicksal-und-gesellschaftlicher-analyse-roger-koenig-gibt-einblicke-in-deutschland-so-blass/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 2247,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-04-21",
+    "t": "POLARNEWS: Auf den Spuren von Shackleton – Eine Expedition zwischen Legende und überwältigender Natur",
+    "u": "https://www.personalleiter.today/polarnews-auf-den-spuren-von-shackleton-eine-expedition-zwischen-legende-und-ueberwaeltigender-natur/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "CWE Holding Europe",
+    "id": 2259,
+    "c": "CWE Holding Europe GmbH",
+    "d": "2026-04-20",
+    "t": "Hanf statt Leberkäs",
+    "u": "https://www.produktionsleiter.today/hanf-statt-leberkaes/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Firma MEWATU",
+    "id": 2271,
+    "c": "Firma MEWATU",
+    "d": "2026-04-20",
+    "t": "Neue Wachstuch-Tischdecken Motive eingetroffen – Frische Designs für jeden Anlass",
+    "u": "https://www.produktionsleiter.today/neue-wachstuch-tischdecken-motive-eingetroffen-frische-designs-fuer-jeden-anlass/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "THE BALANCE RehabClinic",
+    "id": 2276,
+    "c": "THE BALANCE RehabClinic",
+    "d": "2026-04-20",
+    "t": "THE BALANCE warnt: Verlieren wir durch Wellness-Tech unser Körpergefühl?",
+    "u": "https://www.produktionsleiter.today/the-balance-warnt-verlieren-wir-durch-wellness-tech-unser-koerpergefuehl/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Aviation & Tourism International",
+    "id": 2331,
+    "c": "Aviation & Tourism International",
+    "d": "2026-04-15",
+    "t": "Neu und exklusiv: Ein ganzes Jahr auf Luxuskreuzfahrt",
+    "u": "https://www.produktionsleiter.today/neu-und-exklusiv-ein-ganzes-jahr-auf-luxuskreuzfahrt/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Suppes",
+    "id": 2411,
+    "c": "Suppes GmbH",
+    "d": "2026-04-13",
+    "t": "Goldrausch 2025: Wiesbadener Unternehmen SUPPES und CASPAR weiterhin auf Erfolgskurs",
+    "u": "https://www.personalleiter.today/goldrausch-2025-wiesbadener-unternehmen-suppes-und-caspar-weiterhin-auf-erfolgskurs/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "KrautTrotter Safaris",
+    "id": 2452,
+    "c": "KrautTrotter Safaris",
+    "d": "2026-04-09",
+    "t": "Lebende Museen in Namibia – Auf den Spuren der Urvölker",
+    "u": "https://www.produktionsleiter.today/lebende-museen-in-namibia-auf-den-spuren-der-urvoelker/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Lehmann Hotel und Gaststätten Holding",
+    "id": 2479,
+    "c": "Lehmann Hotel und Gaststätten Holding GmbH",
+    "d": "2026-04-08",
+    "t": "Fast Food trifft Kapitalmarkt",
+    "u": "https://www.personalleiter.today/fast-food-trifft-kapitalmarkt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Osric Langevin",
+    "id": 2482,
+    "c": "Osric Langevin",
+    "d": "2026-04-08",
+    "t": "Osric Langevin: Oel und Krieg als Marktsignal Q2 2026",
+    "u": "https://www.personalleiter.today/osric-langevin-oel-und-krieg-als-marktsignal-q2-2026/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Firma MEWATU",
+    "id": 2495,
+    "c": "Firma MEWATU",
+    "d": "2026-04-07",
+    "t": "Neuer Onlineshop für stilvolle Tischkultur: mewatushop.de startet mit hochwertigem Wachstuch und Jacquard-Tischdecken",
+    "u": "https://www.produktionsleiter.today/neuer-onlineshop-fuer-stilvolle-tischkultur-mewatushop-de-startet-mit-hochwertigem-wachstuch-und-jacquard-tischdecken/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "MAGNOLIA SERVICE eG",
+    "id": 2502,
+    "c": "MAGNOLIA SERVICE eG",
+    "d": "2026-04-07",
+    "t": "Immobilienbuch „Dein erster Deal“ erreicht Platz 6 im manager magazin",
+    "u": "https://www.personalleiter.today/immobilienbuch-dein-erster-deal-erreicht-platz-6-im-manager-magazin/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Stark Transporte und Umzüge",
+    "id": 2522,
+    "c": "Stark Transporte und Umzüge",
+    "d": "2026-04-07",
+    "t": "Stark Transporte & Umzüge: Expansion & Service",
+    "u": "https://www.personalleiter.today/stark-transporte-umzuege-expansion-service/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Frank Heister",
+    "id": 2528,
+    "c": "Frank Heister",
+    "d": "2026-04-05",
+    "t": "Frank Heisters Philosophie: Erfolg beginnt mit Eigenverantwortung",
+    "u": "https://www.personalleiter.today/frank-heisters-philosophie-erfolg-beginnt-mit-eigenverantwortung/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Frank Heister",
+    "id": 2529,
+    "c": "Frank Heister",
+    "d": "2026-04-05",
+    "t": "„Niemand baut dein Leben für dich“ – Interview mit Frank Heister",
+    "u": "https://www.marketingleiter.today/niemand-baut-dein-leben-fuer-dich-interview-mit-frank-heister/",
+    "p": [
+      "Marketingleiter.today",
+      "Businessleader.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Frank Heister",
+    "id": 2530,
+    "c": "Frank Heister",
+    "d": "2026-04-05",
+    "t": "Der Mann, der aus Rückschlägen eine Marke machte: Frank Heister",
+    "u": "https://www.produktionsleiter.today/der-mann-der-aus-rueckschlaegen-eine-marke-machte-frank-heister/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Frank Heister",
+    "id": 2538,
+    "c": "Frank Heister",
+    "d": "2026-04-02",
+    "t": "Frank Heister – der Mann, der aus Rückschlägen eine Marke machte",
+    "u": "https://www.personalleiter.today/frank-heister-der-mann-der-aus-rueckschlaegen-eine-marke-machte/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "KrempelWeg Entrümpelung",
+    "id": 2579,
+    "c": "KrempelWeg Entrümpelung",
+    "d": "2026-04-01",
+    "t": "KrempelWeg Entrümpelung: Österreichweite Entrümpelung mit Festpreisgarantie",
+    "u": "https://www.produktionsleiter.today/krempelweg-entruempelung-oesterreichweite-entruempelung-mit-festpreisgarantie/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Köln Arcaden",
+    "id": 2640,
+    "c": "Köln Arcaden",
+    "d": "2026-03-30",
+    "t": "Köln Arcaden begrüßen Bath & Body Works",
+    "u": "https://www.produktionsleiter.today/koeln-arcaden-begruessen-bath-body-works/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "uCAR Trading",
+    "id": 2647,
+    "c": "uCAR Trading",
+    "d": "2026-03-30",
+    "t": "GoldSilberMarkt.de erhält TÜV Saarland Zertifizierung als „Geprüfter Onlineshop“",
+    "u": "https://www.personalleiter.today/goldsilbermarkt-de-erhaelt-tuev-saarland-zertifizierung-als-gepruefter-onlineshop/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "MrDISC c/o Digistor Deutschland",
+    "id": 2650,
+    "c": "MrDISC c/o Digistor Deutschland GmbH",
+    "d": "2026-03-29",
+    "t": "MrDisc empfiehlt: MagGlow – Powerbank mit leuchtender Werbewirkung",
+    "u": "https://www.it-management.today/mrdisc-empfiehlt-magglow-powerbank-mit-leuchtender-werbewirkung/",
+    "p": [
+      "IT-Management.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "LHG Luxus Haus und Garten®",
+    "id": 2660,
+    "c": "LHG Luxus Haus und Garten®",
+    "d": "2026-03-27",
+    "t": "Britischer Teak-Spezialist Luxus Home and Garden feiert Europadebüt auf der Internationalen Grünen Woche in Berlin",
+    "u": "https://www.personalleiter.today/britischer-teak-spezialist-luxus-home-and-garden-feiert-europadebuet-auf-der-internationalen-gruenen-woche-in-berlin/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 2706,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-03-25",
+    "t": "Expeditionsreisen im Boom: Nicolas Kitzki, CEO von IKARUS TOURS und PolarNEWS, gibt exklusive Einblicke in Arktis, Antarktis und neue Routen",
+    "u": "https://www.personalleiter.today/expeditionsreisen-im-boom-nicolas-kitzki-ceo-von-ikarus-tours-und-polarnews-gibt-exklusive-einblicke-in-arktis-antarktis-und-neue-routen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kilian Kropiunik Enterprise LLC",
+    "id": 2707,
+    "c": "Kilian Kropiunik Enterprise LLC",
+    "d": "2026-03-25",
+    "t": "Kilian Kropiunik: Wie realistisch ist „Reich durch Krypto“ wirklich?",
+    "u": "https://www.personalleiter.today/kilian-kropiunik-wie-realistisch-ist-reich-durch-krypto-wirklich/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "KrempelWeg Entrümpelung",
+    "id": 2708,
+    "c": "KrempelWeg Entrümpelung",
+    "d": "2026-03-25",
+    "t": "KrempelWeg Entrümpelung",
+    "u": "https://www.produktionsleiter.today/krempelweg-entruempelung/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Netapresse",
+    "id": 2709,
+    "c": "Netapresse",
+    "d": "2026-03-25",
+    "t": "TTPCG® – ein außergewöhnliches Unternehmen",
+    "u": "https://www.personalleiter.today/ttpcg-ein-aussergewoehnliches-unternehmen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Paretofit",
+    "id": 2734,
+    "c": "Paretofit",
+    "d": "2026-03-24",
+    "t": "Seriöses Gesundheitscoaching statt Hype-Marketing",
+    "u": "https://www.marketingleiter.today/serioeses-gesundheitscoaching-statt-hype-marketing/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Rainers Bavarian Feinkost & Mehr",
+    "id": 2735,
+    "c": "Rainers Bavarian Feinkost & Mehr",
+    "d": "2026-03-24",
+    "t": "Schenkelberg revolutioniert: Einzelhandel/ KI-Literatur",
+    "u": "https://www.produktionsleiter.today/schenkelberg-revolutioniert-einzelhandel-ki-literatur/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "SNOW Analytics",
+    "id": 2758,
+    "c": "SNOW Analytics GmbH",
+    "d": "2026-03-23",
+    "t": "Lebensversicherungen im Realitätscheck: Neue Gutachten zeigen bislang unterschätzte wirtschaftliche Ansprüche",
+    "u": "https://www.personalleiter.today/lebensversicherungen-im-realitaetscheck-neue-gutachten-zeigen-bislang-unterschaetzte-wirtschaftliche-ansprueche/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Wohlfühlpflege",
+    "id": 2762,
+    "c": "Wohlfühlpflege GmbH",
+    "d": "2026-03-23",
+    "t": "Psychiatrische häusliche Krankenpflege in Hannover durch die Wohlfühlpflege GmbH",
+    "u": "https://www.produktionsleiter.today/psychiatrische-haeusliche-krankenpflege-in-hannover-durch-die-wohlfuehlpflege-gmbh/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jakob Krout",
+    "id": 2769,
+    "c": "Jakob Krout",
+    "d": "2026-03-20",
+    "t": "Moderne Ferienwohnungen in Schwäbisch Hall und Künzelsau",
+    "u": "https://www.produktionsleiter.today/moderne-ferienwohnungen-in-schwaebisch-hall-und-kuenzelsau/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Zahnarzt in Pasing",
+    "id": 2807,
+    "c": "Zahnarzt in Pasing",
+    "d": "2026-03-19",
+    "t": "Ausbildung mit Zukunft: Zahnmedizinische Fachangestellte",
+    "u": "https://www.personalleiter.today/ausbildung-mit-zukunft-zahnmedizinische-fachangestellte/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "besser Korrektur lesen",
+    "id": 2812,
+    "c": "besser Korrektur lesen",
+    "d": "2026-03-18",
+    "t": "Lektorat mit Lerneffekt",
+    "u": "https://www.personalleiter.today/lektorat-mit-lerneffekt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Medekon Krankenfahrten",
+    "id": 2823,
+    "c": "Medekon Krankenfahrten",
+    "d": "2026-03-18",
+    "t": "Krankenfahrten & Krankentransport zuverlässig organisiert",
+    "u": "https://www.produktionsleiter.today/krankenfahrten-krankentransport-zuverlaessig-organisiert/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Erich von Werner Verlag",
+    "id": 2887,
+    "c": "Erich von Werner Verlag",
+    "d": "2026-03-13",
+    "t": "Neues Verfahren zur Einschätzung psychischer Leistungs- und Arbeitsfähigkeit",
+    "u": "https://www.produktionsleiter.today/neues-verfahren-zur-einschaetzung-psychischer-leistungs-und-arbeitsfaehigkeit/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 2923,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-03-12",
+    "t": "Deutschland so blass? Roger König über Strukturverlust und Reformbedarf",
+    "u": "https://www.personalleiter.today/deutschland-so-blass-roger-koenig-ueber-strukturverlust-und-reformbedarf/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kilian Kropiunik Enterprise LLC",
+    "id": 2945,
+    "c": "Kilian Kropiunik Enterprise LLC",
+    "d": "2026-03-11",
+    "t": "Kilian Krypto Masterclass: Warum Struktur wichtiger ist als den Markt zu schlagen",
+    "u": "https://www.personalleiter.today/kilian-krypto-masterclass-warum-struktur-wichtiger-ist-als-den-markt-zu-schlagen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kilian Kropiunik Enterprise LLC",
+    "id": 2965,
+    "c": "Kilian Kropiunik Enterprise LLC",
+    "d": "2026-03-10",
+    "t": "Krypto Masterclass: Warum das Lernformat im Kryptomarkt gerade boomt",
+    "u": "https://www.personalleiter.today/krypto-masterclass-warum-das-lernformat-im-kryptomarkt-gerade-boomt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kilian Kropiunik Enterprise LLC",
+    "id": 2986,
+    "c": "Kilian Kropiunik Enterprise LLC",
+    "d": "2026-03-09",
+    "t": "Erfahrungsbericht über Kilian Kropiunik: Warum Wissen die beste Rendite ist",
+    "u": "https://www.personalleiter.today/erfahrungsbericht-ueber-kilian-kropiunik-warum-wissen-die-beste-rendite-ist/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Fragold Connect",
+    "id": 3028,
+    "c": "Fragold Connect GmbH",
+    "d": "2026-03-04",
+    "t": "Mehr Gold im Portfolio: Das High-Quality Liquid Asset ist mehr als ein Krisenschutz",
+    "u": "https://www.personalleiter.today/mehr-gold-im-portfolio-das-high-quality-liquid-asset-ist-mehr-als-ein-krisenschutz/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 3056,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-03-03",
+    "t": "Bewerbungsverfahren gestartet: ELORA Fashion Show sucht 30 Models mit drei ausgewählten Fashion Labels & ICON LOOK of the Night AVANI Frankfurt City",
+    "u": "https://www.personalleiter.today/bewerbungsverfahren-gestartet-elora-fashion-show-sucht-30-models-mit-drei-ausgewaehlten-fashion-labels-icon-look-of-the-night-avani-frankfurt-city/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "id": 3057,
+    "c": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "d": "2026-03-03",
+    "t": "Neuerscheinung: „Deutschland so blass“ – Roger König analysiert die aktuelle Lage Deutschlands",
+    "u": "https://www.personalleiter.today/neuerscheinung-deutschland-so-blass-roger-koenig-analysiert-die-aktuelle-lage-deutschlands/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "PaySol GmbH & Co. KG",
+    "id": 3073,
+    "c": "PaySol GmbH & Co. KG",
+    "d": "2026-03-02",
+    "t": "Erweiterter Kundensupport für die Deutschland-Kreditkarte",
+    "u": "https://www.personalleiter.today/erweiterter-kundensupport-fuer-die-deutschland-kreditkarte/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Paretofit",
+    "id": 3137,
+    "c": "Paretofit",
+    "d": "2026-02-24",
+    "t": "Paretofit startet Gesundheitsquiz für Selbstständige",
+    "u": "https://www.personalleiter.today/paretofit-startet-gesundheitsquiz-fuer-selbststaendige/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Strandhotel Zingst",
+    "id": 3156,
+    "c": "Strandhotel Zingst",
+    "d": "2026-02-23",
+    "t": "„Strandhotel Zingst“ mit „Traveller Review Award 2026“ ausgezeichnet",
+    "u": "https://www.produktionsleiter.today/strandhotel-zingst-mit-traveller-review-award-2026-ausgezeichnet/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Neutrino® Energy Group",
+    "id": 3162,
+    "c": "Neutrino® Energy Group",
+    "d": "2026-02-20",
+    "t": "Bilanz im Fokus: Die Schubart-Master-Formel verstehen",
+    "u": "https://www.produktionsleiter.today/bilanz-im-fokus-die-schubart-master-formel-verstehen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kilian Kropiunik Enterprise LLC",
+    "id": 3183,
+    "c": "Kilian Kropiunik Enterprise LLC",
+    "d": "2026-02-19",
+    "t": "Krypto Masterclass Erfahrungen: Was seriöse Krypto-Bildungsangebote auszeichnet",
+    "u": "https://www.personalleiter.today/krypto-masterclass-erfahrungen-was-serioese-krypto-bildungsangebote-auszeichnet/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Psychotherapeut Dipl. Päd. Bernd Thell",
+    "id": 3187,
+    "c": "Psychotherapeut Dipl. Päd. Bernd Thell",
+    "d": "2026-02-19",
+    "t": "10 bewährte Wege aus der Depression: Praktische Hilfe in Wien",
+    "u": "https://www.produktionsleiter.today/10-bewaehrte-wege-aus-der-depression-praktische-hilfe-in-wien/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Zahnärzte Neustadt Passage",
+    "id": 3193,
+    "c": "Zahnärzte Neustadt Passage",
+    "d": "2026-02-19",
+    "t": "Zahnimplantate in Zug gesucht? 5 Vorteile der Zahnärzte Neustadt Passage",
+    "u": "https://www.produktionsleiter.today/zahnimplantate-in-zug-gesucht-5-vorteile-der-zahnaerzte-neustadt-passage/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kilian Kropiunik Enterprise LLC",
+    "id": 3201,
+    "c": "Kilian Kropiunik Enterprise LLC",
+    "d": "2026-02-18",
+    "t": "Kilian Kropiunik Erfahrungen: Warum Krypto-Coachings polarisieren",
+    "u": "https://www.personalleiter.today/kilian-kropiunik-erfahrungen-warum-krypto-coachings-polarisieren/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Klettergötz Baumpflege",
+    "id": 3202,
+    "c": "Klettergötz Baumpflege",
+    "d": "2026-02-18",
+    "t": "Spätwinter ist Schnittzeit",
+    "u": "https://www.produktionsleiter.today/spaetwinter-ist-schnittzeit/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "VITAMIC Europa SL",
+    "id": 3207,
+    "c": "VITAMIC Europa SL",
+    "d": "2026-02-18",
+    "t": "Zerolimits gegen Müdigkeit und Erschöpfung im Cockpit",
+    "u": "https://www.produktionsleiter.today/zerolimits-gegen-muedigkeit-und-erschoepfung-im-cockpit/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Crystal",
+    "id": 3210,
+    "c": "Crystal",
+    "d": "2026-02-17",
+    "t": "Hohe Nachfrage für die Luxuskreuzfahrten von Crystal",
+    "u": "https://www.produktionsleiter.today/hohe-nachfrage-fuer-die-luxuskreuzfahrten-von-crystal/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "B-Line71.com",
+    "id": 3222,
+    "c": "B-Line71.com",
+    "d": "2026-02-16",
+    "t": "Personalisierte Hundeschilder online gestalten",
+    "u": "https://www.produktionsleiter.today/personalisierte-hundeschilder-online-gestalten/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Der-Yacht-Anwalt",
+    "id": 3247,
+    "c": "Der-Yacht-Anwalt",
+    "d": "2026-02-12",
+    "t": "Yachtgeschäft als Highendwirtschaft",
+    "u": "https://www.personalleiter.today/yachtgeschaeft-als-highendwirtschaft/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Online-Türschilder.com",
+    "id": 3252,
+    "c": "Online-Türschilder.com",
+    "d": "2026-02-12",
+    "t": "Namensschilder Haustür mit Ihrem persönlichem Wunschtext",
+    "u": "https://www.produktionsleiter.today/namensschilder-haustuer-mit-ihrem-persoenlichem-wunschtext/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Hausratgenie",
+    "id": 3284,
+    "c": "Hausratgenie",
+    "d": "2026-02-10",
+    "t": "Einbruch, Brand, Wasserschaden: Warum viele Hausrat-Schäden an fehlenden Nachweisen scheitern",
+    "u": "https://www.produktionsleiter.today/einbruch-brand-wasserschaden-warum-viele-hausrat-schaeden-an-fehlenden-nachweisen-scheitern/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Netapresse",
+    "id": 3302,
+    "c": "Netapresse",
+    "d": "2026-02-09",
+    "t": "TTPCG® bietet Einmaliges für Franchisenehmer",
+    "u": "https://www.personalleiter.today/ttpcg-bietet-einmaliges-fuer-franchisenehmer/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Sanitätshaus-Online.Shop",
+    "id": 3303,
+    "c": "Sanitätshaus-Online.Shop",
+    "d": "2026-02-09",
+    "t": "Sanitätshaus-Online.Shop aus München erhält Award „Unternehmer der Zukunft“",
+    "u": "https://www.personalleiter.today/sanitaetshaus-online-shop-aus-muenchen-erhaelt-award-unternehmer-der-zukunft/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Umzugsexperten Hamburg",
+    "id": 3306,
+    "c": "Umzugsexperten Hamburg",
+    "d": "2026-02-09",
+    "t": "Umzugsexperten Hamburg setzt auf stressfreie Umzüge",
+    "u": "https://www.produktionsleiter.today/umzugsexperten-hamburg-setzt-auf-stressfreie-umzuege/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Pressebüro Dr. Willmann",
+    "id": 3340,
+    "c": "Pressebüro Dr. Willmann",
+    "d": "2026-02-03",
+    "t": "Partnervermittlung in perfekter Form bietet TTPCG®",
+    "u": "https://www.personalleiter.today/partnervermittlung-in-perfekter-form-bietet-ttpcg/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Neutrino® Energy Group",
+    "id": 3358,
+    "c": "Neutrino® Energy Group",
+    "d": "2026-02-02",
+    "t": "Neutrinovoltaik verstehen beginnt mit ihrer Sprache",
+    "u": "https://www.produktionsleiter.today/neutrinovoltaik-verstehen-beginnt-mit-ihrer-sprache/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Releaf DE",
+    "id": 3359,
+    "c": "Releaf DE GmbH",
+    "d": "2026-02-02",
+    "t": "Releaf, größte medizinische Cannabis-Klinik im Vereinigten Königreich, tritt in den deutschen Markt ein",
+    "u": "https://www.personalleiter.today/releaf-groesste-medizinische-cannabis-klinik-im-vereinigten-koenigreich-tritt-in-den-deutschen-markt-ein/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kunstverein EULENGASSE e.V",
+    "id": 3368,
+    "c": "Kunstverein EULENGASSE e.V.",
+    "d": "2026-01-30",
+    "t": "CONSPIRACY THEORY",
+    "u": "https://www.personalleiter.today/conspiracy-theory/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Fragold Connect",
+    "id": 3386,
+    "c": "Fragold Connect GmbH",
+    "d": "2026-01-29",
+    "t": "Rekordpreise bei Gold und Silber: Das ZukunftsForum Edelmetalle 2026 bietet Insiderblick auf Treiber, Risiken und Wendepunkte",
+    "u": "https://www.personalleiter.today/rekordpreise-bei-gold-und-silber-das-zukunftsforum-edelmetalle-2026-bietet-insiderblick-auf-treiber-risiken-und-wendepunkte/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Ines Richter Life Design- & Breath Coach",
+    "id": 3389,
+    "c": "Ines Richter Life Design- & Breath Coach",
+    "d": "2026-01-29",
+    "t": "Ines Richter setzt den",
+    "u": "https://www.personalleiter.today/ines-richter-setzt-den/",
+    "p": [
+      "Personalleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Andrea Vella",
+    "id": 3401,
+    "c": "Andrea Vella",
+    "d": "2026-01-28",
+    "t": "Andrea Vella is confident about the energy revolution of the next decade",
+    "u": "https://www.produktionsleiter.today/andrea-vella-is-confident-about-the-energy-revolution-of-the-next-decade/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Innen Meister",
+    "id": 3409,
+    "c": "Innen Meister",
+    "d": "2026-01-28",
+    "t": "Saubere Renovierungsarbeiten im Innenbereich erkennen",
+    "u": "https://www.produktionsleiter.today/saubere-renovierungsarbeiten-im-innenbereich-erkennen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "MyWage",
+    "id": 3412,
+    "c": "MyWage GmbH",
+    "d": "2026-01-28",
+    "t": "MyWage erreicht 500.000 Kunden im Fintech-Sektor",
+    "u": "https://www.businessleader.today/mywage-erreicht-500-000-kunden-im-fintech-sektor/",
+    "p": [
+      "Businessleader.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Allatra e.V",
+    "id": 3446,
+    "c": "Allatra e.V.",
+    "d": "2026-01-26",
+    "t": "Nanoplastik im Körper: Unsichtbares Gesundheitsrisiko in unseren Zellen",
+    "u": "https://www.produktionsleiter.today/nanoplastik-im-koerper-unsichtbares-gesundheitsrisiko-in-unseren-zellen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Neutrino® Energy Group",
+    "id": 3460,
+    "c": "Neutrino® Energy Group",
+    "d": "2026-01-26",
+    "t": "Technische Klarstellung der Neutrino® Energy Group",
+    "u": "https://www.produktionsleiter.today/technische-klarstellung-der-neutrino-energy-group/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "PERSONAL CONSULTING",
+    "id": 3463,
+    "c": "PERSONAL CONSULTING LIMITED",
+    "d": "2026-01-26",
+    "t": "TTPCG® wurde als „Herausragender Franchisegeber“ ausgezeichnet",
+    "u": "https://www.personalleiter.today/ttpcg-wurde-als-herausragender-franchisegeber-ausgezeichnet/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Elke Schmidt Fotografie",
+    "id": 3475,
+    "c": "Elke Schmidt Fotografie",
+    "d": "2026-01-23",
+    "t": "NEUE SPEAKER BRAUCHT DAS LAND",
+    "u": "https://www.personalleiter.today/neue-speaker-braucht-das-land-2/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Renna Taxi Tübingen",
+    "id": 3488,
+    "c": "Renna Taxi Tübingen",
+    "d": "2026-01-23",
+    "t": "Renna Taxi Tübingen stärkt Krankenfahrten: digitale Buchung, Kassenabrechnung und planbare Kosten für Patient:innen",
+    "u": "https://www.produktionsleiter.today/renna-taxi-tuebingen-staerkt-krankenfahrten-digitale-buchung-kassenabrechnung-und-planbare-kosten-fuer-patientinnen/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Lian Original",
+    "id": 3526,
+    "c": "Lian Original",
+    "d": "2026-01-21",
+    "t": "Brand Award 2026: Design-Sensation aus Liechtenstein",
+    "u": "https://www.produktionsleiter.today/brand-award-2026-design-sensation-aus-liechtenstein/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Virginia Tourism Coporation",
+    "id": 3537,
+    "c": "Virginia Tourism Coporation",
+    "d": "2026-01-21",
+    "t": "Drei neue Boutiquehotels bereichern Virginias Hotellandschaft",
+    "u": "https://www.produktionsleiter.today/drei-neue-boutiquehotels-bereichern-virginias-hotellandschaft/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "BEAUTEX hairlounge",
+    "id": 3540,
+    "c": "BEAUTEX hairlounge",
+    "d": "2026-01-20",
+    "t": "Beautex-Friseure: perfekter Look und persönliche Betreuung",
+    "u": "https://www.produktionsleiter.today/beautex-friseure-perfekter-look-und-persoenliche-betreuung/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Hausbootkauf.de",
+    "id": 3548,
+    "c": "Hausbootkauf.de",
+    "d": "2026-01-20",
+    "t": "Neu: Usedom- Premium-Hausboote + Liegeplatz, Sauna, Kamin",
+    "u": "https://www.personalleiter.today/neu-usedom-premium-hausboote-liegeplatz-sauna-kamin/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Österreichische Literaturgesellschaft",
+    "id": 3550,
+    "c": "Österreichische Literaturgesellschaft",
+    "d": "2026-01-20",
+    "t": "Gerald Hafner: Vom Kommen des Wassermannzeitalters und dem Wirken der Elemente",
+    "u": "https://www.produktionsleiter.today/gerald-hafner-vom-kommen-des-wassermannzeitalters-und-dem-wirken-der-elemente/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Globus Schlüsseldienst Nürnberg",
+    "id": 3563,
+    "c": "Globus Schlüsseldienst Nürnberg",
+    "d": "2026-01-19",
+    "t": "Transparente Türöffnungen in Nürnberg vom Fachbetrieb",
+    "u": "https://www.produktionsleiter.today/transparente-tueroeffnungen-in-nuernberg-vom-fachbetrieb/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Bem",
+    "id": 3580,
+    "c": "Bem GmbH",
+    "d": "2026-01-15",
+    "t": "Jarmarka 2026: Plattform für Kultur und Handel",
+    "u": "https://www.personalleiter.today/jarmarka-2026-plattform-fuer-kultur-und-handel/",
+    "p": [
+      "Personalleiter.today",
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "OLIG",
+    "id": 3606,
+    "c": "OLIG AG",
+    "d": "2026-01-14",
+    "t": "OLIG AG – Indikative Kursstellung im ausserbörslichen Kurssystem der SIX ab 15. Januar 2026",
+    "u": "https://www.personalleiter.today/olig-ag-indikative-kursstellung-im-ausserboerslichen-kurssystem-der-six-ab-15-januar-2026/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "ITA Transworld Reisen",
+    "id": 3626,
+    "c": "ITA Transworld Reisen GmbH",
+    "d": "2026-01-13",
+    "t": "Urlaubsträume 2026 beginnen jetzt",
+    "u": "https://www.produktionsleiter.today/urlaubstraeume-2026-beginnen-jetzt/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Stockanalyzer",
+    "id": 3638,
+    "c": "Stockanalyzer GmbH",
+    "d": "2026-01-13",
+    "t": "Startup lässt Warren Buffetts Philosophie weiterleben",
+    "u": "https://www.it-management.today/startup-laesst-warren-buffetts-philosophie-weiterleben/",
+    "p": [
+      "IT-Management.today",
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Wohnmobil-Ankauf",
+    "id": 3666,
+    "c": "Wohnmobil-Ankauf",
+    "d": "2026-01-08",
+    "t": "Motorschaden am Wohnmobil",
+    "u": "https://www.produktionsleiter.today/motorschaden-am-wohnmobil/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Heilpraktiker Harald Erb",
+    "id": 3672,
+    "c": "Heilpraktiker Harald Erb",
+    "d": "2026-01-07",
+    "t": "Ganzheitliche Wege zur Gesundheit:",
+    "u": "https://www.produktionsleiter.today/ganzheitliche-wege-zur-gesundheit/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "MAROKKO ZEITUNG",
+    "id": 3673,
+    "c": "MAROKKO ZEITUNG",
+    "d": "2026-01-07",
+    "t": "Marokko: Bedeutender archäologischer Fund gibt Aufschluss über die Ursprünge der Menschheit",
+    "u": "https://www.produktionsleiter.today/marokko-bedeutender-archaeologischer-fund-gibt-aufschluss-ueber-die-urspruenge-der-menschheit/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Schofer Properties LLC",
+    "id": 3676,
+    "c": "Schofer Properties LLC",
+    "d": "2026-01-07",
+    "t": "Webinar – Investieren in Dubai mit Sicherheit & Weitsicht",
+    "u": "https://www.marketingleiter.today/webinar-investieren-in-dubai-mit-sicherheit-weitsicht/",
+    "p": [
+      "Marketingleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Bruno Dobler – Keynote Speaker & Coach",
+    "id": 3688,
+    "c": "Bruno Dobler – Keynote Speaker & Coach",
+    "d": "2026-01-05",
+    "t": "Wirtschaft auf Schrumpfkurs – 2026 wird ein Jahr der Kürzungen",
+    "u": "https://www.personalleiter.today/wirtschaft-auf-schrumpfkurs-2026-wird-ein-jahr-der-kuerzungen/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Tierheim Tierfutter",
+    "id": 3703,
+    "c": "Tierheim Tierfutter",
+    "d": "2026-01-04",
+    "t": "Generationswechsel bei Tierheim Tierfutter",
+    "u": "https://www.produktionsleiter.today/generationswechsel-bei-tierheim-tierfutter/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Kontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "CWE Holding Europe",
+    "id": 3754,
+    "c": "CWE Holding Europe GmbH",
+    "d": "2026-09-11",
+    "t": "Petition für Cannabisblüten auf Rezept",
+    "u": "https://www.produktionsleiter.today/petition-fuer-cannabisblueten-auf-rezept/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Kanzlei Consilium",
+    "id": 3757,
+    "c": "Kanzlei Consilium",
+    "d": "2026-09-11",
+    "t": "Ein Jahr statt drei: Privatinsolvenz in Irland endet nach zwölf Monaten und wird in Deutschland automatisch anerkannt",
+    "u": "https://www.produktionsleiter.today/ein-jahr-statt-drei-privatinsolvenz-in-irland-endet-nach-zwoelf-monaten-und-wird-in-deutschland-automatisch-anerkannt/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today",
+      "Businessleader.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "id": 3767,
+    "c": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "d": "2026-09-10",
+    "t": "Die Brennnessel – Vom Unkraut zur gefragten Heilpflanze der modernen Phytotherapie",
+    "u": "https://www.produktionsleiter.today/die-brennnessel-vom-unkraut-zur-gefragten-heilpflanze-der-modernen-phytotherapie/",
+    "p": [
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "A. Engelhardt Markenkonzepte",
+    "id": 3822,
+    "c": "A. Engelhardt Markenkonzepte GmbH",
+    "d": "2026-09-08",
+    "t": "Neue Ballermann-Kampagne startet",
+    "u": "https://www.produktionsleiter.today/neue-ballermann-kampagne-startet/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Brick Towers",
+    "id": 3831,
+    "c": "Brick Towers AG",
+    "d": "2026-09-08",
+    "t": "Brick Towers und urble: Langfristiges Sparen mit Bitcoin und Schweizer Franken neu gedacht",
+    "u": "https://www.produktionsleiter.today/brick-towers-und-urble-langfristiges-sparen-mit-bitcoin-und-schweizer-franken-neu-gedacht/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  },
+  {
+    "source": "public/data/publications-update-2026-09-07.json",
+    "reason": "Fachfremder oder nicht belastbar zugeordneter Beitrag für den SmartTech-Anbieterkatalog",
+    "auditName": "Personal Training & Medical Performance",
+    "id": 3842,
+    "c": "Personal Training & Medical Performance",
+    "d": "2026-09-08",
+    "t": "Longevity beginnt im Muskel",
+    "u": "https://www.produktionsleiter.today/longevity-beginnt-im-muskel/",
+    "p": [
+      "Personalleiter.today",
+      "Produktionsleiter.today"
+    ],
+    "r": "Herausgeber/Firmenkontakt",
+    "s": "Hoch"
+  }
+]

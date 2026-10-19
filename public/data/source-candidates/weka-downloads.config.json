@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "weka-downloads",
+  "label": "WEKA Downloads",
+  "status": "active_with_review_gate",
+  "sitemapUrl": "https://www.weka.de/download-sitemap.xml",
+  "preparedAt": "2026-09-15",
+  "origin": "Beobachtet",
+  "portalLabel": "WEKA Downloads",
+  "providerPolicy": "WEKA nur dann als Anbieter führen, wenn die Originalseite WEKA als tatsächlichen Herausgeber des Downloads belegt; fremde Fachautoren, Partner und Mittler gesondert prüfen.",
+  "automaticPublication": false,
+  "approvedInventory": {
+    "reviewedAt": "2026-09-15",
+    "publicationYear": 2026,
+    "itemCount": 61,
+    "provider": "WEKA Intelligence"
+  },
+  "newItemDetection": "persistent_url_set_difference",
+  "publicationDateSource": "original_page_metadata_not_sitemap_lastmod",
+  "preferredSections": [
+    "qualitaetsmanagement",
+    "energie",
+    "einkauf-logistik",
+    "datenschutz",
+    "produktsicherheit",
+    "elektrosicherheit",
+    "arbeitsschutz-gefahrstoffe",
+    "umweltschutz",
+    "architekten-ingenieure"
+  ],
+  "excludedSectionsByDefault": [
+    "betriebsrat-personalrat",
+    "ordnungsamt-gewerbeamt",
+    "buergermeister",
+    "hauptamt-kaemmerei"
+  ],
+  "requiredChecks": [
+    "Originalseite und Download erreichbar",
+    "Titel und echtes Veröffentlichungsdatum",
+    "tatsächlicher Herausgeber oder Anbieter",
+    "kostenlos, Registrierung oder Bezahlschranke",
+    "Dubletten und Sprachvarianten",
+    "SmartTech-Taxonomie und kaufbarer Lösungsbezug",
+    "Trennung Beobachtet, Kuratiert und Community"
+  ],
+  "sitemapAssessment": {
+    "totalUrls": 763,
+    "urlsWith2026Lastmod": 519,
+    "urlsWithLastmodSince2026-09-08": 470,
+    "assessment": "Sitemap technisch geeignet; lastmod zeigt eine große Sammelaktualisierung und darf nicht als Veröffentlichungsdatum oder alleiniger Neuheitsbeleg verwendet werden."
+  }
+}

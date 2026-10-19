@@ -1,0 +1,1765 @@
+[
+  {
+    "id": 880000,
+    "title": "Mit KI-Agenten auf Social Media posten via MCP",
+    "provider": "ADENION GmbH / Blog2Social",
+    "space": "Medien und Öffentlichkeit",
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Social-Media-Publishing über MCP",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/mit-ki-agenten-auf-social-media-posten-via-mcp/",
+    "note": "Blog2Social beschreibt einen gehosteten MCP-Zugang für Social-Media-Workflows mit OAuth. Inhalte und Veröffentlichungsaktionen benötigen passende Kontoberechtigungen und Freigaben. Der Beitrag ist eine Anbieterbeschreibung, keine Prüfung der Integration.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-19",
+    "mediaPrimary": true,
+    "mediaArea": "Publishing und Distribution",
+    "channels": [
+      "Social Media",
+      "Web und Fachportale"
+    ]
+  },
+  {
+    "id": 880001,
+    "title": "Präziser kalkulieren: costing24 wertet Zeichnungen mit KI aus",
+    "provider": "simus systems",
+    "space": "Produktion und Produkte",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-gestützte Zeichnungskalkulation",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/praeziser-kalkulieren-costing24-wertet-zeichnungen-mit-ki-aus/",
+    "note": "costing24 ergänzt die CAD-basierte Fertigungskalkulation um Informationen aus technischen Zeichnungen, etwa Toleranzen und Materialangaben. Die Meldung stammt von simus systems; Kalkulationsgenauigkeit und Ergebnisse sind projektspezifisch zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-16"
+  },
+  {
+    "id": 880002,
+    "title": "Tenable nutzt OpenAI GPT Cyber-Modelle zur Erweiterung der automatisierten Sicherheitsprüfung in der CyberAgents Exchange",
+    "provider": "Tenable",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Sicherheitsprüfung für KI-Agenten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/tenable-nutzt-openai-gpt-cyber-modelle-zur-erweiterung-der-automatisierten-sicherheitspruefung-in-der-cyberagents-exchange/",
+    "note": "Die Meldung beschreibt eine mehrstufige Prüfung ausgewählter Agenten, Skills und MCP-Server. Automatisierte Analyse, Modellbewertung und menschliche Prüfung ergänzen einander. Der Prüfstatus gilt für ausgewählte Einträge und ist keine pauschale Freigabe sämtlicher Exchange-Inhalte.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": 880003,
+    "title": "Cloud-Kanzleisoftware Amberlo startet in Deutschland",
+    "provider": "Septeo CNEE",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Cloud-Kanzleisoftware",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/cloud-kanzleisoftware-amberlo-startet-in-deutschland/",
+    "note": "Amberlo bündelt Akten, Fristen, Zeiterfassung, Abrechnung und beA für Kanzleien. Legal Twin ist als KI-Erweiterung zubuchbar. Die Meldung wird Septeo CNEE zugeordnet; Amberlo erhält kein zweites Anbieterprofil.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": 880004,
+    "title": "Scrive führt Open-Source-MCP-Server für KI-gestützte Vertragsworkflows ein",
+    "provider": "Scrive",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Agentengestützte Signaturabläufe",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/scrive-fuehrt-open-source-mcp-server-fuer-ki-gestuetzte-vertragsworkflows-ein/",
+    "note": "Der MCP-Server verbindet KI-Anwendungen mit Scrive-Signatur-, Dokumenten- und Identitätsdiensten. Vorbereitung und Prozessstart durch Agenten sind von der eigentlichen Unterzeichnung zu unterscheiden. Berechtigungen, Freigaben und Auditierung bleiben wesentliche Auswahlfragen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": 880005,
+    "title": "iTAC richtet MOM-Lösung gemeinsam mit Red Hat auf globale Skalierbarkeit aus",
+    "provider": "iTAC Software",
+    "space": "Produktion und Produkte",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "MOM auf Red Hat OpenShift",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/itac-richtet-mom-loesung-gemeinsam-mit-red-hat-auf-globale-skalierbarkeit-aus/",
+    "note": "iTAC beschreibt Red Hat OpenShift als gemeinsame Bereitstellungsbasis für seine MOM-Lösung und weitere Komponenten. Standardisierte Rollouts sollen mehrere Werke verbinden. Erforderliche Infrastruktur, Integration und Betriebszuständigkeit sind gesondert zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15",
+    "additionalProviders": [
+      "Red Hat"
+    ],
+    "providerRelations": [
+      {
+        "name": "Red Hat",
+        "type": {
+          "de": "Belegter Plattform- oder Integrationsbezug",
+          "en": "Sourced platform or integration relationship"
+        },
+        "context": {
+          "de": "Red Hat stellt die OpenShift-Plattform; iTAC die MOM-Anwendung bereit.",
+          "en": "Red Hat supplies OpenShift; iTAC supplies the MOM application."
+        },
+        "reviewedAt": "2026-10-19",
+        "sourceUrl": "https://www.it-management.today/itac-richtet-mom-loesung-gemeinsam-mit-red-hat-auf-globale-skalierbarkeit-aus/",
+        "scope": "specific-article-integration"
+      }
+    ]
+  },
+  {
+    "id": 880006,
+    "title": "Quadient ergänzt das Forderungsmanagement mit einem KI-Agenten, der aus Kunden-E-Mails direkt konkrete Schritte ableitet",
+    "provider": "Quadient",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI im Forderungsmanagement",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/quadient-ergaenzt-das-forderungsmanagement-mit-einem-ki-agenten-der-aus-kunden-e-mails-direkt-konkrete-schritte-ableitet/",
+    "note": "Der E-Mail-Agent unterstützt die Einordnung von Kundenkorrespondenz und die Bearbeitung von Forderungsvorgängen. Finanzteams behalten Kontrolle und Eskalationsmöglichkeiten. Die Portalveröffentlichung vom 15. Oktober ist vom Datum der Herstellerankündigung zu unterscheiden.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15"
+  },
+  {
+    "id": 880007,
+    "title": "2027 Revenera Monetization Monitor: Neue Umfrage stellt bisherige Annahmen bezüglich Monetarisierung  von KI-Anwendungen in Frage",
+    "provider": "Revenera",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Umsatz und Wachstum",
+    "solution": "Monetarisierung von KI-Anwendungen",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/2027-revenera-monetization-monitor-neue-umfrage-stellt-bisherige-annahmen-bezueglich-monetarisierung-von-ki-anwendungen-in-frage/",
+    "note": "Die Meldung stellt eine Anbieterumfrage zu Nutzung und Monetarisierung von KI-Funktionen vor. Sie unterstützt die Auswahl von Lizenz- und Verbrauchsmodellen. Prozentangaben werden hier nicht als allgemeingültige Marktwerte übernommen; der vollständige Report wurde nicht geprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": 880008,
+    "title": "Reply stellt „Symbiosis“ vor: KI-gestütztes Operating Model für schnellere und fundiertere Geschäftsentscheidungen",
+    "provider": "Reply",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Betriebsmodelle für Menschen und KI-Agenten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/reply-stellt-symbiosis-vor-ki-gestuetztes-operating-model-fuer-schnellere-und-fundiertere-geschaeftsentscheidungen/",
+    "note": "Symbiosis verbindet strategische Ziele, Portfoliosteuerung und Umsetzung durch Teams mit KI-Agenten. Die Plattform dokumentiert Fortschritt, Risiken und Entscheidungen. Strategische Verantwortung und Investitionsentscheidungen verbleiben beim Menschen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": 880009,
+    "title": "Slimstock wird SAP-Partner und bringt Slim4 in den SAP Store",
+    "provider": "Slimstock",
+    "space": "Mobilität und Logistik",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Bestands- und Supply-Chain-Planung",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/slimstock-wird-sap-partner-und-bringt-slim4-in-den-sap-store/",
+    "note": "Slim4 ergänzt SAP-Landschaften um Prognose, Bestandsoptimierung und Disposition. SAP bleibt das führende ERP, Slim4 liefert spezialisierte Planung und Rückmeldungen. Integrationsumfang und konkrete SAP-Versionen sind zu klären; Exklusivitätsbehauptungen werden nicht übernommen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14",
+    "additionalProviders": [
+      "SAP"
+    ],
+    "providerRelations": [
+      {
+        "name": "SAP",
+        "type": {
+          "de": "Belegter Plattform- oder Integrationsbezug",
+          "en": "Sourced platform or integration relationship"
+        },
+        "context": {
+          "de": "Slim4 ergänzt die SAP-Landschaft um spezialisierte Planung.",
+          "en": "Slim4 complements SAP with specialist planning."
+        },
+        "reviewedAt": "2026-10-19",
+        "sourceUrl": "https://www.it-management.today/slimstock-wird-sap-partner-und-bringt-slim4-in-den-sap-store/",
+        "scope": "specific-article-integration"
+      }
+    ]
+  },
+  {
+    "id": 880010,
+    "title": "SecaSkill GmbH Kostenloser IT-Notfallplan für KMU",
+    "provider": "SecaSkill",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "IT-Notfallplanung",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/secaskill-gmbh-kostenloser-it-notfallplan-fuer-kmu/",
+    "note": "Das Angebot beschreibt einen individuell aufbereiteten IT-Notfallplan nach Formularangaben. Checklisten und Kommunikationsvorlagen sollen die Vorfallvorbereitung unterstützen. Es wurde kein Formular ausgefüllt und kein individueller Plan geprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-13"
+  },
+  {
+    "id": 880011,
+    "title": "NewTec bringt praxisnahes Entwicklungs-Know-how direkt in die Unternehmen",
+    "provider": "NewTec",
+    "space": "Bildung und Forschung",
+    "challenge": "Personal und Fähigkeiten",
+    "solution": "Technische Weiterbildung für Entwicklungsteams",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/newtec-bringt-praxisnahes-entwicklungs-know-how-direkt-in-die-unternehmen/",
+    "note": "Die NewTec Academy bündelt Schulungen für Entwicklungsprojekte, insbesondere zu Safety, Security und technischen Anforderungen. Inhouse-Trainings richten sich an Hersteller und Entwicklungsteams. Termine, Inhalte und projektspezifische Lernziele sind abzustimmen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-13"
+  },
+  {
+    "id": 880012,
+    "title": "Bayer 04 Leverkusen präsentiert Deutschlands erstes Fußballstadion mit Wi-Fi 7 – mit Technologie von Extreme Networks",
+    "provider": "Extreme Networks",
+    "space": "Gebäude und Standorte",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Wi-Fi 7 für Veranstaltungsstätten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/bayer-04-leverkusen-praesentiert-deutschlands-erstes-fussballstadion-mit-wi-fi-7-mit-technologie-von-extreme-networks/",
+    "note": "Die Fallmeldung beschreibt ein Wi-Fi-7-Netz für den Stadionbetrieb einschließlich Besucherkonnektivität, Einlass und zentraler Verwaltung. Sie ist eine konkrete Kundenreferenz; Leistungswerte und Abdeckung lassen sich nicht pauschal auf andere Standorte übertragen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12"
+  },
+  {
+    "id": 880013,
+    "title": "Pendo stellt Pendo for Agents vor: Mehr Kontext für KI-Agenten, messbarer Nutzen für Unternehmen",
+    "provider": "Pendo",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Analytik und Kontext für KI-Agenten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/pendo-for-agents-ki-agenten-effizienter-machen/",
+    "note": "Pendo for Agents kombiniert Agent Toolkit mit Agent Analytics. Die offizielle Dokumentation unterscheidet offene Beta beim Toolkit und allgemeine Verfügbarkeit der Analytics. Produktkontext und Messung ersetzen keine Prüfung der Datenfreigaben und Agentenaktionen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-09"
+  },
+  {
+    "id": 880014,
+    "title": "Scality AI Inference Factory",
+    "provider": "Scality",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-Inferenz auf eigener Infrastruktur",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/scality-ai-inference-factory/",
+    "note": "Der Software-Stack verbindet validierte Open-Weight-Modelle, Inferenzdienste, Control Plane und Dateninfrastruktur auf eigener Infrastruktur. Scality beschreibt Integration und Wartung. Hardwarebedarf, Modelllizenzen, Betrieb und Kosten bleiben gesondert zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08"
+  },
+  {
+    "id": 880015,
+    "title": "Talkdesk vereinheitlicht die weltweiten Customer-Service-Abläufe bei Villeroy & Boch",
+    "provider": "Talkdesk",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Cloud-Contact-Center",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/talkdesk-vereinheitlicht-die-weltweiten-customer-service-ablaeufe-bei-villeroy-boch/",
+    "note": "Die Kundenmeldung beschreibt cloudbasierte Customer-Service-Prozesse, intelligentes Routing und Automatisierung in mehreren Geschäftsbereichen. Sie belegt einen konkreten Einsatz von Talkdesk und keine garantierte Verbesserung für jeden Kunden.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08"
+  },
+  {
+    "id": 880016,
+    "title": "HiScout auf der it-sa 2026: NIS-2, Grundschutz++ und steuerbares ISMS im Fokus",
+    "provider": "HiScout",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Regulierung und Transparenz",
+    "solution": "GRC und Informationssicherheitsmanagement",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/hiscout-auf-der-it-sa-2026-nis-2-grundschutz-und-steuerbares-isms-im-fokus/",
+    "note": "Der Beitrag erläutert die gemeinsame Datenbasis der HiScout GRC-Suite für ISMS, BCM und Auditmanagement. Messetermine dienen als Kontext. Die Software unterstützt Dokumentation und Steuerung; daraus folgt keine automatische Erfüllung sämtlicher regulatorischer Anforderungen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08"
+  },
+  {
+    "id": 880017,
+    "title": "Losgröße 1 effizient planen und steuern: Kettec setzt auf MES von Sack EDV-Systeme",
+    "provider": "Sack EDV-Systeme",
+    "space": "Produktion und Produkte",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Manufacturing Execution System (MES)",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/losgroesse-1-effizient-planen-und-steuern-kettec-setzt-auf-mes-von-sack-edv-systeme/",
+    "note": "Die Fallbeschreibung verbindet Auftrags- und Kapazitätsplanung mit Rückmeldungen aus der Fertigung. proMExS ergänzt die vorhandene Warenwirtschaft bei Kettec. Das Beispiel ist relevant für kleine Losgrößen; eine allgemeine Einsparquote wird nicht abgeleitet.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-07"
+  },
+  {
+    "id": 880018,
+    "title": "Flexera erweitert Partnerschaft mit Atlassian um Technology Intelligence",
+    "provider": "Flexera Software",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Technology Intelligence und IT-Asset-Daten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/flexera-erweitert-partnerschaft-mit-atlassian-um-technology-intelligence/",
+    "note": "Flexera beschreibt die Nutzung bereinigter Geräte-, Software- und Asset-Daten im Service-Management-Kontext von Atlassian. Datenqualität und Lifecycle-Informationen sollen Entscheidungen unterstützen. Schnittstellen, Verfügbarkeit und Lizenzierung sind konkret zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-07"
+  },
+  {
+    "id": 880019,
+    "title": "Hyland führt KI-gestützte Rechnungsverarbeitung ein",
+    "provider": "Hyland",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "KI-gestützte Eingangsrechnungsverarbeitung",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/hyland-fuehrt-ki-gestuetzte-rechnungsverarbeitung-ein/",
+    "note": "Die Lösung extrahiert Rechnungsdaten und unterstützt bestehende AP-Prozesse. Die Meldung nennt Workday-Unterstützung und weitere geplante ERP-Anbindungen. Angekündigte Integrationen und Anbieterangaben zur Genauigkeit sind keine unabhängig bestätigten Projektwerte.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-07"
+  },
+  {
+    "id": 880020,
+    "title": "Paessler erweitert einheitliches IT- und OT-Monitoring: PRTG Multi-Platform Probe im Siemens Industrial Edge Marketplace",
+    "provider": "Paessler",
+    "space": "Produktion und Produkte",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Monitoring für Siemens Industrial Edge",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/paessler-erweitert-einheitliches-it-und-ot-monitoring-prtg-multi-platform-probe-im-siemens-industrial-edge-marketplace/",
+    "note": "Die Multi-Platform Probe bringt PRTG-Monitoring auf Siemens Industrial Edge-Geräte und verbindet IT- und OT-Messwerte. Genannt werden industrielle Protokolle und lokale Pufferung. Eine gültige PRTG-Subscription ist erforderlich; Betriebs- und Netzwerkanforderungen sind zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06",
+    "additionalProviders": [
+      "Siemens"
+    ],
+    "providerRelations": [
+      {
+        "name": "Siemens",
+        "type": {
+          "de": "Belegter Plattform- oder Integrationsbezug",
+          "en": "Sourced platform or integration relationship"
+        },
+        "context": {
+          "de": "PRTG-Probe für Siemens Industrial Edge; die PRTG-Lizenz bleibt separat erforderlich.",
+          "en": "PRTG probe for Siemens Industrial Edge; a separate PRTG licence remains required."
+        },
+        "reviewedAt": "2026-10-19",
+        "sourceUrl": "https://www.it-management.today/paessler-erweitert-einheitliches-it-und-ot-monitoring-prtg-multi-platform-probe-im-siemens-industrial-edge-marketplace/",
+        "scope": "specific-article-integration"
+      }
+    ]
+  },
+  {
+    "id": 880021,
+    "title": "SEPPMAIL auf der it-sa 2026: sichere E-Mail-Kommunikation aus der Cloud",
+    "provider": "SEPPmail Deutschland",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Cloud-E-Mail-Sicherheit",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/seppmail-auf-der-it-sa-2026-sichere-e-mail-kommunikation-aus-der-cloud/",
+    "note": "Der Anbieter beschreibt E-Mail-Sicherheit und Verschlüsselung aus der Cloud als Alternative zum vollständigen Eigenbetrieb. Der Messeauftritt ist für Ende Oktober angekündigt. Vertragsumfang, Schlüsselmanagement und Betriebsverantwortung sind gesondert zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06"
+  },
+  {
+    "id": 880022,
+    "title": "Aagon auf der it-sa 2026 in Nürnberg",
+    "provider": "Aagon",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "UEM mit angekündigter KI- und MCP-Anbindung",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.it-management.today/aagon-auf-der-it-sa-2026-in-nuernberg/",
+    "note": "Die Meldung stellt eine KI-Schnittstelle zu ACMP-Daten über MCP vor. Natürliche Sprache soll Auswertungen und Handlungsempfehlungen unterstützen. Es handelt sich um eine angekündigte Weiterentwicklung im Messekontext; konkrete Verfügbarkeit und Automatisierungsrechte sind zu bestätigen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "IT-Management.today"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06"
+  },
+  {
+    "id": 880023,
+    "title": "Agentic AI im Alltag – von Assistenz zu Autonomie",
+    "provider": "Bechtle",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Einführung agentischer KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/agentic-ai-im-alltag-von-assistenz-zu-autonomie-2/",
+    "note": "Einstieg in agentische KI mit Datenbasis, Governance und praktischer Umsetzung. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-19",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880024,
+    "title": "Das Potenzial digitaler Arbeitsumgebungen mit durchgängiger Beobachtbarkeit ausschöpfen",
+    "provider": "Omnissa",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Beobachtbarkeit digitaler Arbeitsplätze",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/das-potenzial-digitaler-arbeitsumgebungen-mit-durchgangiger-beobachtbarkeit-ausschopfen-2/",
+    "note": "Beobachtbarkeit und Nutzererfahrung in digitalen Arbeitsumgebungen. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-16",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880025,
+    "title": "Identifizieren und schließen Sie kritische Lücken in Ihrem Identitäts- und Zugriffsmanagement-Lebenszyklus",
+    "provider": "Specops Software",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Identity Lifecycle und Zugriffsmanagement",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/identifizieren-und-schliesen-sie-kritische-lucken-in-ihrem-identitats-und-zugriffsmanagement-lebenszyklus-2/",
+    "note": "Identitäts- und Zugriffsmanagement über den gesamten Lebenszyklus. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880026,
+    "title": "Gestärkte Identitätsprüfung gegen sich weiterentwickelnde, KI-gestützte Bedrohungen",
+    "provider": "Specops Software",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Identitätsprüfung gegen KI-gestützte Angriffe",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/gestarkte-identitatsprufung-gegen-sich-weiterentwickelnde-ki-gestutzte-bedrohungen-2/",
+    "note": "Identitätsprüfung im Umgang mit KI-gestützten Angriffen. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-15",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880027,
+    "title": "Die wahren geschäftlichen Auswirkungen der KI über Pilotprojekte hinaus erschließen",
+    "provider": "Bechtle",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Skalierung von KI-Projekten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/die-wahren-geschaftlichen-auswirkungen-der-ki-uber-pilotprojekte-hinaus-erschliesen-2/",
+    "note": "Geschäftlicher Nutzen und Umsetzung von KI über Pilotprojekte hinaus. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880028,
+    "title": "Magic Quadrant für Enterprise-Storage-Plattformen",
+    "provider": "IBM",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Auswahl von Enterprise-Storage-Plattformen",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/magic-quadrant-fur-enterprise-storage-plattformen/",
+    "note": "Markteinordnung von Enterprise-Storage-Plattformen; Sponsoring und Analystenperspektive bleiben zu unterscheiden. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880029,
+    "title": "KI-gestützte Funktionen in Enterprise-Storage-Systemen verbessern die Systemoptimierung, Automatisierung und Cyberresilienz.",
+    "provider": "IBM",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "KI-Funktionen für Enterprise Storage",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/ki-gestutzte-funktionen-in-enterprise-storage-systemen-verbessern-die-systemoptimierung-automatisierung-und-cyberresilienz/",
+    "note": "KI-Unterstützung für Systemoptimierung, Automatisierung und Cyberresilienz im Storage. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880030,
+    "title": "Azure Quick Start – Ihr systematischer Einstieg in die Cloud.",
+    "provider": "Bechtle",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Einstieg in Microsoft Azure",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/azure-quick-start-ihr-systematischer-einstieg-in-die-cloud-2/",
+    "note": "Planung des Einstiegs in Microsoft Azure mit einem IT-Dienstleister. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    },
+    "additionalProviders": [
+      "Microsoft"
+    ],
+    "providerRelations": [
+      {
+        "name": "Microsoft",
+        "type": {
+          "de": "Belegter Plattform- oder Integrationsbezug",
+          "en": "Sourced platform or integration relationship"
+        },
+        "context": {
+          "de": "Microsoft Azure ist Plattformkontext des Bechtle-Angebots.",
+          "en": "Microsoft Azure is the platform context for the Bechtle offering."
+        },
+        "reviewedAt": "2026-10-19",
+        "sourceUrl": "https://whitepaper.cio.de/resources/azure-quick-start-ihr-systematischer-einstieg-in-die-cloud-2/",
+        "scope": "specific-article-integration"
+      }
+    ]
+  },
+  {
+    "id": 880031,
+    "title": "Zero Trust praktisch angehen.",
+    "provider": "Bechtle",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Einführung von Zero Trust",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/zero-trust-praktisch-angehen-2/",
+    "note": "Planung und Einführung eines Zero-Trust-Ansatzes. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880032,
+    "title": "Den ROI der KI erschließen: Von steigenden Kosten zum strategischen Geschäftsnutzen",
+    "provider": "Flexera Software",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Kosten- und Nutzenbewertung von KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/den-roi-der-ki-erschliesen-von-steigenden-kosten-zum-strategischen-geschaftsnutzen-2/",
+    "note": "Einordnung von KI-Kosten und geschäftlichem Nutzen. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880033,
+    "title": "KI richtig einsetzen: Vom Datenwust zum Wissenskontext",
+    "provider": "Hyland",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Datenkontext für KI-Anwendungen",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/geschaftspotenziale-durch-strategische-umsetzung-ki-gestutzter-automatisierung-erschliesen-2/",
+    "note": "Inhaltskontext als Grundlage für KI-gestützte Automatisierung. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880034,
+    "title": "Skaylink & AWS Von der Idee zum produktiven Betrieb: KI-Initiativen im Mittelstand erfolgreich umsetzen",
+    "provider": "Skaylink",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "KI-Projekte auf AWS",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/skaylink-aws-von-der-idee-zum-produktiven-betrieb-ki-initiativen-im-mittelstand-erfolgreich-umsetzen/",
+    "note": "Umsetzung von KI-Initiativen auf AWS mit Betriebs- und Integrationsbezug. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    },
+    "additionalProviders": [
+      "Amazon Web Services EMEA SARL, Niederlassung Deutschland"
+    ],
+    "providerRelations": [
+      {
+        "name": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+        "type": {
+          "de": "Belegter Plattform- oder Integrationsbezug",
+          "en": "Sourced platform or integration relationship"
+        },
+        "context": {
+          "de": "AWS ist der Plattformkontext der Skaylink-Ressource.",
+          "en": "AWS is the platform context of the Skaylink resource."
+        },
+        "reviewedAt": "2026-10-19",
+        "sourceUrl": "https://whitepaper.cio.de/resources/skaylink-aws-von-der-idee-zum-produktiven-betrieb-ki-initiativen-im-mittelstand-erfolgreich-umsetzen/",
+        "scope": "specific-article-integration"
+      }
+    ]
+  },
+  {
+    "id": 880035,
+    "title": "Modernisieren Sie Ihr Netzwerk für das KI-Zeitalter",
+    "provider": "Cisco",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Netzwerkmodernisierung für KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/future-proof-your-network-for-the-ai-era-with-ciscos-secure-architecture-2/",
+    "note": "Netzwerkmodernisierung und Sicherheitsarchitektur im KI-Zeitalter. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880036,
+    "title": "Campus Transformation für das KI-Zeitalter",
+    "provider": "Cisco",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Campus-Netzwerke für KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/transform-your-campus-network-for-the-ai-era-2/",
+    "note": "Campus-Netzwerke für veränderte Anwendungs- und KI-Anforderungen. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880037,
+    "title": "Ein praktischer Leitfaden zur Zweigstellentransformation für das KI-Zeitalter",
+    "provider": "Cisco",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Modernisierung von Zweigstellennetzen",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/transform-your-branch-network-for-the-ai-era/",
+    "note": "Standort- und Zweigstellennetze für veränderte Arbeits- und Anwendungsmodelle. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880038,
+    "title": "Ein neues Betriebsmodell für kritische Infrastruktur",
+    "provider": "Cisco",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Betriebsmodelle für kritische Infrastruktur",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/ein-neues-betriebsmodell-fur-kritische-infrastruktur-2/",
+    "note": "Betriebsmodelle und Steuerung kritischer Netzwerkinfrastrukturen. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880039,
+    "title": "Vorbereitung Ihrer Netzwerke auf den KI-Sturm",
+    "provider": "Cisco",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Kapazitätsplanung für KI-Netzwerke",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/vorbereitung-ihrer-netzwerke-auf-den-ki-sturm-2/",
+    "note": "Netzwerkanforderungen für zunehmende KI-Nutzung. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-08",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880040,
+    "title": "Management des Lebenszyklus agentischer KI-Systeme",
+    "provider": "IBM",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Lebenszyklusmanagement agentischer KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/management-des-lebenszyklus-agentischer-ki-systeme/",
+    "note": "Steuerung und Governance agentischer KI über ihren Lebenszyklus. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880041,
+    "title": "Jetzt handeln: Umfassende Maßnahmen für die Identität von KI-Agenten implementieren, um den Trends der Automatisierung erfolgreich zu begegnen",
+    "provider": "IBM",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Identitätsmanagement für KI-Agenten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/jetzt-handeln-umfassende-masnahmen-fur-die-identitat-von-ki-agenten-implementieren-um-den-trends-der-automatisierung-erfolgreich-zu-begegnen/",
+    "note": "Identitäten, Zugriffsrechte und Kontrollmaßnahmen für KI-Agenten. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880042,
+    "title": "Marktleitfaden für KI-Assistenten für Infrastructure as Code",
+    "provider": "IBM",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "KI-Assistenten für Infrastructure as Code",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/marktleitfaden-fur-ki-assistenten-fur-infrastructure-as-code/",
+    "note": "Auswahl und Einordnung von KI-Assistenten für Infrastructure as Code. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880043,
+    "title": "Infrastrukturbetrieb in großem Maßstab",
+    "provider": "IBM",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Skalierung des Infrastrukturbetriebs",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Ressourceninformation",
+    "url": "https://whitepaper.cio.de/resources/infrastrukturbetrieb-in-grosem-masstab/",
+    "note": "Skalierbare Steuerung und Automatisierung des Infrastrukturbetriebs. Die öffentliche Landingpage wurde geprüft; Formular, Download und Volltext bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Whitepaper CIO.de"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06",
+    "sourceReviewWarning": {
+      "de": "Anbieter laut explizitem Publisher-Feld. Portaldatum bezeichnet die Veröffentlichung der Landingpage und belegt nicht das Ersterscheinen des Dokuments. Keine Volltextvalidierung.",
+      "en": "Provider follows the explicit publisher field. Portal date refers to the landing page and does not establish the document’s first edition. No full-document validation."
+    }
+  },
+  {
+    "id": 880044,
+    "title": "privacyIDEA 3.14 von NetKnights",
+    "provider": "NetKnights",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Mehrfaktorauthentifizierung mit privacyIDEA",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/privacyidea-314-mfa-netknights-a-0ae9694b1b78c0f76d571de2054dce11/",
+    "note": "Version 3.14 ergänzt Conditional Access, konfigurierbare gemerkte Geräte und eine neue Standardoberfläche. Richtlinien, MFA-Methoden und Wiederanmeldefristen müssen zum Schutzbedarf passen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-16"
+  },
+  {
+    "id": 880045,
+    "title": "Eset erweitert Protect-Plattform um Schutz für KI-Agenten",
+    "provider": "ESET Deutschland",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Schutz für KI-Agenten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/eset-erweitert-protect-plattform-um-schutz-fuer-ki-agenten-a-a7dfcb594807551a5c32910ded23f159/",
+    "note": "ESET beschreibt LiveCortex, LiveAI und Funktionen zur Prüfung von Agentenressourcen und Verhalten. Neue und bestehende Funktionen werden gebündelt; Verfügbarkeit und Plattformumfang sind vor einem Einsatz zu bestätigen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": 880046,
+    "title": "Microsoft Patchday Oktober 2026",
+    "provider": "Microsoft",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Windows-Sicherheitsupdates",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/microsoft-patchday-oktober-2026-windows-outlook-updates-sicherheitsluecken-a-3b810ca4209fd0e550e5fdc7498cd090/",
+    "note": "Der Beitrag ordnet den Oktober-Patchday und die Priorisierung von Sicherheitsupdates ein. Konkrete Betroffenheit und Maßnahmen sind anhand der Microsoft-Advisories für die eingesetzten Versionen zu prüfen. Zahlen und CVE-Details werden hier nicht ungeprüft übernommen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": 880047,
+    "title": "Windows Hello for Business auf geteilten PCs nutzen",
+    "provider": "Microsoft",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Windows Hello auf geteilten Geräten",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/windows-hello-for-business-geteilte-geraete-a-44b1db9a52e23b6a5cce0b573583a4de/",
+    "note": "Der öffentlich sichtbare Vorspann behandelt Grenzen der Anmeldung an gemeinsam genutzten Geräten. Der vollständige Artikel verlangt Registrierung. Für die Auswahl sind Gerätemodus, Nutzerwechsel und alternative Sicherheitsverfahren relevant.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-13",
+    "sourceReviewWarning": {
+      "de": "Öffentlich zugängliche Seite beziehungsweise Vorspann geprüft. Registrierungs- oder Abonnementinhalte wurden nicht freigeschaltet.",
+      "en": "Public page or introduction reviewed. Registration-only or subscription content was not accessed."
+    }
+  },
+  {
+    "id": 880048,
+    "title": "Commvault integriert Cyber-Recovery in CrowdStrike Charlotte Agentic SOAR",
+    "provider": "Commvault",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Cyber-Recovery und SOAR-Integration",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/commvault-integriert-cyber-recovery-in-crowdstrike-charlotte-agentic-soar-a-b760367ca4836e90dfc900a173699d5a/",
+    "note": "Cyber-Recovery-Aktionen lassen sich laut Beitrag in Charlotte-Agentic-SOAR-Workflows einbinden. Genannt werden begrenzte Zugriffe, Sicherung von Wiederherstellungspunkten und Cleanroom-Analyse. Die Meldung ist von der allgemeinen Verfügbarkeit aller Integrationen zu unterscheiden.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-13",
+    "additionalProviders": [
+      "CrowdStrike"
+    ],
+    "providerRelations": [
+      {
+        "name": "CrowdStrike",
+        "type": {
+          "de": "Belegter Plattform- oder Integrationsbezug",
+          "en": "Sourced platform or integration relationship"
+        },
+        "context": {
+          "de": "Commvault-Recovery-Aktionen werden in Charlotte-Agentic-SOAR-Workflows eingebunden.",
+          "en": "Commvault recovery actions integrate with Charlotte Agentic SOAR workflows."
+        },
+        "reviewedAt": "2026-10-19",
+        "sourceUrl": "https://www.security-insider.de/commvault-integriert-cyber-recovery-in-crowdstrike-charlotte-agentic-soar-a-b760367ca4836e90dfc900a173699d5a/",
+        "scope": "specific-article-integration"
+      }
+    ]
+  },
+  {
+    "id": 880049,
+    "title": "Kaspersky bündelt NIS2-Maßnahmen in zwei Compliance-Paketen",
+    "provider": "Kaspersky",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Regulierung und Transparenz",
+    "solution": "NIS2-orientierte Sicherheitsmaßnahmen",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/kaspersky-buendelt-nis2-massnahmen-in-zwei-compliance-paketen-a-2dadf0d14a07d611a98643bc82a70eec/",
+    "note": "Compliance Essential und Compliance Managed bündeln technische Schutzmaßnahmen, Schulungen und je nach Paket betreute Überwachung. Ein Produktpaket ersetzt keine individuelle Prüfung organisatorischer Pflichten und Nachweise.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12"
+  },
+  {
+    "id": 880050,
+    "title": "Barracuda bündelt KI-Schutz und Governance für MSPs",
+    "provider": "Barracuda Networks",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Datensicherheit und Governance für generative KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/barracuda-buendelt-ki-schutz-und-governance-fuer-msps-a-2bb96950fc5d3818a916756d9c05edb8/",
+    "note": "AI Data Security adressiert die Nutzung generativer KI, sensible Daten und zentrale Richtlinien für MSPs. Die Herstellerquelle kündigt die Verfügbarkeit für Oktober 2026 an; eine taggenaue Freigabe wird hier nicht behauptet.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-07",
+    "sourceReviewWarning": {
+      "de": "Ankündigung beziehungsweise gestaffelte Freigabe: konkrete Verfügbarkeit und erforderliche Zulassungen vor Auswahl beim Anbieter bestätigen.",
+      "en": "Announcement or staged release: confirm specific availability and required approvals with the provider before selection."
+    }
+  },
+  {
+    "id": 880051,
+    "title": "Windows Hello for Business mit Cloud Trust ausrollen",
+    "provider": "Microsoft",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Windows Hello Cloud Trust",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.security-insider.de/windows-hello-for-business-ausrollen-cloud-trust-a-249d96b3fe3bcab3d2d4a2379db236f5/",
+    "note": "Der Beitrag erläutert Rollout und Kontrolle passwortarmer Anmeldung mit Windows Hello for Business. Richtlinien, Gerätebindung und technische Voraussetzungen sind wichtig; öffentlich sichtbare Inhalte ersetzen keine Prüfung der eigenen Konfiguration.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06",
+    "sourceReviewWarning": {
+      "de": "Öffentlich zugängliche Seite beziehungsweise Vorspann geprüft. Registrierungs- oder Abonnementinhalte wurden nicht freigeschaltet.",
+      "en": "Public page or introduction reviewed. Registration-only or subscription content was not accessed."
+    }
+  },
+  {
+    "id": 880052,
+    "title": "Watchguard baut Security-Plattform mit KI und neuen Netzwerkfunktionen aus",
+    "provider": "WatchGuard",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Integrierte Sicherheitsplattform",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/news/watchguard-security-plattform-fuer-msp-405513.html",
+    "note": "WatchGuard beschreibt KI-gestützte Sicherheitsprozesse sowie Netzwerk- und Identitätsschutz für MSPs. Die Portalübersicht ist ein Einstieg in das Angebot; konkrete Funktionen, Lizenzumfang und Rollout sind separat zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-06"
+  },
+  {
+    "id": 880053,
+    "title": "TA Triumph-Adler nimmt Echtzeit-Übersetzungssystem Cotopat ins Portfolio",
+    "provider": "TA Triumph-Adler",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Echtzeitübersetzung mit Cotopat",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/news/ta-triumph-adler-nimmt-echtzeit-uebersetzungssystem-cotopat-ins-portfolio-auf-405561.html",
+    "note": "Cotopat wird als Echtzeit-Übersetzungssystem für Kommunikation über Sprachgrenzen hinweg beschrieben. Für einen Einsatz zählen unterstützte Sprachen, Datenschutz, Geräteintegration und die Prüfung der Übersetzungsqualität.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-09"
+  },
+  {
+    "id": 880054,
+    "title": "Fsas Technologies stellt Cool-Safe Liquid Cooling vor",
+    "provider": "Fsas Technologies",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Nachhaltigkeit und Ressourcen",
+    "solution": "Flüssigkeitskühlung im Rechenzentrum",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/news/fsas-technologies-stellt-cool-safe-liquid-cooling-vor-405562.html",
+    "note": "Die Meldung ordnet Flüssigkühlung für Rechenzentren und leistungsdichte Infrastruktur ein. Dimensionierung, Kühlkreisläufe, Wartung und Integration sind projektabhängig; Effizienzgewinne werden nicht pauschal zugesichert.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-09"
+  },
+  {
+    "id": 880055,
+    "title": "Warum Firewalls allein nicht mehr reichen",
+    "provider": "1&1 Versatel",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Managed Security Services",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/news/interview-mit-1-und-1-versatel-warum-firewalls-allein-nicht-mehr-reichen-405569.html",
+    "note": "Das Interview behandelt vernetzte Sicherheitsdienste statt isolierter Firewalls. Es unterstützt die Auswahl von Netzwerk- und Managed-Security-Leistungen; die Aussagen sind als Anbieterperspektive einzuordnen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12"
+  },
+  {
+    "id": 880056,
+    "title": "Mitel WX: Hybridplattform für Unified Communications",
+    "provider": "Mitel",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Hybride Unified Communications",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/news/mitel-workforce-experience-ki-gestuetzte-plattform-405581.html",
+    "note": "Workforce Experience verbindet Kommunikationsfunktionen für Büro- und Frontline-Mitarbeitende. Die Quelle nennt November 2026 als Marktstart. Am Prüftag 19. Oktober ist dies eine Ankündigung, keine bestätigte allgemeine Verfügbarkeit.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-13",
+    "sourceReviewWarning": {
+      "de": "Ankündigung beziehungsweise gestaffelte Freigabe: konkrete Verfügbarkeit und erforderliche Zulassungen vor Auswahl beim Anbieter bestätigen.",
+      "en": "Announcement or staged release: confirm specific availability and required approvals with the provider before selection."
+    }
+  },
+  {
+    "id": 880057,
+    "title": "Genuconnect: VPN-Client für macOS geplant",
+    "provider": "genua",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "VPN-Zugang für macOS",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.connect-professional.de/news/genua-genuconnect-vpn-client-macos-405593.html",
+    "note": "Der macOS-Client erweitert die angekündigte Endgeräteauswahl für genuconnect. Marktstart und angestrebte VS-NfD-Zulassung sind Zukunftsaussagen. Sie dürfen nicht als bereits erteilte Zulassung dargestellt werden.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "connect professional"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-12",
+    "sourceReviewWarning": {
+      "de": "Ankündigung beziehungsweise gestaffelte Freigabe: konkrete Verfügbarkeit und erforderliche Zulassungen vor Auswahl beim Anbieter bestätigen.",
+      "en": "Announcement or staged release: confirm specific availability and required approvals with the provider before selection."
+    }
+  },
+  {
+    "id": 880058,
+    "title": "Intelligent ResOps: Veeam bringt KI-Analyse für Microsoft-365-Backup",
+    "provider": "Veeam",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Datenkontext für Microsoft-365-Recovery",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.computerweekly.com/de/news/366652336/Intelligent-ResOps-Veeam-bringt-KI-Analyse-fuer-Microsoft-365-Backup",
+    "note": "Intelligent ResOps ergänzt Veeam Data Cloud für Microsoft 365 um Datenkontext, Risikoanalyse und Kontrollen. Es ist ein Zusatzangebot; Voraussetzungen und Lizenzierung sind vom Grundangebot für Backup zu unterscheiden.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "ComputerWeekly"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-16"
+  },
+  {
+    "id": 880059,
+    "title": "Multi-Cloud-Kosten mit AWS Data Exports und FOCUS optimieren",
+    "provider": "Amazon Web Services EMEA SARL, Niederlassung Deutschland",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Cloud-Kostenanalyse mit FOCUS",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.computerweekly.com/de/tipp/Multi-Cloud-Kosten-mit-AWS-Data-Exports-und-FOCUS-optimieren",
+    "note": "Der Fachbeitrag behandelt standardisierte Kostendaten und Auswertungen mit AWS Data Exports und FOCUS. Datenabdeckung, Kontenstruktur und Analyseumgebung sind für ein FinOps-Projekt zu klären.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "ComputerWeekly"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-16"
+  },
+  {
+    "id": 880060,
+    "title": "HP Dimension mit Google Beam: Videogespräche in 3D führen",
+    "provider": "HP Deutschland",
+    "space": "Unternehmen und Verwaltung",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Räumliche Videokommunikation",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.computerweekly.com/de/news/366651844/HP-Dimension-mit-Google-Beam-Videogespraeche-in-3D-fuehren",
+    "note": "Der Bericht beschreibt räumliche Videokommunikation mit HP Dimension und Google Beam. Die Lösung wird HP Deutschland zugeordnet, nicht HPE. Raumgestaltung, Gegenstellen und konkrete Verfügbarkeit sind gesondert zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "ComputerWeekly"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14"
+  },
+  {
+    "id": 880061,
+    "title": "Arista Etherlink SU-144 bringt Ethernet in KI-Scale-up-Netze",
+    "provider": "Arista Networks",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Ethernet für KI-Scale-Up-Netzwerke",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.computerweekly.com/de/news/366652009/Arista-Etherlink-SU-144-bringt-Ethernet-in-KI-Scale-up-Netze",
+    "note": "Etherlink SU-144 adressiert Ethernet-basierte Scale-up-Verbindungen für KI-Beschleuniger. Die Herstellerquelle unterscheidet Architektur und gestaffelte Verfügbarkeit. Komponenten, Topologie und Terminplanung sind konkret zu prüfen.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "ComputerWeekly"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-09",
+    "sourceReviewWarning": {
+      "de": "Ankündigung beziehungsweise gestaffelte Freigabe: konkrete Verfügbarkeit und erforderliche Zulassungen vor Auswahl beim Anbieter bestätigen.",
+      "en": "Announcement or staged release: confirm specific availability and required approvals with the provider before selection."
+    }
+  },
+  {
+    "id": 880062,
+    "title": "HPE ordnet Distribution neu: ALSO und Westcon-Comstor bauen Geschäft aus",
+    "provider": "ALSO",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Umsatz und Wachstum",
+    "solution": "IT-Distribution und Portfolioerweiterung",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Fachbeitrag",
+    "url": "https://www.telecom-handel.de/themen/distribution/hpe-ordnet-distribution-neu-also-und-westcon-comstor-bauen-geschaeft-aus",
+    "note": "Der Bericht ordnet Änderungen der HPE-Distribution nach der Juniper-Übernahme ein. ALSO und Westcon-Comstor werden mit unterschiedlichen Portfolioerweiterungen beschrieben. Für ALSO bleibt die bereits angekündigte Juniper-Erweiterung ab November zeitlich abgegrenzt.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Telecom Handel"
+    ],
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-10-14",
+    "sourceReviewWarning": {
+      "de": "Öffentlich zugängliche Seite beziehungsweise Vorspann geprüft. Registrierungs- oder Abonnementinhalte wurden nicht freigeschaltet.",
+      "en": "Public page or introduction reviewed. Registration-only or subscription content was not accessed."
+    }
+  },
+  {
+    "id": 880063,
+    "title": "Falsche Identitäten: So schützen Sie sich vor Deepfakes und anderen Bedrohungen",
+    "provider": "Ergon Informatik AG",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Schutz vor Deepfakes",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://business-services.heise.de/security/authentifizierung-zugangssysteme/beitrag/falsche-identitaeten-so-schuetzen-sie-sich-vor-deepfakes-und-anderen-bedrohungen-5111",
+    "note": "Mehrschichtige Identitätsprüfung und Vertrauensmodelle bei Deepfakes und KI-Angriffen. Öffentliche Landingpage mit Anbieterfeld geprüft. Download beziehungsweise Aufzeichnung bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "heise Business Services"
+    ],
+    "addedAt": "2026-10-19",
+    "sourceReviewWarning": {
+      "de": "Registrierung erforderlich. Erscheinungsjahr 2026 ist belegt; ein taggenaues Publikationsdatum wird nicht erfunden.",
+      "en": "Registration required. Publication year 2026 is documented; no exact publication day is invented."
+    }
+  },
+  {
+    "id": 880064,
+    "title": "Arbeiten, wenn andere ausfallen — souveräne IT für den Ernstfall",
+    "provider": "IONOS Cloud",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Cloud-Resilienz und souveräne IT",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Webcast",
+    "url": "https://business-services.heise.de/security/security-management/beitrag/arbeiten-wenn-andere-ausfallen-souveraene-it-fuer-den-ernstfall-5114",
+    "note": "Open-Source-Anwendungen und souveräne Cloud als Arbeitsumgebung im Störungsfall. Öffentliche Landingpage mit Anbieterfeld geprüft. Download beziehungsweise Aufzeichnung bleiben ungeprüft. Der angekündigte Live-Termin liegt nach dem Prüftag.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "heise Business Services"
+    ],
+    "addedAt": "2026-10-19",
+    "eventPeriod": "2026-11-05",
+    "sourceReviewWarning": {
+      "de": "Registrierung erforderlich. Erscheinungsjahr 2026 ist belegt; ein taggenaues Publikationsdatum wird nicht erfunden.",
+      "en": "Registration required. Publication year 2026 is documented; no exact publication day is invented."
+    }
+  },
+  {
+    "id": 880065,
+    "title": "Hybrid Cloud und KI: So meistern Sie den digitalen Wandel",
+    "provider": "Easy Software",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Qualität und Geschwindigkeit",
+    "solution": "Hybrid Cloud für KI",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://business-services.heise.de/it-management/cloud-computing/beitrag/hybrid-cloud-und-ki-so-meistern-sie-den-digitalen-wandel-5115",
+    "note": "Verbindung von Cloud und KI unter Gesichtspunkten von Kosten, Integration und Datenkontrolle. Öffentliche Landingpage mit Anbieterfeld geprüft. Download beziehungsweise Aufzeichnung bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "heise Business Services"
+    ],
+    "addedAt": "2026-10-19",
+    "sourceReviewWarning": {
+      "de": "Registrierung erforderlich. Erscheinungsjahr 2026 ist belegt; ein taggenaues Publikationsdatum wird nicht erfunden.",
+      "en": "Registration required. Publication year 2026 is documented; no exact publication day is invented."
+    }
+  },
+  {
+    "id": 880066,
+    "title": "UEM aus Europa: Ihr Einstieg in die digitale Souveränität",
+    "provider": "Aagon",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Unified Endpoint Management",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://business-services.heise.de/it-management/digitale-souveraenitaet/beitrag/uem-aus-europa-ihr-einstieg-in-die-digitale-souveraenitaet-5117",
+    "note": "Unified Endpoint Management für Kontrolle über Geräte, Software und Daten. Öffentliche Landingpage mit Anbieterfeld geprüft. Download beziehungsweise Aufzeichnung bleiben ungeprüft.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "heise Business Services"
+    ],
+    "addedAt": "2026-10-19",
+    "sourceReviewWarning": {
+      "de": "Registrierung erforderlich. Erscheinungsjahr 2026 ist belegt; ein taggenaues Publikationsdatum wird nicht erfunden.",
+      "en": "Registration required. Publication year 2026 is documented; no exact publication day is invented."
+    }
+  },
+  {
+    "id": 880067,
+    "title": "Hardware-Lebenszyklus verlängern: Wie Ihre Infrastruktur mit intelligentem Endpoint Management leistungsfähig bleibt",
+    "provider": "IF-Tech",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Nachhaltigkeit und Ressourcen",
+    "solution": "Endpoint Management und Hardware-Lebensdauer",
+    "delivery": "Informationsangebot zur Auswahl und Umsetzung",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Webcast",
+    "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/hardware-lebenszyklus-verlaengern-wie-ihre-infrastruktur-mit-intelligentem-endpoint-management-leistungsfaehig-bleibt-5121",
+    "note": "Endpoint Management und Nutzungsdauer vorhandener Hardware. Öffentliche Landingpage mit Anbieterfeld geprüft. Download beziehungsweise Aufzeichnung bleiben ungeprüft. Der angekündigte Live-Termin liegt nach dem Prüftag.",
+    "score": 75,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "heise Business Services"
+    ],
+    "addedAt": "2026-10-19",
+    "eventPeriod": "2026-11-24",
+    "sourceReviewWarning": {
+      "de": "Registrierung erforderlich. Erscheinungsjahr 2026 ist belegt; ein taggenaues Publikationsdatum wird nicht erfunden.",
+      "en": "Registration required. Publication year 2026 is documented; no exact publication day is invented."
+    }
+  },
+  {
+    "id": 880068,
+    "title": "Omnissa Intelligence: Workspace-Analytik und Automatisierung",
+    "provider": "Omnissa",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Workspace ONE: Endgeräte- und Anwendungsverwaltung",
+    "delivery": "Software und Plattform",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.omnissa.com/products/omnissa-intelligence/",
+    "note": "Die öffentlich zugängliche Produktseite erläutert, wie Omnissa Intelligence Telemetrie, Arbeitsplatzanalytik und automatisierte Workflows verbindet. Lizenzumfang und angebundene Systeme sind vor der Einführung zu klären.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": 880069,
+    "title": "Arista Networks: Netzwerkplattformen",
+    "provider": "Arista Networks",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Kosten und Produktivität",
+    "solution": "Rechenzentrums- und Cloud-Netzwerke",
+    "delivery": "Software und Plattform",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.arista.com/en/company/company-overview",
+    "note": "Die Unternehmensübersicht beschreibt Aristas Netzwerkportfolio mit EOS, CloudVision sowie Rechenzentrums- und Unternehmensnetzen. Sie dient der Einordnung des Anbieters und belegt keine sofortige Lieferbarkeit jeder angekündigten KI-Netzwerkarchitektur.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": 880070,
+    "title": "NetKnights: privacyIDEA und Mehrfaktorauthentifizierung",
+    "provider": "NetKnights",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "privacyIDEA: zentrale MFA-Verwaltung",
+    "delivery": "Software und Plattform",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://netknights.it/",
+    "note": "Die offizielle Anbieterübersicht ordnet privacyIDEA, Mehrfaktorauthentifizierung und zugehörige Dienstleistungen ein. Unterstützte Verfahren, Integration und kommerzieller Support sind anhand der gewählten Ausprägung zu prüfen.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": 880071,
+    "title": "Commvault: Datenschutz und Cyber-Recovery",
+    "provider": "Commvault",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Datensicherung und Wiederherstellung",
+    "delivery": "Software und Plattform",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.commvault.com/",
+    "note": "Die offizielle Plattformübersicht beschreibt Datensicherung, Wiederherstellung und Cyber-Resilienz. Sie unterstützt die Einordnung des Angebots; konkrete Workload-Abdeckung, Recovery-Ziele und Lizenzbedingungen müssen separat geprüft werden.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "addedAt": "2026-10-19"
+  },
+  {
+    "id": 880072,
+    "title": "Barracuda: AI Data Security und Governance",
+    "provider": "Barracuda Networks",
+    "space": "Digitale Infrastruktur",
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "E-Mail-Sicherheit",
+    "delivery": "Software und Plattform",
+    "lifecycle": "Bewertung, Einführung und Betrieb",
+    "origin": "Kuratiert",
+    "format": "Lösungsübersicht",
+    "url": "https://www.barracuda.com/company/news/2026/barracuda-ai-data-security-ai-governance",
+    "note": "Die Originalankündigung vom 22.09.2026 beschreibt AI Data Security für sensible Daten und Governance bei generativer KI. Als Verfügbarkeitszeitraum wird Oktober 2026 genannt; ein konkreter Freigabetag wird daraus nicht abgeleitet.",
+    "score": 85,
+    "stage": "Redaktionell geprüft",
+    "addedAt": "2026-10-19",
+    "datePublished": "2026-09-22"
+  }
+]

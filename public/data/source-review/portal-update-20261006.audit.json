@@ -1,0 +1,146 @@
+{
+  "checkedAt": "2026-10-06",
+  "baselineCommit": "7dc5df1214fcadbbba55630155e306125f991723",
+  "before": {
+    "knowledge": 4717,
+    "providers": 1315
+  },
+  "after": {
+    "knowledge": 4919,
+    "providers": 1315
+  },
+  "newKnowledge": 202,
+  "newProviders": 0,
+  "validationLedgerChanged": false,
+  "pendingIdentityOrContentReviews": 31,
+  "portals": [
+    {
+      "name": "B2B Expertise",
+      "status": "checked",
+      "newKnowledge": 0,
+      "coverage": "Startseite und verlinkte Rubriken/Originalseiten; Flender-Beitrag vom 25.09. zur Anbieterprüfung vorgemerkt."
+    },
+    {
+      "name": "B2B KnowHow",
+      "status": "checked",
+      "newKnowledge": 77,
+      "coverage": "14 DE/EN-Listenseiten; 113 neue Asset-URLs oberhalb des bisherigen Grenzwerts 20286 geprüft; 77 neue eindeutige Assets übernommen. Fehlende Veröffentlichungstage nicht erfunden."
+    },
+    {
+      "name": "Businessleader.today",
+      "status": "checked-with-fallback",
+      "newKnowledge": 1,
+      "coverage": "API 401; öffentliche Startseite und RSS als Ersatz geprüft; Dropbox-Sign-Beitrag ergänzt."
+    },
+    {
+      "name": "ComputerWeekly",
+      "status": "checked",
+      "newKnowledge": 6,
+      "coverage": "Aktuelle Nachrichten-/Meinungsübersichten und Originalseiten; sechs Beiträge mit belegten bestehenden Anbietern übernommen."
+    },
+    {
+      "name": "connect professional",
+      "status": "checked",
+      "newKnowledge": 3,
+      "coverage": "39 aktuelle Originalseiten geprüft; vier Beiträge vorbereitet, davon drei neue Einträge und eine vorhandene Dublette."
+    },
+    {
+      "name": "Energie & Management",
+      "status": "checked",
+      "newKnowledge": 0,
+      "coverage": "Aktuelle Übersicht mit 25 Links geprüft; vier neue Anbieterfälle vorgemerkt. Paywall-Volltexte nicht als gelesen ausgewiesen."
+    },
+    {
+      "name": "EU AI Gigafactories",
+      "status": "checked",
+      "newKnowledge": 0,
+      "coverage": "Aktuelle offizielle Bekanntmachungen einschließlich Fristverlängerung und Q&A geprüft; bestehende Projektzuordnungen erhalten."
+    },
+    {
+      "name": "Foundry Webcast",
+      "status": "blocked",
+      "newKnowledge": 0,
+      "coverage": "Startseite, Übersicht und Sitemap nicht verfügbar; acht bekannte Detailseiten nachgeprüft: fünf HTTP 404, drei HTTP 502. Kein belastbares Update möglich; Bestand erhalten."
+    },
+    {
+      "name": "IT-Management.today",
+      "status": "checked",
+      "newKnowledge": 77,
+      "coverage": "175 Beiträge seit dem bisherigen Abruf über zwei API-Seiten erfasst und fachlich geprüft."
+    },
+    {
+      "name": "Interaktivierungs-Atlas",
+      "status": "checked",
+      "newKnowledge": 0,
+      "coverage": "Aktuelle Originalseiten geprüft; eine ServiceNow-Referenz ergänzt, ohne Erhöhung des Wissens- oder Validierungszählers."
+    },
+    {
+      "name": "Marketingleiter.today",
+      "status": "checked",
+      "newKnowledge": 4,
+      "coverage": "55 Beiträge seit dem bisherigen Abruf über die öffentliche API erfasst und fachlich geprüft."
+    },
+    {
+      "name": "Personalleiter.today",
+      "status": "checked",
+      "newKnowledge": 31,
+      "coverage": "183 Beiträge seit dem bisherigen Abruf über zwei API-Seiten erfasst und fachlich geprüft."
+    },
+    {
+      "name": "Produktionsleiter.today",
+      "status": "checked-with-quality-exclusions",
+      "newKnowledge": 16,
+      "coverage": "1333 Beiträge seit dem bisherigen Abruf über 14 API-Seiten erfasst; offensichtliche Glücksspiel-/Casino-Fremdinhalte ausgeschlossen. Nur fachlich passende, belegbar zugeordnete Beiträge übernommen."
+    },
+    {
+      "name": "Security-Insider",
+      "status": "checked",
+      "newKnowledge": 2,
+      "coverage": "37 aktuelle Originalseiten geprüft; zwei Beiträge mit expliziter Anbieterzuordnung ergänzt. Seitenleisten-Anbieter nicht als Inhaltsbeleg verwendet."
+    },
+    {
+      "name": "Telecom Handel",
+      "status": "checked",
+      "newKnowledge": 1,
+      "coverage": "542 relevante Sitemap-URLs gegen Originaldaten geprüft; Prüfliste mit 235 datierten Beiträgen aktualisiert. Ein Telekom-Beitrag übernommen; unklare neue Anbieter vorgemerkt. Sitemap-lastmod nicht als Veröffentlichungsdatum verwendet."
+    },
+    {
+      "name": "WEKA Downloads",
+      "status": "checked",
+      "newKnowledge": 0,
+      "coverage": "766 überwachte Sitemap-URLs, vier neu beobachtete URLs; keine neuen geeigneten Veröffentlichungskandidaten. Aktive Freigaben unverändert."
+    },
+    {
+      "name": "Whitepaper CIO.de",
+      "status": "checked",
+      "newKnowledge": 11,
+      "coverage": "100 aktuelle Ressourcen über die öffentlich vom Portal verwendete API geprüft; 18 seit dem bisherigen Abruf. Elf neue Assets mit explizitem Anbieter und Datum ergänzt."
+    },
+    {
+      "name": "Whitepaper Silicon.de",
+      "status": "checked",
+      "newKnowledge": 0,
+      "coverage": "RSS mit 50 Einträgen und aktuelle Originalseiten geprüft; MPS-Monitor-Beitrag als neuer Anbieterfall vorgemerkt."
+    },
+    {
+      "name": "heise Business Services",
+      "status": "checked",
+      "newKnowledge": 5,
+      "coverage": "Aktuelle Portalübersicht mit 22 Links und Originalseiten geprüft; fünf neue Assets bestehender Anbieter ergänzt. Fehlende Datumsangaben bleiben leer."
+    }
+  ],
+  "limits": [
+    "Vollständige Prüfung aller 19 bekannten Quellen, jedoch keine Volltextprüfung aller gated Downloads oder vollständige historische Archivübernahme.",
+    "Foundry bleibt technisch blockiert.",
+    "Neue Anbieteridentitäten und unklare Zuordnungen bleiben in der Prüfliste; nicht automatisch publiziert.",
+    "Alle neuen Wissenseinträge sind Beobachtet; keine neue redaktionelle Validierung."
+  ],
+  "profileReviewFollowUp": {
+    "file": "portal-profile-reviews-20261006.json",
+    "newProviders": 17,
+    "newKnowledge": 27,
+    "remainingCases": 1,
+    "latestKnowledge": 4946,
+    "latestProviders": 1332
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 710000,
+    "title": "Identity First – von der E-ID bis zum AI-Agent",
+    "provider": "Ergon Informatik AG",
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Identitätsprüfung und fortlaufende Autorisierung für Menschen, Dienste und KI-Agenten",
+    "delivery": "Whitepaper mit Formularzugang",
+    "lifecycle": "Architektur, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://www.security-insider.de/identity-first-von-der-e-id-bis-zum-ai-agent-d-6aad2f60c3cf4/",
+    "note": "Die Portal-Landingpage nennt Ergon Informatik AG als Anbieter und skizziert Identitätsnachweise, Sessions und delegierte Identitäten. Erfasst am 29.09.2026; der genaue Veröffentlichungstag und das Dokument hinter dem Formular sind nicht einzeln geprüft.",
+    "score": 88,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.ergon.ch/de/loesungen/airlock-iam",
+    "addedAt": "2026-09-29"
+  },
+  {
+    "id": 710001,
+    "title": "Sovereign Cloud: Europas Weg zu mehr digitaler Unabhängigkeit",
+    "provider": "Ivanti",
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Prüfung von Rechtsraum, Betrieb und Kontrolle bei souveränen Cloud-Diensten",
+    "delivery": "Whitepaper mit Formularzugang",
+    "lifecycle": "Bewertung, Beschaffung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://www.security-insider.de/sovereign-cloud-europas-weg-zu-mehr-digitaler-unabhaengigkeit-d-6a904def8456e/",
+    "note": "Security-Insider nennt Ivanti Germany GmbH als Whitepaper-Anbieter; Ivanti erläutert seine Sovereign-Cloud-Strategie auf einer eigenen Ressourcenseite. Erfasst am 29.09.2026; kein genauer Publikationstag belegt, Download hinter Formular nicht eingesehen.",
+    "score": 88,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.ivanti.com/de/resources/whitepapers/sovereign-cloud-strategy",
+    "addedAt": "2026-09-29"
+  },
+  {
+    "id": 710002,
+    "title": "State of Microsoft 365 Security Report 2026",
+    "provider": "CoreView",
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Bestandsaufnahme von Identitäts-, Konfigurations- und KI-Risiken in Microsoft 365",
+    "delivery": "Studie mit Formularzugang",
+    "lifecycle": "Bestandsaufnahme, Priorisierung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Studie",
+    "url": "https://www.security-insider.de/state-of-microsoft-365-security-report-d-6a6c65e349d1e/",
+    "note": "Security-Insider nennt CoreView S.R.L. als Anbieter. Die CoreView-Originalseite beschreibt eine Befragung von 279 IT- und Sicherheitsverantwortlichen zu Microsoft 365. Erfasst am 29.09.2026; kein genauer Publikationstag belegt, Report hinter Formular nicht eingesehen.",
+    "score": 91,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.coreview.com/resource/coreview-state-of-microsoft-365-snapshot",
+    "addedAt": "2026-09-29"
+  },
+  {
+    "id": 710003,
+    "title": "Der Endpoint ist die neue KI-Control-Plane",
+    "provider": "Mondoo",
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Inventarisierung und Steuerung nicht freigegebener KI-Werkzeuge auf Endgeräten",
+    "delivery": "Whitepaper mit Formularzugang",
+    "lifecycle": "Erfassung, Risikoprüfung und Kontrolle",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://www.security-insider.de/der-endpoint-ist-die-neue-ki-control-plane-d-6a7190756b9cb/",
+    "note": "Das Portal weist Mondoo GmbH als Anbieter aus. Die Mondoo-Produktseite beschreibt die Erfassung von KI-Agenten, Skills, MCP-Servern und Modellen auf Endpoints. Erfasst am 29.09.2026; die Zahlen des Teasers sind Anbieterangaben, das Dokument hinter dem Formular ist nicht geprüft.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://mondoo.com/solutions/shadow-ai",
+    "addedAt": "2026-09-29"
+  },
+  {
+    "id": 710004,
+    "title": "Cybersicherheit im Zeitalter autonomer KI",
+    "provider": "CANCOM",
+    "space": "Unternehmen und Verwaltung",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Security Operations und Reaktion auf KI-gestützte Angriffe",
+    "delivery": "Whitepaper mit Formularzugang",
+    "lifecycle": "Strategie, Überwachung und Reaktion",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://www.security-insider.de/cybersicherheit-im-zeitalter-autonomer-ki-d-6a67396e49e59/",
+    "note": "Security-Insider nennt CANCOM GmbH als Whitepaper-Anbieter. CANCOM beschreibt eigene Managed Security Services und das Cyber Defense Center. Erfasst am 29.09.2026; kein genauer Publikationstag belegt, Dokument hinter Formular nicht eingesehen.",
+    "score": 86,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "Security-Insider"
+    ],
+    "providerUrl": "https://www.cancom.de/xaas/security/cyber-defense-center/",
+    "addedAt": "2026-09-29"
+  },
+  {
+    "id": 710005,
+    "title": "IT-Sicherheit im Krankenhaus: Keine Chance für Cyberkriminelle",
+    "provider": "ESET Deutschland",
+    "space": "Gesundheit und Life Sciences",
+    "related": [
+      "Digitale Infrastruktur"
+    ],
+    "challenge": "Sicherheit und Resilienz",
+    "solution": "Mehrschichtiger Schutz vernetzter Kliniksysteme und Sicherheitsbetrieb",
+    "delivery": "Whitepaper, Registrierung bei heise erforderlich",
+    "lifecycle": "Risikoanalyse, Einführung und Betrieb",
+    "origin": "Beobachtet",
+    "format": "Whitepaper",
+    "url": "https://business-services.heise.de/security/security-management/beitrag/it-sicherheit-im-krankenhaus-keine-chance-fuer-cyberkriminelle-5107",
+    "note": "heise Business Services nennt ESET Deutschland GmbH, Erscheinungsjahr 2026, 24 Seiten und Registrierungspflicht. Die Landingpage beschreibt den Klinikbezug; Aussagen im vollständigen Download wurden nicht einzeln geprüft. Erfasst am 29.09.2026.",
+    "score": 90,
+    "stage": "Vorstrukturiert",
+    "sourcePortals": [
+      "heise Business Services"
+    ],
+    "providerUrl": "https://www.eset.com/de/business/healthcare/",
+    "addedAt": "2026-09-29"
+  }
+]

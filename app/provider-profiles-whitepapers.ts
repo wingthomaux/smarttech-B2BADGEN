@@ -1,0 +1,44 @@
+import type {ProviderProfile} from "./provider-profiles";
+
+type Row=[string,string,string,string,string,string,string,string];
+const rows:Row[]=[
+  ["Ergon Informatik AG","https://www.ergon.ch/de/loesungen/airlock-secure-access-hub",
+    "Ergon Informatik entwickelt Software und Sicherheitslösungen für anspruchsvolle digitale Geschäftsprozesse. Der Airlock Secure Access Hub verbindet Identitäts- und Zugriffsmanagement mit Schutz für Webanwendungen und APIs; Airlock IAM, Gateway und Zwei-Faktor-Authentifizierung haben jeweils eigene Aufgaben. Das beobachtete Whitepaper über E-ID und KI-Agenten ist eine fachliche Perspektive auf Vertrauen, keine Bestätigung einer vollständigen Produktabdeckung jedes dort angesprochenen Szenarios. Bei der Auswahl zählen Identitätsquellen, Integration, Delegation, Authentifizierung und Betrieb im konkreten Rechtsraum.",
+    "Ergon Informatik develops software and security solutions for demanding digital business processes. Its Airlock Secure Access Hub combines identity and access management with protection for web applications and APIs; IAM, Gateway and two-factor authentication each play different roles. The observed E-ID and AI-agent whitepaper is a perspective on trust, not proof that every scenario is covered by a product. Buyers should examine identity sources, integrations, delegation, authentication and operations in their jurisdiction.",
+    "Airlock IAM;Customer Identity;Web- und API-Schutz;Zwei-Faktor-Authentifizierung;Zugriffsarchitektur;Sicherheitsintegration",
+    "Airlock IAM;Customer identity;Web and API protection;Two-factor authentication;Access architecture;Security integration",
+    "IAM-Architektur;CISO;Anwendungsentwicklung;API-Verantwortliche;Datenschutz;IT-Betrieb",
+    "IAM architecture;CISO;Application development;API owners;Privacy;IT operations"],
+  ["Ivanti","https://www.ivanti.com/de/resources/whitepapers/sovereign-cloud-strategy",
+    "Ivanti bietet Software für Endpoint-Management, IT-Service-Prozesse und Sicherheit. Die eigene Sovereign-Cloud-Ressource erläutert Ivanti Neurons for MDM in einer EU-Betriebsvariante mit sector27; der beobachtete Portalbeitrag behandelt die damit verbundenen Fragen zu Rechtsraum, Datenkontrolle und Betriebsverantwortung. Aussagen zur regulatorischen Eignung müssen Organisationen für ihren konkreten Vertrag und Einsatz prüfen. Bei der Auswahl sind Gerätebestand, Administrationsrechte, Hosting, Support, Integrationen und der tatsächliche Zugriff auf Daten entscheidend.",
+    "Ivanti provides endpoint management, IT service and security software. Its sovereign-cloud resource describes an EU operating model for Ivanti Neurons for MDM with sector27; the observed portal paper discusses jurisdiction, data control and operational responsibility. Organisations must assess regulatory suitability for their own contract and use case. Device estate, administration rights, hosting, support, integrations and actual data access are relevant buying questions.",
+    "Endpoint-Management;Mobile Device Management;Sovereign Cloud;IT-Service-Management;Sicherheitsautomatisierung;Betriebsmodell",
+    "Endpoint management;Mobile device management;Sovereign cloud;IT service management;Security automation;Operating model",
+    "CIO;Endpoint-Administration;CISO;Cloud-Architektur;Datenschutz;IT-Einkauf",
+    "CIO;Endpoint administration;CISO;Cloud architecture;Privacy;IT procurement"],
+  ["Mondoo","https://mondoo.com/solutions/shadow-ai",
+    "Mondoo adressiert Schwachstellen und Sicherheitsrisiken über Cloud, Endgeräte, Container und Softwareumgebungen hinweg. Die Plattform erfasst und priorisiert Befunde; ein gemanagter Dienst unterstützt die Behebung. Für Shadow AI beschreibt Mondoo die Suche nach installierten Agenten, Skills, MCP-Servern und Modellen auf Endgeräten. Das Portal-Whitepaper ist ein beobachteter, formulargebundener Fachinhalt; seine Teaserzahlen sind nicht unabhängig geprüft. Kaufentscheidungen brauchen Klarheit über Abdeckung, Berechtigungen, Priorisierungslogik, Remediation und Verantwortlichkeiten zwischen Produkt und Service.",
+    "Mondoo addresses vulnerabilities and security exposure across cloud, endpoints, containers and software environments. Its platform discovers and prioritises findings, with a managed service supporting remediation. For shadow AI, Mondoo describes inventory of installed agents, skills, MCP servers and models on endpoints. The portal whitepaper is an observed, form-gated resource; its teaser statistics have not been independently validated. Buyers should assess coverage, permissions, prioritisation, remediation and the split of responsibility between platform and service.",
+    "Schwachstellenmanagement;Endpoint-Inventar;Shadow-AI-Erfassung;Cloud-Sicherheit;Risikopriorisierung;Remediation-Workflows",
+    "Vulnerability management;Endpoint inventory;Shadow-AI discovery;Cloud security;Risk prioritisation;Remediation workflows",
+    "CISO;Vulnerability Management;Endpoint-Betrieb;Cloud-Security;DevSecOps;IT-Einkauf",
+    "CISO;Vulnerability management;Endpoint operations;Cloud security;DevSecOps;IT procurement"],
+  ["CANCOM","https://www.cancom.de/xaas/security/cyber-defense-center/",
+    "CANCOM ist ein deutscher IT-Dienstleister und Integrator mit Beratungs-, Implementierungs- und Betriebsleistungen. Das Cyber Defense Center bietet nach Anbieterangaben Überwachung und Reaktion rund um die Uhr; weitere Managed Security Services binden Technologien von Partnern ein. Das beobachtete Whitepaper behandelt Cybersecurity im KI-Zeitalter, ohne dass der formulargebundene Volltext hier geprüft wurde. Unternehmen sollten SOC-Leistungsumfang, Alarmwege, Reaktionszeiten, Datenzugriff, Partnerprodukte und die Verantwortung im Incident-Fall vertraglich und technisch klären.",
+    "CANCOM is a German IT services provider and integrator offering consulting, implementation and operations. Its Cyber Defense Center describes round-the-clock monitoring and response, while other managed security services use partner technologies. The observed whitepaper discusses cybersecurity in the AI era; its gated full text has not been reviewed here. Buyers should examine SOC scope, alert paths, response times, data access, partner products and incident responsibilities in the contract and technical design.",
+    "Cyber Defense Center;Managed Security;SOC-Betrieb;Security Consulting;Incident Response;Systemintegration",
+    "Cyber Defense Center;Managed security;SOC operations;Security consulting;Incident response;Systems integration",
+    "CISO;SOC-Leitung;IT-Betrieb;Cloud-Security;Einkauf;Compliance",
+    "CISO;SOC leadership;IT operations;Cloud security;Procurement;Compliance"],
+  ["ESET Deutschland","https://www.eset.com/de/business/healthcare/",
+    "ESET entwickelt Sicherheitssoftware für Unternehmen und beschreibt auf seiner Healthcare-Seite den Schutz vernetzter Einrichtungen. Die ESET-PROTECT-Plattform umfasst Endpoint- und Server-Schutz, zentrale Verwaltung und je nach Paket weitere Erkennungs- und Reaktionsfunktionen; MDR ist als Dienst separat zu prüfen. Das bei heise gelistete Krankenhaus-Whitepaper nennt ESET Deutschland als Anbieter und verlangt eine Registrierung. Für Kliniken zählen Kompatibilität mit Medizingeräten und Altsystemen, Betriebsunterbrechungen, Rollout, Reaktion und Dokumentationspflichten; die PDF-Inhalte sind noch nicht einzeln validiert.",
+    "ESET develops business security software and describes protection for connected healthcare environments. Its ESET PROTECT platform covers endpoint and server protection and central management, with further detection and response capabilities depending on the package; MDR requires a separate service assessment. heise lists ESET Deutschland as provider of a hospital whitepaper behind registration. Hospitals should evaluate compatibility with medical devices and legacy systems, downtime, rollout, response and documentation; the PDF has not been individually validated.",
+    "ESET PROTECT;Endpoint-Schutz;Server-Sicherheit;Zentrale Verwaltung;EDR und XDR;Managed Detection and Response",
+    "ESET PROTECT;Endpoint protection;Server security;Central management;EDR and XDR;Managed detection and response",
+    "Klinik-IT;CISO;Medizintechnik;Endpoint-Administration;Datenschutz;IT-Einkauf",
+    "Hospital IT;CISO;Medical engineering;Endpoint administration;Privacy;IT procurement"],
+];
+
+export const providerProfilesWhitepapers:Record<string,ProviderProfile>=Object.fromEntries(rows.map(([name,officialUrl,de,en,focusDe,focusEn,rolesDe,rolesEn])=>[
+  name,{officialUrl,officialLabel:{de:"Offizielle Anbieterquelle",en:"Official provider source"},metaDescription:{de:de.slice(0,155),en:en.slice(0,155)},summary:{de,en},focus:{de:focusDe.split(";"),en:focusEn.split(";")},buyerGroups:{de:rolesDe.split(";"),en:rolesEn.split(";")}},
+]));

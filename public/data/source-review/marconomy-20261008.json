@@ -1,0 +1,371 @@
+{
+  "reviewedAt": "2026-10-08",
+  "sitemapUrls": [
+    "https://www.marconomy.de/sitemap_whitepapers1.xml",
+    "https://www.marconomy.de/sitemap_whitepapers2.xml",
+    "https://www.marconomy.de/sitemap_webinars1.xml"
+  ],
+  "reviewedUrlCount": 333,
+  "selectedLandingpages": [
+    {
+      "id": 790100,
+      "url": "https://www.marconomy.de/so-gelingt-professionelles-e-mail-marketing-im-b2b-d-60e81f45d6e4d/",
+      "originalTitle": "So gelingt professionelles E-Mail-Marketing im B2B",
+      "provider": "SC-Networks",
+      "sourceProviderLabels": [
+        "SC-Networks GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790101,
+      "url": "https://www.marconomy.de/erfolgsmessung-und-optimierung-im-lead-management-d-39343/",
+      "originalTitle": "Erfolgsmessung und Optimierung im Lead Management",
+      "provider": "SC-Networks",
+      "sourceProviderLabels": [
+        "SC-Networks GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790102,
+      "url": "https://www.marconomy.de/mission-possible-gemeinsam-silos-in-sales-marketing-ueberwinden-w-65a4ecdf8443a/",
+      "originalTitle": "Mission Possible – gemeinsam Silos in Sales & Marketing überwinden",
+      "provider": "SC-Networks",
+      "sourceProviderLabels": [
+        "SC-Networks GmbH",
+        "marconomy"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": "30.04.2024"
+    },
+    {
+      "id": 790103,
+      "url": "https://www.marconomy.de/ihr-leitfaden-zur-analyse-von-first-party-daten-im-b2b-d-65117a97c3bb9/",
+      "originalTitle": "Ihr Leitfaden zur Analyse von First Party Daten im B2B",
+      "provider": "Apteco",
+      "sourceProviderLabels": [
+        "Apteco GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790104,
+      "url": "https://www.marconomy.de/der-effizienz-booster-fur-alle-text-typen-d-6512dbc367d6d/",
+      "originalTitle": "Der Effizienz-Booster für alle Text-Typen",
+      "provider": "Retresco",
+      "sourceProviderLabels": [
+        "Retresco GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790105,
+      "url": "https://www.marconomy.de/studie-zur-messung-von-social-media-kpis-d-6332f66a1173a/",
+      "originalTitle": "Studie zur Messung von Social-Media KPIs",
+      "provider": "Agorapulse",
+      "sourceProviderLabels": [
+        "Agorapulse SAS"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790106,
+      "url": "https://www.marconomy.de/der-dam-guide-mit-erfolgsgarantie--10-fragen-antworten-d-6124d78f7c2c3/",
+      "originalTitle": "Der DAM-Guide mit Erfolgsgarantie - 10 Fragen & Antworten",
+      "provider": "Wedia",
+      "sourceProviderLabels": [
+        "wedia SA"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790107,
+      "url": "https://www.marconomy.de/7-gruende-ideale-branchen-fuer-digital-asset-management-d-60d2e678e8a95/",
+      "originalTitle": "7 Gründe & ideale Branchen für Digital Asset Management",
+      "provider": "Wedia",
+      "sourceProviderLabels": [
+        "wedia SA"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790108,
+      "url": "https://www.marconomy.de/was-ein-dam-system-am-beispiel-von-bynder-kann-d-41508/",
+      "originalTitle": "Was ein DAM System am Beispiel von Bynder kann",
+      "provider": "Bynder",
+      "sourceProviderLabels": [
+        "Bynder"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790109,
+      "url": "https://www.marconomy.de/vier-schritte-zum-passenden-digital-asset-management-dam-d-40874/",
+      "originalTitle": "Vier Schritte zum passenden Digital Asset Management (DAM)",
+      "provider": "Bynder",
+      "sourceProviderLabels": [
+        "Bynder"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790110,
+      "url": "https://www.marconomy.de/neue-wege-gehen-vom-content-chaos-zum-marketing-flow-d-61696eea11b1d/",
+      "originalTitle": "Neue Wege gehen: Vom Content Chaos zum Marketing Flow",
+      "provider": "Sitecore",
+      "sourceProviderLabels": [
+        "netzkern GmbH - part of Macaw",
+        "SITECORE Deutschland GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790111,
+      "url": "https://www.marconomy.de/mit-dem-richtigen-cms-zum-erfolg-fuer-marketing-und-it-d-651186a90211e/",
+      "originalTitle": "Mit dem richtigen CMS zum Erfolg für Marketing und IT",
+      "provider": "Magnolia",
+      "sourceProviderLabels": [
+        "Magnolia"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790112,
+      "url": "https://www.marconomy.de/die-bedeutung-von-pim-fuer-ihren-b2b-shop-d-68d54e4f86110/",
+      "originalTitle": "Die Bedeutung von PIM für Ihren B2B Shop",
+      "provider": "Noxum",
+      "sourceProviderLabels": [
+        "Noxum GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790113,
+      "url": "https://www.marconomy.de/wie-festool-seine-e-commerce-prozesse-beschleunigt-d-66fab52f83cda/",
+      "originalTitle": "Wie Festool seine E-Commerce-Prozesse beschleunigt",
+      "provider": "Noxum",
+      "sourceProviderLabels": [
+        "Noxum GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790114,
+      "url": "https://www.marconomy.de/so-ueberwinden-sie-die-7-groessten-huerden-der-crm-einfuehrung-d-65f4281b3d186/",
+      "originalTitle": "So überwinden Sie die 7 größten Hürden der CRM-Einführung",
+      "provider": "snapADDY",
+      "sourceProviderLabels": [
+        "snapADDY GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790115,
+      "url": "https://www.marconomy.de/so-gelingt-die-umstellung-auf-digitale-leaderfassung-d-65118146c1f0c/",
+      "originalTitle": "So gelingt die Umstellung auf digitale Leaderfassung",
+      "provider": "snapADDY",
+      "sourceProviderLabels": [
+        "snapADDY GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790116,
+      "url": "https://www.marconomy.de/guide-ein-tag-im-leben-des-ki-unterstuetzten-vertriebsteams-d-65f43240a93bd/",
+      "originalTitle": "Guide: Ein Tag im Leben des KI-unterstützten Vertriebsteams",
+      "provider": "Seismic",
+      "sourceProviderLabels": [
+        "seismic"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790117,
+      "url": "https://www.marconomy.de/die-sales-enablement-checkliste-d-642ab7f24855a/",
+      "originalTitle": "Die Sales Enablement Checkliste",
+      "provider": "Seismic",
+      "sourceProviderLabels": [
+        "seismic"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790118,
+      "url": "https://www.marconomy.de/alles-wissenswerte-rund-um-das-top-thema-livestreaming-d-43961/",
+      "originalTitle": "Alles Wissenswerte rund um das Top-Thema Livestreaming",
+      "provider": "movingimage",
+      "sourceProviderLabels": [
+        "movingimage EVP GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790119,
+      "url": "https://www.marconomy.de/social-media-marketing-im-b2b-w-6116318f555c7/",
+      "originalTitle": "Social Media Marketing im B2B",
+      "provider": "Seismic",
+      "sourceProviderLabels": [
+        "seismic",
+        "movingimage EVP GmbH",
+        "marconomy"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": "23.09.2021"
+    },
+    {
+      "id": 790120,
+      "url": "https://www.marconomy.de/step-by-step-so-erstellen-sie-erfolgreich-digitale-inhalte-d-41545/",
+      "originalTitle": "Step by Step: So erstellen Sie erfolgreich digitale Inhalte",
+      "provider": "Foleon",
+      "sourceProviderLabels": [
+        "Foleon"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790121,
+      "url": "https://www.marconomy.de/prozessoptimierung-im-marketing-fuer-grossunternehmen-d-68e4c66bd9d7e/",
+      "originalTitle": "Prozessoptimierung im Marketing für Großunternehmen",
+      "provider": "Entirely",
+      "sourceProviderLabels": [
+        "Entirely AG"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790122,
+      "url": "https://www.marconomy.de/b2b-marketing-2026-visionen-trends-strategien-d-694157e5b2adf/",
+      "originalTitle": "B2B Marketing 2026 – Visionen, Trends & Strategien",
+      "provider": "Ibexa",
+      "sourceProviderLabels": [
+        "Ibexa GmbH",
+        "marconomy"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790123,
+      "url": "https://www.marconomy.de/b2b-marketing-goes-e-commerce-strategien-tipps-tools-w-63f33f5c483ea/",
+      "originalTitle": "B2B Marketing goes E-Commerce: Strategien, Tipps & Tools",
+      "provider": "Ibexa",
+      "sourceProviderLabels": [
+        "Ibexa GmbH",
+        "LOGIC JOE GmbH",
+        "marconomy"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": "30.03.2023"
+    },
+    {
+      "id": 790124,
+      "url": "https://www.marconomy.de/content-marketing-zu-ende-gedacht-d-38406/",
+      "originalTitle": "Content Marketing zu Ende gedacht",
+      "provider": "CELUM",
+      "sourceProviderLabels": [
+        "CELUM GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790125,
+      "url": "https://www.marconomy.de/communication-based-lead-management-booster-fuer-marketing-und-vertrieb-d-6426a29f16ba0/",
+      "originalTitle": "Communication based Lead Management – Booster für Marketing und Vertrieb",
+      "provider": "matelso",
+      "sourceProviderLabels": [
+        "MaTelSo GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790126,
+      "url": "https://www.marconomy.de/so-finden-sie-den-passenden-crm-anbieter-fuer-ihr-unternehmen-d-68fa2b797aa64/",
+      "originalTitle": "So finden Sie den passenden CRM-Anbieter für Ihr Unternehmen",
+      "provider": "ADITO Software",
+      "sourceProviderLabels": [
+        "Adito Software GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790127,
+      "url": "https://www.marconomy.de/so-fuehren-sie-ihr-crm-system-erfolgreich-ein-der-praxisleitfaden-fuer-profis-d-68271f9d17511/",
+      "originalTitle": "So führen Sie Ihr CRM-System erfolgreich ein – der Praxisleitfaden für Profis",
+      "provider": "ADITO Software",
+      "sourceProviderLabels": [
+        "Adito Software GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790128,
+      "url": "https://www.marconomy.de/diese-10-sap-funktionen-brauchen-sie-wirklich-d-6977747c5b148/",
+      "originalTitle": "Diese 10 SAP-Funktionen brauchen Sie wirklich",
+      "provider": "FIS Informationssysteme und Consulting",
+      "sourceProviderLabels": [
+        "FIS Informationssysteme und Consulting GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790129,
+      "url": "https://www.marconomy.de/modularer-commerce-im-b2b-endlich-ausfuehrlich-erklaert-d-653b810e20230/",
+      "originalTitle": "Modularer Commerce im B2B? Endlich ausführlich erklärt",
+      "provider": "Adobe",
+      "sourceProviderLabels": [
+        "Adobe Systems GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790130,
+      "url": "https://www.marconomy.de/5-tipps-fuer-eine-optimale-product-experience-im-b2b-d-43357/",
+      "originalTitle": "5 Tipps für eine optimale Product Experience im B2B",
+      "provider": "Akeneo",
+      "sourceProviderLabels": [
+        "Akeneo GmbH"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    },
+    {
+      "id": 790131,
+      "url": "https://www.marconomy.de/trends-zur-kundenbindung-fuer-ihr-marketing-d-63357b9b8224d/",
+      "originalTitle": "Trends zur Kundenbindung für Ihr Marketing",
+      "provider": "Comarch",
+      "sourceProviderLabels": [
+        "Comarch AG"
+      ],
+      "status": "observed-public-landingpage",
+      "eventPeriod": null
+    }
+  ],
+  "excluded": "No bulk import. Agencies, campaignOne.ai, ambiguous advertiser blocks, unreviewed gated documents and historical vendor-name mappings remain excluded."
+}

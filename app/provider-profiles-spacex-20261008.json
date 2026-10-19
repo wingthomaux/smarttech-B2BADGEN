@@ -1,0 +1,254 @@
+{
+  "SpaceX": {
+    "officialUrl": "https://www.spacex.com/",
+    "officialLabel": {
+      "de": "Offizielle Anbieterübersicht",
+      "en": "Official provider overview"
+    },
+    "metaDescription": {
+      "de": "SpaceX: Falcon 9 und Rideshare, Starship-Systembezug.",
+      "en": "SpaceX: Falcon 9 and rideshare, Starship system reference."
+    },
+    "summary": {
+      "de": "SpaceX verbindet Raumtransport und satellitengestützte Konnektivität. Falcon 9 und das Rideshare-Programm adressieren Satellitenstarts und Nutzlastintegration; Starship ist im bestehenden Systemeintrag separat beschrieben. Starlink bietet Konnektivität für Unternehmensstandorte, Schiffe und Flugzeuge. Diese Leistungen haben unterschiedliche Missions-, Netz- und Installationsanforderungen. Die offizielle Mitteilung vom 2. Februar 2026 bestätigt die Übernahme von xAI. Damit ist auch das heute als SpaceXAI präsentierte Grok-Portfolio Teil des Unternehmensverbunds. Für die Auswahl bleiben Startfenster und Nutzlastschnittstellen, Konnektivitätstarife und regionale Zulassungen sowie KI-Verträge und Integrationsrechte getrennte Fragen. Der Konzernbezug bedeutet keine gemeinsame Leistungszusage. Angekündigte orbitalbasierte KI-Infrastruktur wird hier nicht als verfügbarer Standarddienst dargestellt.",
+      "en": "SpaceX combines space transport and satellite connectivity. Falcon 9 and the rideshare programme address satellite launches and payload integration; Starship is described separately in the existing system entry. Starlink offers connectivity for business sites, vessels and aircraft. These services have different mission, network and installation requirements. The official announcement of 2 February 2026 confirms the acquisition of xAI. The Grok portfolio now presented as SpaceXAI is therefore part of the corporate group. Selection still requires separate assessment of launch windows and payload interfaces, connectivity plans and regional approvals, and AI contracts and integration permissions. Group membership does not imply a shared service commitment. Announced orbital AI infrastructure is not represented here as an available standard service."
+    },
+    "focus": {
+      "de": [
+        "Falcon 9 und Rideshare",
+        "Starship-Systembezug",
+        "Starlink für Unternehmensstandorte",
+        "Maritime Konnektivität",
+        "Konnektivität für Luftfahrt",
+        "Nutzlast- und Missionsintegration",
+        "SpaceXAI und Grok im Unternehmensverbund"
+      ],
+      "en": [
+        "Falcon 9 and rideshare",
+        "Starship system reference",
+        "Starlink for business sites",
+        "Maritime connectivity",
+        "Aviation connectivity",
+        "Payload and mission integration",
+        "SpaceXAI and Grok within the corporate group"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Satellitenbetreiber",
+        "Missionsplanung und Nutzlastintegration",
+        "Unternehmensnetzwerke",
+        "Flotten- und Schiffsmanagement",
+        "Airline-IT",
+        "Telekommunikation",
+        "IT-Strategie und Einkauf"
+      ],
+      "en": [
+        "Satellite operators",
+        "Mission planning and payload integration",
+        "Enterprise networks",
+        "Fleet and vessel management",
+        "Airline IT",
+        "Telecommunications",
+        "IT strategy and procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.spacex.com/rideshare",
+        "label": {
+          "de": "SpaceX Rideshare: Satellitennutzlasten gemeinsam starten",
+          "en": "SpaceX Rideshare: shared launches for satellite payloads"
+        }
+      },
+      {
+        "url": "https://www.spacex.com/vehicles/falcon-9",
+        "label": {
+          "de": "Falcon 9: Startsystem und Missionsschnittstellen",
+          "en": "Falcon 9: launch system and mission interfaces"
+        }
+      },
+      {
+        "url": "https://starlink.com/business/fixed-site",
+        "label": {
+          "de": "Starlink Business: Konnektivität für Unternehmensstandorte",
+          "en": "Starlink Business: connectivity for business sites"
+        }
+      },
+      {
+        "url": "https://starlink.com/business/maritime",
+        "label": {
+          "de": "Starlink Maritime: Konnektivität und Verwaltung von Schiffsflotten",
+          "en": "Starlink Maritime: vessel connectivity and fleet management"
+        }
+      },
+      {
+        "url": "https://starlink.com/business/aviation",
+        "label": {
+          "de": "Starlink Aviation: Internetverbindung für Flugzeuge",
+          "en": "Starlink Aviation: internet connectivity for aircraft"
+        }
+      },
+      {
+        "url": "https://x.ai/news/xai-joins-spacex",
+        "label": {
+          "de": "SpaceX und xAI: belegte Übernahme und Portfolioverbindung",
+          "en": "SpaceX and xAI: documented acquisition and portfolio relationship"
+        }
+      }
+    ],
+    "relatedProviders": [
+      {
+        "name": "SpaceXAI",
+        "context": {
+          "de": "xAI wurde am 2. Februar 2026 von SpaceX übernommen. Das KI-Portfolio wird auf x.ai inzwischen unter SpaceXAI geführt. Der separate Eintrag beschreibt Produkte und Auswahlfragen dieses Geschäftsbereichs.",
+          "en": "SpaceX acquired xAI on 2 February 2026. The AI portfolio on x.ai is now presented as SpaceXAI. The separate entry describes the products and selection questions of this business."
+        }
+      }
+    ]
+  },
+  "SpaceXAI": {
+    "officialUrl": "https://x.ai/",
+    "officialLabel": {
+      "de": "Offizielle Anbieterübersicht",
+      "en": "Official provider overview"
+    },
+    "metaDescription": {
+      "de": "SpaceXAI: Grok Chat und Recherche, Grok Business und Enterprise.",
+      "en": "SpaceXAI: Grok chat and research, Grok Business and Enterprise."
+    },
+    "summary": {
+      "de": "SpaceXAI ist die aktuelle Anbieterbezeichnung auf x.ai; die KI-Aktivitäten wurden zuvor als xAI geführt und laut offizieller Mitteilung am 2. Februar 2026 von SpaceX übernommen. Das Portfolio unterscheidet Grok als Recherche- und Arbeitsassistenten, Business und Enterprise für Organisationen sowie APIs zur Integration in eigene Anwendungen. Imagine adressiert Bild- und Videoproduktion, Voice Sprachagenten und Transkription, Build Softwareentwicklung und Bot ausführende Arbeitsabläufe. X Search erlaubt die Recherche von Inhalten auf X; Grokipedia ist im offiziellen Produktmenü als weiterer Wissensbezug verlinkt. Colossus beschreibt die Trainingsinfrastruktur des Anbieters. Für die Auswahl zählen Zugang und Plan, Modell- und Werkzeuglimits, Integrationsrechte und Datenverarbeitung. Produkte, Verträge und Funktionen sollten einzeln geprüft werden. Die Darstellung belegt Anbieterangaben, keine unabhängige Qualität von KI-Antworten oder Faktenartikeln.",
+      "en": "SpaceXAI is the current provider name on x.ai; its AI activities were previously presented as xAI and, according to the official announcement, were acquired by SpaceX on 2 February 2026. The portfolio distinguishes Grok as a research and work assistant, Business and Enterprise for organisations, and APIs for integration into applications. Imagine addresses image and video production, Voice addresses voice agents and transcription, Build supports software development and Bot executes workflows. X Search enables research of X content; Grokipedia is linked in the official product menu as another knowledge reference. Colossus describes the provider’s training infrastructure. Selection depends on access and plan, model and tool limits, integration permissions and data processing. Products, terms and features need individual assessment. This description evidences provider statements, not independent quality of AI answers or factual articles."
+    },
+    "focus": {
+      "de": [
+        "Grok Chat und Recherche",
+        "Grok Business und Enterprise",
+        "Grok API und X Search",
+        "Imagine: Bild und Video",
+        "Voice: Sprachagenten und Transkription",
+        "Build: Coding-Agent",
+        "Grok Bot und Team Bots",
+        "Colossus-Trainingsinfrastruktur",
+        "Grokipedia als Wissensverweis"
+      ],
+      "en": [
+        "Grok chat and research",
+        "Grok Business and Enterprise",
+        "Grok API and X Search",
+        "Imagine: image and video",
+        "Voice: agents and transcription",
+        "Build: coding agent",
+        "Grok Bot and Team Bots",
+        "Colossus training infrastructure",
+        "Grokipedia knowledge reference"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "IT- und KI-Strategie",
+        "Softwareentwicklung und Plattformteams",
+        "Content- und Marketingteams",
+        "Kundenservice und Contact Center",
+        "Daten- und Wissensmanagement",
+        "Informationssicherheit",
+        "Einkauf und Datenschutz"
+      ],
+      "en": [
+        "IT and AI strategy",
+        "Software engineering and platform teams",
+        "Content and marketing teams",
+        "Customer service and contact centres",
+        "Data and knowledge management",
+        "Information security",
+        "Procurement and privacy"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://x.ai/grok",
+        "label": {
+          "de": "Grok: Recherche, Analyse und multimodale Assistenz",
+          "en": "Grok: research, analysis and multimodal assistance"
+        }
+      },
+      {
+        "url": "https://x.ai/grok/business",
+        "label": {
+          "de": "Grok Business und Enterprise: KI für Teams und Organisationen",
+          "en": "Grok Business and Enterprise: AI for teams and organisations"
+        }
+      },
+      {
+        "url": "https://x.ai/api",
+        "label": {
+          "de": "Grok API: Modelle und Werkzeuge in eigene Anwendungen integrieren",
+          "en": "Grok API: integrate models and tools into applications"
+        }
+      },
+      {
+        "url": "https://docs.x.ai/developers/tools/x-search",
+        "label": {
+          "de": "Grok X Search: Beiträge, Nutzer und Diskussionen auf X recherchieren",
+          "en": "Grok X Search: research posts, users and discussions on X"
+        }
+      },
+      {
+        "url": "https://x.ai/api/imagine",
+        "label": {
+          "de": "Grok Imagine API: Bilder, Videos und kreative Varianten",
+          "en": "Grok Imagine API: images, videos and creative variants"
+        }
+      },
+      {
+        "url": "https://x.ai/api/voice",
+        "label": {
+          "de": "Grok Voice API: Sprachagenten, Sprachausgabe und Transkription",
+          "en": "Grok Voice API: voice agents, speech synthesis and transcription"
+        }
+      },
+      {
+        "url": "https://docs.x.ai/build/overview",
+        "label": {
+          "de": "Grok Build: Coding-Agent für Softwareprojekte",
+          "en": "Grok Build: coding agent for software projects"
+        }
+      },
+      {
+        "url": "https://x.ai/bot",
+        "label": {
+          "de": "Grok Bot: KI-Mitarbeitende für Arbeitsabläufe",
+          "en": "Grok Bot: AI teammates for workflows"
+        }
+      },
+      {
+        "url": "https://x.ai/colossus",
+        "label": {
+          "de": "Colossus: Infrastruktur für KI-Training",
+          "en": "Colossus: AI training infrastructure"
+        }
+      },
+      {
+        "url": "https://x.ai/news/xai-joins-spacex",
+        "label": {
+          "de": "SpaceX und xAI: belegte Übernahme und Portfolioverbindung",
+          "en": "SpaceX and xAI: documented acquisition and portfolio relationship"
+        }
+      }
+    ],
+    "relatedProviders": [
+      {
+        "name": "SpaceX",
+        "context": {
+          "de": "xAI wurde am 2. Februar 2026 von SpaceX übernommen. Das KI-Portfolio wird auf x.ai inzwischen unter SpaceXAI geführt. Der separate Eintrag beschreibt Produkte und Auswahlfragen dieses Geschäftsbereichs.",
+          "en": "SpaceX acquired xAI on 2 February 2026. The AI portfolio on x.ai is now presented as SpaceXAI. The separate entry describes the products and selection questions of this business."
+        }
+      }
+    ],
+    "aliases": [
+      "xAI",
+      "SpaceXAI LLC"
+    ]
+  }
+}

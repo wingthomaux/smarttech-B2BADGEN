@@ -1,0 +1,3856 @@
+[
+  {
+    "name": "99 Books /BT Verlag",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1860
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "A. Engelhardt Markenkonzepte",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1785,
+      3822
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Adacta (PR-Agentur)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Adacta (PR-Agentur)",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Adam Kapalla",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Adam Kapalla",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "AGENCY ONE.IO",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "AGENCY ONE.IO",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "AI Consulting UG (haftungsbeschränkt)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "AI Consulting UG (haftungsbeschränkt)",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Albert Hodel",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Albert Hodel",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Alexis Sophos",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1643,
+      2359,
+      3516,
+      3577
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Allatra e.V",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3446
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Alparis",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      711,
+      716
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "André Schnabel",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2100
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Andrea Vella",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3401
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Anita Glombik",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Anita Glombik",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Anja Sziele PR",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Anja Sziele PR",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Anna Kowalczyk",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2858
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "artverwandt.website",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "artverwandt.website",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Assistini WP/ Adenion",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Assistini WP/ Adenion",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Aura Escort Frankfurt",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1822
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Aviation & Tourism International",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      824,
+      2331
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "B-Line71.com",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3222
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "B. C Neumann PR, Business+Communication",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "B. C Neumann PR, Business+Communication",
+    "articles": 7,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "BANI Hausverwaltung und Immobilien",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "BANI Hausverwaltung & Immobilien",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://bani-hausverwaltung-immobilien.de/"
+  },
+  {
+    "name": "Baumer/Machine Design",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Baumer",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.baumer.com/de/de/losungen/mobile-maschinen/a/mobile-automation"
+  },
+  {
+    "name": "Be great! Die Erfolgsagentur",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      950
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "BEAUTEX hairlounge",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3540
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "believe + trust LLC",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2021,
+      2198
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Bell Yard 7",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1563
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Bem",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3580
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "besser Korrektur lesen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2812
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Beton-Pumpen-Service",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1525
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "bioresonanz-zukunft, M+V Medien- und Verlagsservice Germany UG (haftungsbeschränkt)",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      59,
+      1437,
+      3767
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "BISW",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "BISW",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Blancdenoir",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Blancdenoir Communication Agency",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.blancdenoir.it/en/"
+  },
+  {
+    "name": "brain and soul solutions",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1057
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Brain-s-Park UG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Brain-s-Park UG",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Brick Towers",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3831
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Bruno Dobler – Keynote Speaker & Coach",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3688
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "BT2",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "BT2",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Buchautor",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      340,
+      1786,
+      1862,
+      2257,
+      2280,
+      2332,
+      2362
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "BUDA Projektmangement",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "BUDA Projektmangement",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Budapest Media Desk",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2436
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Bulk Transporter",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Bulk Transporter",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Business-Tipp Medien",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Business-Tipp Medien",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "BYTE PR COMUNICACION",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "BYTE PR COMUNICACION",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Candystorm PR",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      475,
+      990,
+      1707,
+      1960
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Caroline Dostal – SoulMeditaion",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Caroline Dostal – SoulMeditaion",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Champkidz",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Champkidz",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Charterhouse",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Charterhouse",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "CharterHouse London",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "CharterHouse London",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Chogan-Vertriebspartner",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3379,
+      3519
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Chris Cross Relations",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Chris Cross Relations",
+    "articles": 7,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "CIGAR NEWSFEED",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1708
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "City A-M-EU",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      168,
+      272,
+      587,
+      689
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Coaching Executives – Executive Events",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Coaching Executives – Executive Events",
+    "articles": 8,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "COMPLEXcellence",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "COMPLEXcellence",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "CONSIRY",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "CONSIRY",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "contcept communication",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "contcept communication",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "COWORKING Piding / c/o Salanje",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "COWORKING Piding",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://coworking-piding.de/leistungen/"
+  },
+  {
+    "name": "Crystal",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3210
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Curry Paule",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1567
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "CVM",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "CVM",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "CWE Holding Europe",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2259,
+      3754
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "D&Cie Immobilien",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "D&Cie Immobilien",
+    "articles": 5,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Daniela Welling",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Daniela Welling",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "das komm.büer",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "das komm.büer",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "deadperformance",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1148
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "decky",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "decky",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Degro",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Degro",
+    "articles": 0,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Dehner Logistik",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Dehner Logistik",
+    "articles": 0,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Dennis Sievers",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2027
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Depression Hannover",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Depression Hannover",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Der Reiniger",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Der Reiniger",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Der-Yacht-Anwalt",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3247
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Deutsche Personalvermittlung",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Deutsche Personalvermittlung",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "DID Group",
+    "status": "individuell_profiliert",
+    "canonical": "DID Group",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://did-group.de/mieten/"
+  },
+  {
+    "name": "Die Menschenleserin aus Franken",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Die Menschenleserin aus Franken",
+    "articles": 7,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Die Mitarbeiterbinder",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Die Mitarbeiterbinder",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Die Notfallengel",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Die Notfallengel",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Die Notfallengel – Dument Institut für Vorsorge und Nachlassmanagement GmbH i. G",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Die Notfallengel – Dument Institut für Vorsorge und Nachlassmanagement GmbH i. G",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "die Schönbrunn TASC",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "die Schönbrunn TASC",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Die Webseiten-Macher",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Die Webseiten-Macher",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Dieses nachträgliche Auswerten von Ereignissen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      479
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "DigiKey/Machine Design",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "DigiKey",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.digikey.de/"
+  },
+  {
+    "name": "Diplom-Betriebswirt J. Hansch Immobilien",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Diplom-Betriebswirt J. Hansch Immobilien",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "DIQP Deutsches Institut für Qualitätsstandards und prüfung e.V",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "DIQP Deutsches Institut für Qualitätsstandards und -prüfung e.V",
+    "articles": 5,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.diqp.eu/ueberuns/"
+  },
+  {
+    "name": "Dirk Eggert",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      430
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Dreieinigkeit e.V",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1133
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "E-Commerce",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "E-Commerce",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "E-Productions",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "E-Productions",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "EDSA Casual wear international Textil Trade & Service",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "EDSA Casual wear international Textil Trade & Service",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Elbwald Hamburg",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Elbwald Hamburg",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Electronic Design/Infineon",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Infineon",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.infineon.com/product-information/rad-hard-gan"
+  },
+  {
+    "name": "Elke Schmidt Fotografie",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3475
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Emanuell Charis",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Emrich Gesundheitspraxis",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Emrich Gesundheitspraxis",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Erich von Werner Verlag",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2887
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Exclusive Networks Switzerland AG & Controlware",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Exclusive Networks Switzerland AG & Controlware",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Faktor J",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Faktor J",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "feinquartiert",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "feinquartiert",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Fensterputzer Berlin | Fensterreiniger",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1805
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Ferdinand Eisele",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ferdinand Eisele",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Fidatio Immobilienverwaltung Theo Auhagen",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Fidatio Immobilienverwaltung Theo Auhagen",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Fifan",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Fifan",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Filterfotograf",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Filterfotograf",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Firma",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1878
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Firma IT-KS OG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Firma IT-KS OG",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Firma MEWATU",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2271,
+      2495
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Florschütz Consulting",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Florschuetz Consulting",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://florschuetz-consulting.de/"
+  },
+  {
+    "name": "Förderverein Musentempel e.V",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Förderverein Musentempel e.V",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Fortinet & Capgemini",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Fortinet & Capgemini",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Founder Journey – Startup- und Existenzgründungsberatung Holger Hagenlocher",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Founder Journey – Startup- und Existenzgründungsberatung Holger Hagenlocher",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Frag einen Immobilienverwalter",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Frag einen Immobilienverwalter",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Frag einen WEG-Verwalter",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Frag einen WEG-Verwalter",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Fragold Connect",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3028,
+      3386
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Frank Heister",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2528,
+      2529,
+      2530,
+      2538
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "FRANKEMEDIA",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "FRANKEMEDIA",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Frankfurter Metallkasse",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      695
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "freiraum Akustik – freiraum Agentur",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "freiraum Akustik – freiraum Agentur",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Froidevaux",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      459
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Fuchs Media Solutions, Inh. Manuel Fuchs",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Fuchs Media Solutions, Inh. Manuel Fuchs",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Future Force",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Future Force",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Gainorex",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Gainorex",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Galerie Bilder Fuchs",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      129
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Genesys – die kreativen Köpfe",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Genesys – die kreativen Köpfe",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Gerd Müller",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      929
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Ginter Schiering Rechtsanwälte Partnerschaft mbB",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ginter Schiering Rechtsanwälte Partnerschaft mbB",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "glanznagel",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      733
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Gläser Entertainment",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      316
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Globus Schlüsseldienst Nürnberg",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3563
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "GOLD Verlag – Scherer GmbH & Co. KG",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      69
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "gutachter-restnutzungsdauer.de",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      930
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "H24",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "H24",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "HAIC – HUMANAI CONTACT UNIPESSOAL LDA",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "HAIC – HUMANAI CONTACT UNIPESSOAL LDA",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "HAMBURGER ANZEIGER",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      317
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Harald Beintze",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      461
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Hausbootkauf.de",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3548
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Hausratgenie",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3284
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Haussmann Strategic Advisory",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Haussmann Strategic Advisory",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "HBT-Training",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1608
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Headlight Communications",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Headlight Communications",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Heilpraktiker Harald Erb",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3672
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Helvetia Glow",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1748
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Hempel Businessacting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Hempel Businessacting",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Holger Hagenlocher – Berater, Coach und Dozent",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Holger Hagenlocher – Berater, Coach und Dozent",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Honiq",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Honiq",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Hoofdmann-Consulting – Die Auftriebsberatung",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Hoofdmann-Consulting – Die Auftriebsberatung",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Hotel Ads",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Hotel Ads",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Hotel Green Ocean Zanzibar",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1652
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Hub Consulting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Hub Consulting",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Huggiberries / Trusty & Trady",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1594
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Husar Online",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Husar Online",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Hydrofast / VICKY",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Hydrofast",
+    "articles": 2,
+    "excludedPublicationIds": [
+      1797
+    ],
+    "officialUrl": "https://hydrofast.com/de"
+  },
+  {
+    "name": "HYPOFACT",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "HYPOFACT",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "ID-TECH",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      735
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "IFABET",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      642
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "iG casino.de",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Ihr-Makler24 Immobilienbüro",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ihr-Makler24 Immobilienbüro",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Immobilienmakler Dipl.-Ing.(FH) Christian Reinhart",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Immobilienmakler Dipl.-Ing.(FH) Christian Reinhart",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "ImmoSenio",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "ImmoSenio",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Impuls HRK",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Impuls HRK",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "IncredibleXvision",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "IncredibleXvision",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Ines Rauscher – Expertin für Human Quality Capital und Leadership im KI-Zeitalter",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ines Rauscher – Expertin für Human Quality Capital und Leadership im KI-Zeitalter",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Ines Richter Life Design- & Breath Coach",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3389
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "INFO-MARKT",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "INFO-MARKT",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Infor Logo",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Infor",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.infor.com/de-de/solutions/erp"
+  },
+  {
+    "name": "IngenioBusiness Strategy Consultants",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "IngenioBusiness Strategy Consultants",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Innen Meister",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3409
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Innovation Circle Managementgesellschaft mbH",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Innovation Circle Managementgesellschaft mbH",
+    "articles": 7,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Intel Deutschland GmbH und Lenovo Deutschland",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Intel Deutschland GmbH und Lenovo Deutschland",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Isar Digital Ventures",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Isar Digital Ventures",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "ITA Transworld Reisen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3626
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Jakob Krout",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2769
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Jane Uhlig Medienbüro für Lifestyle-Berichterstattung",
+    "articles": 1,
+    "excludedPublicationIds": [
+      95,
+      96,
+      148,
+      176,
+      599,
+      902,
+      1112,
+      1383,
+      1427,
+      1509,
+      1690,
+      1792,
+      1793,
+      2246,
+      2247,
+      2706,
+      2923,
+      3056,
+      3057
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Jetzt herunterladen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2846
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "JETZT-PR.de",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "JETZT-PR.de",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "JIMMY",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "JIMMY",
+    "articles": 1,
+    "excludedPublicationIds": [
+      600,
+      1655,
+      2039
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "JKT-Trading",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "JKT-Trading",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Joschi Haunsperger",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Joschi Haunsperger",
+    "articles": 5,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Julian Weber",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2878,
+      2964
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "KaiserCommunication",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KaiserCommunication",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Kanzlei Consilium",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3757
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Karlsruher Immobilienverwaltung Javier Florez",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Karlsruher Immobilienverwaltung Javier Florez",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "karrieremag",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "karrieremag",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Kathrin Schoeßler",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      956
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "KD",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KD",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Keynote Speaker & Coach",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Keynote Speaker & Coach",
+    "articles": 10,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "KFK KONRAD®",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KFK KONRAD®",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Kiara Heirman",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Kiara Heirman",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Kilian Kropiunik Enterprise LLC",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2707,
+      2945,
+      2965,
+      2986,
+      3183,
+      3201
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "KINGNETZ CYBERSECURITY Andrea Semm",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "KINGNETZ CYBERSECURITY | Andrea Semm",
+    "articles": 5,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://kingnetz-cybersecurity.eu/"
+  },
+  {
+    "name": "KinoGrid Switzerland",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KinoGrid Switzerland",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "KKM Media",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KKM Media",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "KLARO Fensterputzer",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KLARO Fensterputzer",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Klettergötz Baumpflege",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3202
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Klinke Immobilien",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Klinke Immobilien",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Köln Arcaden",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2640
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "KoM AGENTUR",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "KoM AGENTUR",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Korthauer",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Korthauer",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "KrautTrotter Safaris",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2452
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Kreative Gesellschaft e.V",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Kreative Gesellschaft e.V",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "KrempelWeg Entrümpelung",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2579,
+      2708
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Krinner & Partner",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Krinner & Partner",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Kugler Marketing Consulting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Kugler Marketing Consulting",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Kunstverein EULENGASSE e.V",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3368
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Langguth",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Langguth",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Larsen Hechler",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Larsen Hechler",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Launch-PR",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Launch-PR",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Lea Simone Bogner Coaching",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Lea Simone Bogner Coaching",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Lee Kum Kee c/o Industrie-Contact",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Lee Kum Kee",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://de.lkk.com/produkte"
+  },
+  {
+    "name": "Lehmann Hotel und Gaststätten Holding",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1967,
+      2479
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Lernleicht Online",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Lernleicht Online",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "LEVEL21 Strategie und Entwicklung",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      439
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "LHG Luxus Haus und Garten®",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2660
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "li2pps UG (haftungsbeschränkt)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "li2pps UG (haftungsbeschränkt)",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Lian Original",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3526
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Lifestyle Monitors",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Lifestyle Monitors",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Lingidoo.de – Beglaubigte Übersetzungen",
+    "status": "individuell_profiliert",
+    "canonical": "Lingidoo.de – Beglaubigte Übersetzungen",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.lingidoo.de/fachuebersetzung/"
+  },
+  {
+    "name": "Loadum",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Loadum",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Localism",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      288
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Logo Abnormal AI",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Abnormal AI",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://abnormal.ai/de/platform/ai-cloud-security"
+  },
+  {
+    "name": "LöKa Verkehrsabsicherungs",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "LöKa Verkehrsabsicherungs",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Louis Beermann",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Louis Beermann",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Luftleine",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      255,
+      1071
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "luxussachen.kaufen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      100
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "M.I.L.K. Agentur für moderne Kommunikation",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "M.I.L.K. Agentur für moderne Kommunikation",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MAGNOLIA SERVICE eG",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2502
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Maike Petersen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      904
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Management Publishing – Verlag für Management-Themen",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Management Publishing – Verlag für Management-Themen",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Markus Dörr Training",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Markus Dörr Training",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MAROKKO ZEITUNG",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3673
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Martina Gruhn PR",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Martina Gruhn PR",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MasterPlanning Woerner System",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MasterPlanning Woerner System",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Matthias Seba",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Matthias Seba",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MAYER Dienstleistung & Gebäudemanagement",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MAYER Dienstleistung & Gebäudemanagement",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MB-Service Hamburg",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MB-Service Hamburg",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "mb. pr & comms",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "mb. pr & comms",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MC Media",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MC Media",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Medekon Krankenfahrten",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2823
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Megos",
+    "status": "individuell_profiliert",
+    "canonical": "Megos",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.megos.ch/wertschriftenbuchhaltung"
+  },
+  {
+    "name": "Meier Trophy",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Meier Trophy",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Mein SEO München",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Mein SEO München",
+    "articles": 6,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Menschen Emotionen Erlebnisse Eventmanagement",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Menschen Emotionen Erlebnisse Eventmanagement",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Merritt Dawsley",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Merritt Dawsley",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Metallkasse Verwaltungs",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Metallkasse Verwaltungs",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MEWATU, Inhaber M. Eberts",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2210
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Millennium Trading",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Millennium Trading",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Mirko Kühner",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      905
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "MKW Medien Kommunikation Werbung",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MKW Medien Kommunikation Werbung",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Mobil 1",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Mobil 1",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MongoDB Logo",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "MongoDB",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.mongodb.com/"
+  },
+  {
+    "name": "MORGANA CASTLE",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MORGANA CASTLE",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Motorsportclub Erftal e.V",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      150
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "MQ result consulting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MQ result consulting",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MrDISC c/o Digistor Deutschland",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2650
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "MS WEBDESIGN",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MS WEBDESIGN",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MVPTreff",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "MVPTreff",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "myhome (Davis Consulting)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "myhome (Davis Consulting)",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "MyWage",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3412
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Nabab",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      766
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "NappConsult",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      980
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "NARRUX Systems FZE",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      256
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Netapresse",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      291,
+      603,
+      1868,
+      2709,
+      3302
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "NEUE ZÜRCHER NACHRICHTEN",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1835
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "NEUES WIENER TAGBLATT",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1674
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Neuron FlexCo",
+    "status": "individuell_profiliert",
+    "canonical": "Neuron FlexCo",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.neuron-automation.eu/de"
+  },
+  {
+    "name": "neusite",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "neusite",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Neutrino® Energy Group",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3162,
+      3358,
+      3460
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Neuwerk Frankfurt",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Neuwerk Frankfurt",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "NEW MEDIA DESIGN",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "NEW MEDIA DESIGN",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "NextBiz",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "NextBiz",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "NextMedia360",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "NextMedia360",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "NorthC Press Desk",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "NorthC",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.northcdatacenters.com/en/northc-datacenters/geneva/"
+  },
+  {
+    "name": "Novaro",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Novaro",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "nurb44",
+    "status": "individuell_profiliert",
+    "canonical": "nurb44",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://nurb44.com/"
+  },
+  {
+    "name": "OGAE Germany",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "OGAE Germany",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Oil & Gas Journal",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Oil & Gas Journal",
+    "articles": 0,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Oil & Gas Journal/Siemens Industry Software",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Siemens",
+    "articles": 19,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.siemens.com/en-us/company/about/businesses/digital-industries/"
+  },
+  {
+    "name": "Oil & Gas Journal/TimescaleDB",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Tiger Data",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.tigerdata.com/timescaledb"
+  },
+  {
+    "name": "ojoo",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "ojoo",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "OLIG",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3606
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Online-Türschilder.com",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3252
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Osric Langevin",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2482
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Österreichische Literaturgesellschaft",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3550
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "PaK Pflegedienst am Klinikum",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1518
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Paretofit",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2734,
+      3137
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "PaySol GmbH & Co. KG",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3073
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "PERSONAL CONSULTING",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      134,
+      1661,
+      3463
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Personal Training & Medical Performance",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3842
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "pg.ventures",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      907
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Pixelrein GmbH & Co. KG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Pixelrein GmbH & Co. KG",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "PlatzFrei Entrümpelung",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "PlatzFrei Entrümpelung",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "PlatzMacher",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "PlatzMacher",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Polymundo",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Polymundo",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "PR Profis",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "PR Profis",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "PR von Harsdorf",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "PR von Harsdorf",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "PRaiSense / JETZT [PR] – Media & News Specialists",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "PRaiSense / JETZT [PR] – Media & News Specialists",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Pressebüro Dr. Willmann",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      964,
+      1393,
+      3340
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Psychotherapeut Dipl. Päd. Bernd Thell",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3187
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "PV Solarreinigung",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "PV Solarreinigung",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Rainers Bavarian Feinkost & Mehr",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2735
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Rakos Group",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Rakos Group",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Rankingmax UG (haftungsbeschränkt)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Rankingmax UG (haftungsbeschränkt)",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "RAS CONSULTING LLC",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "RAS CONSULTING LLC",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "raumAKUSTIKS",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "raumAKUSTIKS",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "RÄUMBLITZ",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      608
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Räumung Direkt",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2149
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Red Rose Import Export und Handels",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Red Rose Import Export und Handels",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Redaktionsbüro Hagenlocher",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Redaktionsbüro Hagenlocher",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Reef Guardian e.V",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1972
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Regenreich KG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Regenreich KG",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Releaf DE",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3359
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Renna Taxi Tübingen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      104,
+      2094,
+      3488
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Retzer Industry Eitorf GmbH & Co. KG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Retzer Industry Eitorf GmbH & Co. KG",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "RHEIN Fensterputzer",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "RHEIN Fensterputzer",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "RK Insight",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1271
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "RNB-KINK",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3394
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Robin Hartmann Media",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      909
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Rocken",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Rocken",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Ronny Kazyska",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ronny Kazyska",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Röth & de Ginder Immobilien",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Röth & de Ginder Immobilien",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Rothkopf & Huberty Werbeagentur",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Rothkopf & Huberty Werbeagentur",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Ruiz Büroreinigung Hamburg",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ruiz Büroreinigung Hamburg",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Rümpelhelden Entrümpelungen",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Rümpelhelden Entrümpelungen",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Rüttermann Consulting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Rüttermann Consulting",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "RWB Consulting UG (haftungsbeschränkt)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "RWB Consulting UG (haftungsbeschränkt)",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "RWU",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "RWU",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Sabine Jöckel-Schwing",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1272
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Sachkunde-Akademie UG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Sachkunde-Akademie UG",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Safest",
+    "status": "individuell_profiliert",
+    "canonical": "Safest",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://safest.gmbh/ueber-uns"
+  },
+  {
+    "name": "San Francisco Frontiers",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1498
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Sanitätshaus-Online.Shop",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3303
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Sashimson",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Sashimson",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Schäfer Digital",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Schäfer Digital",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Schofer Properties LLC",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3676
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "SCHWAB Fensterputzer",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1730
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Schweizer Literaturgesellschaft",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      106
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "SCM Creative Management",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SCM Creative Management",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SEO Freelancer – Alex Kiritschenko",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SEO Freelancer – Alex Kiritschenko",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SEO Freundlich",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SEO Freundlich",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "services-sbc",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1456
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "SF Baupro AG – Baumanagement Luzern",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SF Baupro AG – Baumanagement Luzern",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Silicon Valley Europe",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Silicon Valley Europe",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Smart Landlord",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Smart Landlord",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SNOW Analytics",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2758
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Sodah Webdesign",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Sodah Webdesign",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SOLIT Management",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1637
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Sonneninsel Rügen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      121,
+      770
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Spec Media Greece",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3111
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Sprengel & Partner",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Sprengel & Partner",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SRC Unternehmensberatungs- & Verlagsgesellschaft mbH",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SRC Unternehmensberatungs- & Verlagsgesellschaft mbH",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "StaBe",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "StaBe",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Stadtrat",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3189
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Stark Transporte und Umzüge",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2522
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "starkundauthentisch",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "starkundauthentisch",
+    "articles": 6,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Stefan Klink AI Consulting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Stefan Klink AI Consulting",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Stefanie J. Camin",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      9
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Stockanalyzer",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3638
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Strandhotel Zingst",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3156
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Stressfrei Entrümpelungen & Umzüge",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      849
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Studio Reges Auge e.K",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Studio Reges Auge e.K",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SUMO Repair",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2013
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "supatats UG (haftungsbeschränkt)",
+    "status": "individuell_profiliert",
+    "canonical": "supatats UG (haftungsbeschränkt)",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://tatme.com/de/about"
+  },
+  {
+    "name": "Suppes",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2411
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "SwiPay",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SwiPay",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "SYNER.CON/APRO.CON",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "SYNER.CON/APRO.CON",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Syntharis Group FZCO",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Syntharis Group FZCO",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Systeme Digital",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      823
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Taiwan Flagship showcase",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3819
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Tech2com",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Tech2com",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Teile Deine Botschaft",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Teile Deine Botschaft",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Teilungserklärungen Gerd Hirning",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      945
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "TENAXIS GmbH & Co. KG",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "TENAXIS GmbH & Co. KG",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "THE BALANCE RehabClinic",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1257,
+      2276
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Thomas Engels",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Thomas Engels",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Tierheim Tierfutter",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3703
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Tobias Müller, Einzelunternehmen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2193
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Tobias Oberloher",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Tobias Oberloher",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "track by track",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "track by track",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "TransGate",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "TransGate",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Trendos c/o Industrie-Contact",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Trendos",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://trendos.com/about-us"
+  },
+  {
+    "name": "Trooper.AI c/o Media Trooper",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Trooper.AI – Ein Produkt von: Media Trooper",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.trooper.ai/de/imprint"
+  },
+  {
+    "name": "Tsunga",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1167
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Turicum Marketing",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Turicum Marketing",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "TV Link",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "TV Link",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "twenty4U",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      915
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "UAB Lerochemas",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "UAB Lerochemas",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "uCAR Trading",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2647
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Ude FolierungsKonzepte",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ude FolierungsKonzepte",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "UG VERTRIEB",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "UG VERTRIEB",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Ulrich H. Knobel",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Ulrich H. Knobel",
+    "articles": 5,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Umzugsexperten Hamburg",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3306
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Unternehmen der Comarch-Gruppe",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Comarch",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.comarch.com/"
+  },
+  {
+    "name": "Vella Group",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      774,
+      803
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Veranstaltungsbüro Wagner",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Veranstaltungsbüro Wagner",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Verband für Messie-Syndrom Betroffene Österreich",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1168
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Verein Elbwald retten",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Verein Elbwald retten",
+    "articles": 7,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Verkehrspädagogische Praxis Achim Dupke",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      334
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Versipedia",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Versipedia",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "VerteilerWerk",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "VerteilerWerk",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Villa Schmidt",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Villa Schmidt",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Vintage Guitar World",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1501
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Virginia Tourism Coporation",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1756,
+      3537
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "VITAMIC Europa SL",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3207
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Vogt Connect & Invest",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Vogt Connect & Invest",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Wagener & Wagener",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Wagener & Wagener",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Walter Consulting",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Walter Consulting",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Washington, DC",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3556
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Wastewater Digest",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Wastewater Digest",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Wastewater Digest / ABB",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "ABB",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://new.abb.com/"
+  },
+  {
+    "name": "Wastewater Digest Krohne",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "KROHNE",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.krohne.com/en-de/products/level-measurement/level-transmitters/radar-fmcw-level-transmitters"
+  },
+  {
+    "name": "Wastewater Digest/ABB",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "ABB",
+    "articles": 3,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://new.abb.com/"
+  },
+  {
+    "name": "Water Technology / Cytiva",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Cytiva",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.cytivalifesciences.com/"
+  },
+  {
+    "name": "Water Technology/Cytiva",
+    "status": "normalisiert_oder_zusammengefuehrt",
+    "canonical": "Cytiva",
+    "articles": 2,
+    "excludedPublicationIds": [],
+    "officialUrl": "https://www.cytivalifesciences.com/"
+  },
+  {
+    "name": "wefindtalents",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "wefindtalents",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Weiss Consulting & Marketing",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Weiss Consulting & Marketing",
+    "articles": 4,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Welt-Bestattung",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1783,
+      2097
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "WerkStadt Team",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "WerkStadt Team",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Wildtrolls Ltd & Co. KG",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1258
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "WiSo-Führungskräfte-Akademie (WFA)",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "WiSo-Führungskräfte-Akademie (WFA)",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Wohlfühlpflege",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      1818,
+      2762
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Wohnmobil-Ankauf",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3666
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Yayworks GbR",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Yayworks GbR",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "yes or no Media",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "yes or no Media",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  },
+  {
+    "name": "Zahnarzt in Pasing",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      2807
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Zahnärzte Neustadt Passage",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      3193
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Zu prüfen",
+    "status": "entfernt",
+    "canonical": null,
+    "articles": 0,
+    "excludedPublicationIds": [
+      108,
+      245,
+      260,
+      390,
+      471,
+      919,
+      969,
+      1094,
+      1123,
+      1373,
+      1435,
+      1483,
+      1523,
+      1688,
+      1779,
+      1841,
+      1859,
+      2098,
+      2099,
+      2114,
+      2194,
+      2460,
+      3145,
+      3146,
+      3515,
+      3576,
+      3650
+    ],
+    "officialUrl": null
+  },
+  {
+    "name": "Zulassungsautomat",
+    "status": "weitere_primaerquellen_pruefen",
+    "canonical": "Zulassungsautomat",
+    "articles": 1,
+    "excludedPublicationIds": [],
+    "officialUrl": null
+  }
+]

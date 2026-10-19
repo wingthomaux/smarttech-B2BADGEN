@@ -1,0 +1,1440 @@
+{
+  "Flender": {
+    "officialUrl": "https://www.flender.com/en",
+    "officialLabel": {
+      "de": "Flender: Antriebstechnik",
+      "en": "Flender: drive technology"
+    },
+    "metaDescription": {
+      "de": "Flender: Industriegetriebe, Kupplungen, Winergy-Windkraftantriebe und digitale Getriebeüberwachung.",
+      "en": "Flender: industrial gear units, couplings, Winergy wind drives and digital gearbox monitoring."
+    },
+    "summary": {
+      "de": "Flender GmbH entwickelt mechanische Antriebstechnik für Industrieanlagen und Windenergie. Das Portfolio umfasst Industriegetriebe, verschiedene Kupplungsbauarten und Turbogetriebe; Winergy ergänzt Getriebe und Generatoren für Windkraftanlagen. FLENDER ONE verbindet die anwendungsspezifische Getriebeauslegung mit digitaler Konfiguration und integrierter AIQ-Core-Sensorik zur Zustandsüberwachung. Kupplungen übernehmen je nach Bauart unter anderem Ausgleich von Wellenversatz, Dämpfung, präzise Drehmomentübertragung oder Überlastschutz. Typische Einsatzfelder sind Fördertechnik, Mischer und Belüfter sowie anspruchsvolle industrielle Antriebsstränge. Für die Auswahl zählen Lastprofil, Drehmoment, Einbaulage, Schnittstellen und die Abstimmung zwischen Motor, Getriebe und Arbeitsmaschine. Die verfügbare Sensorik und die konkrete Auswertung sind je Baureihe zu prüfen. Flender liefert Komponenten und antriebsbezogenes Know-how; die Gesamtintegration der Maschine und ihre Betriebsverantwortung müssen im jeweiligen Projekt geklärt werden.",
+      "en": "Flender GmbH develops mechanical drive technology for industrial plants and wind power. Its portfolio includes industrial gear units, different coupling designs and turbo gear units; Winergy adds gearboxes and generators for wind turbines. FLENDER ONE combines application-specific gearbox engineering with digital configuration and integrated AIQ Core sensors for condition monitoring. Depending on their design, couplings compensate shaft misalignment, damp vibrations, transmit torque precisely or provide overload protection. Typical applications include conveyors, mixers, aerators and demanding industrial drive trains. Selection depends on load profiles, torque, mounting position, interfaces and coordination between the motor, gearbox and driven machine. Available sensors and the actual analysis functions require assessment for each product series. Flender supplies components and drive-related expertise; integration into the complete machine and operating responsibility must be agreed for the individual project."
+    },
+    "focus": {
+      "de": [
+        "Industriegetriebe und FLENDER ONE",
+        "Elastische und hoch elastische Kupplungen",
+        "Drehstarre und spielfreie Kupplungen",
+        "Hydrodynamische und Sicherheitskupplungen",
+        "Turbo- und Bahnantriebe",
+        "Winergy-Getriebe und Generatoren",
+        "AIQ-Core-Sensorik und Zustandsüberwachung"
+      ],
+      "en": [
+        "Industrial gear units and FLENDER ONE",
+        "Flexible and highly flexible couplings",
+        "Torsionally rigid and backlash-free couplings",
+        "Hydrodynamic and safety couplings",
+        "Turbo gear units and railway drives",
+        "Winergy gearboxes and generators",
+        "AIQ Core sensors and condition monitoring"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Maschinenbau und Antriebsauslegung",
+        "Anlagenengineering und Konstruktion",
+        "Instandhaltung und Reliability Engineering",
+        "Windparkbetrieb und Turbinenentwicklung",
+        "Technischer Einkauf und Ersatzteilmanagement"
+      ],
+      "en": [
+        "Mechanical engineering and drive design",
+        "Plant engineering and machine design",
+        "Maintenance and reliability engineering",
+        "Wind farm operation and turbine development",
+        "Technical procurement and spare-parts management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.flender.com/en/company/about-flender",
+        "label": {
+          "de": "Unternehmen und Antriebskompetenz",
+          "en": "Company and drive expertise"
+        }
+      },
+      {
+        "url": "https://www.flender.com/en/one",
+        "label": {
+          "de": "FLENDER ONE und AIQ-Core-Sensorik",
+          "en": "FLENDER ONE and AIQ Core sensors"
+        }
+      },
+      {
+        "url": "https://www.flender.com/en/products/couplings",
+        "label": {
+          "de": "Kupplungsbauarten und Einsatzfelder",
+          "en": "Coupling designs and applications"
+        }
+      }
+    ]
+  },
+  "Flowserve": {
+    "officialUrl": "https://www.flowserve.com/",
+    "officialLabel": {
+      "de": "Flowserve: industrielle Fluidtechnik",
+      "en": "Flowserve: industrial flow control"
+    },
+    "metaDescription": {
+      "de": "Flowserve: Pumpen, Ventile, Dichtungen, RedRaven-Zustandsüberwachung und Lifecycle-Services für Prozessanlagen.",
+      "en": "Flowserve: pumps, valves, seals, RedRaven condition monitoring and lifecycle services for process plants."
+    },
+    "summary": {
+      "de": "Flowserve Corporation bietet Komponenten, Systeme und Dienstleistungen für industrielle Fluidtechnik. Pumpen, Ventile, Dichtungen, Antriebe und Instrumentierung steuern und sichern den Transport von Flüssigkeiten und anderen Prozessmedien. Das Portfolio adressiert unter anderem Energieerzeugung, Chemie, Bergbau und Wasserwirtschaft. RedRaven ergänzt die mechanische Ausrüstung durch Sensoren, Cloud-Architektur, Zustandsüberwachung und vorausschauende Analysen; ein Monitoring-Center unterstützt mit Hinweisen und Handlungsempfehlungen. Lifecycle-Services reichen von Inbetriebnahme und Ersatzteilen bis Reparatur, Retrofit und Leistungsoptimierung und können auch Fremdfabrikate umfassen. Für die Auswahl sind Medium, Druck, Temperatur, Werkstoffe, Energiebedarf und Anlagenverfügbarkeit ebenso relevant wie die Betreuung vorhandener Aggregate. Bei digitalen Erweiterungen sollten Sensorabdeckung, Datenübertragung und die Zuständigkeit für Wartungsentscheidungen festgelegt werden. Flowserve liefert Ausrüstung und vereinbarte Services; der Umfang der gesamten Anlagenintegration ist projektbezogen abzugrenzen.",
+      "en": "Flowserve Corporation supplies components, systems and services for industrial fluid handling. Pumps, valves, seals, actuators and instrumentation control and secure the movement of liquids and other process media. The portfolio serves power generation, chemicals, mining and water applications, among others. RedRaven adds sensors, cloud architecture, condition monitoring and predictive analytics to mechanical equipment; a monitoring centre supports customers with alerts and recommendations. Lifecycle services extend from commissioning and replacement parts to repairs, retrofits and performance optimisation, including support for other manufacturers’ equipment. Selection requires assessment of the medium, pressure, temperature, materials, energy consumption and plant availability, alongside support for existing equipment. Digital extensions also require defined sensor coverage, data transmission and responsibility for maintenance decisions. Flowserve supplies equipment and agreed services; the scope of integration into the complete plant must be defined for each project."
+    },
+    "focus": {
+      "de": [
+        "Industrielle Pumpen und Pumpsysteme",
+        "Ventile und Absperrtechnik",
+        "Mechanische Dichtungen und Dichtungssysteme",
+        "Aktuatoren und Instrumentierung",
+        "RedRaven-Zustandsüberwachung und Predictive Analytics",
+        "Inbetriebnahme, Reparatur und Retrofit",
+        "Energie- und Leistungsoptimierung"
+      ],
+      "en": [
+        "Industrial pumps and pumping systems",
+        "Valves and shut-off technology",
+        "Mechanical seals and sealing systems",
+        "Actuators and instrumentation",
+        "RedRaven condition monitoring and predictive analytics",
+        "Commissioning, repairs and retrofits",
+        "Energy and performance optimisation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Verfahrens- und Prozessengineering",
+        "Anlagenbetrieb und Produktionsleitung",
+        "Instandhaltung und Reliability Engineering",
+        "Pumpen- und Armaturenspezialisten",
+        "OT- und Zustandsüberwachungsteams",
+        "Technischer Einkauf"
+      ],
+      "en": [
+        "Process engineering",
+        "Plant operations and production management",
+        "Maintenance and reliability engineering",
+        "Pump and valve specialists",
+        "OT and condition monitoring teams",
+        "Technical procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.flowserve.com/",
+        "label": {
+          "de": "Produktportfolio und Industrien",
+          "en": "Products and industries"
+        }
+      },
+      {
+        "url": "https://www.flowserve.com/solutions/innovation/",
+        "label": {
+          "de": "RedRaven, Sensorik und Analyseservices",
+          "en": "RedRaven, sensors and analytics services"
+        }
+      },
+      {
+        "url": "https://www.flowserve.com/services/",
+        "label": {
+          "de": "Lifecycle-Services und Betriebsunterstützung",
+          "en": "Lifecycle services and operational support"
+        }
+      }
+    ]
+  },
+  "Tektronix": {
+    "officialUrl": "https://www.tek.com/en",
+    "officialLabel": {
+      "de": "Tektronix: Mess- und Prüftechnik",
+      "en": "Tektronix: test and measurement"
+    },
+    "metaDescription": {
+      "de": "Tektronix: Oszilloskope, Signalanalyse, elektrische Charakterisierung, Testautomatisierung und Kalibrierung.",
+      "en": "Tektronix: oscilloscopes, signal analysis, electrical characterisation, test automation and calibration."
+    },
+    "summary": {
+      "de": "Tektronix bietet elektronische Mess- und Prüftechnik für Entwicklung, Validierung und Produktion. Das Portfolio verbindet Oszilloskope und Tastköpfe mit Signalgeneratoren, Spektrumanalyse, Datenerfassung und Geräten zur elektrischen Charakterisierung; Keithley-Produkte und EA-Elektro-Automatik ergänzen insbesondere Source-Measure-Technik, Stromversorgung und elektronische Lasten. Die Software unterstützt Messdatenauswertung und automatisierte Tests, etwa mit KickStart, TekScope PC und SignalVu PC. Instrumente können in bestehende Entwicklungsumgebungen wie Python oder LabVIEW eingebunden werden. Einsatzfelder reichen von Halbleitern und schneller Datenkommunikation bis Leistungselektronik, Batterien und Antriebstechnik. Kalibrierung und Reparatur ergänzen den Gerätebetrieb. Für die Auswahl zählen Messbereich, Bandbreite, Signalzugang, Synchronisierung und Wiederholbarkeit sowie die Anbindung an vorhandene Prüfabläufe. Ein automatisierter Prüfstand verlangt zusätzlich eine abgestimmte Testmethodik und Integration; der Kauf eines Instruments ersetzt diese Engineering-Aufgabe nicht.",
+      "en": "Tektronix supplies electronic test and measurement equipment for development, validation and production. Its portfolio combines oscilloscopes and probes with signal generators, spectrum analysis, data acquisition and electrical characterisation equipment; Keithley products and EA Elektro-Automatik particularly extend source measurement, power supplies and electronic loads. Software supports measurement analysis and automated testing through tools including KickStart, TekScope PC and SignalVu PC. Instruments can integrate with existing development environments such as Python or LabVIEW. Applications range from semiconductors and high-speed communications to power electronics, batteries and motor drives. Calibration and repair services support instrument operation. Selection depends on measurement range, bandwidth, signal access, synchronisation and repeatability, alongside integration with existing test processes. An automated test bench additionally requires a coordinated test methodology and integration; purchasing an instrument does not replace that engineering task."
+    },
+    "focus": {
+      "de": [
+        "Oszilloskope und Messtastköpfe",
+        "Signal- und Funktionsgeneratoren",
+        "Spektrum- und Hochfrequenzanalyse",
+        "Datenerfassung und Source-Measure-Geräte",
+        "Leistungselektronik- und Batterietests",
+        "KickStart, TekScope und Testautomatisierung",
+        "Kalibrierung und Reparatur"
+      ],
+      "en": [
+        "Oscilloscopes and probes",
+        "Signal and function generators",
+        "Spectrum and RF analysis",
+        "Data acquisition and source measure instruments",
+        "Power electronics and battery testing",
+        "KickStart, TekScope and test automation",
+        "Calibration and repairs"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Elektronikentwicklung und Hardwaredesign",
+        "Testengineering und Produktvalidierung",
+        "Halbleiter- und Leistungselektronikteams",
+        "Prüflaborleitung und Qualitätssicherung",
+        "Produktionsprüfung und Automatisierung",
+        "Messmittelmanagement und technischer Einkauf"
+      ],
+      "en": [
+        "Electronics development and hardware design",
+        "Test engineering and product validation",
+        "Semiconductor and power electronics teams",
+        "Test laboratory management and quality assurance",
+        "Production testing and automation",
+        "Instrument management and technical procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.tek.com/en",
+        "label": {
+          "de": "Messgeräte, Anwendungen und Produktfamilien",
+          "en": "Measurement instruments, applications and product families"
+        }
+      },
+      {
+        "url": "https://www.tek.com/en/solutions/application/test-automation",
+        "label": {
+          "de": "Testautomatisierung und Softwareintegration",
+          "en": "Test automation and software integration"
+        }
+      },
+      {
+        "url": "https://www.tek.com/en/services",
+        "label": {
+          "de": "Kalibrierung, Reparatur und Services",
+          "en": "Calibration, repairs and services"
+        }
+      }
+    ]
+  },
+  "Hitachi Energy": {
+    "officialUrl": "https://www.hitachienergy.com/",
+    "officialLabel": {
+      "de": "Hitachi Energy: Energiesysteme und Netztechnik",
+      "en": "Hitachi Energy: energy systems and grid technology"
+    },
+    "metaDescription": {
+      "de": "Hitachi Energy: Transformatoren, HVDC, Netzautomatisierung und Software für Netzführung, Anlagen und Energieportfolios.",
+      "en": "Hitachi Energy: transformers, HVDC, grid automation and software for network control, assets and energy portfolios."
+    },
+    "summary": {
+      "de": "Hitachi Energy ist das auf Elektrifizierung und Energiesysteme ausgerichtete Unternehmen der Hitachi-Gruppe mit Sitz in der Schweiz. Das Portfolio verbindet Transformatoren, Hochspannungstechnik, HVDC, Umspannwerke und Netzautomatisierung mit Software für Netzführung, Anlagen- und Arbeitsmanagement sowie Energieportfolios. Damit adressiert es Versorger, Industrie, Verkehrsinfrastruktur und die Stromversorgung von Rechenzentren. Die Software unterstützt unter anderem Planung, Betrieb, Instandhaltung und kommerzielle Entscheidungen über den Lebenszyklus von Energieanlagen; physische Netztechnik und digitale Betriebsfunktionen werden je Projekt zusammengeführt. Auswahlfragen betreffen Spannungsebene, Netzstabilität, vorhandene Leittechnik, Datenqualität, Cybersicherheit und Wartungsverantwortung. Dienstleistungen begleiten Installation, Prüfung, Wartung und Modernisierung. Hitachi Energy wird als eigene Anbieteridentität geführt: Angebote von Hitachi Vantara werden nicht automatisch diesem Portfolio zugerechnet. Ob ein Projekt einzelne Komponenten, Software oder ein integriertes System umfasst, ist anhand des konkreten Lieferumfangs festzulegen.",
+      "en": "Hitachi Energy is the Hitachi Group business focused on electrification and energy systems, headquartered in Switzerland. Its portfolio combines transformers, high-voltage equipment, HVDC, substations and grid automation with software for network control, asset and work management, and energy portfolios. It serves utilities, industry, transport infrastructure and data-centre power supply. Software supports planning, operation, maintenance and commercial decisions throughout the lifecycle of energy assets; physical grid equipment and digital operating functions are combined according to project requirements. Selection involves voltage levels, grid stability, existing control systems, data quality, cybersecurity and maintenance responsibilities. Services accompany installation, assessment, maintenance and modernisation. Hitachi Energy is treated as a distinct provider: Hitachi Vantara offerings are not automatically attributed to this portfolio. Whether a project includes individual components, software or an integrated system must be determined from the specific delivery scope."
+    },
+    "focus": {
+      "de": [
+        "Transformatoren und Hochspannungstechnik",
+        "HVDC und Netzintegration",
+        "Umspannwerke und Elektrifizierung",
+        "Netzautomatisierung, Schutz und Steuerung",
+        "Netzführung, SCADA und Verteilnetzsoftware",
+        "Anlagen-, Arbeits- und Energieportfoliomanagement",
+        "Wartung, Modernisierung und Energieservices"
+      ],
+      "en": [
+        "Transformers and high-voltage equipment",
+        "HVDC and grid integration",
+        "Substations and electrification",
+        "Grid automation, protection and control",
+        "Network control, SCADA and distribution software",
+        "Asset, work and energy portfolio management",
+        "Maintenance, modernisation and energy services"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Netzplanung und Systemführung",
+        "Versorgerbetrieb und Anlagenmanagement",
+        "Schutz-, Leit- und Automatisierungstechnik",
+        "Energiehandel und Portfoliomanagement",
+        "OT-Sicherheit und IT-Integration",
+        "Rechenzentrums- und Industrieenergieplanung"
+      ],
+      "en": [
+        "Grid planning and system operation",
+        "Utility operations and asset management",
+        "Protection, control and automation engineering",
+        "Energy trading and portfolio management",
+        "OT security and IT integration",
+        "Data-centre and industrial power planning"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.hitachienergy.com/company/company-profile",
+        "label": {
+          "de": "Unternehmensidentität und Geschäftsbereiche",
+          "en": "Company identity and business units"
+        }
+      },
+      {
+        "url": "https://www.hitachienergy.com/",
+        "label": {
+          "de": "Netztechnik und Systemportfolio",
+          "en": "Grid technology and systems portfolio"
+        }
+      },
+      {
+        "url": "https://www.hitachienergy.com/products-and-solutions/energy-industry-software-solutions",
+        "label": {
+          "de": "Energie- und Netzsoftware",
+          "en": "Energy industry and grid software"
+        }
+      }
+    ]
+  },
+  "Oldcastle Infrastructure": {
+    "officialUrl": "https://oldcastleinfrastructure.com/",
+    "officialLabel": {
+      "de": "Oldcastle Infrastructure: Infrastruktur und Wassertechnik",
+      "en": "Oldcastle Infrastructure: infrastructure and water solutions"
+    },
+    "metaDescription": {
+      "de": "Oldcastle Infrastructure: nordamerikanische Infrastrukturprodukte, Wassertechnik und CivilSense-Netzüberwachung im CRH-Umfeld.",
+      "en": "Oldcastle Infrastructure: North American infrastructure products, water solutions and CivilSense network monitoring within CRH."
+    },
+    "summary": {
+      "de": "Oldcastle Infrastructure gehört zu CRH und bietet vor allem für Nordamerika Produkte und Dienstleistungen zum Bau und Schutz kritischer Infrastruktur. Das Portfolio umfasst Rohre und Fertigteile, Regenwasserbehandlung, Rückhaltung und Entwässerung sowie Schächte, Gehäuse und bauliche Komponenten für Kommunikations-, Energie- und Verkehrsanlagen. CivilSense ergänzt die Wasserinfrastruktur durch datenbasierte Zustands- und Risikobewertung: GIS-, Klima- und Netzdaten werden mit akustischer Sensorüberwachung kombiniert, um Leckagen und gefährdete Leitungsabschnitte für Wartungsentscheidungen zu priorisieren. Typische Kunden sind kommunale Versorger, Infrastrukturbetreiber und planende Ingenieurbüros. Für Projekte sind hydraulische Anforderungen, Einbaugeometrie, örtliche Standards, Logistik und der spätere Wartungszugang entscheidend. Digitale Überwachung benötigt geeignete Netzdaten und klare Verantwortlichkeiten zwischen Betreiber und Serviceanbieter. Die nordamerikanische Marktpräsenz ist belegt; Lieferfähigkeit und Zulassungen für konkrete europäische Projekte sind separat zu klären.",
+      "en": "Oldcastle Infrastructure is part of CRH and supplies products and services for building and protecting critical infrastructure, primarily in North America. Its portfolio includes pipes and precast components, stormwater treatment, storage and drainage, plus access structures, enclosures and civil components for communications, energy and transport assets. CivilSense adds data-driven condition and risk assessment for water infrastructure: GIS, climate and network data are combined with acoustic sensor monitoring to prioritise leaks and vulnerable pipelines for maintenance decisions. Typical customers include municipal utilities, infrastructure operators and consulting engineers. Project considerations include hydraulic requirements, installation geometry, local standards, logistics and subsequent maintenance access. Digital monitoring requires suitable network data and clear responsibilities between the operator and service provider. North American market presence is established; availability and approvals for specific European projects require separate assessment."
+    },
+    "focus": {
+      "de": [
+        "Rohre, Fertigteile und Zugangsbauwerke",
+        "Regenwasserbehandlung und Entwässerung",
+        "Rückhaltung, Speicherung und Versickerung",
+        "Kommunikations- und Energieinfrastruktur",
+        "Bauliche Komponenten für Verkehrs- und Rechenzentrumsprojekte",
+        "CivilSense-Leckage- und Risikobewertung",
+        "Infrastrukturwartung und technische Planungsressourcen"
+      ],
+      "en": [
+        "Pipes, precast components and access structures",
+        "Stormwater treatment and drainage",
+        "Detention, storage and infiltration",
+        "Communications and energy infrastructure",
+        "Civil components for transport and data-centre projects",
+        "CivilSense leak and risk assessment",
+        "Infrastructure maintenance and engineering resources"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Kommunale Wasser- und Abwasserbetriebe",
+        "Tiefbauplanung und beratende Ingenieurbüros",
+        "Infrastruktur- und Netzassetmanagement",
+        "Telekommunikations- und Energieprojektleitung",
+        "Bauunternehmen und technischer Einkauf",
+        "Öffentliche Bau- und Versorgungsverwaltung"
+      ],
+      "en": [
+        "Municipal water and wastewater utilities",
+        "Civil engineering and consulting engineers",
+        "Infrastructure and network asset management",
+        "Telecommunications and energy project management",
+        "Construction firms and technical procurement",
+        "Public works and utility administration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://oldcastleinfrastructure.com/about/",
+        "label": {
+          "de": "CRH-Zugehörigkeit und nordamerikanische Marktpräsenz",
+          "en": "CRH ownership and North American market presence"
+        }
+      },
+      {
+        "url": "https://oldcastleinfrastructure.com/water/",
+        "label": {
+          "de": "Wassertechnik und Infrastrukturprodukte",
+          "en": "Water solutions and infrastructure products"
+        }
+      },
+      {
+        "url": "https://oldcastleinfrastructure.com/solutions/non-revenue-water-leak-detection/",
+        "label": {
+          "de": "CivilSense: Sensorik und Risikobewertung",
+          "en": "CivilSense: sensors and risk assessment"
+        }
+      },
+      {
+        "url": "https://oldcastleinfrastructure.com/communications/",
+        "label": {
+          "de": "Kommunikationsinfrastruktur",
+          "en": "Communications infrastructure"
+        }
+      }
+    ]
+  },
+  "Rubrik": {
+    "officialUrl": "https://www.rubrik.com/products",
+    "officialLabel": {
+      "de": "Rubrik: offizielle Leistungsübersicht",
+      "en": "Rubrik: official portfolio"
+    },
+    "metaDescription": {
+      "de": "Rubrik: Backup, Cyber Recovery, Datensicherheit sowie Wiederherstellung von Active Directory, Entra ID und Okta.",
+      "en": "Rubrik: backup, cyber recovery, data security and recovery of Active Directory, Entra ID and Okta."
+    },
+    "summary": {
+      "de": "Rubrik entwickelt Software für Datensicherung, Cyber-Wiederherstellung und den Schutz von Identitätssystemen. Rubrik Security Cloud verbindet richtliniengesteuerte Backups für lokale, Cloud- und SaaS-Umgebungen mit Analysen sensibler Daten und kompromittierter Sicherungsstände. IT- und Sicherheitsteams können damit Wiederherstellungspunkte untersuchen, betroffene Daten isolieren und Recovery-Abläufe koordinieren. Identity Resilience ergänzt den Schutz und die Wiederherstellung von Active Directory, Microsoft Entra ID und Okta. Die Einsatzfelder reichen von klassischem Backup bis zur Vorbereitung auf Ransomware und dem Wiederanlauf geschäftskritischer Anwendungen. Bei der Auswahl zählen unterstützte Workloads, Aufbewahrung, gewünschte Wiederherstellungszeiten und die Integration mit vorhandenen Sicherheitswerkzeugen. Zuständigkeiten für Backup, Identität und Incident Response sollten gemeinsam festgelegt werden. Partnerintegrationen erweitern das Einsatzumfeld; daraus folgt keine automatische Übernahme sämtlicher Partnerleistungen.",
+      "en": "Rubrik develops software for data protection, cyber recovery and identity-system resilience. Rubrik Security Cloud combines policy-driven backups for on-premises, cloud and SaaS environments with analysis of sensitive data and compromised backup snapshots. IT and security teams can investigate recovery points, isolate affected data and coordinate recovery workflows. Identity Resilience adds protection and recovery for Active Directory, Microsoft Entra ID and Okta. Use cases range from conventional backup to ransomware preparedness and restarting business-critical applications. Selection depends on supported workloads, retention requirements, recovery objectives and integration with existing security tools. Responsibility for backup, identity and incident response should be defined jointly. Partner integrations expand the deployment context without implying that Rubrik delivers every service offered by those partners."
+    },
+    "focus": {
+      "de": [
+        "Richtliniengesteuerte Backup- und Recovery-Automatisierung",
+        "Unveränderliche Datensicherungen",
+        "Ransomware- und Cyber-Wiederherstellung",
+        "Schutz von Cloud- und SaaS-Daten",
+        "Analyse sensibler Daten und Angriffsfolgen",
+        "Identity Resilience für AD, Entra ID und Okta",
+        "Integration mit Sicherheits- und Cloud-Plattformen"
+      ],
+      "en": [
+        "Policy-driven backup and recovery automation",
+        "Immutable backups",
+        "Ransomware and cyber recovery",
+        "Cloud and SaaS data protection",
+        "Sensitive-data and attack-impact analysis",
+        "Identity Resilience for AD, Entra ID and Okta",
+        "Security and cloud platform integrations"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und Infrastrukturleitung",
+        "Backup- und Storage-Teams",
+        "CISO und Security Operations",
+        "Identity- und Microsoft-Plattformteams",
+        "Cloud-Architektur und SaaS-Betrieb",
+        "Business Continuity und Incident Response"
+      ],
+      "en": [
+        "CIO and infrastructure leadership",
+        "Backup and storage teams",
+        "CISO and security operations",
+        "Identity and Microsoft platform teams",
+        "Cloud architecture and SaaS operations",
+        "Business continuity and incident response"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.rubrik.com/products",
+        "label": {
+          "de": "Rubrik Security Cloud und Produktbereiche",
+          "en": "Rubrik Security Cloud and product areas"
+        }
+      },
+      {
+        "url": "https://www.rubrik.com/de/products/identity-resilience",
+        "label": {
+          "de": "Identity Resilience für AD, Entra ID und Okta",
+          "en": "Identity Resilience for AD, Entra ID and Okta"
+        }
+      },
+      {
+        "url": "https://www.rubrik.com/solutions",
+        "label": {
+          "de": "Lösungen für Datensicherheit und Wiederherstellung",
+          "en": "Data security and recovery solutions"
+        }
+      }
+    ]
+  },
+  "A-LIGN": {
+    "officialUrl": "https://www.a-lign.com/services",
+    "officialLabel": {
+      "de": "A-LIGN: offizielle Leistungsübersicht",
+      "en": "A-LIGN: official portfolio"
+    },
+    "metaDescription": {
+      "de": "A-LIGN: SOC-Prüfungen, ISO-Zertifizierungen, FedRAMP, CMMC, HITRUST, PCI und technische Sicherheitsprüfungen.",
+      "en": "A-LIGN: SOC assessments, ISO certifications, FedRAMP, CMMC, HITRUST, PCI and technical security assessments."
+    },
+    "summary": {
+      "de": "A-LIGN ist ein Anbieter von Prüfungs-, Zertifizierungs- und Cybersecurity-Dienstleistungen. Das Portfolio umfasst SOC-1- und SOC-2-Prüfungen, ISO-Zertifizierungen sowie Assessments für FedRAMP, CMMC, HITRUST und PCI. Penetrationstests, Red-Team-Leistungen und weitere technische Sicherheitsprüfungen ergänzen die Compliance-Programme. Unternehmen können mehrere Rahmenwerke in einem koordinierten Prüfprogramm bearbeiten und Nachweise über die Audit-Management-Plattform A-SCEND organisieren. Der Kaufkontext hängt von Kundenanforderungen, Zielmärkten, Datenarten und dem konkreten Prüfungsumfang ab. Besonders wichtig sind die Abgrenzung zwischen Vorbereitung und unabhängiger Prüfung sowie die jeweilige Akkreditierung und Verantwortlichkeit. A-LIGN arbeitet unter anderem mit Drata zusammen: Drata liefert Software zur Kontrollüberwachung und Nachweissammlung, A-LIGN die vereinbarten Audit-Leistungen. Es handelt sich um getrennte Anbieter mit ergänzenden Aufgaben; eine gemeinsame Ressource ist kein gemeinsames Unternehmen.",
+      "en": "A-LIGN provides assessment, certification and cybersecurity services. Its portfolio includes SOC 1 and SOC 2 examinations, ISO certifications and assessments for FedRAMP, CMMC, HITRUST and PCI. Penetration testing, red-team services and other technical security assessments complement its compliance programs. Organisations can address several frameworks through a coordinated assessment program and organise evidence using the A-SCEND audit-management platform. Purchasing decisions depend on customer requirements, target markets, data types and the specific assessment scope. The distinction between preparation and independent assessment, the applicable accreditation and responsibilities require particular attention. A-LIGN partners with Drata, which provides software for control monitoring and evidence collection, while A-LIGN performs agreed audit services. They are separate providers with complementary responsibilities; a jointly published resource does not constitute a joint company."
+    },
+    "focus": {
+      "de": [
+        "SOC 1 und SOC 2",
+        "ISO 27001 und Datenschutz-Zertifizierungen",
+        "ISO 42001 und KI-Governance",
+        "FedRAMP und CMMC",
+        "HITRUST und Healthcare-Assessments",
+        "PCI-Assessments",
+        "Penetrationstests und Red Team",
+        "Koordinierte Multi-Framework-Prüfprogramme"
+      ],
+      "en": [
+        "SOC 1 and SOC 2",
+        "ISO 27001 and privacy certifications",
+        "ISO 42001 and AI governance",
+        "FedRAMP and CMMC",
+        "HITRUST and healthcare assessments",
+        "PCI assessments",
+        "Penetration testing and red teaming",
+        "Coordinated multi-framework assessment programs"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CISO und Informationssicherheit",
+        "Compliance- und GRC-Verantwortliche",
+        "Interne Revision und Risikomanagement",
+        "SaaS- und Cloud-Anbieter",
+        "Healthcare-IT und Datenschutz",
+        "Government- und Defense-Zulieferer"
+      ],
+      "en": [
+        "CISO and information security",
+        "Compliance and GRC owners",
+        "Internal audit and risk management",
+        "SaaS and cloud providers",
+        "Healthcare IT and privacy",
+        "Government and defence suppliers"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.a-lign.com/services",
+        "label": {
+          "de": "Prüfungs- und Cybersecurity-Leistungen",
+          "en": "Assessment and cybersecurity services"
+        }
+      },
+      {
+        "url": "https://www.a-lign.com/resources/a-lign-announces-bold-new-vision-and-grc-partnerships",
+        "label": {
+          "de": "A-LIGN erklärt die Partnerschaft mit Drata",
+          "en": "A-LIGN explains its partnership with Drata"
+        }
+      },
+      {
+        "url": "https://drata.com/partners/audit-alliance/directory/a-lign",
+        "label": {
+          "de": "A-LIGN im Drata-Auditor-Verzeichnis",
+          "en": "A-LIGN in the Drata auditor directory"
+        }
+      },
+      {
+        "url": "https://www.a-lign.com/a-scend",
+        "label": {
+          "de": "A-SCEND: Audit-Management und Integrationsgrenzen",
+          "en": "A-SCEND: audit management and integration boundaries"
+        }
+      }
+    ]
+  },
+  "Drata": {
+    "officialUrl": "https://drata.com/products",
+    "officialLabel": {
+      "de": "Drata: offizielle Leistungsübersicht",
+      "en": "Drata: official portfolio"
+    },
+    "metaDescription": {
+      "de": "Drata: Compliance-Automatisierung, Kontrollüberwachung, GRC, Lieferantenrisiken, Audit Hub und Trust Center.",
+      "en": "Drata: compliance automation, control monitoring, GRC, vendor risk, Audit Hub and Trust Center."
+    },
+    "summary": {
+      "de": "Drata entwickelt eine Plattform für Governance, Risiko, Compliance und den Nachweis der eigenen Sicherheitsorganisation gegenüber Kunden. Compliance Automation sammelt Nachweise aus angebundenen IT-Werkzeugen, überwacht Kontrollen kontinuierlich und ordnet sie Rahmenwerken wie SOC 2, ISO 27001 oder HIPAA zu. Ergänzende Produktbereiche behandeln interne Risiken, Lieferantenrisiken, Sicherheitsfragebögen und Trust Center für den geregelten Austausch von Dokumenten. Audit Hub unterstützt die Zusammenarbeit mit externen Prüfern. Unternehmen können damit Nachweise und Verantwortlichkeiten über mehrere Teams und Prüfzyklen hinweg organisieren. Für die Auswahl zählen verfügbare Integrationen, tatsächlich automatisierbare Kontrollen, Rechte für Prüfer und die Freigabe sensibler Nachweise. Drata ersetzt keine unabhängige Zertifizierungsstelle. Die Zusammenarbeit mit A-LIGN verbindet Software und Audit-Leistungen, ohne die beiden Unternehmen oder deren Verantwortlichkeiten zusammenzuführen.",
+      "en": "Drata develops a platform for governance, risk, compliance and demonstrating an organisation’s security posture to customers. Compliance Automation collects evidence from connected IT tools, continuously monitors controls and maps them to frameworks such as SOC 2, ISO 27001 and HIPAA. Additional products address internal risk, vendor risk, security questionnaires and Trust Centers for controlled document sharing. Audit Hub supports collaboration with external auditors. Organisations can coordinate evidence and ownership across teams and assessment cycles. Selection depends on available integrations, which controls can actually be automated, auditor permissions and the release of sensitive evidence. Drata does not replace an independent certification body. Its partnership with A-LIGN connects software with audit services while maintaining separate companies and responsibilities."
+    },
+    "focus": {
+      "de": [
+        "Automatisierte Nachweissammlung",
+        "Kontinuierliche Kontrollüberwachung",
+        "Multi-Framework-Compliance",
+        "Enterprise GRC und interne Risiken",
+        "Third-Party Risk Management",
+        "Trust Center und Dokumentfreigaben",
+        "Audit Hub für Prüferzusammenarbeit",
+        "Unterstützung für Sicherheitsfragebögen"
+      ],
+      "en": [
+        "Automated evidence collection",
+        "Continuous control monitoring",
+        "Multi-framework compliance",
+        "Enterprise GRC and internal risk",
+        "Third-party risk management",
+        "Trust Center and document approvals",
+        "Audit Hub for auditor collaboration",
+        "Security questionnaire assistance"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Compliance- und GRC-Teams",
+        "CISO und Security Assurance",
+        "IT-Betrieb und Kontrollverantwortliche",
+        "Interne Revision und Audit-Koordination",
+        "Lieferantenrisiko und Einkauf",
+        "SaaS-Geschäftsführung und Enterprise Sales"
+      ],
+      "en": [
+        "Compliance and GRC teams",
+        "CISO and security assurance",
+        "IT operations and control owners",
+        "Internal audit and audit coordination",
+        "Vendor risk and procurement",
+        "SaaS executives and enterprise sales"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://drata.com/products",
+        "label": {
+          "de": "Plattform und Produktbereiche",
+          "en": "Platform and product areas"
+        }
+      },
+      {
+        "url": "https://drata.com/products/compliance-automation",
+        "label": {
+          "de": "Compliance Automation und Audit Hub",
+          "en": "Compliance Automation and Audit Hub"
+        }
+      },
+      {
+        "url": "https://drata.com/partners/audit-alliance/directory/a-lign",
+        "label": {
+          "de": "Getrennte Anbieterrolle: A-LIGN als Audit-Partner",
+          "en": "Separate provider role: A-LIGN as audit partner"
+        }
+      }
+    ]
+  },
+  "Solutions2Share": {
+    "officialUrl": "https://www.solutions2share.com/de/apps",
+    "officialLabel": {
+      "de": "Solutions2Share GmbH: offizielle Leistungsübersicht",
+      "en": "Solutions2Share GmbH: official portfolio"
+    },
+    "metaDescription": {
+      "de": "Solutions2Share: Teams Manager, External User Manager und Governance-Apps für Microsoft 365 und SharePoint.",
+      "en": "Solutions2Share: Teams Manager, External User Manager and governance apps for Microsoft 365 and SharePoint."
+    },
+    "summary": {
+      "de": "Solutions2Share GmbH entwickelt Governance- und Produktivitätssoftware für Microsoft 365, Teams und SharePoint. Teams Manager strukturiert die Bereitstellung und den Lebenszyklus von Teams mit Vorlagen, Richtlinien und Freigabeprozessen. External User Manager ergänzt die Einladung, Prüfung und Entfernung externer Benutzer. Weitere Anwendungen unterstützen SharePoint-Provisionierung, standardisierte Site-Vorlagen und die Organisation von Projekten in Teams. Die Anwendungen ergänzen die Microsoft-Plattform und adressieren deren Verwaltung; Microsoft 365 selbst wird dadurch nicht ersetzt. Typische Einsatzfelder sind dezentrale Zusammenarbeit, Projektarbeitsräume und ein kontrollierter Zugriff von Partnern oder Kunden. Bei der Auswahl zählen bestehende Tenant-Strukturen, Gastzugriffsregeln, Verantwortlichkeiten für Genehmigungen und das gewünschte Cloud- oder On-Premises-Modell der jeweiligen Anwendung. Workshops und kundenspezifische Entwicklung können die Einführung begleiten. Der konkrete Produktumfang und die erforderlichen Berechtigungen sind je Anwendung zu prüfen.",
+      "en": "Solutions2Share GmbH develops governance and productivity software for Microsoft 365, Teams and SharePoint. Teams Manager structures Teams provisioning and lifecycle management using templates, policies and approval workflows. External User Manager adds invitation, review and removal of external users. Other applications support SharePoint provisioning, standardised site templates and project organisation in Teams. These applications extend administration of the Microsoft platform rather than replacing Microsoft 365 itself. Typical use cases include decentralised collaboration, project workspaces and controlled access for partners or customers. Selection depends on existing tenant structures, guest-access policies, approval responsibilities and the cloud or on-premises model of the particular application. Workshops and custom development can support implementation. The specific product scope and required permissions need to be assessed for each application."
+    },
+    "focus": {
+      "de": [
+        "Teams-Bereitstellung mit Vorlagen",
+        "Teams-Lifecycle und Governance-Richtlinien",
+        "Externe Benutzer und Gastzugriff",
+        "SharePoint-Site-Provisionierung",
+        "On-Premises-Template-Verwaltung",
+        "Projektorganisation in Teams",
+        "Workshops und kundenspezifische Entwicklung"
+      ],
+      "en": [
+        "Template-based Teams provisioning",
+        "Teams lifecycle and governance policies",
+        "External users and guest access",
+        "SharePoint site provisioning",
+        "On-premises template management",
+        "Project organisation in Teams",
+        "Workshops and custom development"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Microsoft-365- und Teams-Administration",
+        "SharePoint-Verantwortliche",
+        "Digital Workplace und Collaboration",
+        "Identity- und Zugriffsmanagement",
+        "Informationssicherheit und Compliance",
+        "Projektmanagement und IT-Serviceverantwortliche"
+      ],
+      "en": [
+        "Microsoft 365 and Teams administrators",
+        "SharePoint owners",
+        "Digital workplace and collaboration",
+        "Identity and access management",
+        "Information security and compliance",
+        "Project management and IT service owners"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.solutions2share.com/de/apps",
+        "label": {
+          "de": "Microsoft-365-Governance-Apps",
+          "en": "Microsoft 365 governance apps"
+        }
+      },
+      {
+        "url": "https://www.solutions2share.com/de/teams-manager",
+        "label": {
+          "de": "Teams Manager: Lifecycle und Governance",
+          "en": "Teams Manager: lifecycle and governance"
+        }
+      },
+      {
+        "url": "https://www.solutions2share.com/de/external-user-manager",
+        "label": {
+          "de": "External User Manager: Gastzugriff",
+          "en": "External User Manager: guest access"
+        }
+      },
+      {
+        "url": "https://www.solutions2share.com/de/impressum",
+        "label": {
+          "de": "Anbieteridentität: Solutions2Share GmbH",
+          "en": "Provider identity: Solutions2Share GmbH"
+        }
+      }
+    ]
+  },
+  "Windhoff Group": {
+    "officialUrl": "https://windhoff-group.de/data-und-ai-services/",
+    "officialLabel": {
+      "de": "Windhoff Group: offizielle Leistungsübersicht",
+      "en": "Windhoff Group: official portfolio"
+    },
+    "metaDescription": {
+      "de": "Windhoff Group: Datenstrategie, Datenplattformen, Business Analytics, Machine Learning, MLOps und Software Engineering.",
+      "en": "Windhoff Group: data strategy, data platforms, business analytics, machine learning, MLOps and software engineering."
+    },
+    "summary": {
+      "de": "Die Windhoff Group bietet Beratungs- und Entwicklungsleistungen für Datenplattformen, Business Analytics, KI und individuelle Software. Das Portfolio reicht von Datenstrategie und Architektur über Data Engineering bis zu Planung, Prognosen und der operativen Nutzung von Machine Learning. DevOps und MLOps, Softwareentwicklung und Softwaretests ergänzen die Umsetzung. Als Technologieumfelder nennt das Unternehmen SAP, Microsoft und Databricks; diese Herstellerplattformen sind von den eigenen Projektleistungen zu unterscheiden. Unternehmen können bestehende Datenlandschaften modernisieren, Kennzahlen für Fachbereiche bereitstellen oder datenbasierte Anwendungen und Automatisierung aufbauen. Für die Auswahl sind Datenqualität, vorhandene Systemlandschaft, Integrationsbedarf und die Übergabe in den produktiven Betrieb zentral. Fachliche Anforderungen und technische Umsetzung müssen zusammen geplant werden. Projektumfang, langfristige Betriebsverantwortung und Wissenstransfer sollten konkret vereinbart werden, statt aus einer Technologiepartnerschaft abzuleiten, dass sämtliche Herstellerleistungen enthalten sind.",
+      "en": "Windhoff Group provides consulting and development services for data platforms, business analytics, AI and custom software. Its portfolio spans data strategy and architecture, data engineering, planning and forecasting, and operational use of machine learning. DevOps and MLOps, software engineering and software testing complement implementation. The company names SAP, Microsoft and Databricks as technology environments; these vendors’ platforms are distinct from Windhoff’s project services. Organisations can modernise existing data landscapes, provide business metrics or build data-driven applications and automation. Selection depends on data quality, the existing system landscape, integration requirements and transition into production. Business requirements and technical implementation need to be planned together. Project scope, long-term operational responsibility and knowledge transfer should be agreed explicitly rather than assuming that a technology partnership includes every vendor service."
+    },
+    "focus": {
+      "de": [
+        "Datenstrategie und Architektur",
+        "Data Platforms und Data Engineering",
+        "Business Analytics und BI",
+        "Machine Learning und KI",
+        "Planning und Forecasting",
+        "DevOps und MLOps",
+        "Software Engineering und Softwaretests",
+        "Projektumsetzung mit SAP, Microsoft und Databricks"
+      ],
+      "en": [
+        "Data strategy and architecture",
+        "Data platforms and data engineering",
+        "Business analytics and BI",
+        "Machine learning and AI",
+        "Planning and forecasting",
+        "DevOps and MLOps",
+        "Software engineering and software testing",
+        "Project delivery with SAP, Microsoft and Databricks"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und IT-Leitung",
+        "Data- und Analytics-Leitung",
+        "BI- und Data-Engineering-Teams",
+        "SAP- und Microsoft-Plattformverantwortliche",
+        "KI- und MLOps-Teams",
+        "Controlling und Fachbereichsplanung",
+        "Softwareentwicklung und Qualitätssicherung"
+      ],
+      "en": [
+        "CIO and IT leadership",
+        "Data and analytics leadership",
+        "BI and data-engineering teams",
+        "SAP and Microsoft platform owners",
+        "AI and MLOps teams",
+        "Controlling and business planning",
+        "Software engineering and quality assurance"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://windhoff-group.de/data-und-ai-services/",
+        "label": {
+          "de": "Data & AI Services und Technologieumfelder",
+          "en": "Data & AI services and technology environments"
+        }
+      },
+      {
+        "url": "https://windhoff-group.de/data-und-ai-services/software-engineering/",
+        "label": {
+          "de": "Software Engineering und Umsetzung",
+          "en": "Software engineering and implementation"
+        }
+      },
+      {
+        "url": "https://windhoff-group.de/ueber-uns/",
+        "label": {
+          "de": "Unternehmen und Leistungsprofil",
+          "en": "Company and service profile"
+        }
+      }
+    ]
+  },
+  "MPS Monitor": {
+    "officialUrl": "https://www.mpsmonitor.com/print-fleet-management/",
+    "officialLabel": {
+      "de": "MPS Monitor: offizielle Leistungsübersicht",
+      "en": "MPS Monitor: official portfolio"
+    },
+    "metaDescription": {
+      "de": "MPS Monitor: Cloud-Software für Druckerflotten, Remote Monitoring, Verbrauchsmaterial, Zählerdaten und Managed Print Services.",
+      "en": "MPS Monitor: cloud software for printer fleets, remote monitoring, consumables, meter data and managed print services."
+    },
+    "summary": {
+      "de": "MPS Monitor ist ein in Italien ansässiger Softwareanbieter für die Fernüberwachung und Verwaltung von Druckerflotten. Die Cloud-Plattform richtet sich vor allem an Händler und Managed-Print-Service-Anbieter, die Geräte bei ihren Kunden betreuen. Sie erfasst Zählerstände und Verbrauchsmaterialdaten, meldet Gerätezustände und unterstützt Vertragsverwaltung, Abrechnung sowie die Nachversorgung von Toner. Integrierte Analysen machen Druckvolumen und Verbrauch über die betreuten Flotten vergleichbar. Data Collection Agents sowie geräte- und partnerspezifische Integrationen bilden die Verbindung zwischen Druckern und Plattform. Für die Auswahl zählen unterstützte Geräte, zuverlässige Datenerfassung, Sicherheitsanforderungen, Kundenmandanten und die Anbindung an bestehende Serviceprozesse. Die Plattform unterstützt das Management der Druckinfrastruktur; sie ist vom Verkauf der Druckhardware und der tatsächlichen Vor-Ort-Wartung durch Händler zu unterscheiden. MPS Monitor wird als eigene Anbieteridentität geführt, unabhängig von im Portal daneben genannten Print-Software-Anbietern.",
+      "en": "MPS Monitor is an Italy-based software provider for remote monitoring and management of printer fleets. Its cloud platform primarily serves dealers and managed print service providers operating devices at customer sites. It collects meter readings and consumables data, reports device conditions and supports contract management, billing and toner replenishment. Integrated analytics make print volumes and consumption comparable across managed fleets. Data Collection Agents and device-specific or partner integrations connect printers to the platform. Selection depends on supported devices, dependable data collection, security requirements, customer tenants and integration with existing service processes. The platform supports print infrastructure management; it is distinct from printer hardware sales and actual on-site maintenance performed by dealers. MPS Monitor is treated as a separate provider identity, independent of other print-software vendors appearing alongside it in a portal."
+    },
+    "focus": {
+      "de": [
+        "Remote Monitoring von Druckern und Multifunktionsgeräten",
+        "Zählerstände und Verbrauchsmaterialdaten",
+        "Automatische Gerätemeldungen und Warnungen",
+        "Vertragsverwaltung für Managed Print Services",
+        "Druckvolumen- und Verbrauchsanalysen",
+        "Data Collection Agents",
+        "Sicherheit und Integration der Druckerüberwachung"
+      ],
+      "en": [
+        "Remote monitoring of printers and multifunction devices",
+        "Meter readings and consumables data",
+        "Automated device messages and alerts",
+        "Managed print service contract management",
+        "Print-volume and consumption analytics",
+        "Data Collection Agents",
+        "Monitoring security and integrations"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Managed-Print-Service-Anbieter",
+        "Druckerhändler und Serviceleitung",
+        "Flotten- und Verbrauchsmaterialmanagement",
+        "IT-Betrieb und Druckinfrastruktur",
+        "Serviceabrechnung und Vertragsverwaltung",
+        "Informationssicherheit für Print-Umgebungen"
+      ],
+      "en": [
+        "Managed print service providers",
+        "Printer dealers and service leadership",
+        "Fleet and consumables management",
+        "IT operations and print infrastructure",
+        "Service billing and contract management",
+        "Information security for print environments"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.mpsmonitor.com/about-us/",
+        "label": {
+          "de": "Unternehmensidentität und Plattform",
+          "en": "Company identity and platform"
+        }
+      },
+      {
+        "url": "https://www.mpsmonitor.com/print-fleet-management/",
+        "label": {
+          "de": "Funktionen der Druckerflottenverwaltung",
+          "en": "Print fleet management capabilities"
+        }
+      },
+      {
+        "url": "https://www.mpsmonitor.com/mps-monitor-security/",
+        "label": {
+          "de": "Sicherheit der Monitoring-Plattform",
+          "en": "Monitoring platform security"
+        }
+      }
+    ]
+  },
+  "Tata Communications": {
+    "officialUrl": "https://www.tatacommunications.com/",
+    "officialLabel": {
+      "de": "Tata Communications – offizielles Angebot",
+      "en": "Tata Communications – official portfolio"
+    },
+    "metaDescription": {
+      "de": "Tata Communications: Internationale WAN- und Standortvernetzung, IZO SD-WAN und Network as a Service, Multi-Cloud- und Rechenzentrumsverbindungen, Managed SASE und Netzwerksicherheit.",
+      "en": "Tata Communications: International WAN and site connectivity, IZO SD-WAN and Network as a Service, Multi-cloud and data-centre connectivity, Managed SASE and network security."
+    },
+    "summary": {
+      "de": "Tata Communications bietet internationale Netz- und digitale Infrastrukturdienste für Unternehmen. Das Digital-Fabric-Konzept verbindet Standort- und Cloud-Vernetzung, Managed Security, Cloud-Dienste, Kundenkommunikation und IoT. Die IZO-Produktfamilie umfasst WAN, SD-WAN und Verbindungen zwischen Rechenzentren und mehreren Clouds; Sicherheitsdienste ergänzen Netzwerkzugänge und verteilte Anwendungen. Daneben unterstützt das Unternehmen cloudbasierte Contact Center und Kommunikationsprozesse sowie die Vernetzung von Geräten. Der Kaufkontext reicht von der Ablösung internationaler Standortnetze bis zur Integration bisher getrennter Cloud- und Kommunikationsumgebungen. Unternehmen sollten Anwendungswege, lokale Anschlussmöglichkeiten, Service-Level und Betriebszuständigkeiten je Land prüfen. Das globale Leistungsbild bedeutet nicht, dass jede regionale Leistung ohne Partner erbracht wird. Tata Communications ist als eigener Anbieter zu behandeln; Leistungen von Tata Consultancy Services oder anderen Tata-Gesellschaften werden ihm nicht pauschal zugerechnet.",
+      "en": "Tata Communications provides international network and digital infrastructure services for enterprises. Its Digital Fabric connects site and cloud networking, managed security, cloud services, customer communications and IoT. The IZO portfolio covers WAN, SD-WAN and connectivity between data centres and multiple clouds; security services complement network access and distributed applications. The company also supports cloud contact centres, communication workflows and device connectivity. Buying scenarios range from replacing international site networks to integrating previously separate cloud and communications environments. Enterprises should assess application paths, local access options, service levels and operational responsibilities in each country. A global portfolio does not imply that every regional service is delivered without partners. Tata Communications is treated as a distinct provider; services offered by Tata Consultancy Services or other Tata entities are not automatically attributed to it."
+    },
+    "focus": {
+      "de": [
+        "Internationale WAN- und Standortvernetzung",
+        "IZO SD-WAN und Network as a Service",
+        "Multi-Cloud- und Rechenzentrumsverbindungen",
+        "Managed SASE und Netzwerksicherheit",
+        "Cloud- und Managed-Infrastructure-Dienste",
+        "Cloud Contact Center und Kommunikationsplattformen",
+        "IoT-Vernetzung und Gerätemanagement"
+      ],
+      "en": [
+        "International WAN and site connectivity",
+        "IZO SD-WAN and Network as a Service",
+        "Multi-cloud and data-centre connectivity",
+        "Managed SASE and network security",
+        "Cloud and managed infrastructure services",
+        "Cloud contact centres and communications platforms",
+        "IoT connectivity and device management"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CIO und internationale IT-Leitung",
+        "Netzwerk- und WAN-Architektur",
+        "Cloud- und Infrastrukturteams",
+        "Informationssicherheit",
+        "Contact-Center- und Kundenserviceleitung",
+        "IoT- und Digitalisierungsverantwortliche"
+      ],
+      "en": [
+        "CIO and international IT leadership",
+        "Network and WAN architects",
+        "Cloud and infrastructure teams",
+        "Information security",
+        "Contact-centre and customer-service leadership",
+        "IoT and digital transformation managers"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.tatacommunications.com/tata-communications-digital-fabric",
+        "label": {
+          "de": "Digital Fabric: Leistungsbereiche",
+          "en": "Digital Fabric: portfolio"
+        }
+      },
+      {
+        "url": "https://www.tatacommunications.com/izo",
+        "label": {
+          "de": "IZO: Netzwerkportfolio",
+          "en": "IZO: network portfolio"
+        }
+      }
+    ]
+  },
+  "Amazon Business": {
+    "officialUrl": "https://business.amazon.de/",
+    "officialLabel": {
+      "de": "Amazon Business – offizielles Angebot",
+      "en": "Amazon Business – official portfolio"
+    },
+    "metaDescription": {
+      "de": "Amazon Business: B2B-Warenbeschaffung und Betriebsmittel, Mehrbenutzerkonten und Einkaufsgruppen, Genehmigungen und Einkaufsrichtlinien, Guided Buying und Lieferantenpräferenzen.",
+      "en": "Amazon Business: B2B purchasing and operating supplies, Multi-user accounts and purchasing groups, Approvals and purchasing policies, Guided Buying and supplier preferences."
+    },
+    "summary": {
+      "de": "Amazon Business ist das auf Unternehmen und Organisationen ausgerichtete Beschaffungsangebot von Amazon. Es verbindet den Einkauf von Waren mit Funktionen zur Verwaltung von Nutzergruppen, Genehmigungen, Einkaufsrichtlinien und Ausgabenanalysen. Punchout- und Single-Sign-on-Anbindungen ermöglichen die Einbindung in bestehende Beschaffungssysteme. Guided Buying unterstützt die Steuerung zulässiger oder bevorzugter Produkte und Lieferanten; der verfügbare Funktionsumfang hängt vom Konto und gegebenenfalls vom Business-Prime-Paket ab. Im Gesundheitswesen adressiert das Angebot die Beschaffung von Betriebsbedarf und die Standardisierung verteilter Einkaufsprozesse. Für die Auswahl zählen Sortimentsabdeckung, Rechte und Freigaben, Rechnungsabwicklung sowie die Integration in vorhandene Purchase-to-Pay-Verfahren. Produktherkunft, Lieferantenbedingungen und organisationsspezifische Anforderungen müssen gesondert geprüft werden. Amazon Business ist ein eigenständiges Angebotsprofil innerhalb Amazon und wird hier nicht mit dem Cloud-Infrastrukturanbieter Amazon Web Services zusammengeführt.",
+      "en": "Amazon Business is Amazon’s procurement offering for companies and organisations. It combines purchasing goods with user-group management, approvals, purchasing policies and spend analytics. Punchout and single sign-on connections support integration into existing procurement systems. Guided Buying helps organisations direct buyers towards permitted or preferred products and suppliers; available features depend on the account and, where applicable, the Business Prime package. In healthcare, the offering addresses operating supplies and standardisation of decentralised purchasing processes. Selection criteria include assortment coverage, permissions and approvals, invoicing and integration with existing purchase-to-pay workflows. Product origin, supplier conditions and organisation-specific requirements require separate assessment. Amazon Business is represented as a distinct Amazon offering and is not merged with the cloud infrastructure provider Amazon Web Services."
+    },
+    "focus": {
+      "de": [
+        "B2B-Warenbeschaffung und Betriebsmittel",
+        "Mehrbenutzerkonten und Einkaufsgruppen",
+        "Genehmigungen und Einkaufsrichtlinien",
+        "Guided Buying und Lieferantenpräferenzen",
+        "Punchout und Single Sign-on",
+        "Ausgabenanalyse und Transparenz",
+        "Beschaffung im Gesundheitswesen"
+      ],
+      "en": [
+        "B2B purchasing and operating supplies",
+        "Multi-user accounts and purchasing groups",
+        "Approvals and purchasing policies",
+        "Guided Buying and supplier preferences",
+        "Punchout and single sign-on",
+        "Spend analytics and visibility",
+        "Healthcare procurement"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Einkaufsleitung und strategische Beschaffung",
+        "Operativer Einkauf und Bedarfsträger",
+        "Finanzen und Purchase-to-Pay",
+        "IT für Beschaffungssysteme",
+        "Krankenhausverwaltung und Klinikbeschaffung"
+      ],
+      "en": [
+        "Procurement leadership and sourcing",
+        "Operational purchasing and requisitioners",
+        "Finance and purchase-to-pay",
+        "Procurement-system IT teams",
+        "Hospital administration and procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://business.amazon.de/de/solutions/streamlined-purchasing",
+        "label": {
+          "de": "Optimierter Einkauf und Systemintegration",
+          "en": "Streamlined purchasing and integration"
+        }
+      },
+      {
+        "url": "https://business.amazon.de/de/industries/healthcare",
+        "label": {
+          "de": "Beschaffung im Gesundheitswesen",
+          "en": "Healthcare procurement"
+        }
+      },
+      {
+        "url": "https://business.amazon.de/de/blog/what-is-amazon-business",
+        "label": {
+          "de": "Amazon Business: Angebotsbeschreibung",
+          "en": "Amazon Business: offering overview"
+        }
+      }
+    ]
+  },
+  "PASCOM": {
+    "officialUrl": "https://www.pascom.net/",
+    "officialLabel": {
+      "de": "PASCOM – offizielles Angebot",
+      "en": "PASCOM – official portfolio"
+    },
+    "metaDescription": {
+      "de": "PASCOM: Cloud-Telefonanlage und Geschäftstelefonie, Native Desktop- und Mobile-Apps, Anrufverteilung und Contact-Center-Funktionen, PASCOM Intelligence und KI-Agent Pia.",
+      "en": "PASCOM: Cloud PBX and business telephony, Native desktop and mobile apps, Call distribution and contact-centre functions, PASCOM Intelligence and Pia AI agent."
+    },
+    "summary": {
+      "de": "PASCOM GmbH entwickelt eine Cloud-Telefonanlage für Unternehmen und ergänzt sie um native Apps, Teamkommunikation, Rufnummern-Hosting und KI-Funktionen. Die Plattform verbindet geschäftliche Telefonie mit Anrufverteilung, mobilen Arbeitsplätzen sowie Chat und Video. PASCOM Intelligence und der KI-Agent Pia unterstützen die Annahme und Weiterleitung von Gesprächen sowie die Dokumentation von Gesprächsinformationen. Pia ist Bestandteil der PASCOM-Umgebung und keine unabhängig von der Telefonanlage zu bewertende Anbieterfirma. Schnittstellen etwa zu DATEV und Branchenanwendungen erweitern den Einsatz in Kanzleien und anderen Dienstleistungsbetrieben. Entscheidend sind die vorhandenen Rufnummern und Endgeräte, das gewünschte Routing, die Integration in Fachsoftware und der Administrationsbedarf. Bei KI-gestützten Abläufen sollten Unternehmen die Grenzen automatisierter Antworten, Übergaben an Mitarbeitende und die Verarbeitung von Gesprächsdaten vor dem produktiven Einsatz festlegen.",
+      "en": "PASCOM GmbH develops a cloud phone system for businesses, complemented by native apps, team communications, telephone-number hosting and AI features. Its platform combines business telephony with call distribution, mobile workplaces, chat and video. PASCOM Intelligence and the Pia AI agent support answering and routing calls and documenting conversation information. Pia belongs to the PASCOM environment and is not a separate provider to evaluate independently of the phone system. Integrations with DATEV and industry applications extend its use in professional practices and other service businesses. Selection depends on existing numbers and devices, routing requirements, specialist software integration and administration needs. Before production use, organisations should define the limits of automated responses, handovers to employees and the handling of conversation data in AI-assisted workflows."
+    },
+    "focus": {
+      "de": [
+        "Cloud-Telefonanlage und Geschäftstelefonie",
+        "Native Desktop- und Mobile-Apps",
+        "Anrufverteilung und Contact-Center-Funktionen",
+        "PASCOM Intelligence und KI-Agent Pia",
+        "Team-Chat und Videokommunikation",
+        "Rufnummern-Hosting",
+        "DATEV- und Branchenintegrationen"
+      ],
+      "en": [
+        "Cloud PBX and business telephony",
+        "Native desktop and mobile apps",
+        "Call distribution and contact-centre functions",
+        "PASCOM Intelligence and Pia AI agent",
+        "Team chat and video communications",
+        "Telephone-number hosting",
+        "DATEV and industry integrations"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "IT-Leitung und Telefonieadministration",
+        "Kundenservice und Contact Center",
+        "Geschäftsführung im Mittelstand",
+        "Kanzleimanagement",
+        "Praxis- und Verwaltungsorganisation"
+      ],
+      "en": [
+        "IT leadership and telephony administration",
+        "Customer service and contact centres",
+        "Midmarket executive management",
+        "Professional-practice management",
+        "Practice and administrative operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.pascom.net/funktionsuebersicht/",
+        "label": {
+          "de": "Cloud-Telefonanlage: Funktionsübersicht",
+          "en": "Cloud phone system: functions"
+        }
+      },
+      {
+        "url": "https://www.pascom.net/funktionen/pascom-intelligence/",
+        "label": {
+          "de": "PASCOM Intelligence und Pia",
+          "en": "PASCOM Intelligence and Pia"
+        }
+      },
+      {
+        "url": "https://www.pascom.net/impressum/",
+        "label": {
+          "de": "PASCOM GmbH: Anbieteridentität",
+          "en": "PASCOM GmbH: provider identity"
+        }
+      }
+    ]
+  },
+  "genua": {
+    "officialUrl": "https://www.genua.de/",
+    "officialLabel": {
+      "de": "genua – offizielles Angebot",
+      "en": "genua – official portfolio"
+    },
+    "metaDescription": {
+      "de": "genua: Firewalls und Sicherheitsgateways, VPN und sichere Standortkommunikation, genubox: kontrollierte Fernwartung, Datendioden für einseitige Übertragung.",
+      "en": "genua: Firewalls and security gateways, VPN and secure site communications, genubox: controlled remote maintenance, Data diodes for one-way transfers."
+    },
+    "summary": {
+      "de": "genua GmbH entwickelt IT-Sicherheitslösungen für Organisationen mit hohem Schutzbedarf, darunter Industrie, kritische Infrastrukturen und öffentliche Einrichtungen. Das Portfolio verbindet Firewalls und VPN, kontrollierte Fernwartung, Datendioden, sichere mobile Zugänge und die Überwachung interner Netze. genubox adressiert Wartungszugriffe auf sensible Systeme; genugate und genuscreen schützen Netzgrenzen, während cyber-diode einseitige Datenübertragung für industrielles Monitoring ermöglicht. Zentrales Management und Beratungsleistungen ergänzen die Produkte. Für Energieversorger ist insbesondere die Trennung und kontrollierte Verbindung von IT- und OT-Netzen relevant. Auswahlfragen betreffen zulässige Datenrichtungen, externe Servicezugriffe, Verfügbarkeit und die Betriebsorganisation. Zulassungen oder Zertifizierungen gelten jeweils für konkret benannte Produkte und Einsatzbedingungen; sie dürfen nicht als pauschale Freigabe des Gesamtportfolios verstanden werden. Ebenso ersetzt der Einsatz einzelner Sicherheitsprodukte keine vollständige organisatorische Umsetzung regulatorischer Anforderungen.",
+      "en": "genua GmbH develops IT security solutions for organisations with demanding protection requirements, including industry, critical infrastructure and public bodies. Its portfolio combines firewalls and VPN, controlled remote maintenance, data diodes, secure mobile access and internal network monitoring. genubox addresses maintenance access to sensitive systems; genugate and genuscreen protect network boundaries, while cyber-diode enables one-way data transfer for industrial monitoring. Central management and consulting complement the products. For energy utilities, separation and controlled connectivity between IT and OT networks are particularly relevant. Selection concerns permitted data directions, external service access, availability and operational organisation. Approvals and certifications apply to specified products and conditions rather than the portfolio as a whole. Deploying individual security products also does not replace the organisational work required for regulatory compliance."
+    },
+    "focus": {
+      "de": [
+        "Firewalls und Sicherheitsgateways",
+        "VPN und sichere Standortkommunikation",
+        "genubox: kontrollierte Fernwartung",
+        "Datendioden für einseitige Übertragung",
+        "IT- und OT-Netzwerksicherheit",
+        "Sichere mobile Arbeitsplätze",
+        "Zentrales Sicherheitsmanagement und Beratung"
+      ],
+      "en": [
+        "Firewalls and security gateways",
+        "VPN and secure site communications",
+        "genubox: controlled remote maintenance",
+        "Data diodes for one-way transfers",
+        "IT and OT network security",
+        "Secure mobile workplaces",
+        "Central security management and consulting"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CISO und Informationssicherheit",
+        "OT-Sicherheit und Anlagenbetrieb",
+        "Netzwerk- und Infrastrukturteams",
+        "KRITIS-Verantwortliche bei Energieversorgern",
+        "IT in Behörden und öffentlichem Sektor",
+        "Compliance und Sicherheitsarchitektur"
+      ],
+      "en": [
+        "CISO and information security",
+        "OT security and plant operations",
+        "Network and infrastructure teams",
+        "Critical infrastructure managers at utilities",
+        "Public-sector IT",
+        "Compliance and security architecture"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.genua.de/einsatzfelder/kritis",
+        "label": {
+          "de": "Sicherheitslösungen für kritische Infrastrukturen",
+          "en": "Security for critical infrastructure"
+        }
+      },
+      {
+        "url": "https://www.genua.de/ueber-genua",
+        "label": {
+          "de": "Unternehmen genua",
+          "en": "About genua"
+        }
+      }
+    ]
+  },
+  "Lynus": {
+    "officialUrl": "https://lynus.io/",
+    "officialLabel": {
+      "de": "Lynus – offizielles Angebot",
+      "en": "Lynus – official portfolio"
+    },
+    "metaDescription": {
+      "de": "Lynus: Modulare Batteriespeicher und Containerlösungen, Energiemanagementsystem für Speicher und PV, AC- und DC-Integration, Eigenverbrauch und Spitzenlastmanagement.",
+      "en": "Lynus: Modular battery storage and container systems, Energy management for storage and PV, AC and DC integration, Self-consumption and peak management."
+    },
+    "summary": {
+      "de": "Lynus entwickelt Batteriespeichersysteme und verbindet die Hardware mit Energiemanagement und der Vermarktung von Speicherflexibilität. Das Angebot richtet sich an Betreiber von Solarparks, Gewerbestandorten und weiteren Energieprojekten. Modulare Containerlösungen ermöglichen die Anpassung der Speicherkapazität; AC- und DC-Konzepte unterstützen unterschiedliche Integrationen in Photovoltaikanlagen. Die Software steuert Energieflüsse und kombiniert je nach Projekt Eigenverbrauchsoptimierung, Spitzenlastmanagement und Strommarktanwendungen. Die Vermarktung umfasst Arbitrage und Regelenergie; Installation, Betrieb und weitere Projektleistungen hängen vom vereinbarten Modell ab. Bei der Auswahl sind Netzanschluss, Leistung und Kapazität, Betriebsstrategie, Schnittstellen zur Bestandsanlage und die Aufteilung der Erlöse zu prüfen. Das Profil beschreibt die Lynus-Gruppe mit Lynus AG und der deutschen Tochter Lynus Deutschland GmbH. Eine konkrete Liefer- oder Betriebsgesellschaft muss für jedes Projekt vertraglich bestimmt werden.",
+      "en": "Lynus develops battery storage systems and combines hardware with energy management and monetisation of storage flexibility. Its offering addresses solar-park operators, commercial sites and other energy projects. Modular container systems allow storage capacity to be adapted; AC and DC concepts support different photovoltaic integration scenarios. Software controls energy flows and combines self-consumption optimisation, peak management and electricity-market applications according to project requirements. Marketing includes arbitrage and balancing energy; installation, operations and other project services depend on the agreed model. Buyers should assess grid connection, power and capacity, operating strategy, interfaces with existing equipment and revenue allocation. This profile covers the Lynus group, including Lynus AG and its German subsidiary Lynus Deutschland GmbH. The specific supplying or operating entity must be established contractually for each project."
+    },
+    "focus": {
+      "de": [
+        "Modulare Batteriespeicher und Containerlösungen",
+        "Energiemanagementsystem für Speicher und PV",
+        "AC- und DC-Integration",
+        "Eigenverbrauch und Spitzenlastmanagement",
+        "Flexibilitätsvermarktung und Arbitrage",
+        "Regelenergie und Strommarktanwendungen",
+        "Installation, Monitoring und Betriebsmodelle"
+      ],
+      "en": [
+        "Modular battery storage and container systems",
+        "Energy management for storage and PV",
+        "AC and DC integration",
+        "Self-consumption and peak management",
+        "Flexibility marketing and arbitrage",
+        "Balancing energy and electricity markets",
+        "Installation, monitoring and operating models"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Solarparkbetreiber und Projektentwickler",
+        "Energiemanagement in Gewerbe und Industrie",
+        "Netzanschluss- und Elektroplanung",
+        "Speicherinvestoren und Anlagenbetreiber",
+        "Energiehandel und Flexibilitätsvermarktung"
+      ],
+      "en": [
+        "Solar-park operators and developers",
+        "Commercial and industrial energy management",
+        "Grid-connection and electrical planning",
+        "Storage investors and asset operators",
+        "Energy trading and flexibility marketing"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://lynus.io/batteriegrossspeicher/",
+        "label": {
+          "de": "Batteriegroßspeicher und Systemarchitektur",
+          "en": "Large-scale storage and architecture"
+        }
+      },
+      {
+        "url": "https://lynus.io/flexibilitaetsvermarktung/",
+        "label": {
+          "de": "Flexibilitätsvermarktung",
+          "en": "Flexibility marketing"
+        }
+      },
+      {
+        "url": "https://lynus.io/impressum/",
+        "label": {
+          "de": "Lynus Deutschland: Anbieteridentität",
+          "en": "Lynus Germany: provider identity"
+        }
+      }
+    ]
+  },
+  "Stadtwerke Karlsruhe": {
+    "officialUrl": "https://www.stadtwerke-karlsruhe.de/",
+    "officialLabel": {
+      "de": "Stadtwerke Karlsruhe – offizielles Angebot",
+      "en": "Stadtwerke Karlsruhe – official portfolio"
+    },
+    "metaDescription": {
+      "de": "Stadtwerke Karlsruhe: Strom- und Erdgasversorgung für Geschäftskunden, Regionale Fernwärmeversorgung, Photovoltaikplanung und Finanzierung, Digitale Messsysteme.",
+      "en": "Stadtwerke Karlsruhe: Business electricity and gas supply, Regional district heating, Photovoltaic planning and financing, Digital metering."
+    },
+    "summary": {
+      "de": "Die Stadtwerke Karlsruhe versorgen Haushalte, Unternehmen und kommunale Einrichtungen mit Strom, Gas, Fernwärme und Trinkwasser. Für Geschäftskunden ergänzen Energiedienstleistungen die Versorgung, darunter Photovoltaik, digitale Messsysteme, Energieaudits und Beleuchtungsmodernisierung. Das Fernwärmeangebot ist an das lokale Netz gebunden und integriert unterschiedliche Erzeugungs- und Abwärmequellen. Unternehmen können Energielieferung mit Maßnahmen zur Verbrauchsoptimierung und zur eigenen Erzeugung verbinden. Bei der Auswahl zählen Anschlussverfügbarkeit, Verbrauchsprofil, Beschaffungsmodell sowie Umfang und Wirtschaftlichkeit einzelner Dienstleistungen. Der kommunale Leistungsverbund enthält rechtlich getrennte Gesellschaften: Netzplanung und Netzbetrieb durch die Netzservice-Tochter sind vom Angebot der Stadtwerke Karlsruhe GmbH zu unterscheiden. Batteriespeicher oder andere Anlagen im eigenen Kraftwerksbetrieb belegen betriebliche Flexibilität, sind aber nicht automatisch als frei verfügbares Speicherprodukt für externe Kunden zu verstehen.",
+      "en": "Stadtwerke Karlsruhe supplies households, businesses and municipal organisations with electricity, gas, district heating and drinking water. Business energy services complement supply, including photovoltaics, digital metering, energy audits and lighting modernisation. District heating depends on the local network and integrates different generation and waste-heat sources. Businesses can combine energy procurement with consumption optimisation and onsite generation measures. Selection depends on connection availability, consumption profile, procurement model and the scope and economics of individual services. The municipal group contains legally separate entities: network planning and operations delivered by the Netzservice subsidiary must be distinguished from Stadtwerke Karlsruhe GmbH’s offering. Battery storage or other assets in the company’s own power-generation operations demonstrate operating flexibility but do not automatically constitute storage products available to external customers."
+    },
+    "focus": {
+      "de": [
+        "Strom- und Erdgasversorgung für Geschäftskunden",
+        "Regionale Fernwärmeversorgung",
+        "Photovoltaikplanung und Finanzierung",
+        "Digitale Messsysteme",
+        "Energieaudit und Verbrauchsoptimierung",
+        "Beleuchtungsmodernisierung",
+        "Kommunale Versorgungsdienstleistungen"
+      ],
+      "en": [
+        "Business electricity and gas supply",
+        "Regional district heating",
+        "Photovoltaic planning and financing",
+        "Digital metering",
+        "Energy audits and consumption optimisation",
+        "Lighting modernisation",
+        "Municipal utility services"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Energieeinkauf und kaufmännische Leitung",
+        "Technisches Gebäudemanagement",
+        "Industrie- und Gewerbestandorte",
+        "Kommunale Infrastrukturverantwortliche",
+        "Nachhaltigkeit und Energiemanagement"
+      ],
+      "en": [
+        "Energy procurement and finance leadership",
+        "Technical facilities management",
+        "Industrial and commercial sites",
+        "Municipal infrastructure managers",
+        "Sustainability and energy management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.stadtwerke-karlsruhe.de/de/gk/gewerbe.php",
+        "label": {
+          "de": "Geschäftskundenversorgung",
+          "en": "Business utility supply"
+        }
+      },
+      {
+        "url": "https://www.stadtwerke-karlsruhe.de/de/gk/gewerbekunden/energiedienstleistungen.php",
+        "label": {
+          "de": "Energiedienstleistungen für Gewerbe",
+          "en": "Commercial energy services"
+        }
+      },
+      {
+        "url": "https://www.stadtwerke-karlsruhe.de/de/gk/kommunen.php",
+        "label": {
+          "de": "Kommunale Leistungen und Gesellschaftsgrenzen",
+          "en": "Municipal services and entity boundaries"
+        }
+      }
+    ]
+  },
+  "e-con": {
+    "officialUrl": "https://econ-ag.com/",
+    "officialLabel": {
+      "de": "e-con AG – offizielles Angebot",
+      "en": "e-con AG – official portfolio"
+    },
+    "metaDescription": {
+      "de": "e-con AG: Regionale Wärmeversorgung und Wärmenetze, Industrielle Abwärmenutzung, Ganzheitliche Energiekonzepte, Planung, Realisierung und Betrieb von Wärmeprojekten.",
+      "en": "e-con AG: Regional heat supply and heating networks, Industrial waste-heat utilisation, Integrated energy concepts, Planning, delivery and operation of heat projects."
+    },
+    "summary": {
+      "de": "Die e-con AG entwickelt Energiekonzepte und plant, realisiert und betreibt regionale Wärmeversorgungen für Kommunen, Industrie, Gewerbe und Wohnimmobilien. Ein Schwerpunkt sind lokale Wärmenetze, die erneuerbare Wärme und industrielle Abwärme mit Verbrauchern verbinden. Das Unternehmen ergänzt Wärmeprojekte um Lösungen für Photovoltaik, Ladeinfrastruktur und weitere Energieversorgungskonzepte. Die technische Gebäudeplanung wird auf dem gemeinsamen Internetauftritt auch durch die rechtlich eigenständige e-con TGA-Ingenieure GmbH angeboten; diese Zuständigkeit ist bei Beschaffung und Vertragsabschluss zu trennen. Für Kunden sind Netzanschluss, Wärmebedarf und Temperaturniveau, lokale Wärmequellen sowie Investitions- und Betriebsmodell entscheidend. Bei industrieller Abwärmenutzung müssen Verfügbarkeit und saisonale Lasten abgestimmt werden. Das Profil beschreibt e-con AG als Energie- und Wärmeversorgungsanbieter und schreibt ihr keine ungeprüften Leistungen anderer ähnlich benannter econ-Unternehmen zu.",
+      "en": "e-con AG develops energy concepts and plans, delivers and operates regional heat supply for municipalities, industrial and commercial customers and residential properties. Its focus includes local heating networks connecting renewable heat and industrial waste heat with consumers. The company complements heat projects with photovoltaics, charging infrastructure and other energy-supply concepts. Technical building-services design is also offered on the shared website by the legally separate e-con TGA-Ingenieure GmbH; responsibilities must be distinguished during procurement and contracting. Buyers should consider network access, heat demand and temperature levels, local heat sources and investment and operating models. Industrial waste-heat projects require alignment of availability and seasonal loads. This profile represents e-con AG as an energy and heat-supply provider without attributing unverified services of other similarly named econ companies to it."
+    },
+    "focus": {
+      "de": [
+        "Regionale Wärmeversorgung und Wärmenetze",
+        "Industrielle Abwärmenutzung",
+        "Ganzheitliche Energiekonzepte",
+        "Planung, Realisierung und Betrieb von Wärmeprojekten",
+        "Photovoltaik und erneuerbare Energieprojekte",
+        "Ladeinfrastruktur und Elektromobilität"
+      ],
+      "en": [
+        "Regional heat supply and heating networks",
+        "Industrial waste-heat utilisation",
+        "Integrated energy concepts",
+        "Planning, delivery and operation of heat projects",
+        "Photovoltaics and renewable energy projects",
+        "Charging infrastructure and electric mobility"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Kommunale Wärmeplanung und Versorgungsleitung",
+        "Industrie- und Gewerbeenergiemanagement",
+        "Immobilien- und Wohnungswirtschaft",
+        "Technische Gebäudeverantwortliche",
+        "Projektentwicklung und Energieinvestitionen"
+      ],
+      "en": [
+        "Municipal heat planning and utility leadership",
+        "Industrial and commercial energy management",
+        "Property and housing management",
+        "Technical building managers",
+        "Project development and energy investment"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://econ-ag.com/leistungen/energieversorgung/",
+        "label": {
+          "de": "Energie- und Wärmeversorgung",
+          "en": "Energy and heat supply"
+        }
+      },
+      {
+        "url": "https://econ-ag.com/leistungen/ganzheitliche-energiekonzepte/",
+        "label": {
+          "de": "Ganzheitliche Energiekonzepte",
+          "en": "Integrated energy concepts"
+        }
+      },
+      {
+        "url": "https://econ-ag.com/impressum/impressum-econ-ag/",
+        "label": {
+          "de": "e-con AG: rechtliche Identität",
+          "en": "e-con AG: legal identity"
+        }
+      }
+    ]
+  },
+  "Telefónica Deutschland": {
+    "officialUrl": "https://www.o2business.de/",
+    "officialLabel": {
+      "de": "Telefónica Deutschland – offizielles Angebot",
+      "en": "Telefónica Deutschland – official portfolio"
+    },
+    "metaDescription": {
+      "de": "Telefónica Deutschland: Geschäftskundenmobilfunk, Festnetz und Internetzugänge, VPN und SD-WAN-Standortvernetzung, Cybersecurity und Security Service Edge.",
+      "en": "Telefónica Deutschland: Business mobile services, Fixed-line and internet access, VPN and SD-WAN site networking, Cybersecurity and Security Service Edge."
+    },
+    "summary": {
+      "de": "Telefónica Deutschland bietet unter O2 Business Mobilfunk, Festnetz, Internet und digitale Unternehmenslösungen an. Standortvernetzung verbindet unterschiedliche Zugangstechnologien mit VPN oder cloudgesteuertem SD-WAN. Sicherheitsangebote ergänzen den Zugriff auf Anwendungen, E-Mail und Arbeitsplätze; IoT-Dienste und 5G-Campusnetze adressieren vernetzte Geräte und betriebliche Anwendungen. Der Vertragspartner des O2-Business-Auftritts ist Telefónica Germany GmbH & Co. OHG. O2 Business wird deshalb diesem bestehenden deutschen Anbieterprofil zugeordnet und nicht als zusätzliche Firma angelegt. Auswahlfragen betreffen Standortabdeckung, Bandbreite und Ausfallsicherung, die Integration von Mobilfunk und Festnetz sowie Support und Betriebszuständigkeiten. Bei Campusnetzen und branchenspezifischen Anwendungen können Lösungspartner beteiligt sein, deren Leistungen getrennt zu prüfen sind. Ein deutsches O2-Angebot wird nicht pauschal dem internationalen Telefónica-Gesamtportfolio gleichgesetzt.",
+      "en": "Telefónica Deutschland offers mobile, fixed-line, internet and digital business services under O2 Business. Site networking combines different access technologies with VPN or cloud-managed SD-WAN. Security services complement access to applications, email and workplaces; IoT services and private 5G campus networks address connected devices and operational applications. The O2 Business website identifies Telefónica Germany GmbH & Co. OHG as the contracting provider. O2 Business is therefore assigned to this existing German provider profile rather than added as another company. Selection concerns site coverage, bandwidth and resilience, mobile and fixed-line integration, support and operational responsibilities. Campus networks and industry applications may involve solution partners whose services require separate assessment. German O2 offerings are not automatically equated with Telefónica’s entire international portfolio."
+    },
+    "focus": {
+      "de": [
+        "Geschäftskundenmobilfunk",
+        "Festnetz und Internetzugänge",
+        "VPN und SD-WAN-Standortvernetzung",
+        "Cybersecurity und Security Service Edge",
+        "IoT-Vernetzung",
+        "5G-Campusnetze",
+        "Digitale Arbeitsplätze und Rechenzentrumsangebote"
+      ],
+      "en": [
+        "Business mobile services",
+        "Fixed-line and internet access",
+        "VPN and SD-WAN site networking",
+        "Cybersecurity and Security Service Edge",
+        "IoT connectivity",
+        "Private 5G campus networks",
+        "Digital workplaces and data-centre services"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "IT-Leitung und Telekommunikationseinkauf",
+        "Netzwerk- und Infrastrukturteams",
+        "Informationssicherheit",
+        "IoT und Produktionsdigitalisierung",
+        "Standort- und Filialorganisation",
+        "Öffentlicher Sektor und Verwaltung"
+      ],
+      "en": [
+        "IT leadership and telecom procurement",
+        "Network and infrastructure teams",
+        "Information security",
+        "IoT and production digitalisation",
+        "Site and branch operations",
+        "Public-sector administration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.o2business.de/internet-vernetzung/",
+        "label": {
+          "de": "Internet und Standortvernetzung",
+          "en": "Internet and site networking"
+        }
+      },
+      {
+        "url": "https://www.o2business.de/recht/impressum/",
+        "label": {
+          "de": "Telefónica Germany: Anbieteridentität",
+          "en": "Telefónica Germany: provider identity"
+        }
+      }
+    ]
+  }
+}

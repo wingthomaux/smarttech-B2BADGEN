@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-09-10",
+  "sourceFile": "Accounts for KI-2026-09-08-15-00-39.xlsx",
+  "matchType": "direct_or_conservatively_normalized",
+  "matches": {
+    "ADP Deutschland": "CR",
+    "Asseco Solutions": "CR",
+    "b.telligent": "T",
+    "Box": "T",
+    "Diconium Group": "SH",
+    "DocuWare": "T",
+    "F5": "T",
+    "IBM": "S",
+    "Mendix (Siemens)": "T",
+    "Protolabs": "A",
+    "Quanos Solutions": "S",
+    "SAP Concur": "S",
+    "Siemens Digital Industries Software": "S"
+  }
+}

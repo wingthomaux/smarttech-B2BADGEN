@@ -1,0 +1,11 @@
+# Allianz Trade, 13.10.2026
+
+Im Bestand war weder Allianz Trade noch Euler Hermes als Anbieter vorhanden. Neues Profil Allianz Trade mit belegtem historischem Markenalias Euler Hermes; keine Zusammenführung mit anderen Allianz-Unternehmen. DE/EN-Leistungsbild: Warenkreditversicherung, Bürgschaften, Inkasso, Vertrauensschaden, Research; konkrete Fachrollen und Auswahlfragen. Offizielle Originalquellen individuell geprüft.
+
+Ein neues kuratiertes Wissensobjekt 840000 verlinkt den Original-PDF-Atlas ohne Trackingparameter. Zunächst war nur die öffentliche Zusammenfassung vom 11.09.2026 erreichbar; direkter PDF-Abruf HTTP 403. Die Nutzerdatei ermöglichte anschließend die Inhaltsprüfung: englischsprachig, 52 Seiten, Titeldatum 07.09.2026. Relevante Kapitel ausgewertet: Executive Summary, Electronics (16–17), IT Services (22–23), Machinery and Equipment (24–25), Telecom (36–37), Methodik (48), Herausgeber und Prognosegrenzen (52). Methodik und Electronics-Rating visuell abgeglichen.
+
+Methodik: Branchen-Zahlungsausfallrisiko für 17 Sektoren in 70 Ländern, Nachfrage, Profitabilität, Liquidität und Geschäftsumfeld, quantitative und qualitative Indikatoren mit Expertenurteilen. Low/Medium/Sensitive/High; IT Services Low, Electronics/Machinery/Telecom Medium im Dokumentstand. Keine Übertragung dieser Branchenratings auf einzelne Hersteller. Allianz Research umfasst Konzernresearch und Allianz Trade Economic Research. Keine Veröffentlichung der hochgeladenen PDF-Kopie im Repository; nur Originalquellenlink. SHA-256 der gelesenen Datei: 1b699a40afdcb9ab6ac917e40fd36b421c0ae829e898c00534b144d584f28cda.
+
+Inhaltseinordnung: Unternehmensrisiko, Forderungen, Liquidität und Brancheneinschätzungen, mit sekundären Wirkungsräumen für Industrie, IT, Energie und Logistik. Keine fingierten Kunden-/Partnerbeziehungen zu Herstellern aus diesen Branchen. Prognosen werden als datierter Research-Stand behandelt, ohne individuelle Bonitäts- oder Deckungszusage. Validierungsledger zählt das Atlas-Wissensobjekt auf Basis der dokumentierten Kapitel- und Methodikprüfung.
+
+Katalog: 5056 Objekte, 1356 Anbieter. Vergleichsübersicht fortgeschrieben auf 13.10.2026: 41 neue Anbieter und 339 neue Objekte seit bestehender Basis. Browser-QA hier nicht verfügbar; Pflichtprüfung npm run verify inklusive Build, interner Links und DE/EN-HTML-Funktionstests.

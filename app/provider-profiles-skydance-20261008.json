@@ -1,0 +1,105 @@
+{
+  "Skydance": {
+    "officialUrl": "https://www.skydance.com/",
+    "officialLabel": {
+      "de": "Skydance: offizielles Konzernangebot",
+      "en": "Skydance: official group offerings"
+    },
+    "metaDescription": {
+      "de": "Skydance im Wirkungsraum Medien und Öffentlichkeit: Content und Rechte, Streaming, Werbevermarktung, CTV Ads und technische Medienlieferung.",
+      "en": "Skydance in media and the public sphere: content and rights, streaming, advertising sales, CTV ads and technical media delivery."
+    },
+    "summary": {
+      "de": "Skydance ist im Verzeichnis als Medienkonzern und Betreiber von Content-, Streaming- und Werbeangeboten eingeordnet. Die offizielle Mitteilung vom 6. Oktober 2026 bestätigt die abgeschlossene Übernahme von Warner Bros. Discovery und den Konzernnamen Skydance Corporation, zuvor Paramount Skydance Corporation. Zum Verbund gehören unter anderem Paramount und Warner Bros., HBO Max und Paramount+, CBS News und CNN sowie Sport- und Unterhaltungsmarken. Für B2B-Kunden sind vor allem Content-Lizenzierung, Distributionspartnerschaften, Werbeinventar und technische Lieferprozesse relevant. Die Werbeübersicht erschließt die jeweiligen Vermarktungsangebote; Paramount Ads Manager bietet einen konkreten Self-Service-Zugang zu CTV-Kampagnen. Seine öffentlichen Angaben sind US-geprägt: Eine Nutzbarkeit und Inventarabdeckung für DACH wird hier nicht vorausgesetzt. Der Paramount Onboarding-Leitfaden unterstützt Produktionspartner bei Video-Master-Versionen für internationale Ausspielung. Die Ellison-Familie und die dokumentierte Technologiebeziehung zum Oracle-Ökosystem geben der Plattformstrategie zusätzlichen Kontext. Die Produktverantwortung umfasst digitale Plattformen, Werbung und KI; daraus lässt sich eine technologische Entwicklungsrichtung ableiten. Umfang, Umsetzung und externe Kaufbarkeit künftiger Plattformfunktionen sind jedoch gesondert zu prüfen. Die angekündigte Vereinigung der Streamingdienste ist ein Vorhaben. Für eine Zusammenarbeit zählen Region, Lizenzrechte, Laufzeiten, Werbeumfelder, Lieferformate, Messverfahren und Datenverantwortung. Oracle bleibt als eigenständiger Technologieanbieter getrennt; der Familienhintergrund belegt kein gemeinsames Cloudprodukt.",
+      "en": "Skydance is classified in this directory as a media group operating content, streaming and advertising offerings. Its official announcement of 6 October 2026 confirms the completed acquisition of Warner Bros. Discovery and the corporate name Skydance Corporation, formerly Paramount Skydance Corporation. The group includes Paramount and Warner Bros., HBO Max and Paramount+, CBS News and CNN, alongside sports and entertainment brands. For business customers, content licensing, distribution partnerships, advertising inventory and technical delivery workflows are particularly relevant. Its advertising overview leads to the respective sales offerings; Paramount Ads Manager provides a concrete self-service entry point for CTV campaigns. Public details are US-oriented: availability and inventory coverage for DACH are not assumed here. The Paramount onboarding guide supports production partners with video master versions for international distribution. The Ellison family and the documented technology relationship with the Oracle ecosystem provide additional context for the platform strategy. Product responsibilities cover digital platforms, advertising and AI, indicating a technological development direction. The scope, implementation and external availability of future platform capabilities require separate verification. The announced unification of streaming services remains an initiative. Collaboration requires assessment of territory, licensing rights, duration, advertising environments, delivery formats, measurement and data responsibilities. Oracle remains a separate technology provider; the family connection does not establish a joint cloud product."
+    },
+    "focus": {
+      "de": [
+        "Content-Produktion und Lizenzierung",
+        "Film-, TV- und Streaming-Distribution",
+        "Streamingdienste und digitale Reichweite",
+        "Werbevermarktung und Markenpartnerschaften",
+        "Paramount Ads Manager für CTV-Kampagnen",
+        "Video-Master und internationale Medienlieferung",
+        "Plattform- und KI-Strategie mit belegtem Oracle-Kontext"
+      ],
+      "en": [
+        "Content production and licensing",
+        "Film, television and streaming distribution",
+        "Streaming services and digital reach",
+        "Advertising sales and brand partnerships",
+        "Paramount Ads Manager for CTV campaigns",
+        "Video masters and international media delivery",
+        "Platform and AI strategy with documented Oracle context"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Medieneinkauf und Marketing",
+        "Content-Einkauf und Lizenzmanagement",
+        "Distributions- und Plattformpartnerschaften",
+        "Produktion und Postproduktion",
+        "Broadcast- und Streaming-Technik",
+        "Werbeoperationen und Kampagnenanalyse",
+        "Rechte, Datenschutz und Beschaffung"
+      ],
+      "en": [
+        "Media buying and marketing",
+        "Content acquisition and licensing management",
+        "Distribution and platform partnerships",
+        "Production and post-production",
+        "Broadcast and streaming engineering",
+        "Advertising operations and campaign analytics",
+        "Rights, privacy and procurement"
+      ]
+    },
+    "aliases": [
+      "Skydance Corporation",
+      "Paramount Skydance Corporation"
+    ],
+    "officialSources": [
+      {
+        "url": "https://www.skydance.com/news/press/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance",
+        "label": {
+          "de": "Skydance: Konzernportfolio nach dem WBD-Zusammenschluss",
+          "en": "Skydance: group portfolio after the WBD acquisition"
+        }
+      },
+      {
+        "url": "https://www.skydance.com/about/advertising",
+        "label": {
+          "de": "Skydance Advertising: Medienmarken und Werbezugänge",
+          "en": "Skydance Advertising: media brands and advertising access"
+        }
+      },
+      {
+        "url": "https://adsmanager.paramount.com/",
+        "label": {
+          "de": "Paramount Ads Manager: CTV-Kampagnen selbst planen",
+          "en": "Paramount Ads Manager: planning self-service CTV campaigns"
+        }
+      },
+      {
+        "url": "https://pop.paramount.com/video-requirements/",
+        "label": {
+          "de": "Paramount: technische Anforderungen an Video-Master",
+          "en": "Paramount: technical requirements for video masters"
+        }
+      },
+      {
+        "url": "https://www.skydance.com/about/leadership",
+        "label": {
+          "de": "Skydance: Zuständigkeiten für digitale Plattformen und KI",
+          "en": "Skydance: responsibilities for digital platforms and AI"
+        }
+      },
+      {
+        "url": "https://www.skydance.com/news/press/paramount-launches-all-cash-tender-offer-to-acquire-warner-bros-discovery-for-30-per-share",
+        "label": {
+          "de": "Skydance und Oracle: historischer Technologiebezug",
+          "en": "Skydance and Oracle: historical technology context"
+        }
+      }
+    ]
+  }
+}
