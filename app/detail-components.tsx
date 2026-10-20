@@ -1,5 +1,5 @@
 import {ArrowUpRight,ChevronRight} from "lucide-react";
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {portalPath,portalProfiles} from "./portal-directory";
 
 const taxonomyLinkClass="text-primary underline underline-offset-4 hover:text-primary/80 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary";

@@ -1,5 +1,5 @@
 import {englishText} from "./english";
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {editorialEntriesForProvider} from "./editorial-portals";
 import {portalPath} from "./portal-directory";
 

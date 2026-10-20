@@ -33,3 +33,7 @@ Freitext, Portal, Themen- und Taxonomiefilter sowie der aktive Tab werden in der
 ## Assets unter dem Cloudflare-Unterpfad
 
 Der Produktions-Build verwendet die öffentliche Asset-Basis aus `.openai/project-contract.json`. Damit zeigen auch dynamische JavaScript-Imports auf `/smarttech/assets/`, nicht auf die Blogger-Domainwurzel `/assets/`. Die HTML-Seite allein ist kein ausreichender Funktionstest: `verify:live` prüft zusätzlich den Bootstrap-Import und dessen JavaScript-Antwort. Dynamisch erzeugte Suchtreffer und Sprachlinks erhalten denselben öffentlichen Pfadpräfix.
+
+## Stabile Navigation und schlanke Leseseiten
+
+Öffentliche Inhaltslinks verwenden normale HTML-Navigation. Nur die beiden Katalogseiten benötigen die interaktive React-Anwendung. Anbieter-, Wissens-, Portal- und Rechteseiten werden vollständig auf dem Server gerendert und ohne Hydrierungs- oder RSC-Skripte ausgeliefert; strukturierte JSON-LD-Daten und CSS bleiben erhalten. Dadurch werden reine Leseseiten nicht durch unterbrochene RSC-Verbindungen im vorgeschalteten Proxy leer und laden kein unnötiges Katalog-JavaScript.

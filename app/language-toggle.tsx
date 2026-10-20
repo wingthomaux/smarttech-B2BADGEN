@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/app/public-link";
 
 export function LanguageToggle({locale,href}:{locale:"de"|"en";href:string}){
   const english=locale==="en";

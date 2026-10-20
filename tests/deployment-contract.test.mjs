@@ -30,3 +30,9 @@ test("production JavaScript bootstrap preserves the Cloudflare public path",asyn
   const name=new URL(bootstrap).pathname.split("/").at(-1);
   const bytes=await readFile(new URL("../dist/client/assets/"+name,import.meta.url));assert.ok(bytes.length>0);
 });
+test("read-only detail pages keep their content and structured data without hydration",async()=>{
+  const html=await (await page("/en/providers/serviceware-18pih")).text();
+  assert.ok(html.includes("Serviceware"));assert.ok(html.includes("application/ld+json"));
+  assert.doesNotMatch(html,/__VINEXT_RSC_|import\(/);assert.doesNotMatch(html,/rel="modulepreload"/);
+  const legalHtml=await (await page("/datenschutz")).text();assert.ok(legalHtml.includes('id="legal-content"'));assert.doesNotMatch(legalHtml,/__VINEXT_RSC_/);
+});

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {LanguageToggle} from "./language-toggle";
 
 type Locale="de"|"en";

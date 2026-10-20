@@ -1,7 +1,7 @@
 import {KnowledgeProviderRelations} from "@/app/provider-relations";
 import {MediaTaxonomyFacts} from "@/app/media-taxonomy-facts";
 import type {Metadata} from "next";
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {notFound,permanentRedirect} from "next/navigation";
 import {Badge} from "@/components/ui/badge";
 import {getKnowledge} from "@/app/catalog";

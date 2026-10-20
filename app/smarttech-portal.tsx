@@ -3,7 +3,7 @@
 import {hasPendingProviderAudit,searchCatalog,englishText,machineTranslated} from "./portal-client-data";
 
 import {useDeferredValue,useEffect,useMemo,useState,useSyncExternalStore} from "react";
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {ArrowUpRight,Building2,ChevronRight,Compass,FileSearch2,Layers3,Search,ShieldCheck,Sparkles,X} from "lucide-react";
 import {Badge} from "@/components/ui/badge";
 import {Button} from "@/components/ui/button";
