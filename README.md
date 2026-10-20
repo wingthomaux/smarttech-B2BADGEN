@@ -1,5 +1,7 @@
 # SmartTech
 
+Verbindlicher Veröffentlichungs- und Mehrgeräteworkflow: [docs/VEROEFFENTLICHUNG.md](docs/VEROEFFENTLICHUNG.md).
+
 Quellprojekt des öffentlichen SmartTech-Portals unter
 [smarttech.b2badgen.com](https://smarttech.b2badgen.com). Das Portal bündelt
 beobachtete, kuratierte und künftig Community-basierte B2B-Technologieinhalte

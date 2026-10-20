@@ -7,7 +7,7 @@
   },
   "scripts": {
     "install:ci": "bash scripts/install-ci.sh",
-    "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vite",
+    "dev": "node scripts/generate-portal-index.mjs && WRANGLER_LOG_PATH=.wrangler/wrangler.log vite",
     "build": "bash scripts/build-verified.sh",
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
     "test": "npm run build && node scripts/check-internal-links.mjs && node --test tests/*.test.mjs",
@@ -28,9 +28,11 @@
     "translate:telecom-wave2": "node scripts/add-telecom-wave2-english-translations-20260922.mjs",
     "translate:weka": "node scripts/add-weka-english-translations-20260916.mjs",
     "translate:en": "python scripts/generate-english-translations.py",
-    "release:check": "node scripts/check-collaboration.mjs --release",
-    "verify": "npm run lint && npm run source:candidates:check && npm test",
-    "db:generate": "bash scripts/sites-env.sh -- drizzle-kit generate"
+    "release:check": "node scripts/check-project-contract.mjs && node scripts/check-collaboration.mjs --release",
+    "verify": "npm run project:check && npm run lint && npm run source:candidates:check && npm test",
+    "db:generate": "bash scripts/sites-env.sh -- drizzle-kit generate",
+    "project:check": "node scripts/check-project-contract.mjs",
+    "verify:live": "node scripts/check-live.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

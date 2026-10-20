@@ -1,0 +1,4 @@
+{
+  "portal_max_bytes": 6000000,
+  "portal_max_gzip_bytes": 1250000
+}

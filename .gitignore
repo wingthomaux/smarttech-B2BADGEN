@@ -40,3 +40,6 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
+
+# Derived compact browser data, recreated by the build
+/app/portal-client-data.generated.json

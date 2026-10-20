@@ -1,0 +1,11 @@
+import raw from "./portal-client-data.generated.json";
+import {decodePortalData} from "./decode-portal-data";
+import {buildSearchCatalog} from "./search-catalog";
+import type {KnowledgeItem,Provider,Publication} from "./catalog";
+const data=decodePortalData(raw.strings,raw.payload) as {knowledge:KnowledgeItem[];publications:Publication[];companies:Array<Omit<Provider,"items">&{items:number[]}>;translations:Array<[string,string]>;machineTitles:string[];pendingNames:string[]};
+export const searchCatalog=buildSearchCatalog({knowledge:data.knowledge,companies:data.companies.map(company=>({...company,items:company.items.map(index=>data.publications[index])}))});
+const pending=new Set(data.pendingNames),machineTitles=new Set(data.machineTitles);
+const translations:Record<string,string>=Object.fromEntries(data.translations);
+export const hasPendingProviderAudit=(name:string)=>pending.has(name);
+export const englishText=(value:string|undefined)=>value?translations[value]||value.trim():"";
+export const machineTranslated=(item:{title:string})=>machineTitles.has(item.title);

@@ -1,5 +1,7 @@
 # SmartTech mit Codex auf mehreren Rechnern
 
+> Aktueller Veröffentlichungsworkflow seit 20. Oktober 2026: siehe `VEROEFFENTLICHUNG.md`. GitHub-main ist die kanonische Quelle; das produktive Sites-Projekt ist `appgprj_6ad63cbda0a08191ab86bf31aca918e5`. Angaben zu früheren Projektkennungen und Versionen weiter unten sind historische Ausgangsstände.
+
 ## Zielbild
 
 Beide Rechner greifen auf dasselbe bestehende Sites-Projekt und dasselbe Git-Repository zu. Sie bearbeiten jedoch nie denselben Branch. `origin/main` ist der gemeinsame Integrations- und Veröffentlichungsstand; jede Aufgabe entsteht in einem eigenen Branch oder Codex-Worktree.

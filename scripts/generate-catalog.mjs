@@ -37,7 +37,7 @@ const [official,thiemeBechtle,schwarzDehner,nvidiaGtc,telegaertner,serviceware,m
 const vite=await createServer({appType:"custom",configFile:false,root,resolve:{alias:{"@":root}},server:{middlewareMode:true}});
 try{
   const [{pilots},{classifyOffers,classifyHighPriorityOffers,classifyAllRemainingOffers},{providerFamily},{publicationAttribution},{euaigfCompanies},{editorialEntriesForProvider},{applyMediaTaxonomy}]=await Promise.all([
-    vite.ssrLoadModule("/app/smarttech-portal.tsx"),
+    vite.ssrLoadModule("/app/pilot-data.ts"),
     vite.ssrLoadModule("/app/offer-classification.ts"),
     vite.ssrLoadModule("/app/provider-normalization.ts"),
     vite.ssrLoadModule("/app/publication-attribution.ts"),
