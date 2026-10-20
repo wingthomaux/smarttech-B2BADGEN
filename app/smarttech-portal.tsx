@@ -74,8 +74,8 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
   const initialMediaValue=(key:string,options:readonly string[])=>initialSpace===mediaSpace&&options.includes(initialValue(key)||"")?initialValue(key)!:"alle";
   const isEn=locale==="en";
   const tx=(value:string)=>isEn?englishText(value):value;
-  const kPath=(item:{id:number;title:string})=>isEn?englishKnowledgePath(item,englishText(item.title)):knowledgePath(item);
-  const pPath=(name:string)=>isEn?englishProviderPath(name):providerPath(name);
+  const kPath=(item:{id:number;title:string})=>publicPrefix+(isEn?englishKnowledgePath(item,englishText(item.title)):knowledgePath(item));
+  const pPath=(name:string)=>publicPrefix+(isEn?englishProviderPath(name):providerPath(name));
   const data=searchCatalog.publications;
   const [profileIndex,setProfileIndex]=useState<{names:string[];get:(name:string)=>ProviderProfile|undefined}|null>(null);
   const [query,setQuery]=useState(initialValue("q")||"");
@@ -193,7 +193,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
   return <main className="min-h-screen bg-background text-foreground">
     <header className="sticky top-0 z-30 border-b border-border/80 bg-background/95 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-[1440px] items-center justify-between px-5 lg:px-10">
-        <Link href={isEn?"/en":"/"} className="flex items-center gap-3" aria-label={isEn?"SmartTech home":"SmartTech Startseite"}>
+        <Link href={catalogLanguageHref(locale,"",publicPrefix)} className="flex items-center gap-3" aria-label={isEn?"SmartTech home":"SmartTech Startseite"}>
           <span className="grid size-8 place-items-center bg-primary text-xs font-black text-primary-foreground">ST</span>
           <span className="font-semibold">SmartTech</span>
           <span className="hidden border-l pl-3 text-sm text-muted-foreground sm:block">{isEn?"Technology knowledge for investment":"Technologiewissen für Investitionen"}</span>
@@ -227,7 +227,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
             <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
               <span><strong className="text-foreground">{data.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"observed publications":"beobachtete Publikationen"}</span>
               <span><strong className="text-foreground">{companies.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"normalised providers":"normalisierte Anbieter"}</span>
-              <Link href={isEn?"/en/portals":"/portale"} className="hover:text-primary hover:underline"><strong className="text-foreground">{portalProfiles.length}</strong> {isEn?"portals":"Portale"}</Link>
+              <Link href={publicPrefix+(isEn?"/en/portals":"/portale")} className="hover:text-primary hover:underline"><strong className="text-foreground">{portalProfiles.length}</strong> {isEn?"portals":"Portale"}</Link>
             </div>
           </div>
         </div>

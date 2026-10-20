@@ -29,3 +29,7 @@ Immer mit frisch abgerufenem GitHub-`main` in einem eigenen Aufgabenbranch begin
 ## Suchzustände und Datenschutz
 
 Freitext, Portal, Themen- und Taxonomiefilter sowie der aktive Tab werden in der URL gespeichert. Sie bleiben beim Sprachwechsel erhalten. „Suche teilen“ kopiert nur die Rechercheparameter; Trackingparameter werden nicht mitgeteilt. Es wird kein zusätzlicher Browser-Speicher angelegt. Persönliche oder vertrauliche Suchbegriffe sollten nicht in geteilten Links stehen.
+
+## Assets unter dem Cloudflare-Unterpfad
+
+Der Produktions-Build verwendet die öffentliche Asset-Basis aus `.openai/project-contract.json`. Damit zeigen auch dynamische JavaScript-Imports auf `/smarttech/assets/`, nicht auf die Blogger-Domainwurzel `/assets/`. Die HTML-Seite allein ist kein ausreichender Funktionstest: `verify:live` prüft zusätzlich den Bootstrap-Import und dessen JavaScript-Antwort. Dynamisch erzeugte Suchtreffer und Sprachlinks erhalten denselben öffentlichen Pfadpräfix.
