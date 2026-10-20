@@ -11,6 +11,7 @@ export function GET(){
     ...["/portale","/en/portals",...portalProfiles.flatMap(portal=>[portalPath(portal.name),portalPath(portal.name,"en")])].map(path=>entry(absoluteUrl(path),generated,"weekly","0.6")),
     entry(absoluteUrl("/"),generated,"daily","1.0"),
     entry(absoluteUrl("/en"),generated,"daily","0.9"),
+    ...["/impressum","/datenschutz","/en/imprint","/en/privacy"].map(path=>entry(absoluteUrl(path),"2026-10-20","yearly","0.3")),
     ...catalog.knowledge.map(item=>entry(absoluteUrl(knowledgePath(item)),item.datePublished||generated,"monthly","0.7")),
     ...catalog.knowledge.map(item=>entry(absoluteUrl(englishKnowledgePath(item,englishText(item.title))),item.datePublished||generated,"monthly","0.7")),
     ...catalog.companies.map(provider=>entry(absoluteUrl(providerPath(provider.name)),generated,"weekly","0.6")),
