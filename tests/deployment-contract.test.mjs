@@ -23,3 +23,10 @@ test("sitemap uses only recorded page modification dates, not source publication
 test("shared research URLs restore free text and the selected portal",async()=>{
   const html=await (await page('/?q=IGEL&portal=ComputerWeekly&tab=anbieter')).text();assert.match(html,/value="IGEL"/);assert.ok(html.includes('/en?q=IGEL&amp;portal=ComputerWeekly&amp;tab=anbieter'));assert.ok(html.includes('Suche teilen'));
 });
+test("production JavaScript bootstrap preserves the Cloudflare public path",async()=>{
+  const html=await (await page("/")).text();
+  const bootstrap=html.match(/import\("([^\"]+\.js)"\)/)?.[1];
+  assert.ok(bootstrap?.startsWith("https://www.b2badgen.com/smarttech/assets/"),bootstrap);
+  const name=new URL(bootstrap).pathname.split("/").at(-1);
+  const bytes=await readFile(new URL("../dist/client/assets/"+name,import.meta.url));assert.ok(bytes.length>0);
+});

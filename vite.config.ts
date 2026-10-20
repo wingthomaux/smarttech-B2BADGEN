@@ -1,6 +1,7 @@
 import vinext from "vinext";
 import { defineConfig } from "vite";
 import hostingConfig from "./.openai/hosting.json";
+import projectContract from "./.openai/project-contract.json";
 import { sites } from "./build/sites-vite-plugin";
 
 const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
@@ -33,7 +34,7 @@ const localBindingConfig = {
     : [],
 };
 
-export default defineConfig(async () => {
+export default defineConfig(async ({command}) => {
   // Keep Wrangler and Miniflare state project-local. These are non-secret tool
   // settings; application environment belongs in ignored `.env*` files.
   process.env.WRANGLER_WRITE_LOGS ??= "false";
@@ -44,6 +45,8 @@ export default defineConfig(async () => {
   const { cloudflare } = await import("@cloudflare/vite-plugin");
 
   return {
+    // Cloudflare serves production below /smarttech; keep bootstrap and lazy assets on that public path.
+    base: command === "build" ? `${projectContract.public_origin}${projectContract.public_prefix}/` : "/",
     server: {
       host: "0.0.0.0",
       allowedHosts: ["terminal.local"],
