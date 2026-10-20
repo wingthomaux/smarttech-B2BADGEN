@@ -1,0 +1,348 @@
+{
+  "regions": [
+    {
+      "id": "deutschland",
+      "name": {
+        "de": "Deutschland",
+        "en": "Germany"
+      },
+      "parent": null,
+      "kind": "country"
+    },
+    {
+      "id": "oesterreich",
+      "name": {
+        "de": "Österreich",
+        "en": "Austria"
+      },
+      "parent": null,
+      "kind": "country"
+    },
+    {
+      "id": "schweiz",
+      "name": {
+        "de": "Schweiz",
+        "en": "Switzerland"
+      },
+      "parent": null,
+      "kind": "country"
+    },
+    {
+      "id": "baden-wuerttemberg",
+      "name": {
+        "de": "Baden-Württemberg",
+        "en": "Baden-Württemberg"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "bayern",
+      "name": {
+        "de": "Bayern",
+        "en": "Bavaria"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "berlin",
+      "name": {
+        "de": "Berlin",
+        "en": "Berlin"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "bremen",
+      "name": {
+        "de": "Bremen",
+        "en": "Bremen"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "hessen",
+      "name": {
+        "de": "Hessen",
+        "en": "Hesse"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "niedersachsen",
+      "name": {
+        "de": "Niedersachsen",
+        "en": "Lower Saxony"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "nordrhein-westfalen",
+      "name": {
+        "de": "Nordrhein-Westfalen",
+        "en": "North Rhine-Westphalia"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "rheinland-pfalz",
+      "name": {
+        "de": "Rheinland-Pfalz",
+        "en": "Rhineland-Palatinate"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "sachsen",
+      "name": {
+        "de": "Sachsen",
+        "en": "Saxony"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "thueringen",
+      "name": {
+        "de": "Thüringen",
+        "en": "Thuringia"
+      },
+      "parent": "deutschland",
+      "kind": "state"
+    },
+    {
+      "id": "wien",
+      "name": {
+        "de": "Wien",
+        "en": "Vienna"
+      },
+      "parent": "oesterreich",
+      "kind": "state"
+    },
+    {
+      "id": "zuerich",
+      "name": {
+        "de": "Zürich",
+        "en": "Zurich"
+      },
+      "parent": "schweiz",
+      "kind": "canton"
+    },
+    {
+      "id": "st-gallen",
+      "name": {
+        "de": "St. Gallen",
+        "en": "St. Gallen"
+      },
+      "parent": "schweiz",
+      "kind": "canton"
+    }
+  ],
+  "locations": [
+    {
+      "provider": "Serviceware",
+      "entity": "Serviceware SE",
+      "city": "Idstein",
+      "region": "hessen",
+      "kind": "headquarters",
+      "sourceUrl": "https://serviceware-se.com/de/unternehmen/standorte",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Siemens",
+      "entity": "Siemens AG",
+      "city": "München",
+      "region": "bayern",
+      "kind": "headquarters",
+      "sourceUrl": "https://www.siemens.com/de-de/company/global-locations/germany/munich-corporate-headquarters/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Siemens",
+      "entity": "Siemens AG",
+      "city": "Berlin",
+      "region": "berlin",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.siemens.com/de-de/company/global-locations/germany/berlin-siemensstadt/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "SAP",
+      "entity": "SAP SE",
+      "city": "Walldorf",
+      "region": "baden-wuerttemberg",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.sap.com/swiss/about/legal/impressum-se.html",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Bechtle",
+      "entity": "Bechtle AG",
+      "city": "Neckarsulm",
+      "region": "baden-wuerttemberg",
+      "kind": "registered-office",
+      "sourceUrl": "https://reports.bechtle.com/geschaeftsbericht/2025/services/impressum.html",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Infineon",
+      "entity": "Infineon Technologies AG",
+      "city": "Neubiberg",
+      "region": "bayern",
+      "kind": "office",
+      "sourceUrl": "https://www.infineon.com/de/about/investor/corporate-governance/compliance/ifx-contacts",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "M-net",
+      "entity": "M-net Telekommunikations GmbH",
+      "city": "München",
+      "region": "bayern",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.m-net.de/rechtliches/impressum",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Phoenix Contact",
+      "entity": "Phoenix Contact GmbH & Co. KG",
+      "city": "Blomberg",
+      "region": "nordrhein-westfalen",
+      "kind": "headquarters",
+      "sourceUrl": "https://www.phoenixcontact.com/de-de/impressum",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Phoenix Contact",
+      "entity": "Phoenix Contact Deutschland GmbH",
+      "city": "Böblingen",
+      "region": "baden-wuerttemberg",
+      "kind": "office",
+      "sourceUrl": "https://www.phoenixcontact.com/de-de/unternehmen/vertrieb-deutschland",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Phoenix Contact",
+      "entity": "Phoenix Contact Deutschland GmbH",
+      "city": "Leipzig",
+      "region": "sachsen",
+      "kind": "office",
+      "sourceUrl": "https://www.phoenixcontact.com/de-de/unternehmen/vertrieb-deutschland",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "IGEL",
+      "entity": "IGEL Technology GmbH",
+      "city": "Bremen",
+      "region": "bremen",
+      "kind": "headquarters",
+      "sourceUrl": "https://www.igel.com/legal-notice/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "IGEL",
+      "entity": "IGEL Technology GmbH",
+      "city": "Augsburg",
+      "region": "bayern",
+      "kind": "development",
+      "sourceUrl": "https://www.igel.com/legal-notice/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "IGEL",
+      "entity": "IGEL Technology (Austria) GmbH",
+      "city": "Wien",
+      "region": "wien",
+      "kind": "office",
+      "sourceUrl": "https://www.igel.com/legal-notice/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "G DATA CyberDefense",
+      "entity": "G DATA CyberDefense AG",
+      "city": "Bochum",
+      "region": "nordrhein-westfalen",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.gdata.de/en/imprint",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Hornetsecurity by Proofpoint",
+      "entity": "Hornetsecurity GmbH",
+      "city": "Hannover",
+      "region": "niedersachsen",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.hornetsecurity.com/de/impressum/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Deutsche Telekom",
+      "entity": "Deutsche Telekom AG",
+      "city": "Bonn",
+      "region": "nordrhein-westfalen",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.telekom.com/de/allgemein/impressum",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "IONOS",
+      "entity": "IONOS SE",
+      "city": "Montabaur",
+      "region": "rheinland-pfalz",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.ionos.de/impressum",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "IONOS",
+      "entity": "IONOS SE",
+      "city": "Karlsruhe",
+      "region": "baden-wuerttemberg",
+      "kind": "office",
+      "sourceUrl": "https://www.ionos.de/impressum",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "ESET Deutschland",
+      "entity": "ESET Deutschland GmbH",
+      "city": "Jena",
+      "region": "thueringen",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.eset.com/de/impressum/",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "ABB",
+      "entity": "ABB Asea Brown Boveri Ltd",
+      "city": "Zürich",
+      "region": "zuerich",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.abb.com/global/en/company/provider-information",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Swissbit",
+      "entity": "Swissbit AG",
+      "city": "Bronschhofen",
+      "region": "st-gallen",
+      "kind": "registered-office",
+      "sourceUrl": "https://www.swissbit.com/de/rechtliches/impressum",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "provider": "Swissbit",
+      "entity": "Swissbit Germany AG",
+      "city": "Berlin",
+      "region": "berlin",
+      "kind": "office",
+      "sourceUrl": "https://www.swissbit.com/de/rechtliches/impressum",
+      "checkedAt": "2026-10-20"
+    }
+  ]
+}

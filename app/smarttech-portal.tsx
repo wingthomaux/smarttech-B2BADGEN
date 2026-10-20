@@ -227,6 +227,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
             <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
               <span><strong className="text-foreground">{data.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"observed publications":"beobachtete Publikationen"}</span>
               <span><strong className="text-foreground">{companies.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"normalised providers":"normalisierte Anbieter"}</span>
+              <Link href={publicPrefix+(isEn?"/en/regions":"/regionen")} className="font-semibold text-primary hover:underline">{isEn?"Find providers by region →":"Anbieter nach Region finden →"}</Link>
               <Link href={publicPrefix+(isEn?"/en/portals":"/portale")} className="hover:text-primary hover:underline"><strong className="text-foreground">{portalProfiles.length}</strong> {isEn?"portals":"Portale"}</Link>
             </div>
           </div>

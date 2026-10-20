@@ -1,3 +1,4 @@
+import {regions,regionPath} from "@/app/regions";
 import {portalProfiles,portalPath} from "@/app/portal-directory";
 import {catalog} from "@/app/catalog";
 import {absoluteUrl,englishKnowledgePath,englishProviderPath,knowledgePath,providerPath} from "@/app/catalog-paths";
@@ -8,6 +9,7 @@ function entry(url:string,changeFrequency:string,priority:string){const path=new
 
 export function GET(){
   const urls=[
+    ...[regionPath(),regionPath(undefined,"en"),...regions.flatMap(region=>[regionPath(region.id),regionPath(region.id,"en")])].map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     ...["/portale","/en/portals",...portalProfiles.flatMap(portal=>[portalPath(portal.name),portalPath(portal.name,"en")])].map(path=>entry(absoluteUrl(path),"weekly","0.6")),
     entry(absoluteUrl("/"),"daily","1.0"),
     entry(absoluteUrl("/en"),"daily","0.9"),
