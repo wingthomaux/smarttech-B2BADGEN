@@ -3,7 +3,7 @@ import {RelatedProviderProfiles} from "@/app/provider-relations";
 import {editorialEntriesForProvider} from "@/app/editorial-portals";
 import {EditorialPortalReferences} from "@/app/editorial-portal-references";
 import type {Metadata} from "next";
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {notFound,permanentRedirect} from "next/navigation";
 import {Badge} from "@/components/ui/badge";
 import {getKnowledgeById,getProvider,type Provider} from "@/app/catalog";

@@ -661,7 +661,8 @@ test("IGEL editorial additions link all three existing portals and disclose vend
     assert.equal(response.status,200);
     const html=await response.text();
     assert.ok(html.includes(item.url));
-    assert.ok(html.includes(item.sourcePortals[0]));
+    // Check the visible canonical label, independent of capitalization in source metadata.
+    assert.ok(html.toLocaleLowerCase("de").includes(item.sourcePortals[0].toLocaleLowerCase("de")));
     if(item.id===770003){assert.ok(html.includes("Hersteller-Gastbeitrag"));assert.ok(html.includes("keine unabhängige Redaktionsanalyse"));}
   }
   for(const prefix of ["anbieter","en/providers"]){

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/app/public-link";
 export function SiteLegalFooter(){
   return <footer className="border-t bg-white" aria-label="Legal information / Rechtliche Informationen">
     <div className="mx-auto flex max-w-[1440px] flex-col justify-between gap-4 px-5 py-7 text-xs text-muted-foreground sm:flex-row sm:items-center lg:px-10">

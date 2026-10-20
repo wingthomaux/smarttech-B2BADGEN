@@ -1,3 +1,4 @@
+import {readPageHtml} from "./read-page-html";
 /** Cloudflare Worker entry point for the vinext-starter template. */
 import { handleImageOptimization, DEFAULT_DEVICE_SIZES, DEFAULT_IMAGE_SIZES } from "vinext/server/image-optimization";
 import handler from "vinext/server/app-router-entry";
@@ -40,7 +41,13 @@ const worker = {
       }, allowedWidths);
     }
 
-    return handler.fetch(request, env, ctx);
+    const response=await handler.fetch(request, env, ctx);
+    const catalogPage=url.pathname==="/"||url.pathname==="/en"||url.pathname==="/en/";
+    if(!catalogPage&&response.headers.get("content-type")?.includes("text/html")){
+      const headers=new Headers(response.headers);headers.delete("content-length");
+      return new Response(readPageHtml(await response.text()),{status:response.status,statusText:response.statusText,headers});
+    }
+    return response;
   },
 };
 

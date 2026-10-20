@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/app/public-link";
 import {notFound} from "next/navigation";
 import {SiteHeader} from "./site-header";
 import {englishKnowledgePath,knowledgePath} from "./catalog-paths";
