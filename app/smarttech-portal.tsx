@@ -458,7 +458,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
       {limit<filtered.length&&<div className="border-t pt-6 text-center"><Button variant="outline" onClick={()=>setLimit(value=>value+23)} className="rounded-none">{isEn?"Show 23 more":"Weitere 23 anzeigen"}</Button></div>}
     </section>
 
-    <footer className="border-t"><div className="mx-auto flex max-w-[1440px] flex-col gap-3 px-5 py-8 text-xs text-muted-foreground sm:flex-row sm:justify-between lg:px-10"><p>{isEn?"SmartTech · Open orientation in the B2B technology market":"SmartTech · Offene Orientierung im B2B-Technologiemarkt"}</p><p>{isEn?"Direct original references · no lead marketing · Scoring 0.2":"Direkte Originalverweise · keine Lead-Vermarktung · Scoring 0.2"}</p></div></footer>
+    <div className="border-t bg-muted/30"><div className="mx-auto flex max-w-[1440px] flex-col gap-3 px-5 py-6 text-xs text-muted-foreground sm:flex-row sm:justify-between lg:px-10"><p>{isEn?"SmartTech · Open orientation in the B2B technology market":"SmartTech · Offene Orientierung im B2B-Technologiemarkt"}</p><p>{isEn?"Direct original references · no lead marketing · Scoring 0.2":"Direkte Originalverweise · keine Lead-Vermarktung · Scoring 0.2"}</p></div></div>
 
   </main>
 }
