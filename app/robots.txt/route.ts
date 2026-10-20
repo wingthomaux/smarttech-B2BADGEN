@@ -20,8 +20,7 @@ User-agent: Grok
 Allow: /
 
 User-agent: *
-Allow: /$
-Disallow: /
+Allow: /
 
 Sitemap: https://smarttech.b2badgen.com/sitemap.xml
 `;

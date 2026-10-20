@@ -4,7 +4,7 @@ Diese Regeln gelten für jede Codex-Sitzung und jeden Rechner, der dieses Reposi
 
 ## Gemeinsamer Stand
 
-- `origin/main` ist die einzige kanonische Quelle und entspricht dem zuletzt freigegebenen Quellstand.
+- `wingthomaux/smarttech-B2BADGEN` auf GitHub, Branch `main`, ist die kanonische Quelle. Das bestehende Sites-Repository ist ein Veröffentlichungsspiegel. Beide müssen vor einer Veröffentlichung denselben Git-Dateibaum besitzen; ihre Commit-IDs dürfen aufgrund unterschiedlicher Historien abweichen. Siehe `docs/VEROEFFENTLICHUNG.md`.
 - Beginne Änderungen nie direkt auf `main`. Erzeuge pro Aufgabe und Rechner einen eigenen Branch oder einen Codex-Worktree von einem frisch abgerufenen `origin/main`.
 - Verwende Branch-Namen nach dem Muster `codex/<rechner>/<thema>-YYYYMMDD`, zum Beispiel `codex/notebook/account-matching-20260909`.
 - Derselbe Branch darf nicht gleichzeitig auf zwei Rechnern ausgecheckt sein.
@@ -24,7 +24,7 @@ Diese Regeln gelten für jede Codex-Sitzung und jeden Rechner, der dieses Reposi
 ## Fachliche Schutzregeln
 
 - Bewahre stabile Detailseiten, Originalquellen, Taxonomie, Sitemap und die vorhandene Trennung `Beobachtet` / `Kuratiert` / `Community`.
-- Bewahre die `robots.txt`-Regel: OpenAI- und xAI/Grok-Crawler dürfen alle Seiten abrufen; andere Crawler nur die Startseite.
+- Bewahre die am 19. Oktober 2026 freigegebene `robots.txt`-Regel: Alle Crawler dürfen öffentliche Inhaltsseiten in beiden Sprachen abrufen. Die frühere Beschränkung allgemeiner Crawler auf die Startseite ist aufgehoben.
 - Kommunikationsagenturen und Mittler wie H Zwo B sind keine Anbieter. Ordne Veröffentlichungen dem belegten realen Anbieter zu und erwähne den Mittler höchstens als `via`.
 - Die bekannten Steuerberatungsgesellschaften bleiben im Datenbestand, erscheinen aber nicht in Top-Listen.
 - Account-Zuordnungen müssen konservativ erfolgen. Direkte Dateitreffer und aus Portfoliowirkung abgeleitete `(S)`-/`(T)`-Zuordnungen bleiben im Projekt unterscheidbar.

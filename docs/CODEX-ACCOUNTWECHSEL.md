@@ -1,5 +1,7 @@
 # SmartTech – Übergabe an einen anderen Codex-/GPT-Account
 
+> Aktueller Veröffentlichungsworkflow seit 20. Oktober 2026: siehe `VEROEFFENTLICHUNG.md`. GitHub-main ist die kanonische Quelle; das produktive Sites-Projekt ist `appgprj_6ad63cbda0a08191ab86bf31aca918e5`. Angaben zu früheren Projektkennungen und Versionen weiter unten sind historische Ausgangsstände.
+
 Dieses Repository enthält den vollständigen, freigegebenen Quell- und Arbeitsstand des öffentlichen SmartTech-Portals. Der Chatverlauf ist für die Fortsetzung nicht erforderlich. Verbindlich sind `origin/main`, `.openai/hosting.json`, `AGENTS.md` und die nachfolgend genannten persistenten Projektdateien.
 
 ## Zugriff mit einem anderen GPT-Account
@@ -49,7 +51,7 @@ Generierte JSON-Dateien nur über ihren Generator oder eine nachvollziehbare det
 - Anbieterfamilien werden nur bei belastbarer Evidenz zusammengeführt.
 - Zuständigkeitskürzel erscheinen in der Oberfläche, jedoch nie in Anbietername, URL, Canonical, Metadaten oder strukturierten Daten.
 - Deutsche und englische Detailseiten besitzen stabile eigene URLs und gegenseitige Sprachalternativen. Deutsche Inhalte werden in der englischen Fassung als automatisch übersetzt gekennzeichnet; bereits englische Originaltitel bleiben unverändert.
-- OpenAI- und xAI/Grok-Crawler dürfen alle Seiten abrufen; alle anderen Crawler nur die Homepage.
+- Seit der Nutzerfreigabe vom 19. Oktober 2026 dürfen alle Crawler öffentliche Inhaltsseiten in beiden Sprachen abrufen. Die frühere Homepage-Beschränkung ist aufgehoben.
 
 ## Start auf dem anderen Rechner
 

@@ -293,7 +293,9 @@ test("serves canonical detail metadata, crawler rules and sitemap",async()=>{
   const robotsText=await (await worker.fetch(new Request("http://localhost/robots.txt"),env,ctx)).text();
   assert.match(robotsText,/User-agent: OAI-SearchBot\nAllow: \//);
   assert.match(robotsText,/User-agent: GrokBot\nAllow: \//);
-  assert.match(robotsText,/User-agent: \*\nAllow: \/\$\nDisallow: \//);
+  assert.match(robotsText,/User-agent: \*\nAllow: \//);
+  assert.doesNotMatch(robotsText,/^Disallow:\s*\/\s*$/m);
+  assert.ok(robotsText.includes("Sitemap: https://smarttech.b2badgen.com/sitemap.xml"));
   const sitemap=await worker.fetch(new Request("http://localhost/sitemap.xml"),env,ctx);
   assert.equal(sitemap.status,200);const sitemapText=await sitemap.text();
   assert.match(sitemapText,/https:\/\/smarttech\.b2badgen\.com\/wissen\/1-one-view-for-all-your-engineering-data/);
