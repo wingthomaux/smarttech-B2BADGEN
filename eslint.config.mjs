@@ -11,6 +11,8 @@ const eslintConfig = defineConfig([
     ".next/**",
     "out/**",
     "build/**",
+    // Local release mirrors and packages are ignored scratch data, not application source.
+    "work/**",
     "next-env.d.ts",
   ]),
   {
