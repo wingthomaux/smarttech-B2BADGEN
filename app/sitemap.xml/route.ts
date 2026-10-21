@@ -8,7 +8,7 @@ function entry(url:string,changeFrequency:string,priority:string){const path=new
 
 export function GET(){
   const urls=[
-    ...["/region/wittlich","/en/region/wittlich"].map(path=>entry(absoluteUrl(path),"monthly","0.6")),
+    ...["wittlich","muenchen-stadt","muenchen-landkreis"].flatMap(slug=>["/region/"+slug,"/en/region/"+slug]).map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     ...["/portale","/en/portals",...portalProfiles.flatMap(portal=>[portalPath(portal.name),portalPath(portal.name,"en")])].map(path=>entry(absoluteUrl(path),"weekly","0.6")),
     entry(absoluteUrl("/"),"daily","1.0"),
     entry(absoluteUrl("/en"),"daily","0.9"),
