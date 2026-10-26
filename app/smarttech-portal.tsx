@@ -228,6 +228,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
               <span><strong className="text-foreground">{data.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"observed publications":"beobachtete Publikationen"}</span>
               <span><strong className="text-foreground">{companies.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"normalised providers":"normalisierte Anbieter"}</span>
               <Link href={publicPrefix+(isEn?"/en/portals":"/portale")} className="hover:text-primary hover:underline"><strong className="text-foreground">{portalProfiles.length}</strong> {isEn?"portals":"Portale"}</Link>
+              <Link href={publicPrefix+(isEn?"/en/region/eworld":"/region/eworld")} className="hover:text-primary hover:underline">eWorld · 798 {isEn?"exhibitors":"Aussteller"}</Link>
               <Link href={publicPrefix+(isEn?"/en/region/wittlich":"/region/wittlich")} className="hover:text-primary hover:underline">{isEn?"Regions: Wittlich":"Regionen: Wittlich"}</Link>
               <Link href={publicPrefix+(isEn?"/en/region/muenchen-stadt":"/region/muenchen-stadt")} className="hover:text-primary hover:underline">{isEn?"Munich (city)":"München (Stadt)"}</Link>
               <Link href={publicPrefix+(isEn?"/en/region/muenchen-landkreis":"/region/muenchen-landkreis")} className="hover:text-primary hover:underline">{isEn?"Munich (district)":"München (Landkreis)"}</Link>
