@@ -1,3 +1,4 @@
+import {resolveMissingRoute,publicRecoveryUrl} from "../app/recovery-search";
 import {readPageHtml} from "./read-page-html";
 /** Cloudflare Worker entry point for the vinext-starter template. */
 import { handleImageOptimization, DEFAULT_DEVICE_SIZES, DEFAULT_IMAGE_SIZES } from "vinext/server/image-optimization";
@@ -42,6 +43,11 @@ const worker = {
     }
 
     const response=await handler.fetch(request, env, ctx);
+    // Only failed document navigations are recovered. API/asset errors and writes retain their status.
+    if(response.status===404&&(request.method==="GET"||request.method==="HEAD")&&response.headers.get("content-type")?.includes("text/html")&&!request.headers.has("rsc")){
+      const target=resolveMissingRoute(url.pathname);
+      if(target)return new Response(null,{status:301,headers:{Location:publicRecoveryUrl(target.path),"Cache-Control":"public, max-age=300"}});
+    }
     const catalogPage=url.pathname==="/"||url.pathname==="/en"||url.pathname==="/en/";
     if(!catalogPage&&response.headers.get("content-type")?.includes("text/html")){
       const headers=new Headers(response.headers);headers.delete("content-length");
