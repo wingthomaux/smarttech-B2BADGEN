@@ -31,3 +31,10 @@ test("unmatched URLs keep 404 with useful search, and assets/APIs/writes never b
  const empty=await page("/suche?q=zzzz-no-matching-record-zzzz");assert.equal(empty.status,200);assert.ok((await empty.text()).includes("Keine passenden Inhalte"));
  const escaped=await page('/suche?q=%3Cscript%3Ealert(1)%3C%2Fscript%3E');const escapedHtml=await escaped.text();assert.ok(!escapedHtml.includes('<script>alert(1)</script>'));
 });
+
+test("English trailing slash uses the public prefix and retains query filters",async()=>{
+ for(const method of ["GET","HEAD"]){
+  const response=await page("/en/?q=SAP&space=Mobilit%C3%A4t",method);assert.equal(response.status,301);assert.equal(response.headers.get("location"),publicBase+"/en?q=SAP&space=Mobilit%C3%A4t");assert.equal(await response.text(),"");
+ }
+ assert.equal((await page("/en")).status,200);
+});

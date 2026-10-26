@@ -31,6 +31,11 @@ const worker = {
   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
     const url = new URL(request.url);
 
+    // The public proxy must not receive the framework's root-relative /en redirect.
+    if((request.method==="GET"||request.method==="HEAD")&&url.pathname==="/en/"){
+      return new Response(null,{status:301,headers:{Location:publicRecoveryUrl("/en")+url.search,"Cache-Control":"public, max-age=300"}});
+    }
+
     if (url.pathname === "/_vinext/image") {
       const allowedWidths = [...DEFAULT_DEVICE_SIZES, ...DEFAULT_IMAGE_SIZES];
       return handleImageOptimization(request, {
