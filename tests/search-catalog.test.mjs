@@ -10,8 +10,10 @@ const search=buildSearchCatalog(catalog);
 test("search includes IGEL and all official resources and editorial articles",()=>{
   for(const term of ["igel","IGEL","Igel"]){
     const companies=search.companies.filter(company=>matchesFreeText(company.name,term));
-    assert.equal(companies.length,1);
-    assert.equal(companies[0].knowledge.length,19);
+    // Other legitimate names (e.g. Siegel) can also contain this substring.
+    const igel=companies.filter(company=>company.name.toLowerCase()===term.toLowerCase());
+    assert.equal(igel.length,1);
+    assert.equal(igel[0].knowledge.length,19);
     assert.equal(search.knowledge.filter(item=>matchesFreeText(item.provider,term)).length,19);
   }
 });
