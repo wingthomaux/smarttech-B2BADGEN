@@ -4,6 +4,7 @@ import {readFile} from "node:fs/promises";
 import {providerPath,englishProviderPath} from "../app/catalog-paths.ts";
 const entries=JSON.parse(await readFile(new URL("../app/eworld-2027.generated.json",import.meta.url),"utf8"));
 const catalog=JSON.parse(await readFile(new URL("../app/catalog.generated.json",import.meta.url),"utf8"));
+const profiles=JSON.parse(await readFile(new URL("../app/provider-profiles-eworld-20261027.json",import.meta.url),"utf8"));
 const {default:worker}=await import("../dist/server/index.js");
 const origin="https://smarttech.b2badgen.com";
 const page=path=>worker.fetch(new Request(origin+path,{headers:{accept:"text/html"}}),{ASSETS:{fetch:async()=>new Response("",{status:404})}},{waitUntil(){},passThroughOnException(){}});
@@ -20,6 +21,22 @@ test("all 798 exhibitors have distinct identities without contacts or invented r
   }
   assert.ok(catalog.companies.some(provider=>provider.name==="SAP"));
   assert.ok(entries.some(entry=>entry.provider==="SAP Deutschland SE & Co. KG"));
+});
+test("individual exhibition company profiles render their official sources in both languages without creating knowledge items",async()=>{
+  const xml=await (await page("/sitemap.xml")).text();
+  for(const [name,profile] of Object.entries(profiles)){
+    const provider=catalog.companies.find(item=>item.name===name);assert.ok(provider,name);
+    assert.equal(provider.knowledge.length,0);
+    for(const locale of ["de","en"]){
+      const path=(locale==="de"?providerPath:englishProviderPath)(name);
+      const response=await page(path);assert.equal(response.status,200);const html=await response.text();
+      assert.ok(html.includes(profile.summary[locale]));
+      assert.ok(html.includes(locale==="de"?"Redaktionelle Auswahlfragen":"Editorial selection questions"));
+      assert.ok(!html.includes(locale==="de"?"Kurzprofil · Quellenauszug":"Short profile · source excerpt"));
+      for(const source of profile.officialSources)assert.ok(html.includes(source.url));
+      assert.ok(xml.includes(`${origin}${path}</loc><lastmod>2026-10-27</lastmod>`));
+    }
+  }
 });
 test("existing, new and empty-description profiles expose source, stand, language and sitemap links",async()=>{
   const xml=await (await page("/sitemap.xml")).text();
