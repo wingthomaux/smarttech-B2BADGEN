@@ -599,5 +599,157 @@
       "de": "Quellenprüfung: 27.10.2026. Die Auswahlfragen sind redaktionelle Prüfpunkte. Verlinkte Ressourcen wurden nicht einzeln validiert.",
       "en": "Sources reviewed: 27 October 2026. Selection questions are editorial considerations. Linked resources have not been individually validated."
     }
+  },
+  "CURSOR Software AG": {
+    "officialUrl": "https://www.cursor.de/branchen/energie",
+    "officialLabel": {
+      "de": "CURSOR: CRM für die Energiewirtschaft",
+      "en": "CURSOR: CRM for the energy industry"
+    },
+    "metaDescription": {
+      "de": "CURSOR Software AG: EVI für Energievertrieb und TINA für Netzprozesse, Integration und CRM-Beratung.",
+      "en": "CURSOR Software AG: EVI for energy sales and TINA for network processes, integration and CRM consulting."
+    },
+    "summary": {
+      "de": "CURSOR Software AG aus Gießen entwickelt CRM- und Prozessmanagementsoftware. EVI unterstützt Vertrieb, Marketing und Kundenservice von Energieversorgern, unter anderem bei Angeboten, Verträgen, Energiedienstleistungen und Beschwerden. TINA richtet sich an Netzbetreiber und bildet Netzanschluss, Netzverträge, Marktpartnerkommunikation sowie Geräte- und Störungsprozesse ab. Beide Lösungen können mit bestehenden IT-Anwendungen verbunden und lokal oder aus der Cloud betrieben werden. CURSOR bietet Software und Beratung; die in den Prozessen abgebildeten Stromtarife, PV-Anlagen und Wallboxen sind Angebote der jeweiligen Energiekunden. Redaktionelle Auswahlfragen betreffen Datenmodell, ERP- und Abrechnungsintegration, Berechtigungen, Anpassungsaufwand und Betriebsverantwortung. Hosting und weitere Partnerleistungen sind im konkreten Vertrag getrennt zu bestimmen.",
+      "en": "Gießen-based CURSOR Software AG develops CRM and business-process software. EVI supports energy suppliers' sales, marketing and customer service, including offers, contracts, energy services and complaints. TINA addresses network operators and covers connection workflows, network contracts, market-partner communication, equipment and fault processes. Both solutions can integrate with existing IT applications and run on premises or in the cloud. CURSOR supplies software and consulting; electricity tariffs, PV equipment and charging points represented in these workflows belong to its energy-sector customers' offerings. Editorial selection questions concern data models, ERP and billing integration, permissions, customisation and operational ownership. Hosting and other partner services require separate contractual definition."
+    },
+    "focus": {
+      "de": [
+        "EVI für Energievertrieb und Kundenservice",
+        "TINA für Netzbetreiberprozesse",
+        "Angebots- und Vertragsmanagement",
+        "Netzanschluss und Marktpartnerkommunikation",
+        "CRM-Integration und Prozessanpassung",
+        "Cloud- und lokaler Betrieb"
+      ],
+      "en": [
+        "EVI for energy sales and customer service",
+        "TINA for network-operator processes",
+        "Offer and contract management",
+        "Connections and market-partner communication",
+        "CRM integration and process customisation",
+        "Cloud and on-premises operation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CRM- und Kundenserviceleitung",
+        "IT- und Integrationsarchitektur",
+        "Netzanschlussmanagement",
+        "Vertrieb und Produktmanagement bei Versorgern",
+        "Prozessmanagement und technischer Einkauf"
+      ],
+      "en": [
+        "CRM and customer service leadership",
+        "IT and integration architecture",
+        "Grid connection management",
+        "Utility sales and product management",
+        "Process management and technical procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.cursor.de/unternehmen/impressum",
+        "label": {
+          "de": "CURSOR Software AG: Impressum",
+          "en": "CURSOR Software AG: legal notice"
+        }
+      },
+      {
+        "url": "https://www.cursor.de/software/evi-das-crm-fuer-energie",
+        "label": {
+          "de": "EVI: Funktionsumfang und Betriebsmodelle",
+          "en": "EVI: features and operating models"
+        }
+      },
+      {
+        "url": "https://www.cursor.de/software/tina-das-crm-fuer-netzbetreiber",
+        "label": {
+          "de": "TINA: Netzprozesse und Rollen",
+          "en": "TINA: network processes and roles"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 28.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 28 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "450connect GmbH": {
+    "officialUrl": "https://www.450connect.de/ueber-450connect/geschaeftsmodell-1",
+    "officialLabel": {
+      "de": "450connect: Betreiberrolle und Mobilfunknetz",
+      "en": "450connect: operator role and mobile network"
+    },
+    "metaDescription": {
+      "de": "450connect: 450-MHz-Mobilfunknetz für kritische Infrastrukturen, Sprach- und M2M-Datenkommunikation.",
+      "en": "450connect: 450 MHz mobile network for critical infrastructure, voice and M2M data communication."
+    },
+    "summary": {
+      "de": "450connect GmbH aus Köln baut und betreibt ein 450-MHz-Mobilfunknetz für Betreiber kritischer Infrastrukturen in Deutschland. Das Portfolio verbindet Sprachkommunikation für Betriebs- und Krisensituationen mit M2M-Datenkommunikation für technische Anwendungen. Einsatzbereiche sind Energie- und Wasserversorgung, Verkehr, Logistik und öffentliche Einrichtungen. Der Anbieter stellt Kommunikationsdienste und Netzbetrieb bereit; Energieversorgung und angeschlossene Mess- oder Steuergeräte sind davon getrennte Leistungen. Das Unternehmen beschreibt ein geschlossenes Netz und Vorsorge für Stromausfälle. Redaktionelle Auswahlfragen betreffen die nachgewiesene Funkversorgung am Standort, geeignete Endgeräte und Antennen, Datenbedarf, Priorisierung, Ausfallszenarien sowie Zuständigkeiten im laufenden Betrieb. Allgemeine Verfügbarkeitsaussagen ersetzen keine Prüfung des konkreten Anschlusses und vereinbarter Servicebedingungen.",
+      "en": "Cologne-based 450connect GmbH builds and operates a 450 MHz mobile network for critical-infrastructure operators in Germany. Its portfolio combines voice communication for operational and crisis situations with M2M data communication for technical applications. Sectors include energy and water utilities, transport, logistics and public institutions. The provider delivers communication services and network operations; energy supply and connected metering or control equipment remain separate services. The company describes a closed network and provision for power outages. Editorial selection questions concern demonstrated coverage at the site, compatible devices and antennas, data requirements, prioritisation, outage scenarios and operational responsibilities. General availability statements do not replace assessment of the particular connection and agreed service terms."
+    },
+    "focus": {
+      "de": [
+        "450-MHz-Netzbetrieb für kritische Infrastrukturen",
+        "Sprachkommunikation im Betrieb und Krisenfall",
+        "M2M-Datenkommunikation",
+        "Kommunikation für Energie- und Wasserversorger",
+        "Anbindung technischer Anwendungen",
+        "Standortbezogene Funk- und Betriebsplanung"
+      ],
+      "en": [
+        "450 MHz network operation for critical infrastructure",
+        "Operational and crisis voice communication",
+        "M2M data communication",
+        "Communication for energy and water utilities",
+        "Connectivity for technical applications",
+        "Site-specific radio and operational planning"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Leittechnik und Netzbetrieb",
+        "KRITIS-Kommunikationsverantwortliche",
+        "IT- und Telekommunikationsarchitektur",
+        "Mess- und Steuertechnik",
+        "Krisenmanagement und technischer Einkauf"
+      ],
+      "en": [
+        "Control engineering and network operations",
+        "Critical-infrastructure communications teams",
+        "IT and telecommunications architecture",
+        "Metering and control engineering",
+        "Crisis management and technical procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.450connect.de/impressum",
+        "label": {
+          "de": "450connect GmbH: Impressum",
+          "en": "450connect GmbH: legal notice"
+        }
+      },
+      {
+        "url": "https://www.450connect.de/produkte-services/m2m-/-datenprodukte",
+        "label": {
+          "de": "M2M- und Datenprodukte",
+          "en": "M2M and data products"
+        }
+      },
+      {
+        "url": "https://www.450connect.de/produkte-services/sprachprodukte",
+        "label": {
+          "de": "Sprachprodukte und betriebliche Anwendungen",
+          "en": "Voice products and operational applications"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 28.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 28 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
   }
 }
