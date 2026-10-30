@@ -751,5 +751,444 @@
       "de": "Quellenprüfung: 28.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
       "en": "Sources reviewed: 28 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
     }
+  },
+  "Green Navigation GmbH": {
+    "officialUrl": "https://green-navigation.de/",
+    "officialLabel": {
+      "de": "Green Navigation GmbH: Leistungsübersicht",
+      "en": "Green Navigation GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "Green Navigation GmbH: Klimastrategie und THG-Bilanzierung, Energieeffizienz-Netzwerke, Biomethan- und BioLPG-Nachweise, Digitale Plattformen und Schulungen.",
+      "en": "Green Navigation GmbH: Climate strategies and GHG accounting, Energy-efficiency networks, Biomethane and BioLPG documentation, Digital platforms and training."
+    },
+    "summary": {
+      "de": "Green Navigation GmbH aus Unna ist ein Beratungs- und Entwicklungsunternehmen für Klimaschutz, Energieeffizienz und Nachhaltigkeit. Das Angebot verbindet Klimastrategien und Treibhausgasbilanzen mit Energieeffizienz-Netzwerken, Schulungen und digitalen Werkzeugen. Für Energieversorger bearbeitet das Unternehmen unter anderem Biomethan-Nachweise und Massenbilanzierung; das BioLPG-Register dient der Dokumentation biogenen Flüssiggases. Eigene Beratungs- und Plattformleistungen sind dabei von externen Registern und Zertifizierungssystemen zu unterscheiden. Einsatzfelder sind kommunale Klimaschutzarbeit, betriebliche Emissionsanalysen und nachvollziehbare Liefernachweise. Redaktionelle Auswahlfragen betreffen Bilanzgrenzen, Datenqualität, verwendete Methoden, Schnittstellen zu Registern und Zuständigkeiten bei der Nachweisprüfung. Eine Beratung ist keine automatische Bestätigung der Umweltwirkung eines konkreten Produkts.",
+      "en": "Unna-based Green Navigation GmbH provides consulting and digital development for climate action, energy efficiency and sustainability. Its portfolio combines climate strategies and greenhouse-gas accounting with energy-efficiency networks, training and digital tools. Utility services include biomethane documentation and mass balancing; its BioLPG register documents biogenic liquefied petroleum gas. Its own consulting and platform services require distinction from external registers and certification systems. Applications include municipal climate programmes, corporate emissions analysis and traceable supply documentation. Editorial selection questions concern accounting boundaries, data quality, methods, register interfaces and responsibility for checking evidence. Consulting does not automatically establish the environmental impact of a particular product."
+    },
+    "focus": {
+      "de": [
+        "Klimastrategie und THG-Bilanzierung",
+        "Energieeffizienz-Netzwerke",
+        "Biomethan- und BioLPG-Nachweise",
+        "Digitale Plattformen und Schulungen"
+      ],
+      "en": [
+        "Climate strategies and GHG accounting",
+        "Energy-efficiency networks",
+        "Biomethane and BioLPG documentation",
+        "Digital platforms and training"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Nachhaltigkeitsmanagement",
+        "Kommunale Klimaschutzplanung",
+        "Nachweismanagement bei Versorgern"
+      ],
+      "en": [
+        "Sustainability management",
+        "Municipal climate planning",
+        "Utility evidence management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://green-navigation.de/impressum/",
+        "label": {
+          "de": "Green Navigation GmbH: Impressum",
+          "en": "Green Navigation GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Otark GmbH": {
+    "officialUrl": "https://otark.com/de",
+    "officialLabel": {
+      "de": "Otark GmbH: Leistungsübersicht",
+      "en": "Otark GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "Otark GmbH: PPA-Marktplatz, Standardisierte PPAs, Lastganganalyse, Beschaffungs- und Abwicklungsprozesse.",
+      "en": "Otark GmbH: PPA marketplace, Standardised PPAs, Load-profile analysis, Procurement and settlement workflows."
+    },
+    "summary": {
+      "de": "Otark GmbH aus Frankfurt am Main betreibt eine digitale Plattform für die Beschaffung und Vermarktung von Grünstrom über Power Purchase Agreements. Der PPA-Marktplatz strukturiert Anfragen, Angebotsvergleich und Vertragsverhandlung. Das Angebot 1-Click PPA verwendet standardisierte, vorverhandelte Verträge. Lastganganalyse und Abwicklungsfunktionen ergänzen den Beschaffungsprozess. Energiewirtschaftliche Dienstleistungen werden auf der Website ausdrücklich der Otark Energy Services GmbH zugeordnet; Erzeugungsanlagen und Stromangebote der Plattformteilnehmer sind davon getrennt zu betrachten. Green SPOT wird derzeit mit Warteliste dargestellt und ist deshalb nicht als allgemein verfügbarer Handel beschrieben. Redaktionelle Auswahlfragen betreffen Lieferprofil, Vertragslaufzeit, Bilanzkreisverantwortung, Herkunftsnachweise, Gegenparteirisiko und die vertragliche Zuordnung von Lieferung und Abrechnung.",
+      "en": "Frankfurt-based Otark GmbH operates a digital platform for procuring and marketing renewable electricity through power purchase agreements. Its PPA marketplace structures requests, offer comparison and contract negotiation. The 1-Click PPA offering uses standardised, pre-negotiated contracts. Load-profile analysis and settlement functions complement procurement. The website explicitly assigns energy-industry services to Otark Energy Services GmbH; participants’ generation assets and electricity offers require separate consideration. Green SPOT currently displays a waiting list and is therefore not described here as generally available trading. Editorial selection questions concern delivery profiles, contract terms, balancing responsibility, guarantees of origin, counterparty risk and contractual allocation of supply and billing."
+    },
+    "focus": {
+      "de": [
+        "PPA-Marktplatz",
+        "Standardisierte PPAs",
+        "Lastganganalyse",
+        "Beschaffungs- und Abwicklungsprozesse"
+      ],
+      "en": [
+        "PPA marketplace",
+        "Standardised PPAs",
+        "Load-profile analysis",
+        "Procurement and settlement workflows"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Energiebeschaffung",
+        "PPA-Vertragsmanagement",
+        "Stromvermarktung"
+      ],
+      "en": [
+        "Energy procurement",
+        "PPA contract management",
+        "Power marketing"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://otark.com/de/imprint",
+        "label": {
+          "de": "Otark GmbH: Impressum",
+          "en": "Otark GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "pixolus GmbH": {
+    "officialUrl": "https://pixolus.de/",
+    "officialLabel": {
+      "de": "pixolus GmbH: Leistungsübersicht",
+      "en": "pixolus GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "pixolus GmbH: Mobile Bilderkennung, Scan-SDK und App-Integration, Zähler- und Messwerterfassung, Individuelle Softwareentwicklung.",
+      "en": "pixolus GmbH: Mobile image recognition, Scan SDK and app integration, Meter and instrument capture, Custom software development."
+    },
+    "summary": {
+      "de": "pixolus GmbH aus Köln entwickelt Software für mobile Bilderkennung und visuelle Datenerfassung. Scanmodule können als SDK in eigene Android- oder iOS-Anwendungen eingebunden oder als Bestandteil einer individuellen Gesamtlösung entwickelt werden. Anwendungsfelder umfassen Verbrauchszähler, analoge Messgeräte, Seriennummern und die Dokumentation von Wartungs- und Prüfprozessen. Für Energie- und Verbrauchsdaten verweist das Unternehmen auf die Produktfamilie pixometer. Beratung, Machbarkeitsprüfung, App-Entwicklung und Prozessintegration ergänzen die eigenen Softwarekomponenten. Die erfassten Messgeräte sind nicht mit von pixolus hergestellter Hardware gleichzusetzen. Redaktionelle Auswahlfragen betreffen unterstützte Anzeigearten, Aufnahmebedingungen, Fehlerbehandlung, Offline-Verarbeitung, Belegbilder und die Übergabe an bestehende Daten- und Abrechnungssysteme.",
+      "en": "Cologne-based pixolus GmbH develops mobile image-recognition and visual data-capture software. Scan modules can be embedded as an SDK in Android or iOS applications or developed within a customised complete solution. Applications include utility meters, analogue instruments, serial numbers and documentation of maintenance and inspection workflows. For energy and consumption data, the company points to its pixometer product family. Consulting, feasibility assessment, app development and process integration complement its own software components. Instruments being scanned should not be confused with hardware manufactured by pixolus. Editorial selection questions concern supported displays, capture conditions, error handling, offline processing, evidence images and transfer into existing data and billing systems."
+    },
+    "focus": {
+      "de": [
+        "Mobile Bilderkennung",
+        "Scan-SDK und App-Integration",
+        "Zähler- und Messwerterfassung",
+        "Individuelle Softwareentwicklung"
+      ],
+      "en": [
+        "Mobile image recognition",
+        "Scan SDK and app integration",
+        "Meter and instrument capture",
+        "Custom software development"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Messdatenmanagement",
+        "Mobile Prozessentwicklung",
+        "Instandhaltung und Qualitätssicherung"
+      ],
+      "en": [
+        "Meter data management",
+        "Mobile process development",
+        "Maintenance and quality assurance"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://pixolus.de/impressum/",
+        "label": {
+          "de": "pixolus GmbH: Impressum",
+          "en": "pixolus GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Swistec GmbH": {
+    "officialUrl": "https://swistec.de/",
+    "officialLabel": {
+      "de": "Swistec GmbH: Leistungsübersicht",
+      "en": "Swistec GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "Swistec GmbH: Rundsteuertechnik, Leittechnik und CLS-Management, SwiSBox und EEBUS-Anbindung, Inbetriebnahme und Wartung.",
+      "en": "Swistec GmbH: Ripple-control technology, Control systems and CLS management, SwiSBox and EEBUS integration, Commissioning and maintenance."
+    },
+    "summary": {
+      "de": "Swistec GmbH aus Bornheim entwickelt Rundsteuertechnik und Steuerungslösungen für Stromnetze. Das Portfolio umfasst Leittechnik, Sender, Empfänger, Messsysteme und die Steuerbox SwiSBox. Diese arbeitet mit einem Smart-Meter-Gateway zusammen und übermittelt Befehle an steuerbare Einrichtungen über Relaiskontakte; die EEBUS-Ausführung ergänzt eine digitale Schnittstelle. Inbetriebnahme, Wartung, Support und Schulungen begleiten die Hardware und Software. Smart-Meter-Gateway, angeschlossene Verbraucher und weitere Systemkomponenten müssen bei der Planung als eigenständige Integrationsbestandteile berücksichtigt werden. Redaktionelle Auswahlfragen betreffen vorhandene Rundsteuerinfrastruktur, Schnittstellen, Gerätevariante, Firmwarestand, Betriebsführung und Zuständigkeiten bei Störungen. Zertifikats- und Kompatibilitätsangaben sind für die konkrete Konfiguration zu prüfen.",
+      "en": "Bornheim-based Swistec GmbH develops ripple-control equipment and control solutions for electricity networks. Its portfolio includes control systems, transmitters, receivers, measurement systems and the SwiSBox control unit. SwiSBox works with a smart-meter gateway and sends commands to controllable equipment through relay contacts; the EEBUS version adds a digital interface. Commissioning, maintenance, support and training accompany the hardware and software. The smart-meter gateway, connected loads and other system components require separate integration planning. Editorial selection questions concern existing ripple-control infrastructure, interfaces, hardware variant, firmware version, operational management and incident responsibilities. Certification and compatibility claims require checking for the specific configuration."
+    },
+    "focus": {
+      "de": [
+        "Rundsteuertechnik",
+        "Leittechnik und CLS-Management",
+        "SwiSBox und EEBUS-Anbindung",
+        "Inbetriebnahme und Wartung"
+      ],
+      "en": [
+        "Ripple-control technology",
+        "Control systems and CLS management",
+        "SwiSBox and EEBUS integration",
+        "Commissioning and maintenance"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Netzbetrieb",
+        "Messsystemintegration",
+        "Technische Betriebsführung"
+      ],
+      "en": [
+        "Grid operations",
+        "Metering system integration",
+        "Technical operations management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://swistec.de/impressum/",
+        "label": {
+          "de": "Swistec GmbH: Impressum",
+          "en": "Swistec GmbH: legal notice"
+        }
+      },
+      {
+        "url": "https://swistec.de/steuerbox/swisbox-steuerbox/",
+        "label": {
+          "de": "SwiSBox: Funktionen und Systemgrenzen",
+          "en": "SwiSBox: functions and system boundaries"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Lobaro GmbH": {
+    "officialUrl": "https://www.lobaro.com/",
+    "officialLabel": {
+      "de": "Lobaro GmbH: Leistungsübersicht",
+      "en": "Lobaro GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "Lobaro GmbH: Zählerfernauslesung, Industrielle IoT-Gateways, Sensorintegration, Plattform und Zubehör.",
+      "en": "Lobaro GmbH: Remote meter reading, Industrial IoT gateways, Sensor integration, Platform and accessories."
+    },
+    "summary": {
+      "de": "Lobaro GmbH aus Hamburg entwickelt und fertigt vernetzte Geräte für Smart Metering und industrielle Sensorik. Im Mittelpunkt stehen Gateways für Zählerfernauslesung und Sensorintegration. Die Produktübersicht unterscheidet Varianten für Wireless M-Bus, kabelgebundenen M-Bus, Modbus, Ethernet, Temperaturmessung und analoge Stromsignale. Sensorbündel und eine Plattform ergänzen die Geräte. Nicht jede Schnittstelle ist in jeder Variante enthalten; Zähler und angebundene Sensoren sind von den Gateway-Funktionen zu unterscheiden. Einsatzfelder sind die Erschließung bestehender Messpunkte und die Übertragung von Betriebsdaten. Redaktionelle Auswahlfragen betreffen Zählerprotokoll, Schnittstellenvariante, Einbaubedingungen, Energieversorgung, Übertragungsweg und den Datenfluss in das Zielsystem.",
+      "en": "Hamburg-based Lobaro GmbH develops and manufactures connected devices for smart metering and industrial sensing. Its portfolio centres on gateways for remote meter reading and sensor integration. The product overview distinguishes variants for Wireless M-Bus, wired M-Bus, Modbus, Ethernet, temperature measurement and analogue current signals. Sensor bundles and a platform complement the devices. Interfaces vary by model; connected meters and sensors require distinction from gateway functionality. Applications include accessing existing measurement points and transmitting operational data. Editorial selection questions concern meter protocols, interface variants, installation conditions, power supply, transmission paths and data delivery into the target system."
+    },
+    "focus": {
+      "de": [
+        "Zählerfernauslesung",
+        "Industrielle IoT-Gateways",
+        "Sensorintegration",
+        "Plattform und Zubehör"
+      ],
+      "en": [
+        "Remote meter reading",
+        "Industrial IoT gateways",
+        "Sensor integration",
+        "Platform and accessories"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Messstellenbetrieb",
+        "Industrielle Datenerfassung",
+        "IoT-Systemintegration"
+      ],
+      "en": [
+        "Metering operations",
+        "Industrial data acquisition",
+        "IoT systems integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.lobaro.com/contact/",
+        "label": {
+          "de": "Lobaro GmbH: Impressum",
+          "en": "Lobaro GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Unigy GmbH": {
+    "officialUrl": "https://www.unigy.de/",
+    "officialLabel": {
+      "de": "Unigy GmbH: Leistungsübersicht",
+      "en": "Unigy GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "Unigy GmbH: Prognose und Bilanzkreisoptimierung, PPA-Integration, Flexibilitätsbewirtschaftung, Beschaffungsstrategien.",
+      "en": "Unigy GmbH: Forecasting and balancing optimisation, PPA integration, Flexibility management, Procurement strategies."
+    },
+    "summary": {
+      "de": "Unigy GmbH aus Essen bietet Energieportfolio- und Beschaffungsoptimierung für Stadtwerke, Energieversorger und Erzeuger. Eigene Algorithmen verbinden Prognosen mit automatisiertem Handel und der Bewirtschaftung von Flexibilitäten. uniOPT adressiert Bilanzkreisabweichungen und Intraday-Ausgleich, uniPPA die Einbindung von Stromabnahmeverträgen, uniFLEX flexible Anlagen und uniHEDGE längerfristige Beschaffungsstrategien. Beratung und Kundenportal ergänzen diese Lösungen. Erzeugungsanlagen und Lieferportfolios der Kunden sind von Unigys Optimierungs- und Handelsdienstleistung zu unterscheiden. Redaktionelle Auswahlfragen betreffen Prognosedaten, Handelsvollmachten, Risikolimits, technische Steuerbarkeit, Bilanzkreisprozesse und die Zuordnung von Markt- und Betriebsrisiken. Beworbene Zusatzerlöse sind keine allgemeine Ergebnisgarantie.",
+      "en": "Essen-based Unigy GmbH provides energy-portfolio and procurement optimisation for municipal utilities, energy suppliers and generators. Its own algorithms combine forecasting with automated trading and flexibility management. uniOPT addresses balancing deviations and intraday adjustment, uniPPA incorporates power purchase agreements, uniFLEX addresses flexible assets and uniHEDGE longer-term procurement strategies. Consulting and a customer portal complement these solutions. Customers’ generation assets and supply portfolios require distinction from Unigy’s optimisation and trading service. Editorial selection questions concern forecast data, trading authorisations, risk limits, technical controllability, balancing processes and allocation of market and operational risks. Advertised additional revenues are not a general performance guarantee."
+    },
+    "focus": {
+      "de": [
+        "Prognose und Bilanzkreisoptimierung",
+        "PPA-Integration",
+        "Flexibilitätsbewirtschaftung",
+        "Beschaffungsstrategien"
+      ],
+      "en": [
+        "Forecasting and balancing optimisation",
+        "PPA integration",
+        "Flexibility management",
+        "Procurement strategies"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Portfoliomanagement",
+        "Energiehandel",
+        "Erzeugungs- und Risikomanagement"
+      ],
+      "en": [
+        "Portfolio management",
+        "Energy trading",
+        "Generation and risk management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.unigy.de/impressum/",
+        "label": {
+          "de": "Unigy GmbH: Impressum",
+          "en": "Unigy GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "conscoo GmbH": {
+    "officialUrl": "https://www.conscoo.com/",
+    "officialLabel": {
+      "de": "conscoo GmbH: Leistungsübersicht",
+      "en": "conscoo GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "conscoo GmbH: Microsoft Dynamics 365 CRM, Business Central und Power Platform, Eigene Branchen-Apps, Integration und Support.",
+      "en": "conscoo GmbH: Microsoft Dynamics 365 CRM, Business Central and Power Platform, Own industry applications, Integration and support."
+    },
+    "summary": {
+      "de": "conscoo GmbH aus Berlin implementiert und betreut Geschäftssoftware für Industrie, Mittelstand und Energiewirtschaft. Das Unternehmen arbeitet mit Microsoft Dynamics 365 CRM, Business Central und der Power Platform. Eigene Erweiterungen umfassen eine CRM-Branchenlösung für Energieversorger sowie LeBit Apps für Prozessfertiger. Beratung, Konzeption, App-Entwicklung, Lizenzberatung und Support verbinden diese Komponenten mit den Prozessen der Kunden. Microsoft stellt die Basisprodukte bereit; conscoos eigene Apps und Integrationsleistungen sind davon getrennt zu bewerten. Redaktionelle Auswahlfragen betreffen Datenmigration, vorhandene Abrechnungssysteme, Schnittstellen, Anpassungen, Lizenzumfang und Verantwortung für den laufenden Betrieb. Die Eignung einer Branchenlösung muss anhand der konkreten Prozesslandschaft geprüft werden.",
+      "en": "Berlin-based conscoo GmbH implements and supports business software for industry, medium-sized businesses and the energy sector. It works with Microsoft Dynamics 365 CRM, Business Central and Power Platform. Its own extensions include a utility CRM industry solution and LeBit Apps for process manufacturers. Consulting, design, app development, licensing advice and support connect these components with customers’ processes. Microsoft supplies the underlying products; conscoo’s own applications and integration services require separate assessment. Editorial selection questions concern data migration, existing billing systems, interfaces, customisation, licence scope and responsibility for ongoing operation. Suitability of an industry solution depends on the specific process landscape."
+    },
+    "focus": {
+      "de": [
+        "Microsoft Dynamics 365 CRM",
+        "Business Central und Power Platform",
+        "Eigene Branchen-Apps",
+        "Integration und Support"
+      ],
+      "en": [
+        "Microsoft Dynamics 365 CRM",
+        "Business Central and Power Platform",
+        "Own industry applications",
+        "Integration and support"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "CRM-Prozessmanagement",
+        "ERP- und Integrationsarchitektur",
+        "IT-Betrieb und Einkauf"
+      ],
+      "en": [
+        "CRM process management",
+        "ERP and integration architecture",
+        "IT operations and procurement"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.conscoo.com/impressum",
+        "label": {
+          "de": "conscoo GmbH: Impressum",
+          "en": "conscoo GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "RIVACON GmbH": {
+    "officialUrl": "https://rivacon.com/",
+    "officialLabel": {
+      "de": "RIVACON GmbH: Leistungsübersicht",
+      "en": "RIVACON GmbH: service overview"
+    },
+    "metaDescription": {
+      "de": "RIVACON GmbH: Financial Engineering, Risikomodellierung, Datenanalyse und Machine Learning, Beratung, Software und Schulung.",
+      "en": "RIVACON GmbH: Financial engineering, Risk modelling, Data analytics and machine learning, Consulting, software and training."
+    },
+    "summary": {
+      "de": "RIVACON GmbH aus Friedrichsdorf ist ein Beratungsunternehmen für quantitative und technologiegestützte Projekte. Es arbeitet für Banken, Vermögensverwalter und Energieversorger in Financial Engineering, Risikomodellierung, Datenanalyse und Machine Learning. Das Angebot reicht von fachlicher Konzeption und Implementierungsbegleitung über Schulungen bis zu Softwarewerkzeugen wie Bewertungsbibliotheken. Die Website nennt frontmark ausdrücklich als Kooperationspartner; dessen Leistungen sind nicht pauschal mit eigenen Angeboten gleichzusetzen. Für Energiekunden steht der analytische und technische Umgang mit Markt- und Portfoliorisiken im Vordergrund. Redaktionelle Auswahlfragen betreffen Modellannahmen, Eingangsdaten, Validierung, Integration in Handelssysteme sowie die Trennung von Beratung, Softwarelizenz und laufender Betreuung.",
+      "en": "Friedrichsdorf-based RIVACON GmbH provides consulting for quantitative and technology-driven projects. It serves banks, asset managers and energy suppliers in financial engineering, risk modelling, data analysis and machine learning. Services range from functional design and implementation support to training and software tools such as valuation libraries. Its website explicitly identifies frontmark as a cooperation partner; that partner’s services should not automatically be treated as RIVACON’s own offerings. Energy-sector applications concern analytical and technical management of market and portfolio risks. Editorial selection questions concern model assumptions, input data, validation, trading-system integration and the distinction between consulting, software licensing and ongoing support."
+    },
+    "focus": {
+      "de": [
+        "Financial Engineering",
+        "Risikomodellierung",
+        "Datenanalyse und Machine Learning",
+        "Beratung, Software und Schulung"
+      ],
+      "en": [
+        "Financial engineering",
+        "Risk modelling",
+        "Data analytics and machine learning",
+        "Consulting, software and training"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Quantitatives Risikomanagement",
+        "Energiehandel und Portfolioanalyse",
+        "Modell- und IT-Integration"
+      ],
+      "en": [
+        "Quantitative risk management",
+        "Energy trading and portfolio analysis",
+        "Model and IT integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://rivacon.com/impressum/",
+        "label": {
+          "de": "RIVACON GmbH: Impressum",
+          "en": "RIVACON GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
   }
 }
