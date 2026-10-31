@@ -34,7 +34,7 @@ test("individual exhibition company profiles render their official sources in bo
       assert.ok(html.includes(locale==="de"?"Redaktionelle Auswahlfragen":"Editorial selection questions"));
       assert.ok(!html.includes(locale==="de"?"Kurzprofil · Quellenauszug":"Short profile · source excerpt"));
       for(const source of profile.officialSources)assert.ok(html.includes(source.url));
-      assert.ok(xml.includes(`${origin}${path}</loc><lastmod>${profile.languageNote.de.includes("29.10.2026")?"2026-10-29":profile.languageNote.de.includes("28.10.2026")?"2026-10-28":"2026-10-27"}</lastmod>`));
+      assert.ok(xml.includes(`${origin}${path}</loc><lastmod>${profile.languageNote.de.includes("31.10.2026")?"2026-10-31":profile.languageNote.de.includes("29.10.2026")?"2026-10-29":profile.languageNote.de.includes("28.10.2026")?"2026-10-28":"2026-10-27"}</lastmod>`));
     }
   }
 });

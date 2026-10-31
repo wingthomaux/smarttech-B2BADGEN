@@ -1190,5 +1190,383 @@
       "de": "Quellenprüfung: 29.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
       "en": "Sources reviewed: 29 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
     }
+  },
+  "Alpha-Omega Technology GmbH & Co. KG": {
+    "officialUrl": "https://alpha-omega-technology.de/",
+    "officialLabel": {
+      "de": "Alpha-Omega Technology GmbH & Co. KG: Leistungsübersicht",
+      "en": "Alpha-Omega Technology GmbH & Co. KG: offering overview"
+    },
+    "metaDescription": {
+      "de": "Alpha-Omega Technology GmbH & Co. KG: IoT-Beratung, LoRaWAN-Integration, Sensorbeschaffung, Schulungen.",
+      "en": "Alpha-Omega Technology GmbH & Co. KG: IoT consulting, LoRaWAN integration, Sensor procurement, Training."
+    },
+    "summary": {
+      "de": "Alpha-Omega Technology aus Schimberg verbindet IoT-Beratung, Projektintegration und den Vertrieb von Sensoren und Funktechnik. Das Unternehmen plant und implementiert unter anderem LoRaWAN-Netze, unterstützt bei Technologiewahl und Beschaffung und bietet Schulungen an. Über iot-shop.de vertreibt es Produkte verschiedener Hersteller. Leistungen des Partnernetzwerks werden je nach Projekt hinzugezogen; angebotene Geräte sind deshalb nicht pauschal eigene Fertigung. Einsatzfelder umfassen kommunale Sensorik und die Vernetzung verteilter Messpunkte. Redaktionelle Auswahlfragen betreffen Funkabdeckung, Sensorprotokolle, Datenplattform, Betriebsverantwortung und die Aufteilung zwischen eigener Integration und Fremdleistungen.",
+      "en": "Schimberg-based Alpha-Omega Technology combines IoT consulting, project integration and distribution of sensors and wireless equipment. It plans and implements LoRaWAN networks, supports technology selection and procurement, and provides training. Its iot-shop.de sells products from multiple manufacturers. Partner services are added according to project requirements; equipment offered should therefore not automatically be treated as in-house manufacturing. Applications include municipal sensing and connecting distributed measurement points. Editorial selection questions concern radio coverage, sensor protocols, data platforms, operational responsibility and the division between its own integration and third-party services."
+    },
+    "focus": {
+      "de": [
+        "IoT-Beratung",
+        "LoRaWAN-Integration",
+        "Sensorbeschaffung",
+        "Schulungen"
+      ],
+      "en": [
+        "IoT consulting",
+        "LoRaWAN integration",
+        "Sensor procurement",
+        "Training"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Kommunale Digitalisierung",
+        "IoT-Architektur",
+        "Messdatenintegration"
+      ],
+      "en": [
+        "Municipal digitalisation",
+        "IoT architecture",
+        "Measurement-data integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://alpha-omega-technology.de/impressum",
+        "label": {
+          "de": "Alpha-Omega Technology GmbH & Co. KG: Impressum",
+          "en": "Alpha-Omega Technology GmbH & Co. KG: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "EMH Energie-Messtechnik GmbH": {
+    "officialUrl": "https://emh.eu/",
+    "officialLabel": {
+      "de": "EMH Energie-Messtechnik GmbH: Leistungsübersicht",
+      "en": "EMH Energie-Messtechnik GmbH: offering overview"
+    },
+    "metaDescription": {
+      "de": "EMH Energie-Messtechnik GmbH: Zählerprüftechnik, Tragbare Arbeitsnormale, Transformator-Diagnostik, Netz- und Ladeinfrastrukturprüfung.",
+      "en": "EMH Energie-Messtechnik GmbH: Meter testing, Portable reference standards, Transformer diagnostics, Grid and charging-infrastructure testing."
+    },
+    "summary": {
+      "de": "EMH Energie-Messtechnik GmbH aus Brackel entwickelt und fertigt elektronische Präzisions- und Prüfsysteme für die Energieversorgung. Zum Portfolio gehören tragbare Arbeitsnormale, Mehrplatz-Zählerprüfeinrichtungen, Transformator-Diagnostik, Netzmonitoring und Prüfadapter für Ladeinfrastruktur. Kunden sind unter anderem Prüfstellen, Energieversorger und Zählerhersteller. Die Geräte prüfen oder überwachen Anlagen; daraus folgt keine eigene Stromlieferung oder automatische eichrechtliche Freigabe eines Kundensystems. Redaktionelle Auswahlfragen betreffen Messbereich, Genauigkeit, Prüfverfahren, Kalibrierung, Zubehör und Einbindung in vorhandene Prüfabläufe. Das Unternehmen ist anhand seines Impressums von ähnlich benannten Gesellschaften zu unterscheiden.",
+      "en": "Brackel-based EMH Energie-Messtechnik GmbH develops and manufactures electronic precision and testing systems for energy infrastructure. Its portfolio includes portable reference standards, multi-position meter test systems, transformer diagnostics, grid monitoring and charging-infrastructure test adapters. Customers include test laboratories, utilities and meter manufacturers. Its equipment tests or monitors installations; this does not imply electricity supply or automatic legal-metrology approval of a customer system. Editorial selection questions concern measurement ranges, accuracy, test procedures, calibration, accessories and integration into existing testing workflows. Its legal identity requires distinction from similarly named companies."
+    },
+    "focus": {
+      "de": [
+        "Zählerprüftechnik",
+        "Tragbare Arbeitsnormale",
+        "Transformator-Diagnostik",
+        "Netz- und Ladeinfrastrukturprüfung"
+      ],
+      "en": [
+        "Meter testing",
+        "Portable reference standards",
+        "Transformer diagnostics",
+        "Grid and charging-infrastructure testing"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Prüflaborleitung",
+        "Messtechnik und Qualitätssicherung",
+        "Technischer Netzbetrieb"
+      ],
+      "en": [
+        "Test laboratory management",
+        "Metrology and quality assurance",
+        "Technical grid operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://emh.eu/impressum/",
+        "label": {
+          "de": "EMH Energie-Messtechnik GmbH: Impressum",
+          "en": "EMH Energie-Messtechnik GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "KUMAVISION AG": {
+    "officialUrl": "https://kumavision.com/dienstleistung/erp-energieprojektierer",
+    "officialLabel": {
+      "de": "KUMAVISION AG: Leistungsübersicht",
+      "en": "KUMAVISION AG: offering overview"
+    },
+    "metaDescription": {
+      "de": "KUMAVISION AG: project365, Projekt- und Ressourcenplanung, Projektbewertung und Abrechnung, Microsoft-Dynamics-Integration.",
+      "en": "KUMAVISION AG: project365, Project and resource planning, Project valuation and billing, Microsoft Dynamics integration."
+    },
+    "summary": {
+      "de": "KUMAVISION AG aus Markdorf entwickelt und implementiert betriebliche Software auf Basis von Microsoft Dynamics. Für Projektentwickler erneuerbarer Energien verbindet project365 Projektplanung, Ressourcen, Kalkulation, Bewertung und Abrechnung mit kaufmännischen Prozessen. Die Basis Business Central stammt von Microsoft; Branchenerweiterungen, Einführung und Betreuung sind gesonderte Leistungen von KUMAVISION. Einsatzfelder reichen von Energieanlagen und Windparks bis zur Infrastruktur digitaler Netze. Redaktionelle Auswahlfragen betreffen Projektgesellschaften, Bewertungsverfahren, Datenmigration, Schnittstellen zur Finanzbuchhaltung, Lizenzumfang und die Zuständigkeiten für Cloudbetrieb und Anpassungen. Die Software plant Projekte, sie ersetzt keine technische Anlagenplanung oder energiewirtschaftliche Betriebsgenehmigung.",
+      "en": "Markdorf-based KUMAVISION AG develops and implements business software based on Microsoft Dynamics. For renewable-energy project developers, project365 connects planning, resources, costing, valuation and billing with commercial processes. Microsoft supplies Business Central; industry extensions, implementation and support are distinct KUMAVISION services. Applications range from energy installations and wind farms to digital-network infrastructure. Editorial selection questions concern project entities, valuation methods, data migration, accounting interfaces, licence scope and responsibility for cloud operation and customisation. Project software does not replace technical plant design or energy-industry operating approvals."
+    },
+    "focus": {
+      "de": [
+        "project365",
+        "Projekt- und Ressourcenplanung",
+        "Projektbewertung und Abrechnung",
+        "Microsoft-Dynamics-Integration"
+      ],
+      "en": [
+        "project365",
+        "Project and resource planning",
+        "Project valuation and billing",
+        "Microsoft Dynamics integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Energieprojektentwicklung",
+        "Kaufmännisches Projektcontrolling",
+        "ERP-Architektur"
+      ],
+      "en": [
+        "Energy project development",
+        "Commercial project controlling",
+        "ERP architecture"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://kumavision.com/impressum",
+        "label": {
+          "de": "KUMAVISION AG: Impressum",
+          "en": "KUMAVISION AG: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH": {
+    "officialUrl": "https://ladebusiness.de/produkte",
+    "officialLabel": {
+      "de": "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH: Leistungsübersicht",
+      "en": "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH: offering overview"
+    },
+    "metaDescription": {
+      "de": "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH: Ladeinfrastruktur-Software, Tarife und Abrechnung, Roaming und Partnernetzwerke, Ladepunktverwaltung.",
+      "en": "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH: Charging-infrastructure software, Tariffs and billing, Roaming and partner networks, Charge-point administration."
+    },
+    "summary": {
+      "de": "ladenetz.de und ladebusiness sind Angebote der SMART/LAB Innovationsgesellschaft mbH aus Aachen. Sie verbinden Software und Dienstleistungen für Ladeinfrastruktur mit Partnernetzwerken und Roaming. Das modulare Angebot umfasst unter anderem ladecloud für Tarife und Verträge, Abrechnung, Ladepunktverwaltung, Karten- und App-Zugang sowie Schnittstellen und Support. Die Rollen des IT-Anbieters, der einzelnen Ladepunktbetreiber und der Mobilitätsanbieter bleiben voneinander zu unterscheiden; ein vernetzter Ladepunkt ist nicht automatisch Eigentum von SMART/LAB. Redaktionelle Auswahlfragen betreffen Hardwarekompatibilität, Roamingverträge, Abrechnungsrollen, Mandantenfähigkeit, Datenexport und die Verantwortung für Installation und Störungsbehebung.",
+      "en": "ladenetz.de and ladebusiness are offerings of Aachen-based SMART/LAB Innovationsgesellschaft mbH. They combine charging-infrastructure software and services with partner networks and roaming. The modular portfolio includes ladecloud tariff and contract management, billing, charge-point administration, card and app access, interfaces and support. The IT provider, individual charge-point operators and mobility providers retain distinct roles; a connected charging point is not automatically owned by SMART/LAB. Editorial selection questions concern hardware compatibility, roaming contracts, billing responsibilities, multi-tenant operation, data export and responsibility for installation and incident resolution."
+    },
+    "focus": {
+      "de": [
+        "Ladeinfrastruktur-Software",
+        "Tarife und Abrechnung",
+        "Roaming und Partnernetzwerke",
+        "Ladepunktverwaltung"
+      ],
+      "en": [
+        "Charging-infrastructure software",
+        "Tariffs and billing",
+        "Roaming and partner networks",
+        "Charge-point administration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Ladepunktbetrieb",
+        "Mobilitätsdienstleistungen",
+        "Flotten- und Standortmanagement"
+      ],
+      "en": [
+        "Charge-point operations",
+        "Mobility services",
+        "Fleet and site management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://smartlab-gmbh.com/impressum/",
+        "label": {
+          "de": "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH: Impressum",
+          "en": "ladenetz.de & ladebusiness electrified by SMART/LAB Innovationsgesellschaft mbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Projektron GmbH": {
+    "officialUrl": "https://www.projektron.de/projektmanagementsoftware/",
+    "officialLabel": {
+      "de": "Projektron GmbH: Leistungsübersicht",
+      "en": "Projektron GmbH: offering overview"
+    },
+    "metaDescription": {
+      "de": "Projektron GmbH: Projektmanagement, Ressourcen und Zeiterfassung, Controlling und Faktura, Cloud- und lokaler Betrieb.",
+      "en": "Projektron GmbH: Project management, Resources and time recording, Controlling and invoicing, Cloud and on-premises operation."
+    },
+    "summary": {
+      "de": "Projektron GmbH aus Berlin entwickelt BCS als Projektmanagement-Software und ERP-System für Dienstleister. Die Lösung verbindet Projektvorbereitung und Planung mit Ressourcensteuerung, Zeiterfassung, Controlling und Abrechnung. Ergänzend werden CRM, Dokumente, Prozesse und Serviceaufgaben abgebildet. BCS kann in eigener Infrastruktur oder als Cloudvariante betrieben werden; Edition, Lizenzumfang und Anpassungen sind gesondert zu bestimmen. Bei Energie- und Infrastrukturprojekten unterstützt die Software die organisatorische und kaufmännische Abwicklung, nicht die physische Anlagensteuerung. Redaktionelle Auswahlfragen betreffen Projektmethodik, Datenübernahme, Rollenrechte, Schnittstellen, Betriebsmodell und den Aufwand für Einführung und Schulung.",
+      "en": "Berlin-based Projektron GmbH develops BCS as project-management software and an ERP system for service businesses. It connects project preparation and planning with resource management, time recording, controlling and billing. CRM, documents, processes and service tasks complement the project workflow. BCS can run on customer infrastructure or as a cloud service; edition, licensing and customisation require separate definition. For energy and infrastructure projects it supports organisational and commercial delivery rather than physical plant control. Editorial selection questions concern project methods, data migration, permissions, interfaces, operating models and implementation and training effort."
+    },
+    "focus": {
+      "de": [
+        "Projektmanagement",
+        "Ressourcen und Zeiterfassung",
+        "Controlling und Faktura",
+        "Cloud- und lokaler Betrieb"
+      ],
+      "en": [
+        "Project management",
+        "Resources and time recording",
+        "Controlling and invoicing",
+        "Cloud and on-premises operation"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Projektbüro",
+        "Kaufmännische Leitung",
+        "IT- und Prozessmanagement"
+      ],
+      "en": [
+        "Project management office",
+        "Commercial management",
+        "IT and process management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.projektron.de/impressum/",
+        "label": {
+          "de": "Projektron GmbH: Impressum",
+          "en": "Projektron GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "EFR GmbH": {
+    "officialUrl": "https://www.efr.de/systemloesungen/",
+    "officialLabel": {
+      "de": "EFR GmbH: Leistungsübersicht",
+      "en": "EFR GmbH: offering overview"
+    },
+    "metaDescription": {
+      "de": "EFR GmbH: Tarif- und Laststeuerung, Langwellen- und Hybridkommunikation, GMS-Plattform, Netz- und Einspeisemanagement.",
+      "en": "EFR GmbH: Tariff and load control, Longwave and hybrid communications, GMS platform, Grid and feed-in management."
+    },
+    "summary": {
+      "de": "EFR GmbH aus München bietet Systemlösungen und Kommunikationsdienste für Netz- und Energiemanagement. Das Portfolio verbindet Software, Übertragungswege und Geräte für Tarif- und Laststeuerung, Einspeisemanagement, öffentliche Beleuchtung und weitere Mess- und Steueraufgaben. Dazu gehören Langwellen-Broadcast, hybride Lösungen und die modulare GMS-Plattform. M2M-Mobilfunk und Breitband-Powerline ergänzen die Kommunikationsmöglichkeiten. Geräte, Kommunikationsdienst, Softwarebetrieb und kundenseitige Anlagen sind im konkreten Projekt getrennt abzugrenzen. Redaktionelle Auswahlfragen betreffen Reichweite, Rückkanal, Ausfallszenarien, bestehende Leit- und Messtechnik, Gerätekompatibilität und Betriebsverantwortung. Ein Netzsteuerungsangebot ist kein eigener Haushaltsstromtarif.",
+      "en": "Munich-based EFR GmbH provides systems and communication services for grid and energy management. Its portfolio combines software, communication paths and equipment for tariff and load control, feed-in management, public lighting and other measurement and control tasks. It includes longwave broadcast, hybrid solutions and the modular GMS platform. M2M mobile communications and broadband powerline extend the available communication options. Equipment, communications, software operation and customer installations require distinct project responsibilities. Editorial selection questions concern coverage, return channels, failure scenarios, existing control and metering systems, compatibility and operational ownership. Grid-control services are not household electricity tariffs."
+    },
+    "focus": {
+      "de": [
+        "Tarif- und Laststeuerung",
+        "Langwellen- und Hybridkommunikation",
+        "GMS-Plattform",
+        "Netz- und Einspeisemanagement"
+      ],
+      "en": [
+        "Tariff and load control",
+        "Longwave and hybrid communications",
+        "GMS platform",
+        "Grid and feed-in management"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Netzbetrieb",
+        "Messsystemintegration",
+        "Technische Betriebsführung"
+      ],
+      "en": [
+        "Grid operations",
+        "Metering integration",
+        "Technical operations management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.efr.de/impressum/",
+        "label": {
+          "de": "EFR GmbH: Impressum",
+          "en": "EFR GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "encentive GmbH": {
+    "officialUrl": "https://www.encentive.de/en",
+    "officialLabel": {
+      "de": "encentive GmbH: Leistungsübersicht",
+      "en": "encentive GmbH: offering overview"
+    },
+    "metaDescription": {
+      "de": "encentive GmbH: flexOn Energiemanagement, Lastverschiebung, Verbrauchs- und Erzeugungsprognosen, Industrielle Anlagenintegration.",
+      "en": "encentive GmbH: flexOn energy management, Load shifting, Consumption and generation forecasting, Industrial asset integration."
+    },
+    "summary": {
+      "de": "encentive GmbH aus Neumünster entwickelt die Energiemanagementplattform flexOn für Industrieunternehmen. Die Software erstellt Fahrpläne aus Wetter-, Strompreis- und Anlagendaten und steuert flexible elektrische Verbraucher. Prognosen für Verbrauch und Eigenerzeugung unterstützen die zeitliche Abstimmung von Lasten, Photovoltaik und verfügbaren Strompreisen. Einsatzfelder umfassen Wärme und Kälte, Ladeinfrastruktur, Speicher und Produktionsprozesse. Die Optimierungssoftware ist von der Herstellung oder dem Betrieb der angeschlossenen Anlagen zu unterscheiden. Redaktionelle Auswahlfragen betreffen technische Schnittstellen, verfügbare Flexibilität, Produktionsgrenzen, Datenqualität, Eingriffsrechte und das Verhalten bei Kommunikationsausfällen. Beworbene Einsparungen sind projektspezifisch zu prüfen und keine allgemeine Ergebnisgarantie.",
+      "en": "Neumünster-based encentive GmbH develops the flexOn energy-management platform for industrial companies. The software builds operating schedules from weather, electricity-price and asset data and controls flexible electrical loads. Consumption and generation forecasts support coordination of demand, on-site solar generation and available electricity prices. Applications include heating and cooling, charging infrastructure, storage and production processes. Optimisation software requires distinction from manufacturing or operating the connected equipment. Editorial selection questions concern technical interfaces, available flexibility, production constraints, data quality, control permissions and behaviour during communication failures. Advertised savings require project-specific assessment and are not general performance guarantees."
+    },
+    "focus": {
+      "de": [
+        "flexOn Energiemanagement",
+        "Lastverschiebung",
+        "Verbrauchs- und Erzeugungsprognosen",
+        "Industrielle Anlagenintegration"
+      ],
+      "en": [
+        "flexOn energy management",
+        "Load shifting",
+        "Consumption and generation forecasting",
+        "Industrial asset integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Industrielles Energiemanagement",
+        "Produktions- und Anlagenbetrieb",
+        "OT/IT-Integration"
+      ],
+      "en": [
+        "Industrial energy management",
+        "Production and asset operations",
+        "OT/IT integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.encentive.de/impressum",
+        "label": {
+          "de": "encentive GmbH: Impressum",
+          "en": "encentive GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
+      "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
   }
 }
