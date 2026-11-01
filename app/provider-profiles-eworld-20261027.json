@@ -1568,5 +1568,525 @@
       "de": "Quellenprüfung: 31.10.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen sind nicht einzeln validiert.",
       "en": "Sources reviewed: 31 October 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
     }
+  },
+  "Digimondo GmbH": {
+    "officialUrl": "https://www.digimondo.com/en",
+    "officialLabel": {
+      "de": "DIGIMONDO: IoT-Plattform und Einsatzfelder",
+      "en": "DIGIMONDO: IoT platform and applications"
+    },
+    "metaDescription": {
+      "de": "Digimondo: IoT-Plattform für Netz-, Zähler- und Sensordaten mit verschiedenen Betriebsmodellen.",
+      "en": "Digimondo: IoT platform for grid, meter and sensor data with several deployment models."
+    },
+    "summary": {
+      "de": "DIGIMONDO GmbH aus Hamburg entwickelt eine IoT-Plattform für Netz-, Zähler- und Sensordaten. Sie führt Daten unterschiedlicher Geräte und Funktechnologien zusammen, ordnet sie ihrem fachlichen Kontext zu und stellt sie weiteren Systemen bereit. Einsatzfelder sind Netzinfrastruktur, fernauslesbare Zähler, kommunale Sensorik und industrielle Anlagen. Für die Zählerfernauslesung nennt der Anbieter wM-Bus, LoRaWAN und NB-IoT. Cloud, Private Cloud und Betrieb vor Ort sind mögliche Betriebsmodelle. Die eigene Software ist von angeschlossenen Zählern, Sensoren und Leistungen der Integrationspartner zu unterscheiden. Redaktionelle Auswahlfragen betreffen unterstützte Geräte, Datenqualität, Schnittstellen zu Fachsystemen, Mandantentrennung sowie Zuständigkeiten für Funknetz und Plattformbetrieb. Die konkrete Umsetzung regulatorischer Anforderungen ist am jeweiligen Anwendungsfall zu prüfen.",
+      "en": "Hamburg-based DIGIMONDO GmbH develops an IoT platform for grid, meter and sensor data. It consolidates data from different devices and communication technologies, adds operational context and provides it to other systems. Applications include grid infrastructure, remote meter reading, municipal sensors and industrial assets. For remote meter reading, the provider names wM-Bus, LoRaWAN and NB-IoT. Deployment options include cloud, private cloud and on-premises operation. Its own software must be distinguished from connected meters, sensors and integration partners’ services. Editorial selection questions concern supported devices, data quality, specialist-system interfaces, tenant separation and responsibility for radio networks and platform operation. Implementation of regulatory requirements requires assessment for the particular use case."
+    },
+    "focus": {
+      "de": [
+        "IoT-Datenintegration",
+        "Netz- und Sensordaten",
+        "Zählerfernauslesung",
+        "Kommunale und industrielle Anwendungen",
+        "Cloud, Private Cloud und On-Premise"
+      ],
+      "en": [
+        "IoT data integration",
+        "Grid and sensor data",
+        "Remote meter reading",
+        "Municipal and industrial applications",
+        "Cloud, private cloud and on-premises"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Netzdigitalisierung und Netzbetrieb",
+        "Messwesen und Zählerbetrieb",
+        "Kommunale Digitalisierung",
+        "Industrielles Anlagenmanagement",
+        "IT-Architektur und Systemintegration"
+      ],
+      "en": [
+        "Grid digitalisation and operations",
+        "Metering operations",
+        "Municipal digitalisation",
+        "Industrial asset management",
+        "IT architecture and systems integration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.digimondo.com/en/imprint",
+        "label": {
+          "de": "DIGIMONDO GmbH: Impressum",
+          "en": "DIGIMONDO GmbH: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "energate gmbh": {
+    "officialUrl": "https://www.energate.de/index.php/ueber-energate.html",
+    "officialLabel": {
+      "de": "energate: Fachmedien und Informationsangebote",
+      "en": "energate: specialist media and information services"
+    },
+    "metaDescription": {
+      "de": "energate: Energie-Fachmedien, Daten- und Inhaltsangebote sowie Veranstaltungen für die Branche.",
+      "en": "energate: energy-sector media, data and content services, and industry events."
+    },
+    "summary": {
+      "de": "energate gmbh mit Sitz in Essen ist ein Fachmedien- und Informationsdienstleister für die Energiewirtschaft. Das Angebot verbindet journalistische Nachrichten und Fachpublikationen mit Daten- und Inhaltslösungen sowie Veranstaltungen zum fachlichen Austausch. Zu den Medien gehören energate messenger und emw; daneben werden unter anderem Marktberichte und Angebote zur Inhaltsbereitstellung geführt. Adressiert werden Energieunternehmen und Stadtwerke ebenso wie Industrie, Technologieanbieter, Beratung und weitere Marktbeobachter. Die Rolle liegt in Information und Kommunikation, nicht in Energielieferung oder Anlagenbau. Redaktionelle Auswahlfragen betreffen Themen- und Länderabdeckung, Nutzungsrechte für Inhalte und Daten, technische Bereitstellung und die klare Trennung redaktioneller Berichterstattung von Werbung und beauftragten Kommunikationsleistungen.",
+      "en": "Essen-based energate gmbh provides specialist media and information services for the energy sector. Its offering combines journalism and trade publications with data and content solutions and events for professional exchange. Its media include energate messenger and emw, alongside market reports and content-delivery services. Audiences include energy companies and municipal utilities, industry, technology providers, consultants and other market observers. Its role is information and communication rather than energy supply or equipment manufacturing. Editorial selection questions concern topic and country coverage, usage rights for content and data, technical delivery and a clear distinction between editorial reporting, advertising and commissioned communication services."
+    },
+    "focus": {
+      "de": [
+        "Energie-Fachnachrichten",
+        "Fachpublikationen und Marktberichte",
+        "Daten- und Inhaltsbereitstellung",
+        "Branchenveranstaltungen",
+        "Werbe- und Kommunikationsangebote"
+      ],
+      "en": [
+        "Energy-sector news",
+        "Trade publications and market reports",
+        "Data and content delivery",
+        "Industry events",
+        "Advertising and communication services"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Markt- und Regulierungsanalyse",
+        "Unternehmenskommunikation",
+        "Strategie in Energieunternehmen",
+        "Fachredaktionen und Informationsmanagement"
+      ],
+      "en": [
+        "Market and regulatory analysis",
+        "Corporate communications",
+        "Energy-company strategy",
+        "Specialist editorial and information teams"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.energate.de/index.php/legal/imprint.html",
+        "label": {
+          "de": "energate gmbh: Impressum",
+          "en": "energate gmbh: legal notice"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Energy Opticon AB": {
+    "officialUrl": "https://energyopticon.com/en/about-us/",
+    "officialLabel": {
+      "de": "Energy Opticon: Energy Optima 3 und Dienstleistungen",
+      "en": "Energy Opticon: Energy Optima 3 and services"
+    },
+    "metaDescription": {
+      "de": "Energy Opticon: Software und Beratung zur Optimierung integrierter Energieerzeugung und Speicher.",
+      "en": "Energy Opticon: software and consulting for integrated energy production and storage optimisation."
+    },
+    "summary": {
+      "de": "Energy Opticon AB aus Lund in Schweden entwickelt Energy Optima 3 als Entscheidungsunterstützung für die wirtschaftliche Optimierung integrierter Energiesysteme. Die Software betrachtet Erzeugungsanlagen, Brennstoffe, Wärme- und Kältenetze, Speicher und Handelsbedingungen im Zusammenhang. Sie unterstützt Tagesplanung ebenso wie langfristige Strategien; die beschriebenen Anwendungen umfassen auch Wasserstoffsysteme und Batteriespeicher. Energieingenieur-Beratung, Anwendersupport, IT-Betrieb einschließlich Private Cloud und Integrationen ergänzen die eigene Software. Angeschlossene Anlagen und Automatisierungssysteme bleiben getrennte Komponenten. Redaktionelle Auswahlfragen sind die Abbildung technischer Restriktionen und Verträge, Güte der Prognose- und Eingangsdaten, Übergabe der Planung an Betrieb und Handel sowie Verantwortlichkeiten für Modellpflege und Betrieb.",
+      "en": "Energy Opticon AB, based in Lund, Sweden, develops Energy Optima 3 as decision support for the economic optimisation of integrated energy systems. The software considers generation assets, fuels, heating and cooling networks, storage and trading conditions together. It supports daily planning and longer-term strategies; described applications also include hydrogen systems and battery storage. Energy-engineering consulting, user support, IT operation including private cloud and integrations complement its own software. Connected equipment and automation systems remain distinct components. Editorial selection questions concern modelling technical constraints and contracts, forecast and input-data quality, handing plans to operations and trading teams, and responsibility for model maintenance and operation."
+    },
+    "focus": {
+      "de": [
+        "Querverbund- und Erzeugungsoptimierung",
+        "Wärme, Kälte und Strom",
+        "Speicher- und Wasserstoffmodelle",
+        "Planungs- und Handelsunterstützung",
+        "Beratung, Support und Integrationen"
+      ],
+      "en": [
+        "Integrated-system and generation optimisation",
+        "Heating, cooling and electricity",
+        "Storage and hydrogen models",
+        "Planning and trading support",
+        "Consulting, support and integrations"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Produktions- und Einsatzplanung",
+        "Leitwarten und Anlagenbetrieb",
+        "Energiehandel",
+        "Strategische Energieplanung",
+        "Energiewirtschaftliche IT"
+      ],
+      "en": [
+        "Production and dispatch planning",
+        "Control rooms and plant operations",
+        "Energy trading",
+        "Strategic energy planning",
+        "Energy-sector IT"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://energyopticon.com/en/contact/",
+        "label": {
+          "de": "Energy Opticon: offizieller Unternehmensstandort",
+          "en": "Energy Opticon: official company location"
+        }
+      },
+      {
+        "url": "https://energyopticon.com/en/about-us/gdpr-policy/",
+        "label": {
+          "de": "Energy Opticon AB: verantwortliche Gesellschaft",
+          "en": "Energy Opticon AB: responsible legal entity"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "ESN EnergieSystemeNord GmbH": {
+    "officialUrl": "https://esn.de/loesungen/",
+    "officialLabel": {
+      "de": "ESN: Lösungen für Infrastruktur und Prozesse",
+      "en": "ESN: infrastructure and process solutions"
+    },
+    "metaDescription": {
+      "de": "ESN: Software, Daten- und Prozesslösungen für technische Infrastruktur und Energiewirtschaft.",
+      "en": "ESN: software, data and process solutions for technical infrastructure and the energy sector."
+    },
+    "summary": {
+      "de": "ESN EnergieSystemeNord GmbH aus Schwentinental verbindet Software- und Datenlösungen mit Beratung für technische Infrastruktur und energiewirtschaftliche Prozesse. Die Lösungsübersicht umfasst Geodaten, Asset- und Prozessmanagement sowie Leitungs- und Wegerechte und geografische Datenerfassung. Einsatzfelder reichen von Netzdokumentation und Instandhaltung bis zu mobilen Arbeitsabläufen und digitalen Netzanschlussprozessen. Softwarefunktionen und projektbezogene Dienstleistungen sind im konkreten Angebot abzugrenzen. Das Impressum führt mehrere eigenständige Gruppengesellschaften auf; deren Sicherheits-, Zertifizierungs- oder Ingenieurleistungen sind nicht automatisch Leistungen der GmbH. Redaktionelle Auswahlfragen betreffen Datenmigration, GIS- und Fachsystemanbindung, Pflege von Anlagen- und Rechtsdaten, mobile Rückmeldungen und die Zuständigkeit der jeweils beauftragten Gesellschaft.",
+      "en": "ESN EnergieSystemeNord GmbH, based in Schwentinental, combines software and data solutions with consulting for technical infrastructure and energy-sector processes. Its solution overview covers geospatial data, asset and process management, pipeline and wayleave rights, and geographic data capture. Applications range from network documentation and maintenance to mobile workflows and digital grid-connection processes. Software functions and project services require distinction in the specific offer. Its legal notice lists several separate group companies; their security, certification or engineering services are not automatically services of this GmbH. Editorial selection questions concern data migration, GIS and specialist-system integration, maintenance of asset and rights data, mobile feedback and responsibility of the contracted legal entity."
+    },
+    "focus": {
+      "de": [
+        "Geodaten und Netzdokumentation",
+        "Asset- und Prozessmanagement",
+        "Leitungs- und Wegerechte",
+        "Geografische Datenerfassung",
+        "Mobile Infrastrukturprozesse"
+      ],
+      "en": [
+        "Geospatial data and network documentation",
+        "Asset and process management",
+        "Pipeline and wayleave rights",
+        "Geographic data capture",
+        "Mobile infrastructure workflows"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Geoinformation und Netzdokumentation",
+        "Technisches Asset Management",
+        "Instandhaltungsplanung",
+        "Netzanschluss- und Prozessmanagement",
+        "IT-Integration und Datenmigration"
+      ],
+      "en": [
+        "Geoinformation and network documentation",
+        "Technical asset management",
+        "Maintenance planning",
+        "Grid-connection and process management",
+        "IT integration and data migration"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://esn.de/impressum/",
+        "label": {
+          "de": "ESN: Impressum und getrennte Gruppengesellschaften",
+          "en": "ESN: legal notice and separate group entities"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Fidectus AG": {
+    "officialUrl": "https://fidectus.com/en/confirmation-hub",
+    "officialLabel": {
+      "de": "Fidectus: OTC-Post-Trade-Lösungen",
+      "en": "Fidectus: OTC post-trade solutions"
+    },
+    "metaDescription": {
+      "de": "Fidectus: Bestätigungsabgleich, regulatorisches Reporting und Settlement für den Energiehandel.",
+      "en": "Fidectus: confirmation matching, regulatory reporting and settlement for energy trading."
+    },
+    "summary": {
+      "de": "Fidectus AG mit Sitz in Zürich bietet Software und vernetzte Prozesse für die Nachbearbeitung von OTC-Handelsgeschäften. Im Global Energy Network verbindet der Confirmation Hub elektronische und dokumentenbasierte Bestätigungen mit Abgleich und Konfliktbearbeitung. Der Regulatory Reporting Hub unterstützt die Erstellung, Überwachung und Abstimmung von Meldungen für REMIT und EMIR. Der Settlement Hub bündelt Rechnungsprüfung, Abstimmung und Netting und bindet ETRM- und Buchhaltungssysteme ein. Diese Plattformleistungen sind von den Geschäften der Handelspartner sowie von gesonderten Zahlungs- oder Finanzierungsvereinbarungen zu unterscheiden. Redaktionelle Auswahlfragen betreffen Gegenparteien und Formate, Datenverantwortung und Delegationsketten, Vier-Augen-Kontrollen, Nachvollziehbarkeit sowie die Einbindung vorhandener Handelssysteme.",
+      "en": "Zurich-based Fidectus AG offers software and connected processes for OTC post-trade operations. Within its Global Energy Network, Confirmation Hub brings together electronic and document-based confirmations, matching and dispute handling. Regulatory Reporting Hub supports creating, monitoring and reconciling REMIT and EMIR reports. Settlement Hub combines invoice verification, reconciliation and netting and connects ETRM and accounting systems. These platform services must be distinguished from counterparties’ trades and separate payment or financing agreements. Editorial selection questions concern counterparties and formats, data responsibilities and delegation chains, four-eye controls, traceability and integration with existing trading systems."
+    },
+    "focus": {
+      "de": [
+        "Bestätigungsabgleich und Konfliktbearbeitung",
+        "REMIT- und EMIR-Reportingprozesse",
+        "Rechnungsabgleich und Netting",
+        "ETRM- und Buchhaltungsanbindung",
+        "Nachvollziehbare Post-Trade-Workflows"
+      ],
+      "en": [
+        "Confirmation matching and dispute handling",
+        "REMIT and EMIR reporting workflows",
+        "Invoice reconciliation and netting",
+        "ETRM and accounting integration",
+        "Traceable post-trade workflows"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Energiehandels-Backoffice",
+        "Regulatorisches Reporting",
+        "Settlement und Rechnungswesen",
+        "Handels-IT und Systemintegration",
+        "Operatives Risikomanagement"
+      ],
+      "en": [
+        "Energy-trading back office",
+        "Regulatory reporting",
+        "Settlement and accounting",
+        "Trading IT and systems integration",
+        "Operational risk management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://fidectus.com/en/imprint",
+        "label": {
+          "de": "Fidectus AG: Impressum",
+          "en": "Fidectus AG: legal notice"
+        }
+      },
+      {
+        "url": "https://fidectus.com/en/regulatory-reporting-hub",
+        "label": {
+          "de": "Fidectus: regulatorisches Reporting",
+          "en": "Fidectus: regulatory reporting"
+        }
+      },
+      {
+        "url": "https://fidectus.com/en/settlement-hub",
+        "label": {
+          "de": "Fidectus: Settlement und Netting",
+          "en": "Fidectus: settlement and netting"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "Fluence Energy GmbH": {
+    "officialUrl": "https://fluenceenergy.com/",
+    "officialLabel": {
+      "de": "Fluence: Energiespeicher und digitale Anwendungen",
+      "en": "Fluence: energy storage and digital applications"
+    },
+    "metaDescription": {
+      "de": "Fluence Energy: modulare Großbatteriespeicher, Steuerung, Service und digitale Anwendungen.",
+      "en": "Fluence Energy: modular utility-scale battery storage, controls, services and digital applications."
+    },
+    "summary": {
+      "de": "Fluence Energy GmbH mit Sitz in Erlangen ist Teil der Fluence-Gruppe. Deren Angebot verbindet modulare Großbatteriespeicher mit Steuerungssoftware, Service und digitalen Anwendungen für Speicher und erneuerbare Erzeugung. Die aktuelle Produktdarstellung nennt unter anderem Smartstack und Gridstack sowie Mosaic für Gebotsoptimierung und Nispera für Anlagenperformance. Smartstack kombiniert eine modulare Hardwarearchitektur mit Fluence OS; die Lieferung kann projektabhängig weitere Anlagenkomponenten umfassen. Die Rolle als Systemanbieter ist von der Herstellung einzelner Batteriezellen und vom späteren Anlagenbetrieb zu unterscheiden. Redaktionelle Auswahlfragen betreffen Auslegung und Netzanschluss, System- und Liefergrenzen, Sicherheitskonzept, Wartungsumfang, Datenzugang sowie die Marktverfügbarkeit und Zuständigkeit für digitale Zusatzleistungen.",
+      "en": "Erlangen-based Fluence Energy GmbH is part of the Fluence group. The group’s offering combines modular utility-scale battery storage with controls, services and digital applications for storage and renewable generation. Its current product presentation names Smartstack and Gridstack, alongside Mosaic for bid optimisation and Nispera for asset performance. Smartstack combines modular hardware with Fluence OS; project deliveries may include additional plant components. The system-provider role must be distinguished from manufacturing individual battery cells and subsequent asset operation. Editorial selection questions concern sizing and grid connection, system and delivery boundaries, safety design, maintenance scope, data access and the market availability and responsible provider for digital add-on services."
+    },
+    "focus": {
+      "de": [
+        "Modulare Großbatteriespeicher",
+        "Speichersteuerung mit Fluence OS",
+        "Projekt- und Serviceleistungen",
+        "Digitale Gebotsoptimierung",
+        "Anlagenperformance für Speicher und Erneuerbare"
+      ],
+      "en": [
+        "Modular utility-scale battery storage",
+        "Storage controls with Fluence OS",
+        "Project and service offerings",
+        "Digital bid optimisation",
+        "Storage and renewable asset performance"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Speicherprojektentwicklung",
+        "Technische Planung und Netzanbindung",
+        "Anlagenbetrieb und Instandhaltung",
+        "Energiehandel und Optimierung",
+        "Technischer Einkauf und Vertragsmanagement"
+      ],
+      "en": [
+        "Storage project development",
+        "Engineering and grid connection",
+        "Asset operations and maintenance",
+        "Energy trading and optimisation",
+        "Technical procurement and contract management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/FC038043",
+        "label": {
+          "de": "Companies House: deutsche Rechtseinheit und Register",
+          "en": "Companies House: German legal entity and registry"
+        }
+      },
+      {
+        "url": "https://fluenceenergy.com/contact/",
+        "label": {
+          "de": "Fluence: offizielle Standorte",
+          "en": "Fluence: official locations"
+        }
+      },
+      {
+        "url": "https://fluenceenergy.com/smartstack-energy-storage/",
+        "label": {
+          "de": "Fluence: Smartstack-Architektur und Service",
+          "en": "Fluence: Smartstack architecture and services"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "GETEC ENERGIE GmbH": {
+    "officialUrl": "https://www.getec-energie.de/",
+    "officialLabel": {
+      "de": "GETEC ENERGIE: Beschaffung, Vermarktung und Dienstleistungen",
+      "en": "GETEC ENERGIE: procurement, marketing and services"
+    },
+    "metaDescription": {
+      "de": "GETEC ENERGIE: Strom- und Gasversorgung, Beschaffung, Vermarktung und energiewirtschaftliche Prozesse.",
+      "en": "GETEC ENERGIE: electricity and gas supply, procurement, marketing and energy-market processes."
+    },
+    "summary": {
+      "de": "GETEC ENERGIE GmbH aus Hannover unterstützt Energieverbraucher, Energieversorger und Erzeuger bei Beschaffung, Belieferung und Vermarktung. Für Gewerbe und Industrie beschreibt das Unternehmen Strom- und Gasangebote; weitere Schwerpunkte sind Marktzugang, Bilanzkreismanagement, Kraftwerks- und Erneuerbarenvermarktung sowie PPAs. Hinzu kommen Prozessdienstleistungen, Bahnstrom und Angebote rund um Herkunftsnachweise und Biomethan. Das Portfolio umfasst konventionelle und erneuerbare Energie; einzelne grüne Produkte erlauben keine pauschale Einordnung aller Lieferungen als erneuerbar. Die GmbH ist von anderen GETEC-Gesellschaften und deren Anlagen- oder Contracting-Leistungen abzugrenzen. Redaktionelle Auswahlfragen sind Verbrauchs- beziehungsweise Erzeugungsprofil, Beschaffungsmodell, Mengen- und Preisrisiken, Herkunftsnachweise sowie Zuständigkeiten für Bilanzierung und Marktkommunikation.",
+      "en": "Hannover-based GETEC ENERGIE GmbH supports energy consumers, suppliers and generators with procurement, supply and marketing. It describes electricity and gas offerings for commercial and industrial customers; further areas include market access, balancing-group management, power-plant and renewable-energy marketing, and PPAs. Process services, traction power, guarantees of origin and biomethane complement the portfolio. The offering includes conventional and renewable energy; individual green products do not make all deliveries renewable. This GmbH must be distinguished from other GETEC entities and their equipment or contracting services. Editorial selection questions concern consumption or generation profiles, procurement models, volume and price risks, guarantees of origin and responsibility for balancing and market communication."
+    },
+    "focus": {
+      "de": [
+        "Strom- und Gasbeschaffung und Belieferung",
+        "Vermarktung von Erzeugung und PPAs",
+        "Bilanzkreismanagement und Marktzugang",
+        "Energiewirtschaftliche Prozessdienste",
+        "Bahnstrom, Herkunftsnachweise und Biomethan"
+      ],
+      "en": [
+        "Electricity and gas procurement and supply",
+        "Generation marketing and PPAs",
+        "Balancing-group management and market access",
+        "Energy-market process services",
+        "Traction power, guarantees of origin and biomethane"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Energieeinkauf in Gewerbe und Industrie",
+        "Portfoliomanagement und Energiehandel",
+        "Stadtwerke und Energievertrieb",
+        "Erzeugungsvermarktung",
+        "Bilanzierung und Marktkommunikation"
+      ],
+      "en": [
+        "Commercial and industrial energy procurement",
+        "Portfolio management and energy trading",
+        "Municipal utilities and energy retail",
+        "Generation marketing",
+        "Balancing and market communication"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.getec-energie.de/impressum/",
+        "label": {
+          "de": "GETEC ENERGIE GmbH: Impressum und Rechtseinheit",
+          "en": "GETEC ENERGIE GmbH: legal notice and entity"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
+  },
+  "GreenGate AG": {
+    "officialUrl": "https://www.greengate.de/greengate-software/",
+    "officialLabel": {
+      "de": "GreenGate: Software für Betriebsführung und Instandhaltung",
+      "en": "GreenGate: operations and maintenance software"
+    },
+    "metaDescription": {
+      "de": "GreenGate: Software für technische Betriebsführung, Arbeitsaufträge und Instandhaltung.",
+      "en": "GreenGate: software for technical operations, work orders and maintenance."
+    },
+    "summary": {
+      "de": "GreenGate AG aus Windeck entwickelt und implementiert Software für Betriebsführung und Instandhaltung technischer Infrastruktur. Die Plattform organisiert Arbeitsaufträge von Planung und Durchführung bis zur Dokumentation. Konfigurierbare Tätigkeiten und Prüfschritte unterstützen standardisierte Abläufe; Desktop-, Web- und Mobilanwendungen greifen auf gemeinsame Daten zu. Einsatzfelder sind Industrie, Versorger, Wasserwirtschaft, Windenergie und technische Servicedienste. On-Premise und SaaS sind beschriebene Betriebsoptionen. Schnittstellen dienen der Einbindung vorhandener Systeme; eine SAP-Anbindung macht SAP nicht zum eigenen Produkt von GreenGate. Redaktionelle Auswahlfragen betreffen Anlagen- und Auftragsdaten, mobile Nutzung, Rollen und Freigaben, Schnittstellen sowie die Grenze zwischen Konfiguration, Einführung und laufender Betreuung.",
+      "en": "Windeck-based GreenGate AG develops and implements software for technical infrastructure operations and maintenance. Its platform manages work orders from planning and execution through documentation. Configurable activities and inspection steps support standardised workflows; desktop, web and mobile applications share data. Applications include industry, utilities, water management, wind energy and technical service companies. On-premises and SaaS are described deployment options. Interfaces connect existing systems; SAP integration does not make SAP a GreenGate product. Editorial selection questions concern asset and work-order data, mobile use, roles and approvals, interfaces and the boundaries between configuration, implementation and ongoing support."
+    },
+    "focus": {
+      "de": [
+        "Arbeitsauftragsmanagement",
+        "Technische Betriebsführung und Instandhaltung",
+        "Konfigurierbare Abläufe und Prüfschritte",
+        "Desktop-, Web- und Mobilanwendungen",
+        "Schnittstellen und Systemintegration"
+      ],
+      "en": [
+        "Work-order management",
+        "Technical operations and maintenance",
+        "Configurable workflows and inspection steps",
+        "Desktop, web and mobile applications",
+        "Interfaces and systems integration"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Instandhaltungsleitung",
+        "Technischer Betrieb und Asset Management",
+        "Einsatz- und Auftragsplanung",
+        "Mobile Service- und Betriebsteams",
+        "IT-Integration und Anwendungsbetreuung"
+      ],
+      "en": [
+        "Maintenance management",
+        "Technical operations and asset management",
+        "Workforce and work-order planning",
+        "Mobile service and operations teams",
+        "IT integration and application management"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.greengate.de/impressum/",
+        "label": {
+          "de": "GreenGate AG: Impressum",
+          "en": "GreenGate AG: legal notice"
+        }
+      },
+      {
+        "url": "https://www.greengate.de/unternehmen/",
+        "label": {
+          "de": "GreenGate: Entwicklung und Implementierung",
+          "en": "GreenGate: development and implementation"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
+      "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
+    }
   }
 }
