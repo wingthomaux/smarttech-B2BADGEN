@@ -1,5 +1,9 @@
 # SmartTech – Quellenkandidaten
 
+## N-ERGIE: Fachpublikationen und Katalogverbindungen, 7. November 2026
+
+Fünf konkrete Quellen aus EUROHEAT&POWER, ZFK, Energie & Management, netzpraxis und ew wurden für das bestehende N-ERGIE-Profil gesichtet. Fünf Unternehmens-Originalquellen stützen Eigentümer-/Konzernangaben und Projektrollen. Sieben vorhandene Katalogunternehmen sind mit differenzierten Hin- und Rückverweisen verbunden. Fachmedium, Interview, Anbieterautorschaft und übernommene Presseangaben bleiben unterscheidbar; historische Dienstleister werden nicht als aktuelle Partner ausgegeben. Keine pauschale Aktivierung neuer Monitore oder zusätzlichen Wissensobjekt-Validierungen. Fundstellen, verworfene Verallgemeinerungen und Abrufgrenzen: `docs/N-ERGIE-FACHPUBLIKATIONEN-20261107.md`.
+
 ## Gezielter Whitepaper-Abgleich vom 29. September 2026
 
 Sechs neue Landingpages von Security-Insider und heise Business Services wurden mit konkretem Anbieter und Zugangsmodell einzeln erfasst. Die genaue Publikation am 29. September ist nicht belegt; dieses Datum bezeichnet den SmartTech-Erfassungstag. Die Portale dienen als beobachtete Quellen, der Formular- oder Mitgliederdownload bleibt ungeprüft. Quellen, Auswahl und Grenzen stehen in `docs/WHITEPAPER-UPDATE-20260929.md`. Der automatische Portalindex schaltet auch weiterhin keine weiteren Ressourcen frei.
