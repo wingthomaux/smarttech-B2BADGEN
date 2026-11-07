@@ -71,3 +71,7 @@ Neun konkrete Originalseiten von iBusiness, PR-Journal, medienrot, markenartikel
 Sechs konkrete behördliche beziehungsweise kommunale Originalseiten werden für das bestehende N-ERGIE-Profil und die Regionseinstiege Nürnberg/Mittelfranken verwendet: Regierung von Oberfranken (PM und Verfahrensbeschreibung), Regierung von Mittelfranken (Genehmigungsbescheid), UVP-Portal der Länder und Stadt Nürnberg (Projektbeschreibung und Wärmeversorgungsgebiete). Dies aktiviert keine neuen automatischen Quellenmonitore und keine pauschale Portalaufnahme. Es entstehen keine neuen Anbieterentitäten, Produktressourcen, Wissensobjekte oder Einzelvalidierungen.
 
 Die externen Belege stehen getrennt von der Unternehmensdarstellung und kennzeichnen Verfahrensstand, Quelle, Datum und Beleggrenze. Eine kommunale Quelle mit übernommenem N-ERGIE-Plan ist keine unabhängige Wirksamkeitsstudie. Details und verworfene Verallgemeinerungen: `docs/N-ERGIE-EXTERNE-QUELLEN-20261107.md`.
+
+## Regionale Besonderheiten Nürnberg / Mittelfranken, 7. November 2026
+
+Gezielte Ergänzung des bestehenden N-ERGIE-Regionsberichts mit der kommunalen Ergebnispräsentation zur Wärmeplanung (23.06.2025; Datenjahr 2022), städtischer Bestands-/Potenzialanalyse und den Regierungsseiten zu Raumstruktur und Regionalplanung. Zahlen nur mit Bezugsjahr; räumliche Merkmale und Betreiberangaben zum Netzausbau getrennt. Keine pauschale Aktivierung dieser Websites als Quellenmonitore. Belegstellen und Grenzen: `docs/N-ERGIE-REGIONALPROFIL-20261107.md`.
