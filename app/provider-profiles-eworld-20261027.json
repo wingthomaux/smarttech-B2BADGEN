@@ -2088,5 +2088,110 @@
       "de": "Quellenprüfung: 01.11.2026. Auswahlfragen sind redaktionelle Prüfpunkte; verlinkte Ressourcen wurden nicht einzeln validiert.",
       "en": "Sources reviewed: 1 November 2026. Selection questions are editorial considerations; linked resources have not been individually validated."
     }
+  },
+  "N-ERGIE Aktiengesellschaft": {
+    "officialUrl": "https://www.n-ergie.de/n-ergie/unternehmen/wer-wir-sind/ueberblick/",
+    "officialLabel": {
+      "de": "N-ERGIE: Unternehmensprofil und Versorgungsregion",
+      "en": "N-ERGIE: company and supply region"
+    },
+    "metaDescription": {
+      "de": "N-ERGIE: Energieversorgung, Direktvermarktung und Smart-City-Funknetz in Nürnberg und Mittelfranken; Netztochter, Speicherprojekte und E-world 2027.",
+      "en": "N-ERGIE: energy supply, renewable power marketing and smart-city radio network in Nuremberg and Middle Franconia; grid subsidiary, storage and E-world 2027."
+    },
+    "summary": {
+      "de": "N-ERGIE Aktiengesellschaft ist ein kommunal geprägter Energieversorger mit Sitz in Nürnberg. Das Unternehmen liefert Strom und Erdgas in großen Teilen Mittelfrankens und angrenzenden Gebieten sowie Trinkwasser und Fernwärme in Nürnberg. Für Unternehmen umfasst das Angebot Energiebelieferung, Direktvermarktung erneuerbarer Erzeugung, Ladeangebote und technische Dienstleistungen wie die Inspektion von Energieanlagen. Das Smart-City-Kommunikationsnetz nutzt LoRaWAN und mioty im Raum Nürnberg; die Anbieterquelle beschreibt bereits eingesetzte Zählerfernablesung und Sensoranwendungen im Stadtgebiet. Strom- und Gasnetzaufgaben sind der rechtlich eigenständigen Tochter N-ERGIE Netz GmbH zuzuordnen. Deren Mitteilung vom 2. November 2026 berichtet über den am 31. Oktober veröffentlichten Netzausbauplan; Ausbauvorhaben sind keine Zusage sofort verfügbarer Anschlusskapazität. Für den Kraftwerksspeicher in Nürnberg-Sandreuth meldete N-ERGIE am 4. September den Baustart; die Inbetriebnahme ist für Mitte 2027 geplant. Redaktionelle Auswahlfragen betreffen die konkrete Lieferstelle, Last- und Einspeiseprofile, Netzanschluss, Messkonzept, Funkabdeckung, Datenzugriff und die Zuständigkeiten von Lieferant, Netz- und Anlagenbetreiber. Sitz, Netzgebiet und Verfügbarkeit einzelner Angebote sind getrennt zu prüfen.",
+      "en": "N-ERGIE Aktiengesellschaft is a municipally rooted energy utility based in Nuremberg. It supplies electricity and natural gas across large parts of Middle Franconia and neighbouring areas, and drinking water and district heating in Nuremberg. Business offerings include energy supply, direct marketing of renewable generation, charging services and technical services such as energy asset inspections. Its smart-city communications network uses LoRaWAN and mioty in the Nuremberg area; the provider describes deployed remote meter reading and sensor applications within the city. Electricity and gas network responsibilities belong to the legally separate subsidiary N-ERGIE Netz GmbH. Its announcement dated 2 November 2026 reports the grid development plan published on 31 October; development projects do not guarantee immediately available connection capacity. On 4 September, N-ERGIE announced the start of construction of the power-station battery in Nuremberg-Sandreuth; commissioning is planned for mid-2027. Editorial selection questions concern the specific supply point, demand and generation profiles, grid connection, metering concept, radio coverage, data access and responsibilities of supplier, network and asset operators. Headquarters, network territory and availability of individual services require separate assessment."
+    },
+    "focus": {
+      "de": [
+        "Strom- und Erdgasbelieferung",
+        "Fernwärme und Trinkwasser in Nürnberg",
+        "Direktvermarktung erneuerbarer Stromerzeugung",
+        "Elektromobilität und Laden im Unternehmen",
+        "Smart City: LoRaWAN und mioty",
+        "Zählerfernablesung und IoT-Sensorik",
+        "Technische Inspektion von Energieanlagen",
+        "Speicher und Flexibilität: Bau- und Planungsstand getrennt"
+      ],
+      "en": [
+        "Electricity and natural gas supply",
+        "District heating and drinking water in Nuremberg",
+        "Direct marketing of renewable generation",
+        "Electric mobility and business charging",
+        "Smart city: LoRaWAN and mioty",
+        "Remote meter reading and IoT sensors",
+        "Technical inspection of energy assets",
+        "Storage and flexibility: distinct construction and planning status"
+      ]
+    },
+    "buyerGroups": {
+      "de": [
+        "Energieeinkauf und industrielles Energiemanagement",
+        "Kommunen und Stadtwerke",
+        "Immobilien- und Gebäudemanagement",
+        "Betreiber erneuerbarer Erzeugungsanlagen",
+        "Smart-City- und IoT-Verantwortliche",
+        "Flotten- und Ladeinfrastrukturmanagement",
+        "Technische Planung und Anlagenbetrieb"
+      ],
+      "en": [
+        "Energy procurement and industrial energy management",
+        "Municipalities and utilities",
+        "Property and facilities management",
+        "Renewable generation operators",
+        "Smart-city and IoT teams",
+        "Fleet and charging infrastructure management",
+        "Technical planning and asset operations"
+      ]
+    },
+    "officialSources": [
+      {
+        "url": "https://www.n-ergie.de/geschaeftskunden/",
+        "label": {
+          "de": "Geschäftskunden: Energie, Laden und Dienstleistungen",
+          "en": "Business customers: energy, charging and services"
+        }
+      },
+      {
+        "url": "https://www.n-ergie.de/geschaeftskunden/grosse-unternehmen-und-betriebe/energie-vermarkten/direktvermarktung/",
+        "label": {
+          "de": "Direktvermarktung: Leistung und Betreiberabgrenzung",
+          "en": "Renewable power marketing: service and operator responsibilities"
+        }
+      },
+      {
+        "url": "https://www.n-ergie.de/geschaeftskunden/grosse-unternehmen-und-betriebe/energienahe-dienstleistungen/",
+        "label": {
+          "de": "Energiedienstleistungen: Anlageninspektion",
+          "en": "Energy services: asset inspection"
+        }
+      },
+      {
+        "url": "https://www.n-ergie.de/n-ergie/unternehmen/innovationundtechnik/lorawan/",
+        "label": {
+          "de": "Smart-City-Kommunikationsnetz: Nürnberg, LoRaWAN und mioty",
+          "en": "Smart-city communications: Nuremberg, LoRaWAN and mioty"
+        }
+      },
+      {
+        "url": "https://www.n-ergie-netz.de/n-ergie-netz/unternehmen/aktuelles/",
+        "label": {
+          "de": "N-ERGIE Netz: Netzausbauplan (02.11.2026) und Feuchtwangen (27.10.2026)",
+          "en": "N-ERGIE Netz: development plan (2 November 2026) and Feuchtwangen (27 October 2026)"
+        }
+      },
+      {
+        "url": "https://magazin.n-ergie.de/presse/weiterer-speicher-macht-heizkraftwerk-der-n-ergie-noch-flexibler/",
+        "label": {
+          "de": "Kraftwerksspeicher Sandreuth: Baustart, 04.09.2026",
+          "en": "Sandreuth power-station battery: construction announcement, 4 September 2026"
+        }
+      }
+    ],
+    "languageNote": {
+      "de": "Quellenprüfung: 07.11.2026. Konzern, Energievertrieb und N-ERGIE Netz GmbH werden nicht gleichgesetzt. E-world-Zuordnung und Standangaben stammen weiterhin aus dem Export vom 26.10.2026 und sind nicht live erneut bestätigt. Die Profilprüfung fügt keine einzeln validierten Wissensobjekte hinzu.",
+      "en": "Sources reviewed: 7 November 2026. Group, energy retail and N-ERGIE Netz GmbH are distinguished. E-world participation and stand details remain based on the export dated 26 October 2026 and have not been reconfirmed live. This profile review adds no individually validated knowledge items."
+    }
   }
 }
