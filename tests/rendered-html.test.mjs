@@ -21,10 +21,8 @@ test("renders public catalog metadata and internal detail links",async()=>{
   assert.match(html,/Wissensobjekte sind eingeordnet/);
   assert.match(html.replaceAll("<!-- -->",""),/href="\/portale"[^>]*><strong[^>]*>27<\/strong> Portale<\/a>/);
   assert.doesNotMatch(html,/77 Wissensobjekte sind redaktionell eingeordnet/);
-  assert.match(html,/Neu seit dem letzten Update/);
-  assert.match(html,/neue Unternehmensprofile/);
-  assert.match(html,/neue Wissensobjekte/);
-  assert.match(html,/Neue Unternehmensprofile und Wissensobjekte/);
+  assert.doesNotMatch(html,/Neu seit dem letzten Update|Neue Unternehmensprofile und Wissensobjekte/);
+  assert.match(html,/Städte, Regionen und eWorld entdecken/);
   assert.match(html,/href="\/wissen\/[^"]+"/);
 });
 
@@ -179,11 +177,10 @@ test("renders audited industrial and security providers, and redirects source-la
   assert.doesNotMatch(xml,/\/anbieter\/(?:zu-pruefen|buchautor|my-wage)-/);
 });
 
-test("shows the current portal update while preserving transparent whitepaper access status",async()=>{
+test("preserves update data and transparent whitepaper access while homepage update cards are paused",async()=>{
   const home=(await (await worker.fetch(new Request("http://localhost/"),env,ctx)).text()).replaceAll("<!-- -->","");
-  assert.match(home,/Katalogstand vom 19\.10\.2026 im Vergleich zum 30\.09\.2026/);
-  assert.match(home,/55 neue Unternehmensprofile/);
-  assert.match(home,/453 neue Wissensobjekte/);
+  assert.doesNotMatch(home,/Katalogstand vom|55 neue Unternehmensprofile|453 neue Wissensobjekte/);
+  assert.match(home,/Städte, Regionen und eWorld entdecken/);
   const weekly=JSON.parse(await readFile(new URL("../app/weekly-update.generated.json",import.meta.url),"utf8"));
   assert.equal(weekly.providers.length,55);
   assert.equal(weekly.assets.length,453);
@@ -270,7 +267,8 @@ test("renders the English catalogue with language alternates and translation dis
   assert.match(html,/Translation notice:/);
   assert.match(html,/aria-label="Switch to the German version"/);
   assert.match(html,/href="\/en\/knowledge\/[^"]+"/);
-  assert.match(html.replaceAll("<!-- -->",""),/55 new company profiles/);
+  assert.doesNotMatch(html,/New since last update|55 new company profiles/);
+  assert.match(html,/Explore cities, regions and eWorld/);
   assert.match(html.replaceAll("<!-- -->",""),/href="\/en\/portals"[^>]*><strong[^>]*>27<\/strong> portals<\/a>/);
 });
 
@@ -1004,23 +1002,15 @@ test("refreshed IT profiles and all new resources render equivalent DE and EN so
  }
 });
 
-test("homepage immediately shows latest providers and knowledge without switching tabs",async()=>{
+test("homepage pauses update cards while preserving the underlying comparison dataset",async()=>{
  const weekly=JSON.parse(await readFile(new URL("../app/weekly-update.generated.json",import.meta.url),"utf8"));
- const newest=["Barracuda Networks","Commvault","NetKnights","Arista Networks","Omnissa"];
- assert.deepEqual(weekly.providers.slice(0,5).map(p=>p.name),newest);
+ assert.equal(weekly.providers.length,55);assert.equal(weekly.assets.length,453);
  for(let i=1;i<weekly.providers.length;i++)assert.ok(weekly.providers[i-1].date>=weekly.providers[i].date);
  for(const locale of ["de","en"]){
   const response=await worker.fetch(new Request(`http://localhost/${locale==="en"?"en":""}`),env,ctx);assert.equal(response.status,200);
-  const html=(await response.text()).replaceAll("<!-- -->","");
-  const providers=html.match(/<section aria-labelledby="new-providers-title"[\s\S]*?<\/section>/)?.[0];
-  const knowledge=html.match(/<section aria-labelledby="new-knowledge-title"[\s\S]*?<\/section>/)?.[0];
-  assert.ok(providers&&knowledge,"both update sections render on initial page load");
-  for(const section of [providers,knowledge])assert.doesNotMatch(section,/role="tabpanel"|<section[^>]*(?:aria-hidden="true"|\shidden(?:[\s=>]))/);
-  for(const name of newest)assert.ok(providers.includes(name),`${locale}: ${name} visible in initial provider cards`);
-  assert.equal((knowledge.match(/<article\b/g)||[]).length,9);
-  assert.match(knowledge,/880072-/);assert.match(knowledge,/880071-/);
-  assert.ok(providers.indexOf("Barracuda Networks")<providers.indexOf("Commvault"));
-  assert.match(providers,locale==="de"?/Alle 55 neuen Unternehmensprofile anzeigen/:/Show all 55 new company profiles/);
-  assert.match(knowledge,locale==="de"?/Alle 453 neuen Wissensobjekte anzeigen/:/Show all 453 new knowledge items/);
+  const html=await response.text();
+  assert.doesNotMatch(html,/<section id="neu"|aria-labelledby="new-providers-title"|aria-labelledby="new-knowledge-title"/);
+  assert.doesNotMatch(html,/New since last update|Neu seit dem letzten Update/);
+  assert.match(html,/id="regionen"/);assert.match(html,/id="eworld-einstieg"/);
  }
 });

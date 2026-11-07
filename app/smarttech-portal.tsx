@@ -1,5 +1,7 @@
 "use client";
 
+import {HomepageRegions} from "./homepage-regions";
+
 import {hasPendingProviderAudit,searchCatalog,englishText,machineTranslated} from "./portal-client-data";
 
 import {useDeferredValue,useEffect,useMemo,useState,useSyncExternalStore} from "react";
@@ -65,6 +67,8 @@ const excludedFromProviderRankings=new Set([
   "zu prüfen",
 ]);
 export const isRankedProvider=(name:string)=>!excludedFromProviderRankings.has(name.trim().toLocaleLowerCase("de-DE"))&&!hasPendingProviderAudit(name);
+// Paused on the homepage by editorial request; retained data and UI can be reactivated here.
+const weeklyUpdatesVisible=false;
 const weeklyUpdate=weeklyUpdateData as WeeklyUpdate;
 
 export type TaxonomyQuery=Record<string,string|string[]|undefined>;
@@ -196,9 +200,11 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
         <Link href={catalogLanguageHref(locale,"",publicPrefix)} className="flex items-center gap-3" aria-label={isEn?"SmartTech home":"SmartTech Startseite"}>
           <span className="grid size-8 place-items-center bg-primary text-xs font-black text-primary-foreground">ST</span>
           <span className="font-semibold">SmartTech</span>
-          <span className="hidden border-l pl-3 text-sm text-muted-foreground sm:block">{isEn?"Technology knowledge for investment":"Technologiewissen für Investitionen"}</span>
+          <span className="hidden border-l pl-3 text-sm text-muted-foreground lg:block">{isEn?"Technology knowledge for investment":"Technologiewissen für Investitionen"}</span>
         </Link>
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 sm:gap-5">
+          <a href="#regionen" className="hidden min-h-11 items-center text-sm font-medium hover:text-primary sm:inline-flex">{isEn?"Cities & regions":"Städte & Regionen"}</a>
+          <a href="#eworld-einstieg" className="inline-flex min-h-11 items-center text-sm font-medium text-primary">eWorld</a>
           <LanguageToggle locale={locale} href={catalogLanguageHref(isEn?"de":"en",sharedQuery,publicPrefix)}/>
         </div>
       </div>
@@ -228,21 +234,18 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
               <span><strong className="text-foreground">{data.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"observed publications":"beobachtete Publikationen"}</span>
               <span><strong className="text-foreground">{companies.length.toLocaleString(isEn?"en-GB":"de-DE")}</strong> {isEn?"normalised providers":"normalisierte Anbieter"}</span>
               <Link href={publicPrefix+(isEn?"/en/portals":"/portale")} className="hover:text-primary hover:underline"><strong className="text-foreground">{portalProfiles.length}</strong> {isEn?"portals":"Portale"}</Link>
-              <Link href={publicPrefix+(isEn?"/en/region/eworld":"/region/eworld")} className="hover:text-primary hover:underline">eWorld · 798 {isEn?"exhibitors":"Aussteller"}</Link>
-              <Link href={publicPrefix+(isEn?"/en/region/nuernberg":"/region/nuernberg")} className="hover:text-primary hover:underline">{isEn?"Nuremberg":"Nürnberg"}</Link>
-              <Link href={publicPrefix+(isEn?"/en/region/mittelfranken":"/region/mittelfranken")} className="hover:text-primary hover:underline">{isEn?"Middle Franconia":"Mittelfranken"}</Link>
-              <Link href={publicPrefix+(isEn?"/en/region/wittlich":"/region/wittlich")} className="hover:text-primary hover:underline">{isEn?"Regions: Wittlich":"Regionen: Wittlich"}</Link>
-              <Link href={publicPrefix+(isEn?"/en/region/muenchen-stadt":"/region/muenchen-stadt")} className="hover:text-primary hover:underline">{isEn?"Munich (city)":"München (Stadt)"}</Link>
-              <Link href={publicPrefix+(isEn?"/en/region/muenchen-landkreis":"/region/muenchen-landkreis")} className="hover:text-primary hover:underline">{isEn?"Munich (district)":"München (Landkreis)"}</Link>
+
             </div>
           </div>
         </div>
       </div>
     </section>
 
+    <HomepageRegions locale={locale} publicPrefix={publicPrefix}/>
+
     {isEn&&<section className="border-b bg-primary/5"><div className="mx-auto max-w-[1440px] px-5 py-4 text-sm leading-6 text-muted-foreground lg:px-10"><strong className="text-foreground">Translation notice:</strong> German catalogue text is translated automatically. Content that is already published in English retains its original title. The directly linked original source remains authoritative.</div></section>}
 
-    <section id="neu" className="scroll-mt-20 border-b bg-white">
+    {weeklyUpdatesVisible&&<section id="neu" className="scroll-mt-20 border-b bg-white">
       <div className="mx-auto max-w-[1440px] px-5 py-12 lg:px-10">
         <div className="flex flex-col justify-between gap-5 md:flex-row md:items-end">
           <div>
@@ -277,7 +280,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
           </section>
         </div>
       </div>
-    </section>
+    </section>}
 
     <section className="mx-auto max-w-[1440px] px-5 py-10 lg:px-10">
       <Tabs value={activeTab} onValueChange={setActiveTab}>
