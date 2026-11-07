@@ -65,3 +65,9 @@ Die drei Whitepaper-/Webinar-Sitemaps wurden vollständig als URL-Prüfliste gel
 ## Althaller – gezielte Presseverweise, 9. Oktober 2026
 
 Neun konkrete Originalseiten von iBusiness, PR-Journal, medienrot, markenartikel, et, INTERNET WORLD Austria, W&V und marconomy geprüft. Sieben zusätzliche Portalprofile erfassen ausschließlich diese ausgewählten Artikel. Keine allgemeine Sitemap-Aufnahme oder automatischen Veröffentlichungen. Studienpartner, Pressemitteilungsbasis, historische Ausgabe 2025/26 und W&V-Abonnement sind kenntlich gemacht. Details: `docs/ALTHALLER-PRESSE-20261009.md`.
+
+## N-ERGIE – gezielter externer Faktenabgleich, 7. November 2026
+
+Sechs konkrete behördliche beziehungsweise kommunale Originalseiten werden für das bestehende N-ERGIE-Profil und die Regionseinstiege Nürnberg/Mittelfranken verwendet: Regierung von Oberfranken (PM und Verfahrensbeschreibung), Regierung von Mittelfranken (Genehmigungsbescheid), UVP-Portal der Länder und Stadt Nürnberg (Projektbeschreibung und Wärmeversorgungsgebiete). Dies aktiviert keine neuen automatischen Quellenmonitore und keine pauschale Portalaufnahme. Es entstehen keine neuen Anbieterentitäten, Produktressourcen, Wissensobjekte oder Einzelvalidierungen.
+
+Die externen Belege stehen getrennt von der Unternehmensdarstellung und kennzeichnen Verfahrensstand, Quelle, Datum und Beleggrenze. Eine kommunale Quelle mit übernommenem N-ERGIE-Plan ist keine unabhängige Wirksamkeitsstudie. Details und verworfene Verallgemeinerungen: `docs/N-ERGIE-EXTERNE-QUELLEN-20261107.md`.
