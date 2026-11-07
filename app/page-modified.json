@@ -1017,8 +1017,8 @@
   "/en/providers/muuuh-gmbh-ybu66": "2026-10-26",
   "/anbieter/mvv-energie-ag-17fjy": "2026-10-26",
   "/en/providers/mvv-energie-ag-17fjy": "2026-10-26",
-  "/anbieter/n-ergie-aktiengesellschaft-10dzt": "2026-10-26",
-  "/en/providers/n-ergie-aktiengesellschaft-10dzt": "2026-10-26",
+  "/anbieter/n-ergie-aktiengesellschaft-10dzt": "2026-11-07",
+  "/en/providers/n-ergie-aktiengesellschaft-10dzt": "2026-11-07",
   "/anbieter/n-v-nederlandse-gasunie-1k1u6": "2026-10-26",
   "/en/providers/n-v-nederlandse-gasunie-1k1u6": "2026-10-26",
   "/anbieter/nadara-energy-trading-s-r-l-10gz4": "2026-10-26",
@@ -1605,8 +1605,12 @@
   "/en/providers/zerio-gmbh-1s6dz": "2026-10-26",
   "/anbieter/zukunftsagentur-rheinisches-revier-gmbh-elk97": "2026-10-26",
   "/en/providers/zukunftsagentur-rheinisches-revier-gmbh-elk97": "2026-10-26",
-  "/": "2026-10-26",
-  "/en": "2026-10-26",
+  "/": "2026-11-07",
+  "/en": "2026-11-07",
   "/region/eworld": "2026-10-26",
-  "/en/region/eworld": "2026-10-26"
+  "/en/region/eworld": "2026-10-26",
+  "/region/nuernberg": "2026-11-07",
+  "/en/region/nuernberg": "2026-11-07",
+  "/region/mittelfranken": "2026-11-07",
+  "/en/region/mittelfranken": "2026-11-07"
 }
