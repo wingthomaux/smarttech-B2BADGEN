@@ -24,7 +24,7 @@ test("regional reports render in both languages with separate identities, rights
     assert.ok(html.includes("Powered by xAI"));assert.ok(html.includes("All rights reserved. Copyright © xAI 2026."));
     assert.ok(html.includes("https://grokipedia.com/suggest"));
     const entry=xml.match(new RegExp(`<url><loc>${origin+path}</loc>(.*?)</url>`))?.[1];
-    assert.ok(entry?.includes("<lastmod>2026-10-21</lastmod>"));
+    assert.ok(entry?.includes("<lastmod>2026-11-08</lastmod>"));
     // Follow every actual local link in the report, including language and privacy navigation.
     for(const href of new Set([...html.matchAll(/<a\b[^>]*href="(\/[^"#?]*)"/g)].map(match=>match[1]))){
       assert.equal((await page(href)).status,200,`${path} → ${href}`);

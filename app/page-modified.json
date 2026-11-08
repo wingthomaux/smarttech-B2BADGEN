@@ -3,8 +3,8 @@
   "/en/region/muenchen-stadt": "2026-10-21",
   "/region/muenchen-landkreis": "2026-10-21",
   "/en/region/muenchen-landkreis": "2026-10-21",
-  "/region/wittlich": "2026-10-21",
-  "/en/region/wittlich": "2026-10-21",
+  "/region/wittlich": "2026-11-08",
+  "/en/region/wittlich": "2026-11-08",
   "/impressum": "2026-10-20",
   "/datenschutz": "2026-10-20",
   "/en/imprint": "2026-10-20",
@@ -1605,8 +1605,8 @@
   "/en/providers/zerio-gmbh-1s6dz": "2026-10-26",
   "/anbieter/zukunftsagentur-rheinisches-revier-gmbh-elk97": "2026-10-26",
   "/en/providers/zukunftsagentur-rheinisches-revier-gmbh-elk97": "2026-10-26",
-  "/": "2026-11-07",
-  "/en": "2026-11-07",
+  "/": "2026-11-08",
+  "/en": "2026-11-08",
   "/region/eworld": "2026-10-26",
   "/en/region/eworld": "2026-10-26",
   "/region/nuernberg": "2026-11-07",
@@ -1614,5 +1614,7 @@
   "/region/mittelfranken": "2026-11-07",
   "/en/region/mittelfranken": "2026-11-07",
   "/anbieter/sap-5tebo": "2026-11-07",
-  "/en/providers/sap-5tebo": "2026-11-07"
+  "/en/providers/sap-5tebo": "2026-11-07",
+  "/anbieter/telekom-deutschland-hy9hi": "2026-11-08",
+  "/en/providers/telekom-deutschland-hy9hi": "2026-11-08"
 }
