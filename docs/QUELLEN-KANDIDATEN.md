@@ -1,5 +1,9 @@
 # SmartTech – Quellenkandidaten
 
+## Wittlich: Industrie, Wärme und Digitalisierung, 8. November 2026
+
+Sieben konkrete Quellenbezüge ergänzen den Regionsbericht: Stadt Wittlich zu Industrie und Wärmenetz-Machbarkeit Wengerohr, Kreisverwaltung zur Digitalstrategie, Portazon-FAQ, A-EINS-Kundenreferenz Telekom Deutschland sowie Kommune21 und 5VIER als historische Fach-/Regionalberichte. Kein neuer Quellenmonitor oder Wissensobjekt-Prüfstatus. Quellen und verworfene Verallgemeinerungen in `docs/WITTLICH-REGION-20261108.md`.
+
 ## N-ERGIE: Fachpublikationen und Katalogverbindungen, 7. November 2026
 
 Fünf konkrete Quellen aus EUROHEAT&POWER, ZFK, Energie & Management, netzpraxis und ew wurden für das bestehende N-ERGIE-Profil gesichtet. Fünf Unternehmens-Originalquellen stützen Eigentümer-/Konzernangaben und Projektrollen. Sieben vorhandene Katalogunternehmen sind mit differenzierten Hin- und Rückverweisen verbunden. Fachmedium, Interview, Anbieterautorschaft und übernommene Presseangaben bleiben unterscheidbar; historische Dienstleister werden nicht als aktuelle Partner ausgegeben. Keine pauschale Aktivierung neuer Monitore oder zusätzlichen Wissensobjekt-Validierungen. Fundstellen, verworfene Verallgemeinerungen und Abrufgrenzen: `docs/N-ERGIE-FACHPUBLIKATIONEN-20261107.md`.
