@@ -22,7 +22,7 @@ test("renders public catalog metadata and internal detail links",async()=>{
   assert.match(html.replaceAll("<!-- -->",""),/href="\/portale"[^>]*><strong[^>]*>27<\/strong> Portale<\/a>/);
   assert.doesNotMatch(html,/77 Wissensobjekte sind redaktionell eingeordnet/);
   assert.doesNotMatch(html,/Neu seit dem letzten Update|Neue Unternehmensprofile und Wissensobjekte/);
-  assert.match(html,/Städte, Regionen und eWorld entdecken/);
+  assert.match(html,/Städte, Regionen und Events entdecken/);
   assert.match(html,/href="\/wissen\/[^"]+"/);
 });
 
@@ -180,7 +180,7 @@ test("renders audited industrial and security providers, and redirects source-la
 test("preserves update data and transparent whitepaper access while homepage update cards are paused",async()=>{
   const home=(await (await worker.fetch(new Request("http://localhost/"),env,ctx)).text()).replaceAll("<!-- -->","");
   assert.doesNotMatch(home,/Katalogstand vom|55 neue Unternehmensprofile|453 neue Wissensobjekte/);
-  assert.match(home,/Städte, Regionen und eWorld entdecken/);
+  assert.match(home,/Städte, Regionen und Events entdecken/);
   const weekly=JSON.parse(await readFile(new URL("../app/weekly-update.generated.json",import.meta.url),"utf8"));
   assert.equal(weekly.providers.length,55);
   assert.equal(weekly.assets.length,453);
@@ -268,7 +268,7 @@ test("renders the English catalogue with language alternates and translation dis
   assert.match(html,/aria-label="Switch to the German version"/);
   assert.match(html,/href="\/en\/knowledge\/[^"]+"/);
   assert.doesNotMatch(html,/New since last update|55 new company profiles/);
-  assert.match(html,/Explore cities, regions and eWorld/);
+  assert.match(html,/Explore cities, regions and events/);
   assert.match(html.replaceAll("<!-- -->",""),/href="\/en\/portals"[^>]*><strong[^>]*>27<\/strong> portals<\/a>/);
 });
 

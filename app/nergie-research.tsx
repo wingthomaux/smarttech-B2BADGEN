@@ -71,12 +71,13 @@ export const nergieConnections=[
   {name:"RheinEnergie AG",source:"cls-operation",type:t("Gemeinsamer Projektkontext · CLS ON","Shared project context · CLS ON"),context:t("N-ERGIE und RheinEnergie werden unter den CLS-ON-Projektpartnern genannt. Das ist ein belegter Projektzusammenhang, keine nachgewiesene bilaterale Liefer- oder Beteiligungsbeziehung.","N-ERGIE and RheinEnergie are named among CLS ON project partners. This establishes shared project involvement, not a bilateral supply or ownership relationship.")},
 ];
 const allSources=[...nergieTradePublications,...primarySources];
+export const nergieResearchSources=allSources;
 export function nergiePublicationStats(name:string){return name===company?{count:nergieTradePublications.length,portals:[...new Set(nergieTradePublications.map(s=>s.publisher.split(" · ")[0]))]}:{count:0,portals:[]};}
 
 function SourceLink({source,locale}:{source:Source;locale:Locale}){
   return <a href={source.url} target="_blank" rel="noreferrer" className="text-primary underline underline-offset-4">{source.title[locale]} ↗</a>;
 }
-function SourceCard({source,locale}:{source:Source;locale:Locale}){
+export function SourceCard({source,locale}:{source:Source;locale:Locale}){
   return <article id={`nergie-source-${source.id}`} className="space-y-2 border-t py-4 text-sm leading-6"><p className="text-xs text-muted-foreground">{source.publisher} · {source.date?<time dateTime={source.date}>{source.date}</time>:source.period||t("Veröffentlichungsdatum nicht ausgewiesen","Publication date not stated")[locale]}</p><h3 className="font-semibold"><SourceLink source={source} locale={locale}/></h3><p className="text-xs font-medium text-muted-foreground">{source.kind[locale]}</p><p>{source.fact[locale]}</p><p className="text-muted-foreground"><strong>{t("Einordnung: ","Assessment: ")[locale]}</strong>{source.limit[locale]}</p></article>;
 }
 
@@ -85,7 +86,7 @@ export function NergieResearch({name,locale,pagePath}:{name:string;locale:Locale
   if(name!==company){
     const connection=nergieConnections.find(c=>c.name===name);if(!connection)return null;
     const source=allSources.find(s=>s.id===connection.source)!;
-    return <section id="nergie-cross-reference" className="mt-8 border-l-2 border-primary bg-primary/5 p-5 text-sm leading-6"><h2 className="font-semibold">{t("Belegter Bezug zu N-ERGIE","Documented N-ERGIE connection")[locale]}</h2><p className="mt-2 font-medium">{connection.type[locale]}</p><p>{connection.context[locale]}</p><p className="mt-2"><Link className="text-primary underline" href={`${path(company)}#nergie-connections`}>{t("N-ERGIE: Projektbezüge und Quellen","N-ERGIE: project connections and sources")[locale]}</Link></p><SourceLink source={source} locale={locale}/></section>;
+    return <section id="nergie-cross-reference" className="mt-8 border-l-2 border-primary bg-primary/5 p-5 text-sm leading-6"><h2 className="font-semibold">{t("Belegter Bezug zu N-ERGIE","Documented N-ERGIE connection")[locale]}</h2><p className="mt-2 font-medium">{connection.type[locale]}</p><p>{connection.context[locale]}</p><p className="mt-2"><Link className="text-primary underline" href={`${path(company)}#nergie-connections`}>{t("N-ERGIE: Projektbezüge und Quellen","N-ERGIE: project connections and sources")[locale]}</Link></p><SourceLink source={source} locale={locale}/><nav aria-label={t("Regionale Einordnung dieses Projektbezugs","Regional assessment of this project connection")[locale]} className="mt-3 flex flex-wrap gap-4 text-primary underline"><Link href={`${en?"/en":""}/region/nuernberg#regional-connections`}>{t("Einordnung Nürnberg","Nuremberg context")[locale]}</Link><Link href={`${en?"/en":""}/region/mittelfranken#regional-connections`}>{t("Einordnung Mittelfranken","Middle Franconia context")[locale]}</Link></nav></section>;
   }
   const jsonLd={"@context":"https://schema.org","@type":"CreativeWork","@id":absoluteUrl(pagePath)+"#nergie-research",name:t("N-ERGIE: Fachpublikationen und Projektbezüge","N-ERGIE: trade publications and project connections")[locale],inLanguage:locale,dateModified:"2026-11-07",about:{"@id":absoluteUrl(pagePath)},citation:allSources.map(s=>({"@type":"CreativeWork",name:s.title[locale],url:s.url,...(s.date?{datePublished:s.date}:{}),publisher:{"@type":"Organization",name:s.publisher}}))};
   return <section id="nergie-research" className="mt-9 space-y-7 border-t pt-7">

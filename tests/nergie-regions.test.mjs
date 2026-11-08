@@ -14,7 +14,7 @@ test("N-ERGIE provider, regional contexts, E-world search and sitemap form a bil
       const path=prefix+"/region/"+slug,response=await page(path);assert.equal(response.status,200);const html=await response.text();
       assert.ok(home.includes(`href="${path}"`));assert.ok(profile.includes(`href="${path}"`));assert.ok(html.includes(`href="${provider}"`));
       assert.ok(html.includes(`<html lang="${en?"en":"de"}"`));assert.ok(html.includes(`rel="canonical" href="${origin+path}"`));
-      assert.ok(xml.includes(`${origin+path}</loc><lastmod>2026-11-07</lastmod>`));
+      assert.ok(xml.includes(`${origin+path}</loc><lastmod>2026-11-08</lastmod>`));
       assert.ok(html.includes("N-ERGIE Netz GmbH"));assert.ok(html.includes("LoRaWAN"));assert.ok(html.includes("mioty"));
       assert.ok(html.includes(en?"not been independently rechecked live":"nicht zusätzlich live nachgeprüft"));
       assert.ok(html.includes(en?"not a guarantee of connection or capacity":"keine Anschluss- oder Kapazitätszusage"));
