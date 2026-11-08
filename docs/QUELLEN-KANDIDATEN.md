@@ -1,5 +1,9 @@
 # SmartTech – Quellenkandidaten
 
+## Essen und Metropole Ruhr, 8. November 2026
+
+Fünf gezielt geprüfte Originalseiten (RVR, Stadt Essen, Business Metropole Ruhr, Messe Essen) stützen neue Stadt-/Regionsberichte und drei Katalogrückverweise. Keine pauschale Monitoraktivierung. Belege und Grenzen: `docs/ESSEN-RUHR-20261108.md`.
+
 ## Wittlich: Industrie, Wärme und Digitalisierung, 8. November 2026
 
 Sieben konkrete Quellenbezüge ergänzen den Regionsbericht: Stadt Wittlich zu Industrie und Wärmenetz-Machbarkeit Wengerohr, Kreisverwaltung zur Digitalstrategie, Portazon-FAQ, A-EINS-Kundenreferenz Telekom Deutschland sowie Kommune21 und 5VIER als historische Fach-/Regionalberichte. Kein neuer Quellenmonitor oder Wissensobjekt-Prüfstatus. Quellen und verworfene Verallgemeinerungen in `docs/WITTLICH-REGION-20261108.md`.
