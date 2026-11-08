@@ -1,5 +1,9 @@
 # SmartTech – Quellenkandidaten
 
+## Essen / Ruhr: differenzierte Berichte und Anbieterübersichten, 8. November 2026
+
+Sieben weitere gezielt geprüfte Originalseiten ergänzen lokale Sensorik, Unternehmensstandorte sowie städteübergreifende Wasserstoff-, Wasser- und Datenbezüge. Quellenkritik und Zuordnungen: `docs/ESSEN-RUHR-VERTIEFUNG-20261108.md`. Keine Monitoraktivierung oder zusätzlichen Wissensobjekt-Validierungen.
+
 ## Essen und Metropole Ruhr, 8. November 2026
 
 Fünf gezielt geprüfte Originalseiten (RVR, Stadt Essen, Business Metropole Ruhr, Messe Essen) stützen neue Stadt-/Regionsberichte und drei Katalogrückverweise. Keine pauschale Monitoraktivierung. Belege und Grenzen: `docs/ESSEN-RUHR-20261108.md`.
