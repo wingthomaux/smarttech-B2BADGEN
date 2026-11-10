@@ -1,5 +1,9 @@
 # SmartTech – Quellenkandidaten
 
+## Personenfreier Funktionskatalog, 10. November 2026
+
+Neuer redaktioneller Aufgaben-/Branchenzugang mit zehn generischen Funktionen im Energie-Kontext. Zwei gezielt gesichtete öffentliche Anbieterquellen dienen der thematischen Einordnung, keine Personen- oder Stellenstruktur. Keine neuen Monitore, Anbieter oder Validierungen. Details und Erweiterungsregeln: `docs/FUNKTIONSKATALOG-ENERGIE-20261110.md`.
+
 ## N-ERGIE: Nachrichtenprüfung, 10. November 2026
 
 Gezielte Originalseiten stützen fünf neue Dossiereinträge mit Projekt-, Preis- und Regulierungsbezug. Geothermie-Terminänderung (12. statt älterer 9.-November-Ankündigung) sichtbar; Preisblätter vorläufig und AgNes als älterer Entwurfshintergrund gekennzeichnet. Keine Monitoraktivierung, Zähleränderung oder automatische Veröffentlichung. Details: `docs/N-ERGIE-NACHRICHTEN-20261110.md`.

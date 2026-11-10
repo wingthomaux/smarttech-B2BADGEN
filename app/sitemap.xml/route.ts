@@ -1,3 +1,4 @@
+import {functionProfiles,functionPath,functionsPath,industriesPath,industryPath} from "@/app/function-catalog";
 import {portalProfiles,portalPath} from "@/app/portal-directory";
 import {catalog} from "@/app/catalog";
 import {absoluteUrl,englishKnowledgePath,englishProviderPath,knowledgePath,providerPath} from "@/app/catalog-paths";
@@ -8,6 +9,7 @@ function entry(url:string,changeFrequency:string,priority:string){const path=new
 
 export function GET(){
   const urls=[
+    ...(["de","en"] as const).flatMap(locale=>[functionsPath(locale),industriesPath(locale),industryPath(locale),...functionProfiles.map(item=>functionPath(item.slug,locale))]).map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     ...["essen","metropole-ruhr","wittlich","muenchen-stadt","muenchen-landkreis","eworld","nuernberg","mittelfranken"].flatMap(slug=>["/region/"+slug,"/en/region/"+slug]).map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     ...["/portale","/en/portals",...portalProfiles.flatMap(portal=>[portalPath(portal.name),portalPath(portal.name,"en")])].map(path=>entry(absoluteUrl(path),"weekly","0.6")),
     entry(absoluteUrl("/"),"daily","1.0"),
