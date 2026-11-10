@@ -1,5 +1,9 @@
 # SmartTech – Quellenkandidaten
 
+## N-ERGIE: Nachrichtenprüfung, 10. November 2026
+
+Gezielte Originalseiten stützen fünf neue Dossiereinträge mit Projekt-, Preis- und Regulierungsbezug. Geothermie-Terminänderung (12. statt älterer 9.-November-Ankündigung) sichtbar; Preisblätter vorläufig und AgNes als älterer Entwurfshintergrund gekennzeichnet. Keine Monitoraktivierung, Zähleränderung oder automatische Veröffentlichung. Details: `docs/N-ERGIE-NACHRICHTEN-20261110.md`.
+
 ## Essen / Ruhr: differenzierte Berichte und Anbieterübersichten, 8. November 2026
 
 Sieben weitere gezielt geprüfte Originalseiten ergänzen lokale Sensorik, Unternehmensstandorte sowie städteübergreifende Wasserstoff-, Wasser- und Datenbezüge. Quellenkritik und Zuordnungen: `docs/ESSEN-RUHR-VERTIEFUNG-20261108.md`. Keine Monitoraktivierung oder zusätzlichen Wissensobjekt-Validierungen.
