@@ -34,7 +34,7 @@ test("individual exhibition company profiles render their official sources in bo
       assert.ok(html.includes(locale==="de"?"Redaktionelle Auswahlfragen":"Editorial selection questions"));
       assert.ok(!html.includes(locale==="de"?"Kurzprofil · Quellenauszug":"Short profile · source excerpt"));
       for(const source of profile.officialSources)assert.ok(html.includes(source.url));
-      assert.ok(xml.includes(`${origin}${path}</loc><lastmod>${name==="Stadtwerke Essen AG"?"2026-11-08":profile.languageNote.de.match(/Quellenprüfung: (\d{2})\.(\d{2})\.(\d{4})/).slice(1).reverse().join("-")}</lastmod>`));
+      assert.ok(xml.includes(`${origin}${path}</loc><lastmod>${name==="N-ERGIE Aktiengesellschaft"?"2026-11-10":name==="Stadtwerke Essen AG"?"2026-11-08":profile.languageNote.de.match(/Quellenprüfung: (\d{2})\.(\d{2})\.(\d{4})/).slice(1).reverse().join("-")}</lastmod>`));
     }
   }
 });
