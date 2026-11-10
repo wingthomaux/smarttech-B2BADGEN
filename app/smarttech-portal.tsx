@@ -1,5 +1,6 @@
 "use client";
 
+import {HomepageFunctions} from "./homepage-functions";
 import {HomepageRegions} from "./homepage-regions";
 
 import {hasPendingProviderAudit,searchCatalog,englishText,machineTranslated} from "./portal-client-data";
@@ -242,6 +243,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
     </section>
 
     <HomepageRegions locale={locale} publicPrefix={publicPrefix}/>
+    <HomepageFunctions locale={locale} publicPrefix={publicPrefix}/>
 
     {isEn&&<section className="border-b bg-primary/5"><div className="mx-auto max-w-[1440px] px-5 py-4 text-sm leading-6 text-muted-foreground lg:px-10"><strong className="text-foreground">Translation notice:</strong> German catalogue text is translated automatically. Content that is already published in English retains its original title. The directly linked original source remains authoritative.</div></section>}
 
@@ -311,6 +313,7 @@ export default function SmartTechPortal({locale="de",taxonomyQuery={}}:{locale?:
         </TabsContent>
 
         <TabsContent value="loesungen" className="mt-8">
+          <Link href={publicPrefix+(isEn?"/en/industries/energy":"/branchen/energie")} className="mb-6 block border-l-2 border-primary bg-primary/5 p-4 text-sm font-semibold text-primary underline">{isEn?"Energy: connect functions and solutions":"Energie: Funktionen und Lösungen verbinden"} →</Link>
           <SectionIntro kicker={isEn?"Purchasable solutions":"Kaufbare Lösungen"} title={isEn?"What can be deployed?":"Was kann konkret eingesetzt werden?"} text={isEn?"A solution must be purchasable, licensable, integrable or self-hostable. Cloud is a delivery method, not a solution category.":"Eine Lösung muss kaufbar, lizenzierbar, integrierbar oder selbst betreibbar sein. Cloud ist dabei ein Lieferweg, keine Lösungskategorie."}/>
           <div className="mt-7 border">
             <div className="border-b bg-muted/60 px-5 py-3 text-sm font-medium">{isEn?"Editorial entry points into the current inventory":"Redaktionelle Einstiege in den aktuellen Bestand"}</div>
