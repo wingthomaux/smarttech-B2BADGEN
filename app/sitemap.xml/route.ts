@@ -4,6 +4,7 @@ import {catalog} from "@/app/catalog";
 import {absoluteUrl,englishKnowledgePath,englishProviderPath,knowledgePath,providerPath} from "@/app/catalog-paths";
 import pageModified from "../page-modified.json";
 import {englishText} from "@/app/english";
+import {engineeringContextPaths} from "@/app/engineering-agent-context";
 
 function entry(url:string,changeFrequency:string,priority:string){const path=new URL(url).pathname;const modified=(pageModified as Record<string,string>)[path];return `<url><loc>${url}</loc>${modified?`<lastmod>${modified}</lastmod>`:""}<changefreq>${changeFrequency}</changefreq><priority>${priority}</priority></url>`}
 
@@ -12,6 +13,7 @@ export function GET(){
     ...(["de","en"] as const).flatMap(locale=>[functionsPath(locale),industriesPath(locale),industryPath(locale),...functionProfiles.map(item=>functionPath(item.slug,locale))]).map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     ...["essen","metropole-ruhr","wittlich","muenchen-stadt","muenchen-landkreis","eworld","nuernberg","mittelfranken"].flatMap(slug=>["/region/"+slug,"/en/region/"+slug]).map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     ...["/portale","/en/portals",...portalProfiles.flatMap(portal=>[portalPath(portal.name),portalPath(portal.name,"en")])].map(path=>entry(absoluteUrl(path),"weekly","0.6")),
+    ...Object.values(engineeringContextPaths).map(path=>entry(absoluteUrl(path),"monthly","0.6")),
     entry(absoluteUrl("/"),"daily","1.0"),
     entry(absoluteUrl("/en"),"daily","0.9"),
     ...["/impressum","/datenschutz","/en/imprint","/en/privacy"].map(path=>entry(absoluteUrl(path),"yearly","0.3")),
