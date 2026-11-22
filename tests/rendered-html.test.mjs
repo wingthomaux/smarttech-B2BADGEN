@@ -30,6 +30,7 @@ test("renders newly profiled providers in both languages with their own source",
   const sitemap=await worker.fetch(new Request("http://localhost/sitemap.xml"),env,ctx);
   const xml=await sitemap.text();
   for(const [slug,domain,german,english] of [
+    ["asmpt-smt-solutions","smt.asmpt.com","DEK-Schablonendrucker","DEK stencil printers"],
     ["cloudflare","cloudflare.com","WAF, DDoS-Abwehr und API-Schutz","WAF, DDoS defence and API protection"],
     ["genetec","genetec.com","Videomanagement, Zutrittskontrolle","video management, access control"],
     ["kgs-software","kgs-software.com","ArchiveLink oder CMIS","ArchiveLink or CMIS"],

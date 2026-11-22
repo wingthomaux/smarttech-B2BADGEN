@@ -13,6 +13,9 @@ export type ProviderProfile={
   officialSources?:Array<{url:string;label:{de:string;en:string}}>;
 };
 
+// Standalone profiles added after the frozen weekly comparison.
+export const laterProfileOnlyProviders=new Set(["ASMPT SMT Solutions"]);
+
 const providerProfiles:Record<string,ProviderProfile>={
   "ASMPT SMT Solutions":{
     officialUrl:"https://smt.asmpt.com/en/company/smt-solutions/",
