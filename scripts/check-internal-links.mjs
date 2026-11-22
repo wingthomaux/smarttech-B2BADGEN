@@ -24,7 +24,7 @@ try{
   ]);
   const {portalProfiles,portalArticles,portalPath,getPortal,editorialEntriesForPortal,editorialEntriesForProvider}=await vite.ssrLoadModule("/app/portal-directory.ts");
   const {euaigfCompanies,euaigfSourcesFor,euaigfUrl}=await vite.ssrLoadModule("/app/euaigf-source.ts");
-  const {providerProfileFor}=await vite.ssrLoadModule("/app/provider-profiles.ts");
+  const {providerProfileFor,laterProfileOnlyProviders}=await vite.ssrLoadModule("/app/provider-profiles.ts");
   const {providerFamily}=await vite.ssrLoadModule("/app/provider-normalization.ts");
   const {getProvider}=await vite.ssrLoadModule("/app/catalog.ts");
   const {providerProfilesEighth}=await vite.ssrLoadModule("/app/provider-profiles-eighth.ts");
@@ -131,7 +131,8 @@ try{
   if(weekly.assets.length!==catalog.knowledge.filter(item=>!baselineIds.has(item.id)).length||weekly.assets.some(item=>baselineIds.has(item.id)))throw new Error("Weekly assets do not match the published baseline");
   const eventEntries=JSON.parse(await readFile(new URL("../app/eworld-2027.generated.json",import.meta.url),"utf8"));
   const eventOnlyNames=new Set(eventEntries.filter(entry=>!entry.existing).map(entry=>entry.provider).filter(name=>catalog.companies.some(company=>company.name===name&&!company.items.length&&!company.knowledge.length)));
-  if(weekly.providers.length!==catalog.companies.filter(item=>!baselineNames.has(item.name)&&!eventOnlyNames.has(item.name)).length||weekly.providers.some(item=>baselineNames.has(item.name)))throw new Error("Weekly profiles do not match the published baseline");
+  const expectedWeeklyNames=new Set(catalog.companies.map(item=>item.name).filter(name=>!baselineNames.has(name)&&!eventOnlyNames.has(name)&&!laterProfileOnlyProviders.has(name)));
+  if(weekly.providers.length!==expectedWeeklyNames.size||weekly.providers.some(item=>!expectedWeeklyNames.has(item.name)))throw new Error("Weekly profiles do not match the published baseline");
   const removedProviderNames=["Zu prüfen","Buchautor","Firma","Jetzt herunterladen","Dieses nachträgliche Auswerten von Ereignissen","Stadtrat","Aura Escort Frankfurt","Emanuell Charis","Chogan-Vertriebspartner","iG casino.de","Taiwan Flagship showcase","Washington, DC"];
   if(removedProviderNames.some(name=>catalog.companies.some(item=>item.name===name)))throw new Error("Excluded low-quality provider returned to the active catalogue");
   for(const [oldName,canonical] of [["MongoDB Logo","MongoDB"],["Infor Logo","Infor"],["DigiKey/Machine Design","DigiKey"],["BANI Hausverwaltung und Immobilien","BANI Hausverwaltung & Immobilien"],["Trooper.AI c/o Media Trooper","Trooper.AI – Ein Produkt von: Media Trooper"]]){

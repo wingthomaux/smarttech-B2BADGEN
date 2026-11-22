@@ -30,6 +30,7 @@ test("renders newly profiled providers in both languages with their own source",
   const sitemap=await worker.fetch(new Request("http://localhost/sitemap.xml"),env,ctx);
   const xml=await sitemap.text();
   for(const [slug,domain,german,english] of [
+    ["asmpt-smt-solutions","smt.asmpt.com","DEK-Schablonendrucker","DEK stencil printers"],
     ["cloudflare","cloudflare.com","WAF, DDoS-Abwehr und API-Schutz","WAF, DDoS defence and API protection"],
     ["genetec","genetec.com","Videomanagement, Zutrittskontrolle","video management, access control"],
     ["kgs-software","kgs-software.com","ArchiveLink oder CMIS","ArchiveLink or CMIS"],
@@ -813,7 +814,7 @@ test("renders next five provider families with sourced role-specific relationshi
   const catalog=JSON.parse(await readFile(new URL("../app/catalog.generated.json",import.meta.url),"utf8"));
   const profiles=JSON.parse(await readFile(new URL("../app/provider-profiles-next-five-network-20261012.json",import.meta.url),"utf8"));
   const patches=JSON.parse(await readFile(new URL("../app/knowledge-enrichment-next-five-network-20261012.json",import.meta.url),"utf8"));
-  assert.equal(catalog.knowledge.length,5139);assert.equal(catalog.companies.length,2130);
+  assert.equal(catalog.knowledge.length,5139);assert.equal(catalog.companies.length,2131);
   assert.equal(patches.flatMap(p=>p.providerRelations||[]).length,22);
   for(const [name,profile] of Object.entries(profiles))for(const [locale,path] of [["de",providerPath(name)],["en",englishProviderPath(name)]]){
     const response=await worker.fetch(new Request(`http://localhost${path}`,{headers:{accept:"text/html"}}),env,ctx);
