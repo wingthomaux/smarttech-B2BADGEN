@@ -14,6 +14,31 @@ export type ProviderProfile={
 };
 
 const providerProfiles:Record<string,ProviderProfile>={
+  "ASMPT SMT Solutions":{
+    officialUrl:"https://smt.asmpt.com/en/company/smt-solutions/",
+    officialLabel:{de:"ASMPT SMT Solutions · Herstellerprofil",en:"ASMPT SMT Solutions · manufacturer profile"},
+    aliases:["ASMPT SMT"],
+    metaDescription:{
+      de:"ASMPT SMT Solutions für die Elektronikfertigung: SIPLACE-Bestückung, DEK-Schablonendruck, Inspektion und WORKS-Produktionssoftware.",
+      en:"ASMPT SMT Solutions for electronics manufacturing: SIPLACE placement, DEK stencil printing, inspection and WORKS production software.",
+    },
+    summary:{
+      de:"ASMPT SMT Solutions ist der Geschäftsbereich von ASMPT für die Oberflächenmontage in der Elektronikfertigung. Zum Maschinenportfolio zählen SIPLACE-Systeme zur Bauteilbestückung, DEK-Schablonendrucker für den Lotpastenauftrag und Inspektionslösungen. Die separate WORKS-Software unterstützt laut Hersteller die Planung, Offline-Programmierung, Materiallogistik und Rüstvorbereitung sowie den Betrieb, die Überwachung und die Prozessoptimierung. Integrationsfunktionen verbinden Maschinen und Anwendungen mit der Fertigungs- und Unternehmens-IT. Bei der Auswahl sind vorhandene Linien und Fremdmaschinen, der Umfang des ERP- und MES-Datenaustauschs sowie die benötigte Rückverfolgbarkeit pro Bauteil oder Auftrag zu klären. Die aufgeführten Fachrollen sind Zielgruppen der WORKS-Software.",
+      en:"ASMPT SMT Solutions is ASMPT’s business segment for surface-mount technology in electronics manufacturing. Its equipment portfolio includes SIPLACE placement systems, DEK stencil printers for solder paste application and inspection solutions. According to ASMPT, the separate WORKS software suite supports planning, offline programming, material logistics, setup preparation, operations, monitoring and process optimisation. Integration capabilities connect equipment and applications with manufacturing and enterprise IT. Buyers should check existing lines and third-party equipment, the scope of ERP and MES data exchange, and traceability requirements for components or orders. The roles listed are the intended audiences for WORKS.",
+    },
+    focus:{
+      de:["SIPLACE-Bestücksysteme","DEK-Schablonendruck für Lotpaste","Inspektion in SMT-Linien","WORKS für Planung, Programmierung und Materialfluss","WORKS für Rüstung, Betrieb und Prozessüberwachung","Datenaustausch mit MES und ERP"],
+      en:["SIPLACE placement systems","DEK stencil printing for solder paste","SMT line inspection","WORKS for planning, programming and material flow","WORKS for setup, operations and process monitoring","Data exchange with MES and ERP"],
+    },
+    buyerGroups:{
+      de:["Produktionsleitung","Fertigungsaufsicht","Produktionsplanung","Prozessengineering","Materiallogistik","IT-Betrieb"],
+      en:["Production management","Production supervision","Production planning","Process engineering","Material logistics","IT operations"],
+    },
+    officialSources:[{
+      url:"https://smt.asmpt.com/en/products/software-solutions/works/",
+      label:{de:"ASMPT WORKS · Funktionen und Zielrollen",en:"ASMPT WORKS · workflows and target roles"},
+    }],
+  },
   "LEW TelNet":{
   "officialUrl": "https://www.lew.de/fuer-unternehmen/it-dienstleistungen",
   "officialLabel": {

@@ -91,6 +91,9 @@ try{
   const eworld=JSON.parse(await readFile(path.join(root,"app/eworld-2027.generated.json"),"utf8"));
   const eventOnlyProviders=new Set(eworld.filter(entry=>!companyMap.has(entry.provider)).map(entry=>entry.provider));
   for(const entry of eworld){const provider=ensure(entry.provider);provider.variants.add(entry.name);}
+  // Profile-only additions after the historical weekly comparison.
+  const laterProfileOnlyProviders=new Set(["ASMPT SMT Solutions"]);
+  for(const name of laterProfileOnlyProviders)ensure(name).variants.add(name);
   const {providerProfileFor}=await vite.ssrLoadModule("/app/provider-profiles.ts");
   for(const entry of companyMap.values())for(const alias of providerProfileFor(entry.name)?.aliases||[])entry.variants.add(alias);
   const companies=[...companyMap.values()].map(entry=>({...entry,variants:[...entry.variants].sort(),portals:[...entry.portals].sort()})).sort((a,b)=>b.items.length-a.items.length||b.knowledge.length-a.knowledge.length||a.name.localeCompare(b.name,"de"));
@@ -104,7 +107,7 @@ try{
   const weeklyUpdate={
     currentThrough:baseline.currentThrough,
     previousThrough:baseline.previousThrough,
-    providers:companies.filter(entry=>!previousProviders.has(entry.name)&&!eventOnlyProviders.has(entry.name)).map(entry=>{
+    providers:companies.filter(entry=>!previousProviders.has(entry.name)&&!eventOnlyProviders.has(entry.name)&&!laterProfileOnlyProviders.has(entry.name)).map(entry=>{
       const capturedAssets=newAssets.filter(item=>[item.provider,...item.additionalProviders||[]].map(providerFamily).includes(entry.name));
       // First documented catalogue capture, not the date of an old source publication.
       const date=capturedAssets.map(item=>item.addedAt||"").filter(Boolean).sort()[0]||"";
